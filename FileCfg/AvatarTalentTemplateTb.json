@@ -3011,6 +3011,238 @@
           "Number": 1
         }
       ]
+    },
+    {
+      "ID": 1311001,
+      "AvatarID": 1311,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Astra_Talent_01_Title",
+      "TalentDescRealign": "Astra_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Astra_Talent_01_Desc_02",
+      "TalentDesc": "Astra_Talent_01_Desc_01",
+      "TalentNameRealign": "Astra_Talent_01_Title_Realign",
+      "TalentAbilities": [
+        13111101
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5311,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1311002,
+      "AvatarID": 1311,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Astra_Talent_02_Title",
+      "TalentDescRealign": "Astra_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Astra_Talent_02_Desc_02",
+      "TalentDesc": "Astra_Talent_02_Desc_01",
+      "TalentNameRealign": "Astra_Talent_02_Title_Realign",
+      "TalentAbilities": [
+        13111102
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5311,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1311003,
+      "AvatarID": 1311,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Astra_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Astra_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Astra_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
+        {
+          "ItemID": 5311,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1311004,
+      "AvatarID": 1311,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Astra_Talent_04_Title",
+      "TalentDescRealign": "Astra_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Astra_Talent_04_Desc_02",
+      "TalentDesc": "Astra_Talent_04_Desc_01",
+      "TalentNameRealign": "Astra_Talent_04_Title_Realign",
+      "TalentAbilities": [
+        13111103
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5311,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1311005,
+      "AvatarID": 1311,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Astra_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Astra_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Astra_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
+        {
+          "ItemID": 5311,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1311006,
+      "AvatarID": 1311,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Astra_Talent_06_Title",
+      "TalentDescRealign": "Astra_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Astra_Talent_06_Desc_02",
+      "TalentDesc": "Astra_Talent_06_Desc_01",
+      "TalentNameRealign": "Astra_Talent_06_Title_Realign",
+      "TalentAbilities": [
+        13111104
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5311,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1321001,
+      "AvatarID": 1321,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Evelyn_Talent_01_Title",
+      "TalentDescRealign": "Evelyn_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Evelyn_Talent_01_Desc_02",
+      "TalentDesc": "Evelyn_Talent_01_Desc_01",
+      "TalentNameRealign": "Evelyn_Talent_01_Title_Realign",
+      "TalentAbilities": [
+        13211101
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5321,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1321002,
+      "AvatarID": 1321,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Evelyn_Talent_02_Title",
+      "TalentDescRealign": "Evelyn_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Evelyn_Talent_02_Desc_02",
+      "TalentDesc": "Evelyn_Talent_02_Desc_01",
+      "TalentNameRealign": "Evelyn_Talent_02_Title_Realign",
+      "TalentAbilities": [
+        13211102
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5321,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1321003,
+      "AvatarID": 1321,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Evelyn_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Evelyn_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Evelyn_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
+        {
+          "ItemID": 5321,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1321004,
+      "AvatarID": 1321,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Evelyn_Talent_04_Title",
+      "TalentDescRealign": "Evelyn_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Evelyn_Talent_04_Desc_02",
+      "TalentDesc": "Evelyn_Talent_04_Desc_01",
+      "TalentNameRealign": "Evelyn_Talent_04_Title_Realign",
+      "TalentAbilities": [
+        13211103
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5321,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1321005,
+      "AvatarID": 1321,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Evelyn_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Evelyn_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Evelyn_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
+        {
+          "ItemID": 5321,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1321006,
+      "AvatarID": 1321,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Evelyn_Talent_06_Title",
+      "TalentDescRealign": "Evelyn_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Evelyn_Talent_06_Desc_02",
+      "TalentDesc": "Evelyn_Talent_06_Desc_01",
+      "TalentNameRealign": "Evelyn_Talent_06_Title_Realign",
+      "TalentAbilities": [
+        13211104
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5321,
+          "Number": 1
+        }
+      ]
     }
   ]
 }

@@ -5511,6 +5511,430 @@
           "Number": 4
         }
       ]
+    },
+    {
+      "ID": 1311001,
+      "AvatarID": 1311,
+      "SkillUnlock": 15,
+      "SkillLevel": 1,
+      "__unk_Q11985137": 2,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 12
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 0
+        }
+      ],
+      "PassiveName": [
+        "Astra_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Astra_UniqueSkill_02_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 5000
+        }
+      ]
+    },
+    {
+      "ID": 1311002,
+      "AvatarID": 1311,
+      "SkillUnlock": 25,
+      "SkillLevel": 2,
+      "__unk_Q11985137": 3,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 12
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "PassiveName": [
+        "Astra_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Astra_UniqueSkill_03_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 12000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1311003,
+      "AvatarID": 1311,
+      "SkillUnlock": 35,
+      "SkillLevel": 3,
+      "__unk_Q11985137": 4,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 24
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "PassiveName": [
+        "Astra_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Astra_UniqueSkill_04_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 28000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 4
+        }
+      ]
+    },
+    {
+      "ID": 1311004,
+      "AvatarID": 1311,
+      "SkillUnlock": 45,
+      "SkillLevel": 4,
+      "__unk_Q11985137": 5,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 24
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "PassiveName": [
+        "Astra_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Astra_UniqueSkill_05_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 60000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 9
+        },
+        {
+          "ItemID": 110003,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1311005,
+      "AvatarID": 1311,
+      "SkillUnlock": 55,
+      "SkillLevel": 5,
+      "__unk_Q11985137": 6,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 36
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "PassiveName": [
+        "Astra_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Astra_UniqueSkill_06_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 100000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 15
+        },
+        {
+          "ItemID": 110003,
+          "Number": 3
+        }
+      ]
+    },
+    {
+      "ID": 1311006,
+      "AvatarID": 1311,
+      "SkillUnlock": 60,
+      "SkillLevel": 6,
+      "__unk_Q11985137": 7,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 36
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 75
+        }
+      ],
+      "PassiveName": [
+        "Astra_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Astra_UniqueSkill_07_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 200000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 30
+        },
+        {
+          "ItemID": 110003,
+          "Number": 4
+        }
+      ]
+    },
+    {
+      "ID": 1321001,
+      "AvatarID": 1321,
+      "SkillUnlock": 15,
+      "SkillLevel": 1,
+      "__unk_Q11985137": 2,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 20101,
+          "Number": 480
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 0
+        }
+      ],
+      "PassiveName": [
+        "Evelyn_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Evelyn_UniqueSkill_02_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 5000
+        }
+      ]
+    },
+    {
+      "ID": 1321002,
+      "AvatarID": 1321,
+      "SkillUnlock": 25,
+      "SkillLevel": 2,
+      "__unk_Q11985137": 3,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 20101,
+          "Number": 480
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "PassiveName": [
+        "Evelyn_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Evelyn_UniqueSkill_03_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 12000
+        },
+        {
+          "ItemID": 110504,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1321003,
+      "AvatarID": 1321,
+      "SkillUnlock": 35,
+      "SkillLevel": 3,
+      "__unk_Q11985137": 4,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 20101,
+          "Number": 960
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "PassiveName": [
+        "Evelyn_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Evelyn_UniqueSkill_04_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 28000
+        },
+        {
+          "ItemID": 110504,
+          "Number": 4
+        }
+      ]
+    },
+    {
+      "ID": 1321004,
+      "AvatarID": 1321,
+      "SkillUnlock": 45,
+      "SkillLevel": 4,
+      "__unk_Q11985137": 5,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 20101,
+          "Number": 960
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "PassiveName": [
+        "Evelyn_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Evelyn_UniqueSkill_05_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 60000
+        },
+        {
+          "ItemID": 110504,
+          "Number": 9
+        },
+        {
+          "ItemID": 110004,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1321005,
+      "AvatarID": 1321,
+      "SkillUnlock": 55,
+      "SkillLevel": 5,
+      "__unk_Q11985137": 6,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 20101,
+          "Number": 1440
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "PassiveName": [
+        "Evelyn_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Evelyn_UniqueSkill_06_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 100000
+        },
+        {
+          "ItemID": 110504,
+          "Number": 15
+        },
+        {
+          "ItemID": 110004,
+          "Number": 3
+        }
+      ]
+    },
+    {
+      "ID": 1321006,
+      "AvatarID": 1321,
+      "SkillUnlock": 60,
+      "SkillLevel": 6,
+      "__unk_Q11985137": 7,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 20101,
+          "Number": 1440
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 75
+        }
+      ],
+      "PassiveName": [
+        "Evelyn_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Evelyn_UniqueSkill_07_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 200000
+        },
+        {
+          "ItemID": 110504,
+          "Number": 30
+        },
+        {
+          "ItemID": 110004,
+          "Number": 4
+        }
+      ]
     }
   ]
 }

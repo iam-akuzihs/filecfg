@@ -7,21 +7,9 @@
       "FullName": "Avatar_Female_Size02_Anbi_FullName",
       "AudioEventReplaceParam": "anbi",
       "AudioBank": "BK_Anbi|BK_CHR_Common|BK_Anbi_VO",
-      "__unk_Q291526241": 2,
       "Gender": 2,
       "Camp": 1,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        203
-      ],
-      "__unk_Q3753556530": [
-        "1:1:2",
-        "2:203:2"
-      ],
-      "__unk_Q2126703133": "Anbi",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Anbi"
     },
     {
       "ID": 1021,
@@ -30,21 +18,9 @@
       "FullName": "Avatar_Female_Size01_Tsubaki_FullName",
       "AudioEventReplaceParam": "tsubaki",
       "AudioBank": "BK_Tsubaki|BK_CHR_Common|BK_Tsubaki_VO",
-      "__unk_Q291526241": 1,
       "Gender": 2,
       "Camp": 1,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        200
-      ],
-      "__unk_Q3753556530": [
-        "1:1:2",
-        "2:200:2"
-      ],
-      "__unk_Q2126703133": "Tsubaki",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Tsubaki"
     },
     {
       "ID": 1031,
@@ -53,21 +29,9 @@
       "FullName": "Avatar_Female_Size02_Nostradamus_FullName",
       "AudioEventReplaceParam": "nicole",
       "AudioBank": "BK_Nicole|BK_CHR_Common|BK_Nicole_VO",
-      "__unk_Q291526241": 4,
       "Gender": 2,
       "Camp": 1,
-      "HitTypes": [
-        102
-      ],
-      "ElementTypes": [
-        205
-      ],
-      "__unk_Q3753556530": [
-        "1:1:2",
-        "2:205:2"
-      ],
-      "__unk_Q2126703133": "Nicole",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Nicole"
     },
     {
       "ID": 1041,
@@ -76,21 +40,9 @@
       "FullName": "Avatar_Female_Size02_Longinus_FullName",
       "AudioEventReplaceParam": "longinus",
       "AudioBank": "BK_Longinus|BK_CHR_Common|BK_Longinus_VO",
-      "__unk_Q291526241": 1,
       "Gender": 2,
       "Camp": 5,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        201
-      ],
-      "__unk_Q3753556530": [
-        "1:5:2",
-        "2:201:2"
-      ],
-      "__unk_Q2126703133": "Longinus",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Longinus"
     },
     {
       "ID": 1061,
@@ -99,21 +51,9 @@
       "FullName": "Avatar_Female_Size01_Corin_FullName",
       "AudioEventReplaceParam": "corin",
       "AudioBank": "BK_Corin|BK_CHR_Common|BK_Corin_VO",
-      "__unk_Q291526241": 1,
       "Gender": 2,
       "Camp": 2,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        200
-      ],
-      "__unk_Q3753556530": [
-        "1:2:2",
-        "2:200:2"
-      ],
-      "__unk_Q2126703133": "Corin",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Corin"
     },
     {
       "ID": 1071,
@@ -122,22 +62,9 @@
       "FullName": "Avatar_Female_Size03_Caesar_FullName",
       "AudioEventReplaceParam": "caesar",
       "AudioBank": "BK_Caesar|BK_CHR_Common|BK_Caesar_VO",
-      "__unk_Q291526241": 5,
       "Gender": 2,
       "Camp": 4,
-      "HitTypes": [
-        101,
-        102
-      ],
-      "ElementTypes": [
-        200
-      ],
-      "__unk_Q3753556530": [
-        "1:4:2",
-        "4:AidTypeParry:2"
-      ],
-      "__unk_Q2126703133": "Caesar",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Caesar"
     },
     {
       "ID": 1081,
@@ -146,21 +73,9 @@
       "FullName": "Avatar_Male_Size03_Billy_FullName",
       "AudioEventReplaceParam": "billy",
       "AudioBank": "BK_Billy|BK_CHR_Common|BK_Billy_VO",
-      "__unk_Q291526241": 1,
       "Gender": 1,
       "Camp": 1,
-      "HitTypes": [
-        103
-      ],
-      "ElementTypes": [
-        200
-      ],
-      "__unk_Q3753556530": [
-        "1:1:2",
-        "2:200:2"
-      ],
-      "__unk_Q2126703133": "Billy",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Billy"
     },
     {
       "ID": 1091,
@@ -169,21 +84,9 @@
       "FullName": "Avatar_Female_Size02_Unagi_FullName",
       "AudioEventReplaceParam": "unagi",
       "AudioBank": "BK_Unagi|BK_CHR_Common|BK_Unagi_VO",
-      "__unk_Q291526241": 3,
       "Gender": 2,
       "Camp": 6,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        202
-      ],
-      "__unk_Q3753556530": [
-        "1:6:2",
-        "3:4:1"
-      ],
-      "__unk_Q2126703133": "Unagi",
-      "__unk_Q1963758437": 1
+      "__unk_Q2126703133": "Unagi"
     },
     {
       "ID": 1101,
@@ -192,21 +95,9 @@
       "FullName": "Avatar_Female_Size01_OokumaMari_FullName",
       "AudioEventReplaceParam": "koleda",
       "AudioBank": "BK_Koleda|BK_CHR_Common|BK_Koleda_VO",
-      "__unk_Q291526241": 2,
       "Gender": 2,
       "Camp": 3,
-      "HitTypes": [
-        102
-      ],
-      "ElementTypes": [
-        201
-      ],
-      "__unk_Q3753556530": [
-        "1:3:2",
-        "2:201:2"
-      ],
-      "__unk_Q2126703133": "Koleda",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Koleda"
     },
     {
       "ID": 1111,
@@ -215,21 +106,9 @@
       "FullName": "Avatar_Male_Size03_Anton_FullName",
       "AudioEventReplaceParam": "anton",
       "AudioBank": "BK_Anton|BK_CHR_Common|BK_Anton_VO",
-      "__unk_Q291526241": 1,
       "Gender": 1,
       "Camp": 3,
-      "HitTypes": [
-        103
-      ],
-      "ElementTypes": [
-        203
-      ],
-      "__unk_Q3753556530": [
-        "1:3:2",
-        "2:203:2"
-      ],
-      "__unk_Q2126703133": "Anton",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Anton"
     },
     {
       "ID": 1121,
@@ -238,21 +117,9 @@
       "FullName": "Avatar_Male_Size03_Ben_FullName",
       "AudioEventReplaceParam": "ben",
       "AudioBank": "BK_Ben|BK_CHR_Common|BK_Ben_VO",
-      "__unk_Q291526241": 5,
       "Gender": 1,
       "Camp": 3,
-      "HitTypes": [
-        102
-      ],
-      "ElementTypes": [
-        201
-      ],
-      "__unk_Q3753556530": [
-        "1:3:2",
-        "2:201:2"
-      ],
-      "__unk_Q2126703133": "Ben",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Ben"
     },
     {
       "ID": 1131,
@@ -261,21 +128,9 @@
       "FullName": "Avatar_Female_Size01_Aokaku_FullName",
       "AudioEventReplaceParam": "aokaku",
       "AudioBank": "BK_Aokaku|BK_CHR_Common|BK_Aokaku_VO",
-      "__unk_Q291526241": 4,
       "Gender": 2,
       "Camp": 6,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        202
-      ],
-      "__unk_Q3753556530": [
-        "1:6:2",
-        "2:202:2"
-      ],
-      "__unk_Q2126703133": "Aokaku",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Aokaku"
     },
     {
       "ID": 1141,
@@ -284,21 +139,9 @@
       "FullName": "Avatar_Male_Size03_Lycaon_FullName",
       "AudioEventReplaceParam": "lycaon",
       "AudioBank": "BK_Lycaon|BK_CHR_Common|BK_Lycaon_VO",
-      "__unk_Q291526241": 2,
       "Gender": 1,
       "Camp": 2,
-      "HitTypes": [
-        102
-      ],
-      "ElementTypes": [
-        202
-      ],
-      "__unk_Q3753556530": [
-        "1:2:2",
-        "2:202:2"
-      ],
-      "__unk_Q2126703133": "Lycaon",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Lycaon"
     },
     {
       "ID": 1151,
@@ -307,21 +150,9 @@
       "FullName": "Avatar_Female_Size01_Lucy_FullName",
       "AudioEventReplaceParam": "lucy",
       "AudioBank": "BK_Lucy|BK_CHR_Common|BK_Lucy_VO",
-      "__unk_Q291526241": 4,
       "Gender": 2,
       "Camp": 4,
-      "HitTypes": [
-        102
-      ],
-      "ElementTypes": [
-        201
-      ],
-      "__unk_Q3753556530": [
-        "1:4:2",
-        "2:201:2"
-      ],
-      "__unk_Q2126703133": "Lucy",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Lucy"
     },
     {
       "ID": 1161,
@@ -330,21 +161,9 @@
       "FullName": "Avatar_Male_Size02_Lighter_FullName",
       "AudioEventReplaceParam": "lighter",
       "AudioBank": "BK_Lighter|BK_CHR_Common|BK_Lighter_VO",
-      "__unk_Q291526241": 2,
       "Gender": 1,
       "Camp": 4,
-      "HitTypes": [
-        102
-      ],
-      "ElementTypes": [
-        201
-      ],
-      "__unk_Q3753556530": [
-        "1:4:2",
-        "3:1:1"
-      ],
-      "__unk_Q2126703133": "Lighter",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Lighter"
     },
     {
       "ID": 1171,
@@ -353,21 +172,9 @@
       "FullName": "Avatar_Female_Size02_Burnice_FullName",
       "AudioEventReplaceParam": "burnice",
       "AudioBank": "BK_Burnice|BK_CHR_Common|BK_Burnice_VO",
-      "__unk_Q291526241": 3,
       "Gender": 2,
       "Camp": 4,
-      "HitTypes": [
-        103
-      ],
-      "ElementTypes": [
-        201
-      ],
-      "__unk_Q3753556530": [
-        "1:4:2",
-        "3:3:2"
-      ],
-      "__unk_Q2126703133": "Burnice",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Burnice"
     },
     {
       "ID": 1181,
@@ -376,21 +183,9 @@
       "FullName": "Avatar_Female_Size03_Lisa_FullName",
       "AudioEventReplaceParam": "lisa",
       "AudioBank": "BK_Lisa|BK_CHR_Common|BK_Lisa_VO",
-      "__unk_Q291526241": 3,
       "Gender": 2,
       "Camp": 3,
-      "HitTypes": [
-        103
-      ],
-      "ElementTypes": [
-        203
-      ],
-      "__unk_Q3753556530": [
-        "1:3:2",
-        "2:203:2"
-      ],
-      "__unk_Q2126703133": "Lisa",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Lisa"
     },
     {
       "ID": 1191,
@@ -399,21 +194,9 @@
       "FullName": "Avatar_Female_Size02_Ellen_FullName",
       "AudioEventReplaceParam": "ellen",
       "AudioBank": "BK_Ellen|BK_CHR_Common|BK_Ellen_VO",
-      "__unk_Q291526241": 1,
       "Gender": 2,
       "Camp": 2,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        202
-      ],
-      "__unk_Q3753556530": [
-        "1:2:2",
-        "2:202:2"
-      ],
-      "__unk_Q2126703133": "Ellen",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Ellen"
     },
     {
       "ID": 1201,
@@ -422,22 +205,9 @@
       "FullName": "Avatar_Male_Size01_Harumasa_FullName",
       "AudioEventReplaceParam": "harumasa",
       "AudioBank": "BK_Harumasa|BK_CHR_Common|BK_Harumasa_VO",
-      "__unk_Q291526241": 1,
       "Gender": 1,
       "Camp": 6,
-      "HitTypes": [
-        103,
-        101
-      ],
-      "ElementTypes": [
-        203
-      ],
-      "__unk_Q3753556530": [
-        "3:2:1",
-        "3:3:1"
-      ],
-      "__unk_Q2126703133": "Harumasa",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Harumasa"
     },
     {
       "ID": 1211,
@@ -446,21 +216,9 @@
       "FullName": "Avatar_Female_Size03_Rina_FullName",
       "AudioEventReplaceParam": "rina",
       "AudioBank": "BK_Rina|BK_CHR_Common|BK_Rina_VO",
-      "__unk_Q291526241": 4,
       "Gender": 2,
       "Camp": 2,
-      "HitTypes": [
-        102
-      ],
-      "ElementTypes": [
-        203
-      ],
-      "__unk_Q3753556530": [
-        "1:2:2",
-        "2:203:2"
-      ],
-      "__unk_Q2126703133": "Rina",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Rina"
     },
     {
       "ID": 1221,
@@ -469,21 +227,9 @@
       "FullName": "Avatar_Female_Size03_Yanagi_FullName",
       "AudioEventReplaceParam": "yanagi",
       "AudioBank": "BK_Yanagi|BK_CHR_Common|BK_Yanagi_VO",
-      "__unk_Q291526241": 3,
       "Gender": 2,
       "Camp": 6,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        203
-      ],
-      "__unk_Q3753556530": [
-        "2:203:2",
-        "3:3:2"
-      ],
-      "__unk_Q2126703133": "Yanagi",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Yanagi"
     },
     {
       "ID": 1241,
@@ -492,21 +238,9 @@
       "FullName": "Avatar_Female_Size03_ZhuYuan_FullName",
       "AudioEventReplaceParam": "ZhuYuan",
       "AudioBank": "BK_ZhuYuan|BK_CHR_Common|BK_ZhuYuan_VO",
-      "__unk_Q291526241": 1,
       "Gender": 2,
       "Camp": 7,
-      "HitTypes": [
-        103
-      ],
-      "ElementTypes": [
-        205
-      ],
-      "__unk_Q3753556530": [
-        "1:7:2",
-        "3:4:1"
-      ],
-      "__unk_Q2126703133": "Zhuyuan",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Zhuyuan"
     },
     {
       "ID": 1251,
@@ -515,21 +249,9 @@
       "FullName": "Avatar_Female_Size01_QingYi_FullName",
       "AudioEventReplaceParam": "qingyi",
       "AudioBank": "BK_QingYi|BK_CHR_Common|BK_QingYi_VO",
-      "__unk_Q291526241": 2,
       "Gender": 2,
       "Camp": 7,
-      "HitTypes": [
-        102
-      ],
-      "ElementTypes": [
-        203
-      ],
-      "__unk_Q3753556530": [
-        "1:7:2",
-        "3:1:1"
-      ],
-      "__unk_Q2126703133": "Qingyi",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Qingyi"
     },
     {
       "ID": 1261,
@@ -538,21 +260,9 @@
       "FullName": "Avatar_Female_Size03_JaneDoe_FullName",
       "AudioEventReplaceParam": "janedoe",
       "AudioBank": "BK_JaneDoe|BK_CHR_Common|BK_JaneDoe_VO",
-      "__unk_Q291526241": 3,
       "Gender": 2,
       "Camp": 7,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        200
-      ],
-      "__unk_Q3753556530": [
-        "1:7:2",
-        "3:3:2"
-      ],
-      "__unk_Q2126703133": "Janedoe",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Janedoe"
     },
     {
       "ID": 1271,
@@ -561,21 +271,9 @@
       "FullName": "Avatar_Male_Size01_Seth_FullName",
       "AudioEventReplaceParam": "seth",
       "AudioBank": "BK_Seth|BK_CHR_Common|BK_Seth_VO",
-      "__unk_Q291526241": 5,
       "Gender": 1,
       "Camp": 7,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        203
-      ],
-      "__unk_Q3753556530": [
-        "1:7:2",
-        "2:203:2"
-      ],
-      "__unk_Q2126703133": "Seth",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Seth"
     },
     {
       "ID": 1281,
@@ -584,21 +282,20 @@
       "FullName": "Avatar_Female_Size01_Clara_FullName",
       "AudioEventReplaceParam": "clara",
       "AudioBank": "BK_Clara|BK_CHR_Common|BK_Clara_VO",
-      "__unk_Q291526241": 3,
       "Gender": 2,
       "Camp": 4,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        200
-      ],
-      "__unk_Q3753556530": [
-        "1:4:2",
-        "2:200:2"
-      ],
-      "__unk_Q2126703133": "Clara",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Clara"
+    },
+    {
+      "ID": 1291,
+      "CodeName": "Avatar_Male_Size02_HugoVlad_En",
+      "Name": "Avatar_Male_Size02_HugoVlad",
+      "FullName": "Avatar_Male_Size02_HugoVlad_FullName",
+      "AudioEventReplaceParam": "hugovlad",
+      "AudioBank": "BK_HugoVlad|BK_CHR_Common|BK_HugoVlad_VO",
+      "Gender": 1,
+      "Camp": 2,
+      "__unk_Q2126703133": "Hugovlad"
     },
     {
       "ID": 1311,
@@ -607,21 +304,9 @@
       "FullName": "Avatar_Female_Size03_Astra_FullName",
       "AudioEventReplaceParam": "astra",
       "AudioBank": "BK_Astra|BK_CHR_Common|BK_Astra_VO",
-      "__unk_Q291526241": 4,
       "Gender": 2,
-      "Camp": 0,
-      "HitTypes": [
-        102
-      ],
-      "ElementTypes": [
-        205
-      ],
-      "__unk_Q3753556530": [
-        "1:0:2",
-        "2:205:2"
-      ],
-      "__unk_Q2126703133": "Astra",
-      "__unk_Q1963758437": 0
+      "Camp": 8,
+      "__unk_Q2126703133": "Astra"
     },
     {
       "ID": 1321,
@@ -630,44 +315,31 @@
       "FullName": "Avatar_Female_Size03_Evelyn_FullName",
       "AudioEventReplaceParam": "evelyn",
       "AudioBank": "BK_Evelyn|BK_CHR_Common|BK_Evelyn_VO",
-      "__unk_Q291526241": 1,
+      "Gender": 2,
+      "Camp": 8,
+      "__unk_Q2126703133": "Evelyn"
+    },
+    {
+      "ID": 1331,
+      "CodeName": "Avatar_Female_Size02_Vivian_En",
+      "Name": "Avatar_Female_Size02_Vivian",
+      "FullName": "Avatar_Female_Size02_Vivian_FullName",
+      "AudioEventReplaceParam": "vivian",
+      "AudioBank": "BK_Vivian|BK_CHR_Common|BK_Vivian_VO",
       "Gender": 2,
       "Camp": 0,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        201
-      ],
-      "__unk_Q3753556530": [
-        "1:0:2",
-        "2:201:2"
-      ],
-      "__unk_Q2126703133": "Evelyn",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Vivian"
     },
     {
       "ID": 1351,
       "CodeName": "Avatar_Female_Size03_Pulchra_En",
       "Name": "Avatar_Female_Size03_Pulchra",
       "FullName": "Avatar_Female_Size03_Pulchra_FullName",
-      "AudioEventReplaceParam": "Pulchra",
+      "AudioEventReplaceParam": "pulchra",
       "AudioBank": "BK_Pulchra|BK_CHR_Common|BK_Pulchra_VO",
-      "__unk_Q291526241": 2,
       "Gender": 2,
       "Camp": 4,
-      "HitTypes": [
-        101
-      ],
-      "ElementTypes": [
-        200
-      ],
-      "__unk_Q3753556530": [
-        "1:1:2",
-        "2:203:2"
-      ],
-      "__unk_Q2126703133": "Pulchra",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Pulchra"
     },
     {
       "ID": 2011,
@@ -676,21 +348,9 @@
       "FullName": "Avatar_Male_Size01_Wise_FullName",
       "AudioEventReplaceParam": "wise",
       "AudioBank": "BK_Wise",
-      "__unk_Q291526241": 1,
       "Gender": 1,
       "Camp": 0,
-      "HitTypes": [
-        0
-      ],
-      "ElementTypes": [
-        1
-      ],
-      "__unk_Q3753556530": [
-        "1:0:2",
-        "2:1:2"
-      ],
-      "__unk_Q2126703133": "Wise",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Wise"
     },
     {
       "ID": 2021,
@@ -699,21 +359,9 @@
       "FullName": "Avatar_Female_Size02_Belle_FullName",
       "AudioEventReplaceParam": "belle",
       "AudioBank": "BK_Belle",
-      "__unk_Q291526241": 1,
       "Gender": 2,
       "Camp": 0,
-      "HitTypes": [
-        0
-      ],
-      "ElementTypes": [
-        1
-      ],
-      "__unk_Q3753556530": [
-        "1:0:2",
-        "2:1:2"
-      ],
-      "__unk_Q2126703133": "Belle",
-      "__unk_Q1963758437": 0
+      "__unk_Q2126703133": "Belle"
     }
   ]
 }
