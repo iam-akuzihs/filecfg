@@ -2,16 +2,16 @@
   "__exp_FileCfg": [
     {
       "ID": 1,
-      "CNIFICIBLOF": "Locked",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "Locked",
+      "DJPCGNGJNEI": [
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_CAN_TRIGGER_MULTI_TIMES"
       ]
     },
     {
       "ID": 2,
-      "CNIFICIBLOF": "Unlocked",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "Unlocked",
+      "DJPCGNGJNEI": [
         "FLAG_UNLOCKED",
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_CAN_TRIGGER_MULTI_TIMES"
@@ -19,8 +19,8 @@
     },
     {
       "ID": 3,
-      "CNIFICIBLOF": "Finished",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "Finished",
+      "DJPCGNGJNEI": [
         "FLAG_FINISHED",
         "FLAG_SHOW_EVENT_TYPE",
         "FLAG_SHOW_EVENT_ID",
@@ -29,8 +29,8 @@
     },
     {
       "ID": 4,
-      "CNIFICIBLOF": "ShowEvent",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "ShowEvent",
+      "DJPCGNGJNEI": [
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_SHOW_EVENT_TYPE",
         "FLAG_SHOW_EVENT_ID",
@@ -39,8 +39,8 @@
     },
     {
       "ID": 6,
-      "CNIFICIBLOF": "Brighten",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "Brighten",
+      "DJPCGNGJNEI": [
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_SHOW_EVENT_TYPE",
         "FLAG_SHOW_EVENT_ID",
@@ -49,8 +49,8 @@
     },
     {
       "ID": 7,
-      "CNIFICIBLOF": "Guide",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "Guide",
+      "DJPCGNGJNEI": [
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_SHOW_EVENT_TYPE",
         "FLAG_CAN_TRIGGER_MULTI_TIMES"
@@ -58,8 +58,8 @@
     },
     {
       "ID": 8,
-      "CNIFICIBLOF": "Target",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "Target",
+      "DJPCGNGJNEI": [
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_SHOW_EVENT_TYPE",
         "FLAG_CAN_TRIGGER_MULTI_TIMES"
@@ -67,8 +67,8 @@
     },
     {
       "ID": 9,
-      "CNIFICIBLOF": "BrightenOnlyVisible",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "BrightenOnlyVisible",
+      "DJPCGNGJNEI": [
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_SHOW_EVENT_TYPE",
         "FLAG_CAN_TRIGGER_MULTI_TIMES"
@@ -76,8 +76,8 @@
     },
     {
       "ID": 10,
-      "CNIFICIBLOF": "Unstable",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "Unstable",
+      "DJPCGNGJNEI": [
         "FLAG_UNSTABLE",
         "FLAG_SHOW_EVENT_TYPE",
         "FLAG_SHOW_EVENT_ID"
@@ -85,16 +85,16 @@
     },
     {
       "ID": 11,
-      "CNIFICIBLOF": "Empty",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "Empty",
+      "DJPCGNGJNEI": [
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_CAN_TRIGGER_MULTI_TIMES"
       ]
     },
     {
       "ID": 12,
-      "CNIFICIBLOF": "All",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "All",
+      "DJPCGNGJNEI": [
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_SHOW_EVENT_TYPE",
         "FLAG_SHOW_EVENT_ID",
@@ -103,8 +103,8 @@
     },
     {
       "ID": 13,
-      "CNIFICIBLOF": "",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "",
+      "DJPCGNGJNEI": [
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_SHOW_EVENT_TYPE",
         "FLAG_SHOW_EVENT_ID",
@@ -113,13 +113,13 @@
     },
     {
       "ID": 14,
-      "CNIFICIBLOF": "LockedWithStamina",
-      "LKBFJAOCKKA": []
+      "LHBNLNDAKCN": "LockedWithStamina",
+      "DJPCGNGJNEI": []
     },
     {
       "ID": 15,
-      "CNIFICIBLOF": "UnEmpty",
-      "LKBFJAOCKKA": [
+      "LHBNLNDAKCN": "UnEmpty",
+      "DJPCGNGJNEI": [
         "FLAG_UNLOCKED",
         "FLAG_CAN_TRIGGER_EVENT",
         "FLAG_CAN_TRIGGER_MULTI_TIMES"

@@ -342,6 +342,50 @@
       "__unk_Q2126703133": "Pulchra"
     },
     {
+      "ID": 1361,
+      "CodeName": "Avatar_Female_Size03_Trigger_En",
+      "Name": "Avatar_Female_Size03_Trigger",
+      "FullName": "Avatar_Female_Size03_Trigger_FullName",
+      "AudioEventReplaceParam": "trigger",
+      "AudioBank": "BK_Trigger|BK_CHR_Common|BK_Trigger_VO",
+      "Gender": 2,
+      "Camp": 5,
+      "__unk_Q2126703133": "Trigger"
+    },
+    {
+      "ID": 1371,
+      "CodeName": "Avatar_Female_Size03_YiXuan_En",
+      "Name": "Avatar_Female_Size03_YiXuan",
+      "FullName": "Avatar_Female_Size03_YiXuan_FullName",
+      "AudioEventReplaceParam": "yixuan",
+      "AudioBank": "BK_YiXuan|BK_CHR_Common|BK_YiXuan_VO",
+      "Gender": 2,
+      "Camp": 0,
+      "__unk_Q2126703133": "Yixuan"
+    },
+    {
+      "ID": 1381,
+      "CodeName": "Avatar_Female_Size02_SilverAnby_En",
+      "Name": "Avatar_Female_Size02_SilverAnby",
+      "FullName": "Avatar_Female_Size02_SilverAnby_FullName",
+      "AudioEventReplaceParam": "silveranby",
+      "AudioBank": "",
+      "Gender": 2,
+      "Camp": 5,
+      "__unk_Q2126703133": "Silveranby"
+    },
+    {
+      "ID": 1391,
+      "CodeName": "Avatar_Female_Size01_Jufufu_En",
+      "Name": "Avatar_Female_Size01_Jufufu",
+      "FullName": "Avatar_Female_Size01_Jufufu_FullName",
+      "AudioEventReplaceParam": "jufufu",
+      "AudioBank": "BK_Jufufu|BK_CHR_Common|BK_Jufufu_VO",
+      "Gender": 2,
+      "Camp": 0,
+      "__unk_Q2126703133": "Jufufu"
+    },
+    {
       "ID": 2011,
       "CodeName": "Avatar_Male_Size01_Wise_En",
       "Name": "Avatar_Male_Size01_Wise",
