@@ -1,7 +1,7 @@
 {
-  "__exp_FileCfg": [
+  "JIJNDLLPCHO": [
     {
-      "ID": 1,
+      "DKDDFEIAMIF": 1,
       "GGNPDPFJMGL": "攻击力",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -10,7 +10,7 @@
       "JNLNBKKLEBF": "propertyID(1)"
     },
     {
-      "ID": 2,
+      "DKDDFEIAMIF": 2,
       "GGNPDPFJMGL": "防御力",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -19,7 +19,7 @@
       "JNLNBKKLEBF": "propertyID(2)"
     },
     {
-      "ID": 3,
+      "DKDDFEIAMIF": 3,
       "GGNPDPFJMGL": "血量",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -28,7 +28,7 @@
       "JNLNBKKLEBF": "propertyID(3)"
     },
     {
-      "ID": 4,
+      "DKDDFEIAMIF": 4,
       "GGNPDPFJMGL": "额外伤害",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -37,7 +37,7 @@
       "JNLNBKKLEBF": "(propertyID(26)-1)*100"
     },
     {
-      "ID": 5,
+      "DKDDFEIAMIF": 5,
       "GGNPDPFJMGL": "攻击速度",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -46,7 +46,7 @@
       "JNLNBKKLEBF": "(propertyID(4)/property(1004)-1)*100"
     },
     {
-      "ID": 6,
+      "DKDDFEIAMIF": 6,
       "GGNPDPFJMGL": "移动速度",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -55,7 +55,7 @@
       "JNLNBKKLEBF": "(propertyID(5)/property(1005)-1)*100"
     },
     {
-      "ID": 7,
+      "DKDDFEIAMIF": 7,
       "GGNPDPFJMGL": "生命恢复",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -64,7 +64,7 @@
       "JNLNBKKLEBF": "propertyID(8)"
     },
     {
-      "ID": 8,
+      "DKDDFEIAMIF": 8,
       "GGNPDPFJMGL": "攻击范围",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -73,7 +73,7 @@
       "JNLNBKKLEBF": "propertyID(11)"
     },
     {
-      "ID": 9,
+      "DKDDFEIAMIF": 9,
       "GGNPDPFJMGL": "暴击率",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -82,7 +82,7 @@
       "JNLNBKKLEBF": "propertyID(24)*100"
     },
     {
-      "ID": 10,
+      "DKDDFEIAMIF": 10,
       "GGNPDPFJMGL": "弹道数量",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -91,7 +91,7 @@
       "JNLNBKKLEBF": "propertyID(15)"
     },
     {
-      "ID": 11,
+      "DKDDFEIAMIF": 11,
       "GGNPDPFJMGL": "近战攻击",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -100,7 +100,7 @@
       "JNLNBKKLEBF": "propertyID(22)"
     },
     {
-      "ID": 12,
+      "DKDDFEIAMIF": 12,
       "GGNPDPFJMGL": "远程攻击",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -109,7 +109,7 @@
       "JNLNBKKLEBF": "propertyID(23)"
     },
     {
-      "ID": 13,
+      "DKDDFEIAMIF": 13,
       "GGNPDPFJMGL": "探宝",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -118,7 +118,7 @@
       "JNLNBKKLEBF": "propertyID(33)"
     },
     {
-      "ID": 14,
+      "DKDDFEIAMIF": 14,
       "GGNPDPFJMGL": "幸运",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -127,7 +127,7 @@
       "JNLNBKKLEBF": "propertyID(34)"
     },
     {
-      "ID": 15,
+      "DKDDFEIAMIF": 15,
       "GGNPDPFJMGL": "闪避率",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,
@@ -136,7 +136,7 @@
       "JNLNBKKLEBF": "propertyID(35)*100"
     },
     {
-      "ID": 16,
+      "DKDDFEIAMIF": 16,
       "GGNPDPFJMGL": "额外金币",
       "DBKGODAFDCP": "UI/Sprite/Arcade/Game/Companion/Packer/IconType01.png",
       "PEBNOOFJOEB": 0,

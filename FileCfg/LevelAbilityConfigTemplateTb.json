@@ -1,2692 +1,3608 @@
 {
   "__exp_FileCfg": [
     {
-      "IHMDOCIFPGN": 1000000,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_AddSp",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1000000,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_AddSp",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001001,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_Counter",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_Counter",
+      "GNONBPKENLN": "AddedDamageRatio:0.3",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AddedDamageRatio:0.3",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001002,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_AidStun",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001002,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_AidStun",
+      "GNONBPKENLN": "AddedStunRatio:1",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AddedStunRatio:1",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001003,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_AttackAid",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001003,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_AttackAid",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.3",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.3",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001004,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle01_CounterBuff",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001004,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle01_CounterBuff",
+      "GNONBPKENLN": "AS_RecoverSp:10",
+      "HDNIMLNPGLD": "AddedDamageRatio:1.2",
+      "MIJENFJPPPA": "AS_BreakStunRatio:0.8",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_RecoverSp:10",
-      "LOOENNEIOJL": "AddedDamageRatio:1.2",
-      "JFFEPCNDKBH": "AS_BreakStunRatio:0.8",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001005,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle02_AidBuff",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001005,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle02_AidBuff",
+      "GNONBPKENLN": "AddedDamageRatio:1",
+      "HDNIMLNPGLD": "AddedStunRatio:0.5",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AddedDamageRatio:1",
-      "LOOENNEIOJL": "AddedStunRatio:0.5",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001006,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle03_Abnormal",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001006,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle03_Abnormal",
+      "GNONBPKENLN": "AS_AddedAccumulationRatio:0.5",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedAccumulationRatio:0.5",
-      "LOOENNEIOJL": "AS_AddedDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001007,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle_EXSPUp",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001007,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle_EXSPUp",
+      "GNONBPKENLN": "AS_AddedDamageRatio:1",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:1",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001008,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle_BreakStunUp",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001008,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle_BreakStunUp",
+      "GNONBPKENLN": "AS_BreakStunRatio:0.3",
+      "HDNIMLNPGLD": "StunDamageTakeRatio:0.5",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BreakStunRatio:0.3",
-      "LOOENNEIOJL": "StunDamageTakeRatio:0.5",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001009,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle07",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001009,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle07",
+      "GNONBPKENLN": "AS_AddedAccumulationRatio:0.35",
+      "HDNIMLNPGLD": "AS_BaseAttackRatio:0.25",
+      "MIJENFJPPPA": "AS_RecoverSp:20",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedAccumulationRatio:0.35",
-      "LOOENNEIOJL": "AS_BaseAttackRatio:0.25",
-      "JFFEPCNDKBH": "AS_RecoverSp:20",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001201,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle_ElementResist",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001201,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle_ElementResist",
+      "GNONBPKENLN": "AS_EtherResist:-0.2",
+      "HDNIMLNPGLD": "AS_IceResist:-0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_EtherResist:-0.2",
-      "LOOENNEIOJL": "AS_IceResist:-0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001202,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle_ElementResist",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001202,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle_ElementResist",
+      "GNONBPKENLN": "AS_FireResist:-0.2",
+      "HDNIMLNPGLD": "AS_PhysicsResist:-0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_FireResist:-0.2",
-      "LOOENNEIOJL": "AS_PhysicsResist:-0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001203,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle_ElementResist",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001203,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle_ElementResist",
+      "GNONBPKENLN": "AS_ElecResist:-0.2",
+      "HDNIMLNPGLD": "AS_PhysicsResist:-0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_ElecResist:-0.2",
-      "LOOENNEIOJL": "AS_PhysicsResist:-0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1001204,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_DiscBattle_ElementResist",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1001204,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_DiscBattle_ElementResist",
+      "GNONBPKENLN": "AS_FireResist:-0.2",
+      "HDNIMLNPGLD": "AS_EtherResist:-0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_FireResist:-0.2",
-      "LOOENNEIOJL": "AS_EtherResist:-0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1002001,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_MultiPlayer2",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1002001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_MultiPlayer2",
+      "GNONBPKENLN": "AS_SPGetRatio:0",
+      "HDNIMLNPGLD": "AS_FeverGetRatio:1.3",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_SPGetRatio:0",
-      "LOOENNEIOJL": "AS_FeverGetRatio:1.3",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 1002002,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_MultiPlayer2",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 1002002,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_MultiPlayer2",
+      "GNONBPKENLN": "AS_SPGetRatio:0",
+      "HDNIMLNPGLD": "AS_FeverGetRatio:1.3",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_SPGetRatio:0",
-      "LOOENNEIOJL": "AS_FeverGetRatio:1.3",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2000001,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Level_Buff_ACT3_Fever",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2000001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_Buff_ACT3_Fever",
+      "GNONBPKENLN": "AS_RecoverFever:0.4",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_RecoverFever:0.4",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001001,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_DurahanBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_DurahanBOSS",
+      "GNONBPKENLN": "AS_AddedDamageRatio:-0.15",
+      "HDNIMLNPGLD": "AS_AddBreakStunRatio:0.2",
+      "MIJENFJPPPA": "AS_DestroyRecoverRate_Ratio:-0.15",
+      "ABJNIPFCGIF": "AS_RecoverStunRatio:0.2",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:-0.15",
-      "LOOENNEIOJL": "AS_AddBreakStunRatio:0.2",
-      "JFFEPCNDKBH": "AS_DestroyRecoverRate_Ratio:-0.15",
-      "IAFAJDEJBBG": "AS_RecoverStunRatio:0.2",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001002,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_DurahanBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001002,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_DurahanBOSS",
+      "GNONBPKENLN": "AS_AddedDamageRatio:-0.2",
+      "HDNIMLNPGLD": "AS_AddBreakStunRatio:0.25",
+      "MIJENFJPPPA": "AS_DestroyRecoverRate_Ratio:-0.2",
+      "ABJNIPFCGIF": "AS_RecoverStunRatio:0.2",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:-0.2",
-      "LOOENNEIOJL": "AS_AddBreakStunRatio:0.25",
-      "JFFEPCNDKBH": "AS_DestroyRecoverRate_Ratio:-0.2",
-      "IAFAJDEJBBG": "AS_RecoverStunRatio:0.2",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001003,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_DurahanBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001003,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_DurahanBOSS",
+      "GNONBPKENLN": "AS_AddedDamageRatio:-0.25",
+      "HDNIMLNPGLD": "AS_AddBreakStunRatio:0.3",
+      "MIJENFJPPPA": "AS_DestroyRecoverRate_Ratio:-0.25",
+      "ABJNIPFCGIF": "AS_RecoverStunRatio:0.2",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:-0.25",
-      "LOOENNEIOJL": "AS_AddBreakStunRatio:0.3",
-      "JFFEPCNDKBH": "AS_DestroyRecoverRate_Ratio:-0.25",
-      "IAFAJDEJBBG": "AS_RecoverStunRatio:0.2",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001004,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_DurahanBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001004,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_DurahanBOSS",
+      "GNONBPKENLN": "AS_AddedDamageRatio:-0.3",
+      "HDNIMLNPGLD": "AS_AddBreakStunRatio:0.35",
+      "MIJENFJPPPA": "AS_DestroyRecoverRate_Ratio:-0.3",
+      "ABJNIPFCGIF": "AS_RecoverStunRatio:0.2",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:-0.3",
-      "LOOENNEIOJL": "AS_AddBreakStunRatio:0.35",
-      "JFFEPCNDKBH": "AS_DestroyRecoverRate_Ratio:-0.3",
-      "IAFAJDEJBBG": "AS_RecoverStunRatio:0.2",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001005,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_HatiArmoredBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001005,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_HatiArmoredBOSS",
+      "GNONBPKENLN": "AS_AddedElementAccumulationRatio:-0.1",
+      "HDNIMLNPGLD": "AS_AddBreakStunRatio:1",
+      "MIJENFJPPPA": "AS_DestroyRecoverRate_Ratio:-0.2",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedElementAccumulationRatio:-0.1",
-      "LOOENNEIOJL": "AS_AddBreakStunRatio:1",
-      "JFFEPCNDKBH": "AS_DestroyRecoverRate_Ratio:-0.2",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001006,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_HatiArmoredBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001006,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_HatiArmoredBOSS",
+      "GNONBPKENLN": "AS_AddedElementAccumulationRatio:-0.2",
+      "HDNIMLNPGLD": "AS_AddBreakStunRatio:1.2",
+      "MIJENFJPPPA": "AS_DestroyRecoverRate_Ratio:-0.2",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedElementAccumulationRatio:-0.2",
-      "LOOENNEIOJL": "AS_AddBreakStunRatio:1.2",
-      "JFFEPCNDKBH": "AS_DestroyRecoverRate_Ratio:-0.2",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001007,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_HatiArmoredBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001007,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_HatiArmoredBOSS",
+      "GNONBPKENLN": "AS_AddedElementAccumulationRatio:-0.3",
+      "HDNIMLNPGLD": "AS_AddBreakStunRatio:1.4",
+      "MIJENFJPPPA": "AS_DestroyRecoverRate_Ratio:-0.2",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedElementAccumulationRatio:-0.3",
-      "LOOENNEIOJL": "AS_AddBreakStunRatio:1.4",
-      "JFFEPCNDKBH": "AS_DestroyRecoverRate_Ratio:-0.2",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001008,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_HatiArmoredBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001008,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_HatiArmoredBOSS",
+      "GNONBPKENLN": "AS_AddedElementAccumulationRatio:-0.4",
+      "HDNIMLNPGLD": "AS_AddBreakStunRatio:1.6",
+      "MIJENFJPPPA": "AS_DestroyRecoverRate_Ratio:-0.2",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedElementAccumulationRatio:-0.4",
-      "LOOENNEIOJL": "AS_AddBreakStunRatio:1.6",
-      "JFFEPCNDKBH": "AS_DestroyRecoverRate_Ratio:-0.2",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001009,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_MaterialHandlerRed",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001009,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_MaterialHandlerRed",
+      "GNONBPKENLN": "AS_AddBreakStunRatio:-0.2",
+      "HDNIMLNPGLD": "AS_PartDestroy_ReplacedStunPercentage:0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddBreakStunRatio:-0.2",
-      "LOOENNEIOJL": "AS_PartDestroy_ReplacedStunPercentage:0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001010,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_MaterialHandlerRed",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001010,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_MaterialHandlerRed",
+      "GNONBPKENLN": "AS_AddBreakStunRatio:-0.25",
+      "HDNIMLNPGLD": "AS_PartDestroy_ReplacedStunPercentage:0.25",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddBreakStunRatio:-0.25",
-      "LOOENNEIOJL": "AS_PartDestroy_ReplacedStunPercentage:0.25",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001011,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_MaterialHandlerRed",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001011,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_MaterialHandlerRed",
+      "GNONBPKENLN": "AS_AddBreakStunRatio:-0.3",
+      "HDNIMLNPGLD": "AS_PartDestroy_ReplacedStunPercentage:0.3",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddBreakStunRatio:-0.3",
-      "LOOENNEIOJL": "AS_PartDestroy_ReplacedStunPercentage:0.3",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001012,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_MaterialHandlerRed",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001012,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_MaterialHandlerRed",
+      "GNONBPKENLN": "AS_AddBreakStunRatio:-0.35",
+      "HDNIMLNPGLD": "AS_PartDestroy_ReplacedStunPercentage:0.35",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddBreakStunRatio:-0.35",
-      "LOOENNEIOJL": "AS_PartDestroy_ReplacedStunPercentage:0.35",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001013,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_MetalGorillaPro",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001013,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_MetalGorillaPro",
+      "GNONBPKENLN": "AS_AddBreakStunRatio:-0.2",
+      "HDNIMLNPGLD": "AS_AddedElementAccumulationRatio:0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddBreakStunRatio:-0.2",
-      "LOOENNEIOJL": "AS_AddedElementAccumulationRatio:0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001014,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_MetalGorillaPro",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001014,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_MetalGorillaPro",
+      "GNONBPKENLN": "AS_AddBreakStunRatio:-0.3",
+      "HDNIMLNPGLD": "AS_AddedElementAccumulationRatio:0.3",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddBreakStunRatio:-0.3",
-      "LOOENNEIOJL": "AS_AddedElementAccumulationRatio:0.3",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001015,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_MetalGorillaPro",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001015,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_MetalGorillaPro",
+      "GNONBPKENLN": "AS_AddBreakStunRatio:-0.4",
+      "HDNIMLNPGLD": "AS_AddedElementAccumulationRatio:0.4",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddBreakStunRatio:-0.4",
-      "LOOENNEIOJL": "AS_AddedElementAccumulationRatio:0.4",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001016,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_MetalGorillaPro",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001016,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_MetalGorillaPro",
+      "GNONBPKENLN": "AS_AddBreakStunRatio:-0.5",
+      "HDNIMLNPGLD": "AS_AddedElementAccumulationRatio:0.5",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddBreakStunRatio:-0.5",
-      "LOOENNEIOJL": "AS_AddedElementAccumulationRatio:0.5",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001017,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_ThugBulkyEnforcerBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001017,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_ThugBulkyEnforcerBOSS",
+      "GNONBPKENLN": "AS_Actor_AddedDamageRatio:0.04",
+      "HDNIMLNPGLD": "AS_MaxDamageRatio:0.2",
+      "MIJENFJPPPA": "AS_BuffMaxStack:5",
+      "ABJNIPFCGIF": "AS_StunDamageTakeRatio:0.2",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_Actor_AddedDamageRatio:0.04",
-      "LOOENNEIOJL": "AS_MaxDamageRatio:0.2",
-      "JFFEPCNDKBH": "AS_BuffMaxStack:5",
-      "IAFAJDEJBBG": "AS_StunDamageTakeRatio:0.2",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001018,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_ThugBulkyEnforcerBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001018,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_ThugBulkyEnforcerBOSS",
+      "GNONBPKENLN": "AS_Actor_AddedDamageRatio:0.06",
+      "HDNIMLNPGLD": "AS_MaxDamageRatio:0.3",
+      "MIJENFJPPPA": "AS_BuffMaxStack:5",
+      "ABJNIPFCGIF": "AS_StunDamageTakeRatio:0.25",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_Actor_AddedDamageRatio:0.06",
-      "LOOENNEIOJL": "AS_MaxDamageRatio:0.3",
-      "JFFEPCNDKBH": "AS_BuffMaxStack:5",
-      "IAFAJDEJBBG": "AS_StunDamageTakeRatio:0.25",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001019,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_ThugBulkyEnforcerBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001019,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_ThugBulkyEnforcerBOSS",
+      "GNONBPKENLN": "AS_Actor_AddedDamageRatio:0.08",
+      "HDNIMLNPGLD": "AS_MaxDamageRatio:0.4",
+      "MIJENFJPPPA": "AS_BuffMaxStack:5",
+      "ABJNIPFCGIF": "AS_StunDamageTakeRatio:0.3",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_Actor_AddedDamageRatio:0.08",
-      "LOOENNEIOJL": "AS_MaxDamageRatio:0.4",
-      "JFFEPCNDKBH": "AS_BuffMaxStack:5",
-      "IAFAJDEJBBG": "AS_StunDamageTakeRatio:0.3",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001020,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_ThugBulkyEnforcerBOSS",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001020,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_ThugBulkyEnforcerBOSS",
+      "GNONBPKENLN": "AS_Actor_AddedDamageRatio:0.1",
+      "HDNIMLNPGLD": "AS_MaxDamageRatio:0.5",
+      "MIJENFJPPPA": "AS_BuffMaxStack:5",
+      "ABJNIPFCGIF": "AS_StunDamageTakeRatio:0.35",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_Actor_AddedDamageRatio:0.1",
-      "LOOENNEIOJL": "AS_MaxDamageRatio:0.5",
-      "JFFEPCNDKBH": "AS_BuffMaxStack:5",
-      "IAFAJDEJBBG": "AS_StunDamageTakeRatio:0.35",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001021,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_DubiousHero",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001021,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_DubiousHero",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.2",
+      "HDNIMLNPGLD": "AS_AddedElementAccumulationRatio:0.15",
+      "MIJENFJPPPA": "HpPercentage:0.05",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.2",
-      "LOOENNEIOJL": "AS_AddedElementAccumulationRatio:0.15",
-      "JFFEPCNDKBH": "HpPercentage:0.05",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001022,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_DubiousHero",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001022,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_DubiousHero",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.3",
+      "HDNIMLNPGLD": "AS_AddedElementAccumulationRatio:0.2",
+      "MIJENFJPPPA": "HpPercentage:0.05",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.3",
-      "LOOENNEIOJL": "AS_AddedElementAccumulationRatio:0.2",
-      "JFFEPCNDKBH": "HpPercentage:0.05",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001023,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_DubiousHero",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001023,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_DubiousHero",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.4",
+      "HDNIMLNPGLD": "AS_AddedElementAccumulationRatio:0.25",
+      "MIJENFJPPPA": "HpPercentage:0.05",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.4",
-      "LOOENNEIOJL": "AS_AddedElementAccumulationRatio:0.25",
-      "JFFEPCNDKBH": "HpPercentage:0.05",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001024,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_DubiousHero",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001024,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_DubiousHero",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.5",
+      "HDNIMLNPGLD": "AS_AddedElementAccumulationRatio:0.3",
+      "MIJENFJPPPA": "HpPercentage:0.05",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.5",
-      "LOOENNEIOJL": "AS_AddedElementAccumulationRatio:0.3",
-      "JFFEPCNDKBH": "HpPercentage:0.05",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001025,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_JaneDoe",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001025,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_JaneDoe",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.4",
+      "HDNIMLNPGLD": "AS_Actor_AddedDamageRatio:0.06",
+      "MIJENFJPPPA": "AS_BuffMaxStack:5",
+      "ABJNIPFCGIF": "AS_BuffMax:0.3",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.4",
-      "LOOENNEIOJL": "AS_Actor_AddedDamageRatio:0.06",
-      "JFFEPCNDKBH": "AS_BuffMaxStack:5",
-      "IAFAJDEJBBG": "AS_BuffMax:0.3",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001026,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_JaneDoe",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001026,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_JaneDoe",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.6",
+      "HDNIMLNPGLD": "AS_Actor_AddedDamageRatio:0.09",
+      "MIJENFJPPPA": "AS_BuffMaxStack:5",
+      "ABJNIPFCGIF": "AS_BuffMax:0.45",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.6",
-      "LOOENNEIOJL": "AS_Actor_AddedDamageRatio:0.09",
-      "JFFEPCNDKBH": "AS_BuffMaxStack:5",
-      "IAFAJDEJBBG": "AS_BuffMax:0.45",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001027,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_JaneDoe",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001027,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_JaneDoe",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.8",
+      "HDNIMLNPGLD": "AS_Actor_AddedDamageRatio:0.12",
+      "MIJENFJPPPA": "AS_BuffMaxStack:5",
+      "ABJNIPFCGIF": "AS_BuffMax:0.6",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.8",
-      "LOOENNEIOJL": "AS_Actor_AddedDamageRatio:0.12",
-      "JFFEPCNDKBH": "AS_BuffMaxStack:5",
-      "IAFAJDEJBBG": "AS_BuffMax:0.6",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2001028,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "VR_SmallBoss_JaneDoe",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2001028,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "VR_SmallBoss_JaneDoe",
+      "GNONBPKENLN": "AS_AddedDamageRatio:1",
+      "HDNIMLNPGLD": "AS_Actor_AddedDamageRatio:0.15",
+      "MIJENFJPPPA": "AS_BuffMaxStack:5",
+      "ABJNIPFCGIF": "AS_BuffMax:0.75",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:1",
-      "LOOENNEIOJL": "AS_Actor_AddedDamageRatio:0.15",
-      "JFFEPCNDKBH": "AS_BuffMaxStack:5",
-      "IAFAJDEJBBG": "AS_BuffMax:0.75",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002001,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Curse_1100020",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Curse_1100020",
+      "GNONBPKENLN": "AS_AddDamageRatio:0.5",
+      "HDNIMLNPGLD": "AS_DecreaseStunPercent:0.05",
+      "MIJENFJPPPA": "AS_RecoverHPRatio:0.025",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddDamageRatio:0.5",
-      "LOOENNEIOJL": "AS_DecreaseStunPercent:0.05",
-      "JFFEPCNDKBH": "AS_RecoverHPRatio:0.025",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002002,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Curse_1100021",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002002,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Curse_1100021",
+      "GNONBPKENLN": "AS_AddDamageRatio:0.5",
+      "HDNIMLNPGLD": "AS_NoStun:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddDamageRatio:0.5",
-      "LOOENNEIOJL": "AS_NoStun:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002003,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_Monsterbuff_03",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002003,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_Monsterbuff_03",
+      "GNONBPKENLN": "AS_BreakStunTakeRatio:-0.25",
+      "HDNIMLNPGLD": "AS_DecreaseStunPercent:0.05",
+      "MIJENFJPPPA": "AS_HitInternalCD:10",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BreakStunTakeRatio:-0.25",
-      "LOOENNEIOJL": "AS_DecreaseStunPercent:0.05",
-      "JFFEPCNDKBH": "AS_HitInternalCD:10",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002004,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Curse_1100022",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002004,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Curse_1100022",
+      "GNONBPKENLN": "AS_AddDamageRatio:0.5",
+      "HDNIMLNPGLD": "AS_IsFastRevive:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddDamageRatio:0.5",
-      "LOOENNEIOJL": "AS_IsFastRevive:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002005,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_Monsterbuff_05",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002005,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_Monsterbuff_05",
+      "GNONBPKENLN": "AS_AddDamageRatio:0.5",
+      "HDNIMLNPGLD": "AS_StunMaxRatio:0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddDamageRatio:0.5",
-      "LOOENNEIOJL": "AS_StunMaxRatio:0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002006,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_envbuff_01",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002006,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_envbuff_01",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002007,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_envbuff_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002007,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_envbuff_02",
+      "GNONBPKENLN": "DamageToRecoverRatio:0.005",
+      "HDNIMLNPGLD": "HpToFeverRatio:0.5",
+      "MIJENFJPPPA": "MaxHpRecoverRatio:0.02",
+      "ABJNIPFCGIF": "AS_RecoverFever_Initial:1200",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "DamageToRecoverRatio:0.005",
-      "LOOENNEIOJL": "HpToFeverRatio:0.5",
-      "JFFEPCNDKBH": "MaxHpRecoverRatio:0.02",
-      "IAFAJDEJBBG": "AS_RecoverFever_Initial:1200",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002008,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_envbuff_03",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002008,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_envbuff_03",
+      "GNONBPKENLN": "AS_BuffDamgeRatio:1",
+      "HDNIMLNPGLD": "AS_RecoverSp:20",
+      "MIJENFJPPPA": "AS_RecoverHp:0.2",
+      "ABJNIPFCGIF": "AS_RecoverFever:0.3",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BuffDamgeRatio:1",
-      "LOOENNEIOJL": "AS_RecoverSp:20",
-      "JFFEPCNDKBH": "AS_RecoverHp:0.2",
-      "IAFAJDEJBBG": "AS_RecoverFever:0.3",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002009,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_envbuff_04",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002009,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_envbuff_04",
+      "GNONBPKENLN": "ShieldPercent:0.025",
+      "HDNIMLNPGLD": "AS_ShieldToDamageRatio:0.75",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_ShieldToDamageRatio:0.75",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002010,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_envbuff_05",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002010,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_envbuff_05",
+      "GNONBPKENLN": "DamageToShieldRatio:0.007",
+      "HDNIMLNPGLD": "ShieldToStunRatio:2",
+      "MIJENFJPPPA": "MaxShieldGetRatioOnce:0.02",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "DamageToShieldRatio:0.007",
-      "LOOENNEIOJL": "ShieldToStunRatio:2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002011,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_01",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002011,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_01",
+      "GNONBPKENLN": "AddedStunRatio:0.3",
+      "HDNIMLNPGLD": "TextAddedStunRatio:0.3",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AddedStunRatio:0.3",
-      "LOOENNEIOJL": "TextAddedStunRatio:0.3",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002012,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002012,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_02",
+      "GNONBPKENLN": "AS_DamageUpDuration_CampIdle_02:8",
+      "HDNIMLNPGLD": "AS_DamageTakeRatio_CampIdle_02:0.35",
+      "MIJENFJPPPA": "TextAS_DamageUpDuration_CampIdle_02:8",
+      "ABJNIPFCGIF": "TextAS_DamageTakeRatio_CampIdle_02:0.35",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_DamageUpDuration_CampIdle_02:8",
-      "LOOENNEIOJL": "AS_DamageTakeRatio_CampIdle_02:0.35",
-      "JFFEPCNDKBH": "TextAS_DamageUpDuration_CampIdle_02:8",
-      "IAFAJDEJBBG": "TextAS_DamageTakeRatio_CampIdle_02:0.35",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002013,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_03",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002013,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_03",
+      "GNONBPKENLN": "AS_FeverGetRatioMore:0.3",
+      "HDNIMLNPGLD": "AS_FeverGetRatioLess:0.15",
+      "MIJENFJPPPA": "TextAS_FeverGetRatioLess:0.15",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_FeverGetRatioMore:0.3",
-      "LOOENNEIOJL": "AS_FeverGetRatioLess:0.15",
-      "JFFEPCNDKBH": "TextAS_FeverGetRatioLess:0.15",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002014,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_04",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002014,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_04",
+      "GNONBPKENLN": "AS_AddedDamageRatioMore:0.3",
+      "HDNIMLNPGLD": "AS_AddedDamageRatioLess:0.15",
+      "MIJENFJPPPA": "TextAS_AddedDamageRatioLess:0.15",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatioMore:0.3",
-      "LOOENNEIOJL": "AS_AddedDamageRatioLess:0.15",
-      "JFFEPCNDKBH": "TextAS_AddedDamageRatioLess:0.15",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002015,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_05",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002015,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_05",
+      "GNONBPKENLN": "AS_AddedElementAccumulationRatio:0.25",
+      "HDNIMLNPGLD": "TextAS_AddedElementAccumulationRatio:0.25",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedElementAccumulationRatio:0.25",
-      "LOOENNEIOJL": "TextAS_AddedElementAccumulationRatio:0.25",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002016,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_06",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002016,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_06",
+      "GNONBPKENLN": "AS_ElementMysteryDelta:20",
+      "HDNIMLNPGLD": "TextAS_ElementMysteryDelta:20",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_ElementMysteryDelta:20",
-      "LOOENNEIOJL": "TextAS_ElementMysteryDelta:20",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002017,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_07",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002017,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_07",
+      "GNONBPKENLN": "AS_SPGetRatio:0.25",
+      "HDNIMLNPGLD": "TextAS_SPGetRatio:0.25",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_SPGetRatio:0.25",
-      "LOOENNEIOJL": "TextAS_SPGetRatio:0.25",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002018,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_08",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002018,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_08",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.2",
+      "HDNIMLNPGLD": "AS_AddedStunRatio:0.2",
+      "MIJENFJPPPA": "TextAS_AddedDamageRatio:0.2",
+      "ABJNIPFCGIF": "TextAS_AddedStunRatio:0.2",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.2",
-      "LOOENNEIOJL": "AS_AddedStunRatio:0.2",
-      "JFFEPCNDKBH": "TextAS_AddedDamageRatio:0.2",
-      "IAFAJDEJBBG": "TextAS_AddedStunRatio:0.2",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002019,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_09",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002019,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_09",
+      "GNONBPKENLN": "AS_HpShieldGetRatio:0.3",
+      "HDNIMLNPGLD": "TextAS_HpShieldGetRatio:0.3",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_HpShieldGetRatio:0.3",
-      "LOOENNEIOJL": "TextAS_HpShieldGetRatio:0.3",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002020,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_buff_10",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002020,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_buff_10",
+      "GNONBPKENLN": "AS_DamageUp:0.4",
+      "HDNIMLNPGLD": "TextAS_DamageUp:0.4",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_DamageUp:0.4",
-      "LOOENNEIOJL": "TextAS_DamageUp:0.4",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002021,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_Monsterbuff_01",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002021,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_Monsterbuff_01",
+      "GNONBPKENLN": "ParryAidTakeStunRatio:-0.3",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "ParryAidTakeStunRatio:-0.3",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002022,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_Monsterbuff_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002022,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_Monsterbuff_02",
+      "GNONBPKENLN": "AS_AddDamageRatio:0.5",
+      "HDNIMLNPGLD": "AS_StunMaxRatio:0.3",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddDamageRatio:0.5",
-      "LOOENNEIOJL": "AS_StunMaxRatio:0.3",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002023,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_envbuff_04_shield",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002023,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_envbuff_04_shield",
+      "GNONBPKENLN": "ShieldPercent:0.025",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "ShieldPercent:0.025",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 2002024,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "CampIdle_envbuff_05_shield",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 2002024,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_envbuff_05_shield",
+      "GNONBPKENLN": "DamageToShieldRatio:0.007",
+      "HDNIMLNPGLD": "ShieldToStunRatio:2",
+      "MIJENFJPPPA": "MaxShieldGetRatioOnce:0.02",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "DamageToShieldRatio:0.007",
-      "LOOENNEIOJL": "ShieldToStunRatio:2",
-      "JFFEPCNDKBH": "MaxShieldGetRatioOnce:0.02",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001002,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Buff_ShieldPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Buff_ElementAbnormalPlay",
+      "GNONBPKENLN": "AS_ElementMysteryDelta:50",
+      "HDNIMLNPGLD": "AS_SPGetRatio:0.5",
+      "MIJENFJPPPA": "AS_BuffDuration:15",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_HpShieldDuration:15",
-      "LOOENNEIOJL": "AS_ShieldPercentage:0.1",
-      "JFFEPCNDKBH": "AS_AddedDamageRatio:0.5",
-      "IAFAJDEJBBG": "AS_BuffDuration:15",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001003,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Buff_BreakStunPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001002,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Buff_ShieldPlay",
+      "GNONBPKENLN": "AS_HpShieldDuration:15",
+      "HDNIMLNPGLD": "AS_ShieldPercentage:0.1",
+      "MIJENFJPPPA": "AS_AddedDamageRatio:0.5",
+      "ABJNIPFCGIF": "AS_BuffDuration:15",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.5",
-      "LOOENNEIOJL": "AS_CriticalDMG:0.5",
-      "JFFEPCNDKBH": "AS_BuffDuration:15",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001004,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Buff_EXSPPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001003,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Buff_BreakStunPlay",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.5",
+      "HDNIMLNPGLD": "AS_CriticalDMG:0.5",
+      "MIJENFJPPPA": "AS_BuffDuration:15",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_CriticalDelta:0.2",
-      "LOOENNEIOJL": "AS_CriticalDamageDelta:0.8",
-      "JFFEPCNDKBH": "AS_BuffDuration:15",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001005,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Buff_AidQTEPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001004,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Buff_EXSPPlay",
+      "GNONBPKENLN": "AS_CriticalDelta:0.2",
+      "HDNIMLNPGLD": "AS_CriticalDamageDelta:0.8",
+      "MIJENFJPPPA": "AS_BuffDuration:15",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.5",
-      "LOOENNEIOJL": "AS_BuffDuration:15",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001006,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Buff_CounterPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001005,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Buff_AidQTEPlay",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.5",
+      "HDNIMLNPGLD": "AS_BuffDuration:15",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BuffDamageRatio:0.8",
-      "LOOENNEIOJL": "AS_AccumulationRatio:0.25",
-      "JFFEPCNDKBH": "AS_BuffDuration:15",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001101,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Condition_ElementAbnormalPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001006,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Buff_CounterPlay",
+      "GNONBPKENLN": "AS_BuffDamageRatio:0.8",
+      "HDNIMLNPGLD": "AS_AccumulationRatio:0.25",
+      "MIJENFJPPPA": "AS_BuffDuration:15",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BuffDuration:15",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001102,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Condition_ShieldPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001101,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Condition_ElementAbnormalPlay",
+      "GNONBPKENLN": "AS_BuffDuration:15",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BuffDuration:15",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001103,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Condition_BreakStunPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001102,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Condition_ShieldPlay",
+      "GNONBPKENLN": "AS_BuffDuration:15",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BuffDuration:15",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001104,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Condition_EXSPPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001103,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Condition_BreakStunPlay",
+      "GNONBPKENLN": "AS_BuffDuration:15",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BuffDuration:15",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001105,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Condition_AidQTEPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001104,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Condition_EXSPPlay",
+      "GNONBPKENLN": "AS_BuffDuration:15",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BuffDuration:15",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 3001106,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "ActivityBattleAbility_Condition_CounterPlay",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001105,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Condition_AidQTEPlay",
+      "GNONBPKENLN": "AS_BuffDuration:15",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BuffDuration:15",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000001,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_RoomBuff_Physical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3001106,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Condition_CounterPlay",
+      "GNONBPKENLN": "AS_BuffDuration:15",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.4",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000002,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_RoomBuff_Elec",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3002101,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_VR_Buff_ShieldPlay",
+      "GNONBPKENLN": "AS_BaseAttackDelta:800",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.4",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000003,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_RoomBuff_Ether",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3002102,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_VR_Buff_SwitchOutPlay",
+      "GNONBPKENLN": "AS_BuffDuration:15",
+      "HDNIMLNPGLD": "AS_SpRecoverRatio:2",
+      "MIJENFJPPPA": "AS_AddedDamageRatio:0.3",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.4",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000004,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_RoomBuff_Fire",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3002103,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_VR_Buff_DisorderPlay",
+      "GNONBPKENLN": "AS_BuffDuration:30",
+      "HDNIMLNPGLD": "AS_BuffAddDurationRatio:0.5",
+      "MIJENFJPPPA": "AS_BuffDamageRatio:0.5",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.4",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000005,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_RoomBuff_Ice",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3002104,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_VR_Buff_QTEPlay",
+      "GNONBPKENLN": "AS_BuffDuration:25",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:1.2",
+      "MIJENFJPPPA": "AS_StunDestroyRecoverRate:0.4",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.4",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000006,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Elec",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 3002105,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_VR_Buff_EXQTEPlay",
+      "GNONBPKENLN": "AS_BuffDuration:15",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:0.6",
+      "MIJENFJPPPA": "AS_FeverAmount:700",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3002106,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_VR_Buff_SoloPlay",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.15",
+      "HDNIMLNPGLD": "AS_AddedDamageRatioMax:1.5",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3002107,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Yanagi_Buff_ElementAbnormalPlay",
+      "GNONBPKENLN": "AS_AddedElementAccumulationRatio:1",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3002108,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Yanagi_Buff_UniquePlay",
+      "GNONBPKENLN": "AS_BaseAtkRatio:0.5",
+      "HDNIMLNPGLD": "AS_ElementMysteryDelta:20",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3002109,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Yanagi_Buff_TalentPlay",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3002110,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Lighter_Buff_01",
+      "GNONBPKENLN": "AS_BreakStunUp:0.35",
+      "HDNIMLNPGLD": "AS_BreakStunUp_Duration:10",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3002111,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Lighter_Buff_02",
+      "GNONBPKENLN": "AS_CriticalDamageRatioDelta:0.8",
+      "HDNIMLNPGLD": "AS_Buff_Duration:20",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3002112,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_Lighter_Buff_TalentPlay",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3003001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Curse_1100020",
+      "GNONBPKENLN": "AS_AddDamageRatio:0",
+      "HDNIMLNPGLD": "AS_DecreaseStunPercent:0.02",
+      "MIJENFJPPPA": "AS_RecoverHPRatio:0.02",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Boss"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3003002,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Curse_1100022",
+      "GNONBPKENLN": "AS_AddDamageRatio:0",
+      "HDNIMLNPGLD": "AS_IsFastRevive:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Boss"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3003003,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "CampIdle_Monsterbuff_05",
+      "GNONBPKENLN": "AS_AddDamageRatio:0",
+      "HDNIMLNPGLD": "AS_StunMaxRatio:0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Boss"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3003004,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_BabelTower_Buff_Demonize_Demote",
+      "GNONBPKENLN": "AS_DamageTakeRatio_Demote:-0.25",
+      "HDNIMLNPGLD": "AS_BreakStunTakeRatio_Demote:0",
+      "MIJENFJPPPA": "AS_AddedDamageRatio_Demote:0.5",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Elite"
+      ],
+      "PDOBCBLJGBA": [
+        "Demote"
+      ],
+      "KNCAGDKOAPB": [
+        "Unlucky"
+      ]
+    },
+    {
+      "NENJOPPEGDM": 3003005,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_BabelTower_Buff_Demonize_Promote",
+      "GNONBPKENLN": "AS_DamageTakeRatio_Promote:-0.25",
+      "HDNIMLNPGLD": "AS_BreakStunTakeRatio_Promote:0",
+      "MIJENFJPPPA": "AS_AddedDamageRatio_Promote:0.5",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Elite"
+      ],
+      "PDOBCBLJGBA": [
+        "Promote"
+      ],
+      "KNCAGDKOAPB": [
+        "Unlucky"
+      ]
+    },
+    {
+      "NENJOPPEGDM": 3003006,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_BabelTower_Buff_Demonize_Boss",
+      "GNONBPKENLN": "AS_DamageTakeRatio_Boss:-0.25",
+      "HDNIMLNPGLD": "AS_BreakStunTakeRatio_Boss:0",
+      "MIJENFJPPPA": "AS_AddedDamageRatio_Boss:0.5",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Boss"
+      ],
+      "PDOBCBLJGBA": [
+        "Boss"
+      ],
+      "KNCAGDKOAPB": [
+        "Unlucky"
+      ]
+    },
+    {
+      "NENJOPPEGDM": 3003007,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_BabelTower_Buff_Demonize_MainStoryBoss",
+      "GNONBPKENLN": "AS_DamageTakeRatio_MainStoryBoss:-0.25",
+      "HDNIMLNPGLD": "AS_BreakStunTakeRatio_MainStoryBoss:0",
+      "MIJENFJPPPA": "AS_AddedDamageRatio_MainStoryBoss:0.5",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Boss"
+      ],
+      "PDOBCBLJGBA": [
+        "MainStoryBoss"
+      ],
+      "KNCAGDKOAPB": [
+        "Unlucky"
+      ]
+    },
+    {
+      "NENJOPPEGDM": 3003008,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Level_VR_Monster_ErrorFlicker",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Normal"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3003009,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "ActivityBattleAbility_BabelTower_Buff_Demonize_Small",
+      "GNONBPKENLN": "AS_DamageTakeRatio_Small:-0.25",
+      "HDNIMLNPGLD": "AS_BreakStunTakeRatio_Small:0",
+      "MIJENFJPPPA": "AS_AddedDamageRatio_Small:0.5",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Normal"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 3003010,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Curse_1100021",
+      "GNONBPKENLN": "AS_AddDamageRatio:0",
+      "HDNIMLNPGLD": "AS_NoStun:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy_Boss"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002106,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_EnvBuff_01",
+      "GNONBPKENLN": "AS_AddedAttackDelta:4000",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:4",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002107,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_EnvBuff_02",
+      "GNONBPKENLN": "AS_Hiisazu:0.2",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002108,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_EnvBuff_03",
+      "GNONBPKENLN": "CriticalDelta:0.3",
+      "HDNIMLNPGLD": "AS_CritDamageRatioDelta:0.6",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002109,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_EnvBuff_04",
+      "GNONBPKENLN": "AS_CritDamageRatioDelta:0.45",
+      "HDNIMLNPGLD": "AS_Duration:8",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002110,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_01",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002111,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_02",
+      "GNONBPKENLN": "AS_DamageDuration:10",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002112,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_03",
+      "GNONBPKENLN": "AS_SPRecoverAmount:20",
+      "HDNIMLNPGLD": "AS_FeverRecoverAmount:1000",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002113,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_04",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002114,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_05",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002115,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_06",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002116,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_07",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002117,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_08",
+      "GNONBPKENLN": "BaseAttackRatio:0.3",
+      "HDNIMLNPGLD": "AS_AddedStunRatio:0.25",
+      "MIJENFJPPPA": "AS_Buff_Duration:10",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002118,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_01_Enemy",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002119,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_02_Enemy",
+      "GNONBPKENLN": "CriticalDelta:0.3",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002120,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_03_Enemy",
+      "GNONBPKENLN": "BaseDefenceRatio:0.3",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002121,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_04_Enemy",
+      "GNONBPKENLN": "BaseAttackRatio:0.3",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002122,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_05_Enemy",
+      "GNONBPKENLN": "HpPercentage:0.3",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002123,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_06_Enemy",
+      "GNONBPKENLN": "AS_StunMaxRatio:0.2",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002124,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_07_Enemy",
+      "GNONBPKENLN": "BaseAttackRatio:0.5",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002125,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_08_Enemy",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002126,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_HeatBuff_Endless",
+      "GNONBPKENLN": "DamageUpPerDuration:0.04",
+      "HDNIMLNPGLD": "DamageUpPerTime:1",
+      "MIJENFJPPPA": "NoDamageUpTime:5",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002127,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_EnvBuff_WitchTime",
+      "GNONBPKENLN": "WitchTime_Duration:3",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002128,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_EnvBuff_HeatManager",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 4002129,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "TheGun_EnvBuff_01",
+      "GNONBPKENLN": "AS_AddedAttackDelta:3000",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:2.5",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 60000001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_RoomBuff_Physical",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.4",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 60000002,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_RoomBuff_Elec",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.4",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 60000003,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_RoomBuff_Ether",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.4",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 60000004,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_RoomBuff_Fire",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.4",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 60000005,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_RoomBuff_Ice",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.4",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 60000006,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Elec",
+      "GNONBPKENLN": "HpPercentage:0.3",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000006_Description",
+      "NPJIPPEHKJK": "60000006_Title",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.3",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000006_Description",
-      "CGIFIGLFADA": "60000006_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000007,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Ether",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60000007,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Ether",
+      "GNONBPKENLN": "HpPercentage:0.3",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000007_Description",
+      "NPJIPPEHKJK": "60000007_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.3",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000007_Description",
-      "CGIFIGLFADA": "60000007_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000008,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Fire",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60000008,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Fire",
+      "GNONBPKENLN": "HpPercentage:0.3",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000008_Description",
+      "NPJIPPEHKJK": "60000008_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.3",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000008_Description",
-      "CGIFIGLFADA": "60000008_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000009,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Ice",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60000009,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Ice",
+      "GNONBPKENLN": "HpPercentage:0.3",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000009_Description",
+      "NPJIPPEHKJK": "60000009_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.3",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000009_Description",
-      "CGIFIGLFADA": "60000009_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000010,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Card_Froze_2001109",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60000010,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Card_Froze_2001109",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000010_Description",
+      "NPJIPPEHKJK": "60000010_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000010_Description",
-      "CGIFIGLFADA": "60000010_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000011,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60000011,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield",
+      "GNONBPKENLN": "HpPercentage_Elite:0.3",
+      "HDNIMLNPGLD": "HpPercentage_Boss:0.15",
+      "MIJENFJPPPA": "AS_AddDamageRatio:1",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000011_Description",
+      "NPJIPPEHKJK": "60000011_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "NotApply"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage_Elite:0.3",
-      "LOOENNEIOJL": "HpPercentage_Boss:0.15",
-      "JFFEPCNDKBH": "AS_AddDamageRatio:1",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000011_Description",
-      "CGIFIGLFADA": "60000011_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000012,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Physical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60000012,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Physical",
+      "GNONBPKENLN": "HpPercentage:0.15",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000009_Description",
+      "NPJIPPEHKJK": "60000009_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.15",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000009_Description",
-      "CGIFIGLFADA": "60000009_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000013,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_FirePhysical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60000013,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_FirePhysical",
+      "GNONBPKENLN": "HpPercentage:0.3",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000006_Description",
+      "NPJIPPEHKJK": "60000006_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.3",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000006_Description",
-      "CGIFIGLFADA": "60000006_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000014,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_IcePhysical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60000014,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_IcePhysical",
+      "GNONBPKENLN": "HpPercentage:0.3",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000006_Description",
+      "NPJIPPEHKJK": "60000006_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.3",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000006_Description",
-      "CGIFIGLFADA": "60000006_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60000015,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_IceEther",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60000015,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_IceEther",
+      "GNONBPKENLN": "HpPercentage:0.3",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000006_Description",
+      "NPJIPPEHKJK": "60000006_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.3",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000006_Description",
-      "CGIFIGLFADA": "60000006_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60001001,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Elec",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60001001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Elec",
+      "GNONBPKENLN": "HpPercentage:0.15",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000006_Description",
+      "NPJIPPEHKJK": "60000006_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.15",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000006_Description",
-      "CGIFIGLFADA": "60000006_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60001002,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Ether",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60001002,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Ether",
+      "GNONBPKENLN": "HpPercentage:0.15",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000007_Description",
+      "NPJIPPEHKJK": "60000007_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.15",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000007_Description",
-      "CGIFIGLFADA": "60000007_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60001003,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Fire",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60001003,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Fire",
+      "GNONBPKENLN": "HpPercentage:0.15",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000008_Description",
+      "NPJIPPEHKJK": "60000008_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.15",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000008_Description",
-      "CGIFIGLFADA": "60000008_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60001004,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Ice",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60001004,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Ice",
+      "GNONBPKENLN": "HpPercentage:0.15",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000009_Description",
+      "NPJIPPEHKJK": "60000009_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.15",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000009_Description",
-      "CGIFIGLFADA": "60000009_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60001005,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Physical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60001005,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Physical",
+      "GNONBPKENLN": "HpPercentage:0.15",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000009_Description",
+      "NPJIPPEHKJK": "60000009_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.15",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000009_Description",
-      "CGIFIGLFADA": "60000009_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60001006,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_FirePhysical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60001006,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_FirePhysical",
+      "GNONBPKENLN": "HpPercentage:0.15",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000006_Description",
+      "NPJIPPEHKJK": "60000006_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.15",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000006_Description",
-      "CGIFIGLFADA": "60000006_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60001007,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_IcePhysical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60001007,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_IcePhysical",
+      "GNONBPKENLN": "HpPercentage:0.15",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000006_Description",
+      "NPJIPPEHKJK": "60000006_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.15",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000006_Description",
-      "CGIFIGLFADA": "60000006_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60001008,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_IceEther",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60001008,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_IceEther",
+      "GNONBPKENLN": "HpPercentage:0.15",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60000006_Description",
+      "NPJIPPEHKJK": "60000006_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.15",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60000006_Description",
-      "CGIFIGLFADA": "60000006_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003000,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003000,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield",
+      "GNONBPKENLN": "HpPercentage_Elite:0.35",
+      "HDNIMLNPGLD": "HpPercentage_Boss:0.2",
+      "MIJENFJPPPA": "AS_AddDamageRatio:1",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "60003000_Description",
+      "NPJIPPEHKJK": "60003000_Title",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "NotApply"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage_Elite:0.35",
-      "LOOENNEIOJL": "HpPercentage_Boss:0.2",
-      "JFFEPCNDKBH": "AS_AddDamageRatio:1",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "60003000_Description",
-      "CGIFIGLFADA": "60003000_Title"
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003001,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Elec",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003001,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Elec",
+      "GNONBPKENLN": "HpPercentage:0.35",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Elite"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.35",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003002,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Ether",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003002,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Ether",
+      "GNONBPKENLN": "HpPercentage:0.35",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Elite"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.35",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003003,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Fire",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003003,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Fire",
+      "GNONBPKENLN": "HpPercentage:0.35",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Elite"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.35",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003004,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Ice",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003004,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Ice",
+      "GNONBPKENLN": "HpPercentage:0.35",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Elite"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.35",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003005,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Physical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003005,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Physical",
+      "GNONBPKENLN": "HpPercentage:0.35",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Elite"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.35",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003006,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Elec",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003006,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Elec",
+      "GNONBPKENLN": "HpPercentage:0.2",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.2",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003007,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Ether",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003007,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Ether",
+      "GNONBPKENLN": "HpPercentage:0.2",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.2",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003008,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Fire",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003008,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Fire",
+      "GNONBPKENLN": "HpPercentage:0.2",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.2",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003009,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Ice",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003009,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Ice",
+      "GNONBPKENLN": "HpPercentage:0.2",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.2",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003010,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_ElementShield_Physical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003010,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_ElementShield_Physical",
+      "GNONBPKENLN": "HpPercentage:0.2",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.2",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003011,
-      "LCMNJFHNMPC": "Abyss_ElementShield_FirePhysical",
-      "HEKLCOBLAHB": "Enemy_Elite",
-      "LOODAFLPPEH": "Abyss_ElementShield_FirePhysical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003011,
+      "PNKBKDPLFLK": "Abyss_ElementShield_FirePhysical",
+      "POGMNLIJLAC": "Enemy_Elite",
+      "BPOBKODMOBG": "Abyss_ElementShield_FirePhysical",
+      "GNONBPKENLN": "HpPercentage:0.35",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Elite"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.35",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 60003012,
-      "LCMNJFHNMPC": "Abyss_ElementShield_FirePhysical",
-      "HEKLCOBLAHB": "Enemy_Boss",
-      "LOODAFLPPEH": "Abyss_ElementShield_FirePhysical",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 60003012,
+      "PNKBKDPLFLK": "Abyss_ElementShield_FirePhysical",
+      "POGMNLIJLAC": "Enemy_Boss",
+      "BPOBKODMOBG": "Abyss_ElementShield_FirePhysical",
+      "GNONBPKENLN": "HpPercentage:0.2",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy_Boss"
       ],
-      "BPJBDHFHFOI": [
+      "PDOBCBLJGBA": [
         "Shield"
       ],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "HpPercentage:0.2",
-      "LOOENNEIOJL": "AS_AddDamageRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001011,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_01",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001011,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_01",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.8",
+      "HDNIMLNPGLD": "AS_AddedAccumulationRatio:0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001011_Description",
+      "NPJIPPEHKJK": "61001011_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.8",
-      "LOOENNEIOJL": "AS_AddedAccumulationRatio:0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001011_Description",
-      "CGIFIGLFADA": "61001011_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001021,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001021,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_02",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.8",
+      "HDNIMLNPGLD": "AS_AddedAccumulationRatio:0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001021_Description",
+      "NPJIPPEHKJK": "61001021_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.8",
-      "LOOENNEIOJL": "AS_AddedAccumulationRatio:0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001021_Description",
-      "CGIFIGLFADA": "61001021_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001031,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_03",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001031,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_03",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.8",
+      "HDNIMLNPGLD": "AS_AddedAccumulationRatio:0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001031_Description",
+      "NPJIPPEHKJK": "61001031_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.8",
-      "LOOENNEIOJL": "AS_AddedAccumulationRatio:0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001031_Description",
-      "CGIFIGLFADA": "61001031_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001041,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_04",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001041,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_04",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.8",
+      "HDNIMLNPGLD": "AS_AddedAccumulationRatio:0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001041_Description",
+      "NPJIPPEHKJK": "61001041_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.8",
-      "LOOENNEIOJL": "AS_AddedAccumulationRatio:0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001041_Description",
-      "CGIFIGLFADA": "61001041_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001051,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_05",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001051,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_05",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.8",
+      "HDNIMLNPGLD": "AS_AddedAccumulationRatio:0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001051_Description",
+      "NPJIPPEHKJK": "61001051_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.8",
-      "LOOENNEIOJL": "AS_AddedAccumulationRatio:0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001051_Description",
-      "CGIFIGLFADA": "61001051_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001061,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_06",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001061,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_06",
+      "GNONBPKENLN": "AddedDamageRatio:1",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001061_Description",
+      "NPJIPPEHKJK": "61001061_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AddedDamageRatio:1",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001061_Description",
-      "CGIFIGLFADA": "61001061_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001071,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_07",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001071,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_07",
+      "GNONBPKENLN": "AS_AddedAccumulationRatio:0.25",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:0.8",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001071_Description",
+      "NPJIPPEHKJK": "61001071_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedAccumulationRatio:0.25",
-      "LOOENNEIOJL": "AS_AddedDamageRatio:0.8",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001071_Description",
-      "CGIFIGLFADA": "61001071_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001081,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_08",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001081,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_08",
+      "GNONBPKENLN": "AS_BreakStunRatio:0.5",
+      "HDNIMLNPGLD": "StunDamageTakeRatio:0.75",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001081_Description",
+      "NPJIPPEHKJK": "61001081_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BreakStunRatio:0.5",
-      "LOOENNEIOJL": "StunDamageTakeRatio:0.75",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001081_Description",
-      "CGIFIGLFADA": "61001081_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001091,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_09",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001091,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_09",
+      "GNONBPKENLN": "AS_FeverGetRatio:0.5",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:1.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001091_Description",
+      "NPJIPPEHKJK": "61001091_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_FeverGetRatio:0.5",
-      "LOOENNEIOJL": "AS_AddedDamageRatio:1.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001091_Description",
-      "CGIFIGLFADA": "61001091_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61001101,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_FixedLayerBuff_10",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61001101,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_FixedLayerBuff_10",
+      "GNONBPKENLN": "AddedStunRatio:1",
+      "HDNIMLNPGLD": "AddedDamageRatio:1.5",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61001101_Description",
+      "NPJIPPEHKJK": "61001101_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AddedStunRatio:1",
-      "LOOENNEIOJL": "AddedDamageRatio:1.5",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61001101_Description",
-      "CGIFIGLFADA": "61001101_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61002011,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_Fixed02LayerBuff_01",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61002011,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_Fixed02LayerBuff_01",
+      "GNONBPKENLN": "AS_AddedDamageRatio:1",
+      "HDNIMLNPGLD": "AS_AddedStunRatio:1",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61002011_Description",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:1",
-      "LOOENNEIOJL": "AS_AddedStunRatio:1",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61002011_Description",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61002021,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_Fixed02LayerBuff_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61002021,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_Fixed02LayerBuff_02",
+      "GNONBPKENLN": "AS_AddedDamageRatio:1.5",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61002021_Description",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:1.5",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61002021_Description",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61002031,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_Fixed02LayerBuff_03",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61002031,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_Fixed02LayerBuff_03",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.35",
+      "HDNIMLNPGLD": "AS_DamageTakeRatio:-0.25",
+      "MIJENFJPPPA": "AS_Duration:15",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61002031_Description",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.35",
-      "LOOENNEIOJL": "AS_DamageTakeRatio:-0.25",
-      "JFFEPCNDKBH": "AS_Duration:15",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61002031_Description",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61002041,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_Fixed02LayerBuff_04_01",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61002041,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_Fixed02LayerBuff_04_01",
+      "GNONBPKENLN": "AS_BreakStunRatio:0.3",
+      "HDNIMLNPGLD": "AS_DestroyRecoverRate_Ratio:-0.2",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61002041_Description",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BreakStunRatio:0.3",
-      "LOOENNEIOJL": "AS_DestroyRecoverRate_Ratio:-0.2",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61002041_Description",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61002042,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_Fixed02LayerBuff_04_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61002042,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_Fixed02LayerBuff_04_02",
+      "GNONBPKENLN": "AS_DestroyRecoverRate_Ratio:-0.2",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_DestroyRecoverRate_Ratio:-0.2",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61002051,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_Fixed02LayerBuff_05",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61002051,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_Fixed02LayerBuff_05",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.35",
+      "HDNIMLNPGLD": "AS_DamageTakeRatio:-0.25",
+      "MIJENFJPPPA": "AS_Duration:15",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61002051_Description",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.35",
-      "LOOENNEIOJL": "AS_DamageTakeRatio:-0.25",
-      "JFFEPCNDKBH": "AS_Duration:15",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61002051_Description",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61002061,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_Fixed02LayerBuff_06",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61002061,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_Fixed02LayerBuff_06",
+      "GNONBPKENLN": "AS_AddedElementAccumulationRatio:0.3",
+      "HDNIMLNPGLD": "AS_EnemyDamageRatio:-0.25",
+      "MIJENFJPPPA": "AS_Duration:10",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61002061_Description",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedElementAccumulationRatio:0.3",
-      "LOOENNEIOJL": "AS_EnemyDamageRatio:-0.25",
-      "JFFEPCNDKBH": "AS_Duration:10",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61002061_Description",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61002071,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_Fixed02LayerBuff_07",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61002071,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_Fixed02LayerBuff_07",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.1",
+      "HDNIMLNPGLD": "AS_DamageTakeRatio:-0.1",
+      "MIJENFJPPPA": "AS_Duration:10",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61002071_Description",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.1",
-      "LOOENNEIOJL": "AS_DamageTakeRatio:-0.1",
-      "JFFEPCNDKBH": "AS_Duration:10",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61002071_Description",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 61002081,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_Fixed02LayerBuff_08",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 61002081,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_Fixed02LayerBuff_08",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.4",
+      "HDNIMLNPGLD": "AS_RecoverHPTotal:0.05",
+      "MIJENFJPPPA": "AS_Duration:5",
+      "ABJNIPFCGIF": "AS_SmoothRecoverHP:0.01",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "61002081_Description",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.4",
-      "LOOENNEIOJL": "AS_RecoverHPTotal:0.05",
-      "JFFEPCNDKBH": "AS_Duration:5",
-      "IAFAJDEJBBG": "AS_SmoothRecoverHP:0.01",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "61002081_Description",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001011,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_01",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001011,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_01",
+      "GNONBPKENLN": "AS_AddedDamageRatio_Elite:-0.25",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio_Normal:0.5",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "62001011_Description",
+      "NPJIPPEHKJK": "62001011_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio_Elite:-0.25",
-      "LOOENNEIOJL": "AS_AddedDamageRatio_Normal:0.5",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "62001011_Description",
-      "CGIFIGLFADA": "62001011_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001012,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_01_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001012,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_01_02",
+      "GNONBPKENLN": "AS_AddedDamageRatio_01:0.2",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio_02:0.5",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio_01:0.2",
-      "LOOENNEIOJL": "AS_AddedDamageRatio_02:0.5",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001021,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001021,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_02",
+      "GNONBPKENLN": "DestroyRecoverRate_Ratio:-0.17",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:-0.2",
+      "MIJENFJPPPA": "AS_AddedBreakStunRatio:0.5",
+      "ABJNIPFCGIF": "AS_BreakStunTime: 0.2",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "62001021_Description",
+      "NPJIPPEHKJK": "62001021_Title",
+      "AKDJBPBMFKC": [
         "Enemy"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "DestroyRecoverRate_Ratio:-0.17",
-      "LOOENNEIOJL": "AS_AddedDamageRatio:-0.2",
-      "JFFEPCNDKBH": "AS_AddedBreakStunRatio:0.5",
-      "IAFAJDEJBBG": "AS_BreakStunTime: 0.2",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "62001021_Description",
-      "CGIFIGLFADA": "62001021_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001022,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_02_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001022,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_02_02",
+      "GNONBPKENLN": "AS_AddedDamageRatio_01:0.2",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio_01:0.2",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001031,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_03",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001031,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_03",
+      "GNONBPKENLN": "AS_AddedBreakStunRatio_NormalAtk:0.15",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio_IsQTE:1",
+      "MIJENFJPPPA": "AS_AddedDamageRatio_InStun:0.5",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "62001031_Description",
+      "NPJIPPEHKJK": "62001031_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedBreakStunRatio_NormalAtk:0.15",
-      "LOOENNEIOJL": "AS_AddedDamageRatio_IsQTE:1",
-      "JFFEPCNDKBH": "AS_AddedDamageRatio_InStun:0.5",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "62001031_Description",
-      "CGIFIGLFADA": "62001031_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001041,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_04",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001041,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_04",
+      "GNONBPKENLN": "",
+      "HDNIMLNPGLD": "",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "62001041_Description",
+      "NPJIPPEHKJK": "62001041_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "",
-      "LOOENNEIOJL": "",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "62001041_Description",
-      "CGIFIGLFADA": "62001041_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001042,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_04_02",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001042,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_04_02",
+      "GNONBPKENLN": "AS_BaseAtkRatio:0.1",
+      "HDNIMLNPGLD": "AS_ElementMysteryDelta:10",
+      "MIJENFJPPPA": "Duration:20",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BaseAtkRatio:0.1",
-      "LOOENNEIOJL": "AS_ElementMysteryDelta:10",
-      "JFFEPCNDKBH": "Duration:20",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "",
-      "CGIFIGLFADA": ""
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001051,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_05",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001051,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_05",
+      "GNONBPKENLN": "AS_BaseAtkRatio_Base:0.2",
+      "HDNIMLNPGLD": "AS_BuffDamgeRatio_Base:0.3",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "62001051_Description",
+      "NPJIPPEHKJK": "62001051_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BaseAtkRatio_Base:0.2",
-      "LOOENNEIOJL": "AS_BuffDamgeRatio_Base:0.3",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "62001051_Description",
-      "CGIFIGLFADA": "62001051_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001061,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_06",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001061,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_06",
+      "GNONBPKENLN": "AS_BaseAtkRatio:0.2",
+      "HDNIMLNPGLD": "AS_DamageTakeRatio:0.2",
+      "MIJENFJPPPA": "AS_ExtraBaseAtkRatio:0.2",
+      "ABJNIPFCGIF": "AS_SpRecover:10",
+      "LHPKINGKGIG": "Duration:20",
+      "CONFEHKNNDJ": "62001061_Description",
+      "NPJIPPEHKJK": "62001061_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_BaseAtkRatio:0.2",
-      "LOOENNEIOJL": "AS_DamageTakeRatio:0.2",
-      "JFFEPCNDKBH": "AS_ExtraBaseAtkRatio:0.2",
-      "IAFAJDEJBBG": "AS_SpRecover:10",
-      "BCPOOMJFCEO": "Duration:20",
-      "BFALFJIGOJM": "62001061_Description",
-      "CGIFIGLFADA": "62001061_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001071,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_07",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001071,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_07",
+      "GNONBPKENLN": "AS_AccumulationRatio:0.25",
+      "HDNIMLNPGLD": "AS_AddDamageRatio:0.35",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "62001071_Description",
+      "NPJIPPEHKJK": "62001071_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AccumulationRatio:0.25",
-      "LOOENNEIOJL": "AS_AddDamageRatio:0.35",
-      "JFFEPCNDKBH": "",
-      "IAFAJDEJBBG": "",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "62001071_Description",
-      "CGIFIGLFADA": "62001071_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     },
     {
-      "IHMDOCIFPGN": 62001081,
-      "LCMNJFHNMPC": "",
-      "HEKLCOBLAHB": "",
-      "LOODAFLPPEH": "Abyss_PeriodicLayerBuff_08",
-      "MABOFAJJIGO": [
+      "NENJOPPEGDM": 62001081,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_08",
+      "GNONBPKENLN": "AS_AddedDamageRatio:0.25",
+      "HDNIMLNPGLD": "AS_BaseAtkRatio:0.2",
+      "MIJENFJPPPA": "AS_StunRecoverPercent:0.2",
+      "ABJNIPFCGIF": "AS_Duration:15",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "62001081_Description",
+      "NPJIPPEHKJK": "62001081_Title",
+      "AKDJBPBMFKC": [
         "Avatar"
       ],
-      "BPJBDHFHFOI": [],
-      "JCPJHJHNHLO": [],
-      "ADEFACLMFJM": "AS_AddedDamageRatio:0.25",
-      "LOOENNEIOJL": "AS_BaseAtkRatio:0.2",
-      "JFFEPCNDKBH": "AS_StunRecoverPercent:0.2",
-      "IAFAJDEJBBG": "AS_Duration:15",
-      "BCPOOMJFCEO": "",
-      "BFALFJIGOJM": "62001081_Description",
-      "CGIFIGLFADA": "62001081_Title"
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 62001091,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_09",
+      "GNONBPKENLN": "AS_AccumulationRatio:0.3",
+      "HDNIMLNPGLD": "AS_AddedDamageRatio:0.2",
+      "MIJENFJPPPA": "AS_FeverAmount:400",
+      "ABJNIPFCGIF": "AS_DefenceRatio: -0.2",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "62001091_Description",
+      "NPJIPPEHKJK": "62001091_Title",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 62001101,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_10",
+      "GNONBPKENLN": "AS_BreakStunRatio:0.2",
+      "HDNIMLNPGLD": "AS_RecoverSp:20",
+      "MIJENFJPPPA": "AS_AddedAtkRatio:0.2",
+      "ABJNIPFCGIF": "AS_Duration:15",
+      "LHPKINGKGIG": "AS_BuffDuration:20",
+      "CONFEHKNNDJ": "62001101_Description",
+      "NPJIPPEHKJK": "62001101_Title",
+      "AKDJBPBMFKC": [
+        "Avatar"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
+    },
+    {
+      "NENJOPPEGDM": 62001102,
+      "PNKBKDPLFLK": "",
+      "POGMNLIJLAC": "",
+      "BPOBKODMOBG": "Abyss_PeriodicLayerBuff_10_02",
+      "GNONBPKENLN": "AS_StunDamageTakeRatio:0.1",
+      "HDNIMLNPGLD": "AS_StunDamageTakeRatioMax:0.6",
+      "MIJENFJPPPA": "",
+      "ABJNIPFCGIF": "",
+      "LHPKINGKGIG": "",
+      "CONFEHKNNDJ": "",
+      "NPJIPPEHKJK": "",
+      "AKDJBPBMFKC": [
+        "Enemy"
+      ],
+      "PDOBCBLJGBA": [],
+      "KNCAGDKOAPB": []
     }
   ]
 }
