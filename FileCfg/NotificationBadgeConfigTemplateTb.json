@@ -3,12 +3,12 @@
     {
       "ID": 1,
       "Name": "MainCityMenu",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         100,
         400,
         500,
@@ -18,40 +18,41 @@
         3600,
         3800,
         3700,
-        3900
+        3900,
+        6900
       ]
     },
     {
       "ID": 2,
       "Name": "MainCityClockMenu",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         3
       ]
     },
     {
       "ID": 3,
       "Name": "MainCityAvatarChange",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 5,
       "Name": "MainCityMiniMenu",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1602,
         3800,
         3801,
@@ -63,84 +64,84 @@
     {
       "ID": 11,
       "Name": "Depository",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 12,
       "Name": "DepositoryTab1",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 13,
       "Name": "DepositoryTab2",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 14,
       "Name": "DepositoryTab3",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 15,
       "Name": "DepositoryTab4",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 30,
       "Name": "TeleportRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         31
       ]
     },
     {
       "ID": 31,
       "Name": "TeleportBlock",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 100,
       "Name": "Knot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         200,
         1200,
         1400,
@@ -150,32 +151,32 @@
     {
       "ID": 200,
       "Name": "Quest",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 300,
       "Name": "Knowledge",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 400,
       "Name": "Avatar",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         600,
         603
       ]
@@ -183,12 +184,12 @@
     {
       "ID": 500,
       "Name": "PrivateMessage_All",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         501,
         502,
         6400
@@ -197,42 +198,42 @@
     {
       "ID": 501,
       "Name": "PrivateMessage_Personal",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 502,
       "Name": "PrivateMessage_Group",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 503,
       "Name": "PrivateMessage_Contact",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 504,
       "Name": "PrivateMessage_Partners_Reward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         505,
         6401
       ]
@@ -240,64 +241,64 @@
     {
       "ID": 505,
       "Name": "PrivateMessage_SinglePartner_Reward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 510,
       "Name": "PrivateMessage_Personal_Tab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 600,
       "Name": "AvatarNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 601,
       "Name": "AvatarThumbnail",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         701
       ]
     },
     {
       "ID": 602,
       "Name": "AvatarBreakReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 603,
       "Name": "AvatarRoleItemRow",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         601,
         602
       ]
@@ -305,12 +306,12 @@
     {
       "ID": 700,
       "Name": "AvatarSkill",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         704,
         702,
         705,
@@ -320,224 +321,224 @@
     {
       "ID": 701,
       "Name": "AvatarSkill_Talent",
-      "CELMLAGFGIL": 10,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 10,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 702,
       "Name": "AvatarSkill_Skill",
-      "CELMLAGFGIL": 10,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 10,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 703,
       "Name": "AvatarHasBreakThroughReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 704,
       "Name": "AvatarSkill_PassiveSkill",
-      "CELMLAGFGIL": 10,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 10,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 705,
       "Name": "AvatarSkill_PassiveSkill_IgnoreMat",
-      "CELMLAGFGIL": 10,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 10,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 706,
       "Name": "AvatarSkill_Skill_IgnoreMat",
-      "CELMLAGFGIL": 10,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 10,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 800,
       "Name": "Mail",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 900,
       "Name": "Notice",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1000,
       "Name": "ActiveProps",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1100,
       "Name": "Interactive",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1000
       ]
     },
     {
       "ID": 1200,
       "Name": "InterKnotPost",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1201,
       "Name": "NewInterKnotPost",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1202,
       "Name": "InterKnotJourney",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1203,
       "Name": "InterKnotJourneyReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1300,
       "Name": "NewsReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1301,
       "Name": "NewsStandTip",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1400,
       "Name": "Manual",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1401,
       "Name": "ManualMorning",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1402,
       "Name": "ManualNoon",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1403,
       "Name": "ManualMidnight",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1404,
       "Name": "ManualNight",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1500,
       "Name": "ActivityChain",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1501,
         1505
       ]
@@ -545,12 +546,12 @@
     {
       "ID": 1501,
       "Name": "ActivityChainTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1502,
         1504,
         1503
@@ -559,42 +560,42 @@
     {
       "ID": 1502,
       "Name": "ActivityChainTabNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1503,
       "Name": "ActivityChainTaskNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1504,
       "Name": "ActivityChainTaskGetReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1505,
       "Name": "ActivityChainExchange",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1506,
         1507
       ]
@@ -602,32 +603,32 @@
     {
       "ID": 1506,
       "Name": "ActivityChainExchangeNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1507,
       "Name": "ActivityChainExchangeBuy",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1601,
       "Name": "ActivityTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         1610,
         1611,
         1603,
@@ -641,194 +642,194 @@
     {
       "ID": 1602,
       "Name": "Activity",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1601
       ]
     },
     {
       "ID": 1603,
       "Name": "ActivityLambTask",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1604,
       "Name": "ActivityNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1605,
       "Name": "ActivityTabTask",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1606,
       "Name": "ActivityTabRecord",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1607,
       "Name": "ActivityConsoleReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1608,
       "Name": "ActivityUnlockRedDot",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1609,
       "Name": "ActivityQuestRedDot",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1610,
       "Name": "ActivityCommonMission",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1611,
       "Name": "ActivityCommonMissionNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1612,
       "Name": "ActivityGroceryTask",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1613,
       "Name": "ActivityGroceryGuide",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1614,
       "Name": "ActivityGroceryTaskNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1615,
       "Name": "ActivityMiniGameNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1616,
       "Name": "ActivityTapGroup",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1617,
       "Name": "ActivityGuideGo",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1618,
       "Name": "ActivityPageTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1619,
       "Name": "ActivityWebGoRedDot",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1701,
       "Name": "Arcade",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1702,
         1704
       ]
@@ -836,54 +837,54 @@
     {
       "ID": 1702,
       "Name": "ArcadeAchievement",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1706
       ]
     },
     {
       "ID": 1703,
       "Name": "ArcadeAchievementGroup",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1704,
       "Name": "ArcadeActivity",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1705,
       "Name": "ArcadeAchievementGroupTitle",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1706,
       "Name": "ArcadeAchievementBtn",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1703,
         1705
       ]
@@ -891,12 +892,12 @@
     {
       "ID": 1800,
       "Name": "BangbooThumbnail",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         1802,
         1803,
         1804
@@ -905,52 +906,52 @@
     {
       "ID": 1801,
       "Name": "BangbooRankUp",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1802,
       "Name": "BangbooStarUp",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1803,
       "Name": "BangbooNewGet",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1804,
       "Name": "BangbooBreakReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1805,
       "Name": "BangbooItemHint",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         1802,
         1803,
         1804
@@ -959,114 +960,114 @@
     {
       "ID": 1900,
       "Name": "Gacha",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         1901
       ]
     },
     {
       "ID": 1901,
       "Name": "GachaTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1902,
       "Name": "GachaFate",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1903,
       "Name": "GachaNewbieChooseAvatar",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1904,
       "Name": "GachaOptionalUpItem",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 1905,
       "Name": "GachaBangbooFullStar",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2000,
       "Name": "MainStoryRewardForVhs",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2001,
       "Name": "MainStoryRewardForArchiveType",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2002,
       "Name": "MainStoryRewardForRewardBtn",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2003,
       "Name": "MainStoryTeleport",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2100,
       "Name": "Option",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         900,
         2101,
         2102,
@@ -1081,114 +1082,114 @@
     {
       "ID": 2101,
       "Name": "OptionWebLink",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2102,
       "Name": "OptionSocialEntrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2103,
       "Name": "OptionFeedBack",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2104,
       "Name": "OptionPostGirl",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2105,
       "Name": "OptionPGC",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2106,
       "Name": "OptionInterKnotTool",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2107,
       "Name": "OptionCloudgameEntrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2200,
       "Name": "InterKnotReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2201
       ]
     },
     {
       "ID": 2201,
       "Name": "InterKnotLevelReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2202,
       "Name": "InterKnotMilestoneReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2300,
       "Name": "BattlePass",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2301,
         2302,
         2303
@@ -1197,58 +1198,58 @@
     {
       "ID": 2301,
       "Name": "BattlePassLevelReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2304
       ]
     },
     {
       "ID": 2302,
       "Name": "BattlePassTask",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2305
       ]
     },
     {
       "ID": 2303,
       "Name": "BattlePassCoreReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2307
       ]
     },
     {
       "ID": 2304,
       "Name": "BattlePassLevelRewardItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2305,
       "Name": "BattlePassTaskTypeButton",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2306,
         2308
       ]
@@ -1256,82 +1257,82 @@
     {
       "ID": 2306,
       "Name": "BattlePassTaksItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2307,
       "Name": "BattlePassCoreRewardItem",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2308,
       "Name": "BattlePassTaskActivityNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2309,
       "Name": "BattlePassLevelRewardConsole",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2400,
       "Name": "DailyQuest",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2401,
       "Name": "DailyQuestPlan",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2500,
       "Name": "AbyssRewardScroll",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2501,
       "Name": "AbyssTaskEntrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2502,
         2503
       ]
@@ -1339,32 +1340,32 @@
     {
       "ID": 2502,
       "Name": "AbyssTaskReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2503,
       "Name": "AbyssTaskList",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2504,
       "Name": "AbyssRewardTimeLineRedPoint",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2500,
         2503
       ]
@@ -1372,22 +1373,22 @@
     {
       "ID": 2505,
       "Name": "AbyssTalentEntrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2506,
       "Name": "AbyssEntrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2501,
         2504,
         2514
@@ -1396,12 +1397,12 @@
     {
       "ID": 2507,
       "Name": "AbyssHazalHDDEntrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2506,
         2508
       ]
@@ -1409,108 +1410,108 @@
     {
       "ID": 2508,
       "Name": "HazalEntrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2509
       ]
     },
     {
       "ID": 2509,
       "Name": "HazalEntrance_Reward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2510,
       "Name": "HazalEntrance_ZoneItemEntrance",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2511,
       "Name": "AbyssNewTask",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2512,
       "Name": "AbyssRewardTimeLineNew",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2511
       ]
     },
     {
       "ID": 2513,
       "Name": "AbyssBossRushReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2514,
       "Name": "AbyssBossRushRewardEntry",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2513
       ]
     },
     {
       "ID": 2515,
       "Name": "NewHadalReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2520,
       "Name": "AbyssS2RewardScroll",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2521,
       "Name": "AbyssS2RewardTimeLineRedPoint",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2520,
         2523,
         2529
@@ -1519,42 +1520,42 @@
     {
       "ID": 2522,
       "Name": "AbyssS2TalentEntrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2523,
       "Name": "AbyssS2Mission",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2524,
       "Name": "AbyssS2RewardMission",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2525,
       "Name": "AbyssS2Entrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2521,
         2524
       ]
@@ -1562,12 +1563,12 @@
     {
       "ID": 2526,
       "Name": "AbyssEntranceTabNormal",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2506,
         2525
       ]
@@ -1575,86 +1576,86 @@
     {
       "ID": 2527,
       "Name": "AbyssEntranceTabEvent",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2553
       ]
     },
     {
       "ID": 2528,
       "Name": "AbyssS2DifficultyDungeon",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2529,
       "Name": "AbyssS2RewardScrollHasNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2550,
       "Name": "ArpeggioReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2551,
       "Name": "ArpeggioChapterNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2552,
       "Name": "ArpeggioChapterRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2551
       ]
     },
     {
       "ID": 2553,
       "Name": "ArpeggioEntranceRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2700,
       "Name": "Workbench",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2713,
         2702,
         2703,
@@ -1665,66 +1666,66 @@
     {
       "ID": 2701,
       "Name": "Workbench_TrustDegree",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2713
       ]
     },
     {
       "ID": 2702,
       "Name": "Workbench_Information_BigGroup",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2707
       ]
     },
     {
       "ID": 2703,
       "Name": "Workbench_InterknotNote",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2704,
       "Name": "Workbench_ActiveProps_BigGroup",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2705,
       "Name": "Workbench_VRBossIllustratedBook",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2706,
       "Name": "Workbench_TrustDegree_Partner",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2715,
         2718
       ]
@@ -1732,164 +1733,164 @@
     {
       "ID": 2707,
       "Name": "Workbench_Information_SmallGroup",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2708
       ]
     },
     {
       "ID": 2708,
       "Name": "Workbench_Information_Real",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2709,
       "Name": "Workbench_ActiveProps_SmallGroup",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2710
       ]
     },
     {
       "ID": 2710,
       "Name": "Workbench_ActiveProps_Item",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2711,
       "Name": "Workbench_TrustDegree_PartnerMemoryGroup",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2712
       ]
     },
     {
       "ID": 2712,
       "Name": "Workbench_TrustDegree_PartnerMemory",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2713,
       "Name": "Workbench_TrustDegree_CampType",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2714
       ]
     },
     {
       "ID": 2714,
       "Name": "Workbench_TrustDegree_Camp",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": [
         2706
       ]
     },
     {
       "ID": 2715,
       "Name": "Workbench_TrustDegree_PartnerTrustReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2716
       ]
     },
     {
       "ID": 2716,
       "Name": "Workbench_TrustDegree_PartnerTrustRewardItem",
-      "CELMLAGFGIL": 2,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 2,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2717,
       "Name": "Workbench_TrustDegree_PartnerDetail",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2718,
       "Name": "Workbench_TrustDegree_PartnerNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2720,
       "Name": "Workbench_TrustDegree_Info",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2800,
       "Name": "HollowExitReport",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2901,
       "Name": "HollowPauseWidget",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         2092,
         2903
       ]
@@ -1897,136 +1898,136 @@
     {
       "ID": 2902,
       "Name": "HollowEventCollect",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2903,
       "Name": "HollowPopUpWindow",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 2904,
       "Name": "HollowMainPageExitBtn",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3000,
       "Name": "GeneralTutorial",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3100,
       "Name": "HeadPortrait",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3101
       ]
     },
     {
       "ID": 3101,
       "Name": "HeadPortraitItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3200,
       "Name": "Test",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3300,
       "Name": "RallyQuestEntrance",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3400,
       "Name": "Workbench_NewMonsterCard",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3401
       ]
     },
     {
       "ID": 3401,
       "Name": "NewMosnterCard_Tab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3402,
       "Name": "NewMosnterCard_OriginCard",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3500,
       "Name": "Training_Reward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3600,
       "Name": "ShoppingMall_Menu",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         3601,
         3602,
         3606
@@ -2035,22 +2036,22 @@
     {
       "ID": 3601,
       "Name": "ShoppingMall_Menu_Click",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3602,
       "Name": "ShoppingMall_tabGroup",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         3603,
         3605
       ]
@@ -2058,96 +2059,142 @@
     {
       "ID": 3603,
       "Name": "ShoppingMall_tab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         3604
       ]
     },
     {
       "ID": 3604,
       "Name": "ShoppingMall_shelft",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3605,
       "Name": "ShoppingMall_recommend",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3606,
       "Name": "ShoppingMall_notify",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
+    },
+    {
+      "ID": 3650,
+      "Name": "ShopRoot",
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
+        3651
+      ]
+    },
+    {
+      "ID": 3651,
+      "Name": "ShopTabGroup",
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
+        3652
+      ]
+    },
+    {
+      "ID": 3652,
+      "Name": "ShopTab",
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
+        3653
+      ]
+    },
+    {
+      "ID": 3653,
+      "Name": "ShopShelf",
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3700,
       "Name": "AchievementRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3701
       ]
     },
     {
       "ID": 3701,
       "Name": "AchievementFirstTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3702,
       "Name": "AchievementSecondTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3703,
       "Name": "AchievementItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3800,
       "Name": "HandBook",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         3803,
         2400,
         2202,
@@ -2158,32 +2205,32 @@
     {
       "ID": 3801,
       "Name": "HandBook_Tab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3802,
       "Name": "HandBook_SubTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3803,
       "Name": "HandBook_TopTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         3801,
         3802
       ]
@@ -2191,12 +2238,12 @@
     {
       "ID": 3804,
       "Name": "HandBook_Tactics",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3805,
         3500
       ]
@@ -2204,22 +2251,22 @@
     {
       "ID": 3805,
       "Name": "HandBook_TacticsLeft",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3900,
       "Name": "FriendSystem",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3910,
         3911
       ]
@@ -2227,56 +2274,56 @@
     {
       "ID": 3901,
       "Name": "Friend_PersonalInfo",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3905
       ]
     },
     {
       "ID": 3902,
       "Name": "Friend_FriendInfo",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3908
       ]
     },
     {
       "ID": 3903,
       "Name": "Friend_AddFriend",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3904,
       "Name": "Friend_RecentPlayer",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3905,
       "Name": "Friend_PersonalInfoEditBtn",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3906,
         3909
       ]
@@ -2284,54 +2331,54 @@
     {
       "ID": 3906,
       "Name": "Friend_PersonalInfoEditItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3907,
       "Name": "Friend_BusinessCard",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3908,
       "Name": "Friend_NewChatMsg",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 3909,
       "Name": "Friend_NewHeadPortrait",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3100
       ]
     },
     {
       "ID": 3910,
       "Name": "FriendSystem_FriendTab",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3901,
         3902,
         3903,
@@ -2341,88 +2388,98 @@
     {
       "ID": 3911,
       "Name": "FriendSystem_RopeMakerTab",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         3909
       ]
     },
     {
       "ID": 3912,
       "Name": "Friend_Title",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
+    },
+    {
+      "ID": 3913,
+      "Name": "Friend_Medal",
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4000,
       "Name": "NyakichiRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4001
       ]
     },
     {
       "ID": 4001,
       "Name": "NyakichiRegion",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         4004
       ]
     },
     {
       "ID": 4002,
       "Name": "NyakichiGroup",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4003,
       "Name": "NyakichiQuestItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4004,
       "Name": "NyakichiRegionNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4100,
       "Name": "HollowCollect_RewardEntry",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4101,
         4102
       ]
@@ -2430,42 +2487,42 @@
     {
       "ID": 4101,
       "Name": "HollowCollect_RewardEntry_Single",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4102,
       "Name": "HollowCollect_RewardEntry_Accum",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4103,
       "Name": "HollowCollect_ClueGetQuest",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4104,
       "Name": "HollowCollect_RewardEntry_S2",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4105,
         4106
       ]
@@ -2473,370 +2530,417 @@
     {
       "ID": 4105,
       "Name": "HollowCollect_RewardEntry_Single_S2",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4106,
       "Name": "HollowCollect_RewardEntry_Accum_S2",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
+    },
+    {
+      "ID": 4107,
+      "Name": "HollowCollect_InfoNew",
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
+    },
+    {
+      "ID": 4108,
+      "Name": "HollowCollect_InfoNew_S2",
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
+    },
+    {
+      "ID": 4109,
+      "Name": "HollowCollect_Entry_S1",
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
+        4100,
+        4103,
+        4107
+      ]
+    },
+    {
+      "ID": 4110,
+      "Name": "HollowCollect_Entry_S2",
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
+        4104,
+        4108
+      ]
     },
     {
       "ID": 4200,
       "Name": "VideoShop_Store_SuitIcon_Click",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4300,
       "Name": "TrendyStoreWeaponPreview",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4400,
       "Name": "DailyChallenge_VIP",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4401,
       "Name": "DailyChallenge_Level_Root",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4402
       ]
     },
     {
       "ID": 4402,
       "Name": "DailyChallenge_Level",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4403,
       "Name": "DailyChallenge_MonsterCard",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4404,
       "Name": "DailyChallenge_Suit",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4405,
       "Name": "DailyChallenge_Entrence",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4406,
       "Name": "DailyChallenge_Entrence_Root",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4405
       ]
     },
     {
       "ID": 4410,
       "Name": "LittleBossDifficute",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4411,
       "Name": "BossDifficute",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4412,
       "Name": "DoubleEleDifficute",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4413,
       "Name": "LittleBossDifficuteRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4410
       ]
     },
     {
       "ID": 4414,
       "Name": "BossDifficuteRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4411
       ]
     },
     {
       "ID": 4415,
       "Name": "DoubleEleDifficuteRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4412
       ]
     },
     {
       "ID": 4416,
       "Name": "LittleBossUnlock",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4417,
       "Name": "LittleBossUnlockRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4416
       ]
     },
     {
       "ID": 4418,
       "Name": "BossUnlock",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4419,
       "Name": "BossUnlockRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4418
       ]
     },
     {
       "ID": 4500,
       "Name": "BossChallengeReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4600,
       "Name": "ActivityCameraRoot",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4601
       ]
     },
     {
       "ID": 4601,
       "Name": "ActivityCameraTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4602
       ]
     },
     {
       "ID": 4602,
       "Name": "ActivityCameraQuestUnlock",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4701,
       "Name": "OverlordFeastGameEntry",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4702,
       "Name": "OverlordFeastGameLevel",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4703,
       "Name": "OverlordFeastGame",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4711,
       "Name": "OverlordFeastTodo",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4712,
       "Name": "OverlordFeastLevelTodo",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4713,
       "Name": "OverlordFeastLevelTodoItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4720,
       "Name": "OverlordFeastTaskReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4730,
       "Name": "OverlordFeastDev",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4731,
       "Name": "OverlordFeastDevItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4800,
       "Name": "CampIdleNPC",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         4801,
         4802,
         4803
@@ -2845,206 +2949,206 @@
     {
       "ID": 4801,
       "Name": "CampIdleReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4802,
       "Name": "CampIdleNodeReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4803,
       "Name": "CampIdleDispatchStop",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4901,
       "Name": "ActivityQuestListActivityID",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4902,
       "Name": "ActivityQuestListTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4910,
       "Name": "BackFlowModel",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4911,
       "Name": "BacfFlowSubEntrance",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4912,
       "Name": "BacfFlowSubEntranceNew",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4913,
       "Name": "BacfFlowTask",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4914,
       "Name": "BacfFlowTaskTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 2,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 2,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4915,
       "Name": "TeleportStore",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4916,
       "Name": "BacfFlowCoreReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4917,
       "Name": "BacfFlowAxleReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4951,
       "Name": "DisplayCaseManualTopTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 4952,
       "Name": "DisplayCaseManualItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 5001,
       "Name": "MainCityGameLevelUnlock",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 5101,
       "Name": "FashionStore",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         5102
       ]
     },
     {
       "ID": 5102,
       "Name": "FashionStoreSellPage",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         5103
       ]
     },
     {
       "ID": 5103,
       "Name": "FashionStoreSellItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 5200,
       "Name": "WeeklyBingo",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         5201,
         5202,
         5203
@@ -3053,72 +3157,72 @@
     {
       "ID": 5201,
       "Name": "WeeklyBingoSpecialReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 5202,
       "Name": "WeeklyBingoScoreReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 5203,
       "Name": "WeeklyBingoGridScore",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 5301,
       "Name": "BabelTowerReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6001,
       "Name": "ShoppingMall_WeekCardReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6002,
       "Name": "ShoppingMall_RecommendTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6100,
       "Name": "CampIdleActivityNPC",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         6101,
         6102,
         6103
@@ -3127,42 +3231,42 @@
     {
       "ID": 6101,
       "Name": "CampIdleActivityReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6102,
       "Name": "CampIdleActivityNodeReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6103,
       "Name": "CampIdleActivityDispatchStop",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6200,
       "Name": "Miniscape",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         6201,
         6202
       ]
@@ -3170,94 +3274,94 @@
     {
       "ID": 6201,
       "Name": "Miniscape_Quest",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         6203
       ]
     },
     {
       "ID": 6202,
       "Name": "Miniscape_Task",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6203,
       "Name": "Miniscape_Quest_Chapter_Reward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6204,
       "Name": "Miniscape_Quest_Group_Reward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6205,
       "Name": "Miniscape_Quest_Group_New",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6206,
       "Name": "Miniscape_Quest_Group",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6207,
       "Name": "Miniscape_Task_New",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6208,
       "Name": "Miniscape_Task_Reward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6300,
       "Name": "TowerDefense",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         6304,
         6305
       ]
@@ -3265,108 +3369,108 @@
     {
       "ID": 6301,
       "Name": "TowerDefenseGetBuddy",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6302,
       "Name": "TowerDefenseGetEnhance",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6303,
       "Name": "TowerDefenseLevel",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6304,
       "Name": "TowerDefenseLevelBtn",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         6303
       ]
     },
     {
       "ID": 6305,
       "Name": "TowerDefenseBuddyBtn",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         6301
       ]
     },
     {
       "ID": 6306,
       "Name": "TowerDefenseLevelTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6400,
       "Name": "PartnerDate",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         6401
       ]
     },
     {
       "ID": 6401,
       "Name": "PartnerDate_SinglePartner",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6402,
       "Name": "PartnerDate_SinglePartnerReward",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6500,
       "Name": "HIADoubleWeekTabBtn",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": [
         6501,
         6502
       ]
@@ -3374,65 +3478,105 @@
     {
       "ID": 6501,
       "Name": "HIADoubleWeekRewardItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6502,
       "Name": "HIADoubleWeekGridItem",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6503,
       "Name": "HIADoubleWeekTabBtn",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6601,
       "Name": "MiniscapeCollectLeftTab",
-      "CELMLAGFGIL": 1,
-      "ILHKPKJNMAI": 1,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 1,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 1,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6602,
       "Name": "MiniscapeCollectReward",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 0,
-      "JIPGEFALKPP": []
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     },
     {
       "ID": 6603,
       "Name": "MiniscapeCollect",
-      "CELMLAGFGIL": 0,
-      "ILHKPKJNMAI": 0,
-      "CJFIPDOPCIG": 0,
-      "HOEGIJMFMHD": 0,
-      "OOJDHLLHLML": 1,
-      "JIPGEFALKPP": [
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 1,
+      "GIGKNMOHHMM": [
         6601,
         6602
       ]
+    },
+    {
+      "ID": 6710,
+      "Name": "RidusGotBoo_Level",
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
+    },
+    {
+      "ID": 6711,
+      "Name": "RidusGotBoo_Passive",
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
+    },
+    {
+      "ID": 6900,
+      "Name": "PostGirl_System",
+      "IMCAMCFIMKN": 0,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 0,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
+    },
+    {
+      "ID": 15002,
+      "Name": "ActivityCombatPauseLevel",
+      "IMCAMCFIMKN": 1,
+      "PMNMIMCLAKA": 0,
+      "MOICEAEACAH": 0,
+      "DOKIPKMGFMH": 1,
+      "LOANFGFMJKC": 0,
+      "GIGKNMOHHMM": []
     }
   ]
 }

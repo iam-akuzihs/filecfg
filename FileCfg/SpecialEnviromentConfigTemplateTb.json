@@ -2,33 +2,43 @@
   "__exp_FileCfg": [
     {
       "ID": 2,
-      "CGPLFNJCBJA": "EnvVolume_SkyScraper",
-      "JCHHKJLLHLP": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_SkyScraper.prefab"
+      "JCIEHJDHGPE": "EnvVolume_SkyScraper",
+      "ECCHANCAMPM": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_SkyScraper.prefab"
     },
     {
       "ID": 3,
-      "CGPLFNJCBJA": "EnvVolume_OuterRing_Boss",
-      "JCHHKJLLHLP": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_OutRing_03.prefab"
+      "JCIEHJDHGPE": "EnvVolume_OuterRing_Boss",
+      "ECCHANCAMPM": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_OutRing_03.prefab"
     },
     {
       "ID": 4,
-      "CGPLFNJCBJA": "EnvVolume_OuterRing_Rally",
-      "JCHHKJLLHLP": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_OutRing_01.prefab"
+      "JCIEHJDHGPE": "EnvVolume_OuterRing_Rally",
+      "ECCHANCAMPM": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_OutRing_01.prefab"
     },
     {
       "ID": 5,
-      "CGPLFNJCBJA": "EnvVolume_OuterRing_Boss2",
-      "JCHHKJLLHLP": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_OutRing_02.prefab"
+      "JCIEHJDHGPE": "EnvVolume_OuterRing_Boss2",
+      "ECCHANCAMPM": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_OutRing_02.prefab"
     },
     {
       "ID": 6,
-      "CGPLFNJCBJA": "EnvVolume_OuterRing_SandStorm",
-      "JCHHKJLLHLP": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_OutRing_04.prefab"
+      "JCIEHJDHGPE": "EnvVolume_OuterRing_SandStorm",
+      "ECCHANCAMPM": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_OutRing_04.prefab"
     },
     {
       "ID": 7,
-      "CGPLFNJCBJA": "EnvVolume_Port_BOSSHeavyRain",
-      "JCHHKJLLHLP": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_Port_01.prefab"
+      "JCIEHJDHGPE": "EnvVolume_Port_BOSSHeavyRain",
+      "ECCHANCAMPM": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_Port_01.prefab"
+    },
+    {
+      "ID": 8,
+      "JCIEHJDHGPE": "EnvVolume_ConcertPerform_Red",
+      "ECCHANCAMPM": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_ConcertPerform_Red.prefab"
+    },
+    {
+      "ID": 9,
+      "JCIEHJDHGPE": "EnvVolume_ConcertPerform_Blue",
+      "ECCHANCAMPM": "Assets/NapResources/Stage/SpecialEnvVolume/EnvVolume_ConcertPerform_Blue.prefab"
     }
   ]
 }
