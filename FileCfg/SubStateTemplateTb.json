@@ -2,13 +2,13 @@
   "__exp_FileCfg": [
     {
       "ID": 1,
-      "FBEHIJGDCLJ": "EmptySub",
-      "PBDIMBMCKJB": []
+      "AJLLFDOHEEP": "EmptySub",
+      "IFOFAIDDNLB": []
     },
     {
       "ID": 2,
-      "FBEHIJGDCLJ": "Blocked_Down",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Blocked_Down",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT",
@@ -17,8 +17,8 @@
     },
     {
       "ID": 3,
-      "FBEHIJGDCLJ": "Blocked_Left",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Blocked_Left",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT",
@@ -27,8 +27,8 @@
     },
     {
       "ID": 4,
-      "FBEHIJGDCLJ": "Blocked_Right",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Blocked_Right",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT",
@@ -37,8 +37,8 @@
     },
     {
       "ID": 5,
-      "FBEHIJGDCLJ": "Blocked_Up",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Blocked_Up",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT",
@@ -47,23 +47,23 @@
     },
     {
       "ID": 6,
-      "FBEHIJGDCLJ": "Anchor",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Anchor",
+      "IFOFAIDDNLB": [
         "FLAG_ANCHOR",
         "FLAG_NO_STAMINA"
       ]
     },
     {
       "ID": 7,
-      "FBEHIJGDCLJ": "Aim",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Aim",
+      "IFOFAIDDNLB": [
         "FLAG_AIM"
       ]
     },
     {
       "ID": 8,
-      "FBEHIJGDCLJ": "Block",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Block",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT",
@@ -72,115 +72,115 @@
     },
     {
       "ID": 9,
-      "FBEHIJGDCLJ": "Anchor_Unlock",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Anchor_Unlock",
+      "IFOFAIDDNLB": [
         "FLAG_NO_STAMINA"
       ]
     },
     {
       "ID": 10,
-      "FBEHIJGDCLJ": "Aim_OverrideAll",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Aim_OverrideAll",
+      "IFOFAIDDNLB": [
         "FLAG_OVERRIDE_PLAYER",
         "FLAG_OVERRIDE_NPC"
       ]
     },
     {
       "ID": 11,
-      "FBEHIJGDCLJ": "Aim_OverridePlayer",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Aim_OverridePlayer",
+      "IFOFAIDDNLB": [
         "FLAG_OVERRIDE_PLAYER",
         "FLAG_AIM"
       ]
     },
     {
       "ID": 12,
-      "FBEHIJGDCLJ": "Aim_OverrideNPC",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Aim_OverrideNPC",
+      "IFOFAIDDNLB": [
         "FLAG_OVERRIDE_NPC",
         "FLAG_AIM"
       ]
     },
     {
       "ID": 13,
-      "FBEHIJGDCLJ": "Inaccessible_Up",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_Up",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP"
       ]
     },
     {
       "ID": 14,
-      "FBEHIJGDCLJ": "Inaccessible_Down",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_Down",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_DOWN"
       ]
     },
     {
       "ID": 15,
-      "FBEHIJGDCLJ": "Inaccessible_Left",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_Left",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_LEFT"
       ]
     },
     {
       "ID": 16,
-      "FBEHIJGDCLJ": "Inaccessible_Right",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_Right",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_RIGHT"
       ]
     },
     {
       "ID": 17,
-      "FBEHIJGDCLJ": "Inaccessible_UpDown",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_UpDown",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN"
       ]
     },
     {
       "ID": 18,
-      "FBEHIJGDCLJ": "Inaccessible_UpRight",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_UpRight",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_RIGHT"
       ]
     },
     {
       "ID": 19,
-      "FBEHIJGDCLJ": "Inaccessible_UpLeft",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_UpLeft",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_LEFT"
       ]
     },
     {
       "ID": 20,
-      "FBEHIJGDCLJ": "Inaccessible_DownRight",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_DownRight",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_RIGHT"
       ]
     },
     {
       "ID": 21,
-      "FBEHIJGDCLJ": "Inaccessible_DownLeft",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_DownLeft",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT"
       ]
     },
     {
       "ID": 22,
-      "FBEHIJGDCLJ": "Inaccessible_LeftRight",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Inaccessible_LeftRight",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_LEFT",
         "FLAG_BLOCKED_RIGHT"
       ]
     },
     {
       "ID": 23,
-      "FBEHIJGDCLJ": "Accessible_Up",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Accessible_Up",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT",
         "FLAG_BLOCKED_RIGHT"
@@ -188,8 +188,8 @@
     },
     {
       "ID": 24,
-      "FBEHIJGDCLJ": "Accessible_Down",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Accessible_Down",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_LEFT",
         "FLAG_BLOCKED_RIGHT"
@@ -197,8 +197,8 @@
     },
     {
       "ID": 25,
-      "FBEHIJGDCLJ": "Accessible_Left",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Accessible_Left",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_RIGHT"
@@ -206,8 +206,8 @@
     },
     {
       "ID": 26,
-      "FBEHIJGDCLJ": "Accessible_Right",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Accessible_Right",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT"
@@ -215,8 +215,8 @@
     },
     {
       "ID": 27,
-      "FBEHIJGDCLJ": "Blocked_Single",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Blocked_Single",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT",
@@ -225,8 +225,8 @@
     },
     {
       "ID": 28,
-      "FBEHIJGDCLJ": "Affected_EMP",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Affected_EMP",
+      "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
         "FLAG_BLOCKED_DOWN",
         "FLAG_BLOCKED_LEFT",
@@ -235,8 +235,16 @@
     },
     {
       "ID": 29,
-      "FBEHIJGDCLJ": "Unavailable",
-      "PBDIMBMCKJB": [
+      "AJLLFDOHEEP": "Unavailable",
+      "IFOFAIDDNLB": [
+        "FLAG_ANCHOR",
+        "FLAG_NO_STAMINA"
+      ]
+    },
+    {
+      "ID": 30,
+      "AJLLFDOHEEP": "Anchor_LockedShow",
+      "IFOFAIDDNLB": [
         "FLAG_ANCHOR",
         "FLAG_NO_STAMINA"
       ]
