@@ -2,18 +2,42 @@
   "__exp_FileCfg": [
     {
       "ID": 101001,
-      "CFKDFIJIFBB": 1,
-      "NNKBNIGPHLL": 701
+      "CELMLAGFGIL": 1,
+      "OABNIPMLHAB": 701,
+      "PEKEBMLEODE": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/SeasonLogo/UnPacker/WitheredLogo.png",
+      "Name": "AbyssText_PlayName_1",
+      "FDIKHICAMNK": 10042,
+      "FFFMNCBEAEM": "Yorozuya/HollowEvent_Zero",
+      "POPPIPNMIPN": [
+        400,
+        1500
+      ]
     },
     {
       "ID": 101002,
-      "CFKDFIJIFBB": 1,
-      "NNKBNIGPHLL": 702
+      "CELMLAGFGIL": 1,
+      "OABNIPMLHAB": 702,
+      "PEKEBMLEODE": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/SeasonLogo/UnPacker/LostVoidLogo.png",
+      "Name": "AbyssText_PlayName_2",
+      "FDIKHICAMNK": 10089,
+      "FFFMNCBEAEM": "Yorozuya/HollowEvent_Zero2",
+      "POPPIPNMIPN": [
+        400,
+        1500
+      ]
     },
     {
       "ID": 102001,
-      "CFKDFIJIFBB": 2,
-      "NNKBNIGPHLL": 703
+      "CELMLAGFGIL": 2,
+      "OABNIPMLHAB": 703,
+      "PEKEBMLEODE": "Assets/NapResources/UI/Sprite/A1DynamicLoad/Hollow/SeasonLogo/UnPacker/ArpeggioLogo.png",
+      "Name": "AbyssText_PlayName_3",
+      "FDIKHICAMNK": 10088,
+      "FFFMNCBEAEM": "Yorozuya/HollowEvent_Defense",
+      "POPPIPNMIPN": [
+        400,
+        1500
+      ]
     }
   ]
 }

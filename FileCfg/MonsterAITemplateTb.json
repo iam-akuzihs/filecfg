@@ -2,74 +2,74 @@
   "__exp_FileCfg": [
     {
       "ID": 100001,
-      "NCNLGEKLLGJ": "测试_AI_通用",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Test/Behavior_Test_Common_01",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "测试_AI_通用",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Test/Behavior_Test_Common_01",
+      "DAKADKPJANI": [
         "Tag_AI_A",
         "Tag_AI_B"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 100002,
-      "NCNLGEKLLGJ": "测试_AI_技能测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Test/Behavior_SkillTest",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "测试_AI_技能测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Test/Behavior_SkillTest",
+      "DAKADKPJANI": [
         "Tag_AI_A",
         "Tag_AI_B"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 100003,
-      "NCNLGEKLLGJ": "测试_AI_移动测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Test/Behavior_MoveTest",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "测试_AI_移动测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Test/Behavior_MoveTest",
+      "DAKADKPJANI": [
         "Tag_AI_A",
         "Tag_AI_B"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 100004,
-      "NCNLGEKLLGJ": "测试_AI_Anchor测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Test/Behavior_AnchorTest",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "测试_AI_Anchor测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Test/Behavior_AnchorTest",
+      "DAKADKPJANI": [
         "Tag_AI_A",
         "Tag_AI_B"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 100006,
-      "NCNLGEKLLGJ": "测试_AI_动画测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Test/Monster_BasicAI_For_AnimationTest/Behavior_Monster_Test_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "测试_AI_动画测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Test/Monster_BasicAI_For_AnimationTest/Behavior_Monster_Test_Decision",
+      "DAKADKPJANI": [
         "Tag_AI_A",
         "Tag_AI_B"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 100007,
-      "NCNLGEKLLGJ": "测试_AI_逃跑测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Assets/NapResources/Data/ScriptConfig/AI/Behavior_Test/Behavior_Monster_Escape.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "测试_AI_逃跑测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Assets/NapResources/Data/ScriptConfig/AI/Behavior_Test/Behavior_Monster_Escape.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 100011,
-      "NCNLGEKLLGJ": "棍兵_AI_仇恨转移测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Follower_MeleeSoldier/Behavior_Follower_MeleeSoldier_Decision.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "棍兵_AI_仇恨转移测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Follower_MeleeSoldier/Behavior_Follower_MeleeSoldier_Decision.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -97,19 +97,19 @@
     },
     {
       "ID": 100012,
-      "NCNLGEKLLGJ": "测试_触发Ability",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Test/Behavior_Test_TriggerAbility.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "测试_触发Ability",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Test/Behavior_Test_TriggerAbility.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 110101,
-      "NCNLGEKLLGJ": "棍兵_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MeleeSoldier/Behavior_Monster_MeleeSoldier_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "棍兵_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MeleeSoldier/Behavior_Monster_MeleeSoldier_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -137,11 +137,11 @@
     },
     {
       "ID": 110111,
-      "NCNLGEKLLGJ": "棍兵_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MeleeSoldier/Behavior_Monster_MeleeSoldier_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "棍兵_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MeleeSoldier/Behavior_Monster_MeleeSoldier_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -169,11 +169,11 @@
     },
     {
       "ID": 110201,
-      "NCNLGEKLLGJ": "枪兵_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "枪兵_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -201,13 +201,13 @@
     },
     {
       "ID": 110202,
-      "NCNLGEKLLGJ": "枪兵_AI_友方单位",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_Allied_RangeSoldier_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "枪兵_AI_友方单位",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_Allied_RangeSoldier_Decision",
+      "DAKADKPJANI": [
         "Allied"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -235,13 +235,13 @@
     },
     {
       "ID": 110203,
-      "NCNLGEKLLGJ": "枪兵_AI_友方_NedfSoldier纯战斗版",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LightJaeger/Behavior_Monster_Allied_NedfSoldier_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "枪兵_AI_友方_NedfSoldier纯战斗版",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LightJaeger/Behavior_Monster_Allied_NedfSoldier_Decision",
+      "DAKADKPJANI": [
         "Allied"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -269,13 +269,13 @@
     },
     {
       "ID": 110208,
-      "NCNLGEKLLGJ": "枪兵_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "枪兵_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -303,13 +303,13 @@
     },
     {
       "ID": 110209,
-      "NCNLGEKLLGJ": "枪兵_AI_索敌",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Action_SelectTargetOnly",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "枪兵_AI_索敌",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Action_SelectTargetOnly",
+      "DAKADKPJANI": [
         "SelectTargetOnly"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -337,11 +337,11 @@
     },
     {
       "ID": 110211,
-      "NCNLGEKLLGJ": "枪兵_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "枪兵_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -369,11 +369,11 @@
     },
     {
       "ID": 110301,
-      "NCNLGEKLLGJ": "盾兵_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavySoldier/Behavior_Monster_HeavySoldier_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "盾兵_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavySoldier/Behavior_Monster_HeavySoldier_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -401,11 +401,11 @@
     },
     {
       "ID": 110311,
-      "NCNLGEKLLGJ": "盾兵_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavySoldier/Behavior_Monster_HeavySoldier_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "盾兵_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavySoldier/Behavior_Monster_HeavySoldier_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -433,11 +433,11 @@
     },
     {
       "ID": 110401,
-      "NCNLGEKLLGJ": "长臂机甲_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "长臂机甲_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -465,13 +465,13 @@
     },
     {
       "ID": 110402,
-      "NCNLGEKLLGJ": "长臂机甲_AI_近战倾向",
-      "GLEKHFFBKPG": "0",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "长臂机甲_AI_近战倾向",
+      "GEKFLNPEBIN": "0",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Decision",
+      "DAKADKPJANI": [
         "CloseRange"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -499,13 +499,13 @@
     },
     {
       "ID": 110403,
-      "NCNLGEKLLGJ": "长臂机甲_AI_远程倾向",
-      "GLEKHFFBKPG": "1",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "长臂机甲_AI_远程倾向",
+      "GEKFLNPEBIN": "1",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Decision",
+      "DAKADKPJANI": [
         "LongRange"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -533,21 +533,21 @@
     },
     {
       "ID": 110410,
-      "NCNLGEKLLGJ": "长臂机甲_AI_巡逻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Patrol",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "长臂机甲_AI_巡逻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Patrol",
+      "DAKADKPJANI": [
         "Patrol"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 110411,
-      "NCNLGEKLLGJ": "长臂机甲_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "长臂机甲_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LAAndroid/Behavior_Monster_LAAndroid_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -575,11 +575,11 @@
     },
     {
       "ID": 110501,
-      "NCNLGEKLLGJ": "大型机甲_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "大型机甲_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:0.3",
         "AttackCD_Success_Hard:0.2",
@@ -607,13 +607,13 @@
     },
     {
       "ID": 110502,
-      "NCNLGEKLLGJ": "大型机甲_AI_近战倾向",
-      "GLEKHFFBKPG": "0",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "大型机甲_AI_近战倾向",
+      "GEKFLNPEBIN": "0",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
+      "DAKADKPJANI": [
         "CloseRange"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:0.3",
         "AttackCD_Success_Hard:0.2",
@@ -641,13 +641,13 @@
     },
     {
       "ID": 110503,
-      "NCNLGEKLLGJ": "大型机甲_AI_远程倾向",
-      "GLEKHFFBKPG": "1",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "大型机甲_AI_远程倾向",
+      "GEKFLNPEBIN": "1",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
+      "DAKADKPJANI": [
         "LongRange"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -675,13 +675,13 @@
     },
     {
       "ID": 110504,
-      "NCNLGEKLLGJ": "大型机甲_AI_屏蔽机枪",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "大型机甲_AI_屏蔽机枪",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
+      "DAKADKPJANI": [
         "Monster_Guardian_ForbidMachineGun"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:0.3",
         "AttackCD_Success_Hard:0.2",
@@ -709,11 +709,11 @@
     },
     {
       "ID": 110511,
-      "NCNLGEKLLGJ": "大型机甲_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "大型机甲_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Guardian/Behavior_Monster_Guardian_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:0.15",
         "AttackCD_Success_Hard:0.1",
@@ -741,19 +741,19 @@
     },
     {
       "ID": 110601,
-      "NCNLGEKLLGJ": "机甲猩猩_AI_默认（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MetalGorilla/Behavior_Monster_MetalGorilla_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "机甲猩猩_AI_默认（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MetalGorilla/Behavior_Monster_MetalGorilla_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 110701,
-      "NCNLGEKLLGJ": "巡逻车_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Patroller/Behavior_Monster_Patroller_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "巡逻车_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Patroller/Behavior_Monster_Patroller_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -781,11 +781,11 @@
     },
     {
       "ID": 110711,
-      "NCNLGEKLLGJ": "巡逻车_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Patroller/Behavior_Monster_Patroller_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "巡逻车_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Patroller/Behavior_Monster_Patroller_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -813,19 +813,19 @@
     },
     {
       "ID": 110801,
-      "NCNLGEKLLGJ": "自爆蜘蛛_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Spider/Behavior_Monster_Spider_Aumbush",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "自爆蜘蛛_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Spider/Behavior_Monster_Spider_Aumbush",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 110901,
-      "NCNLGEKLLGJ": "低阶以太剑_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "低阶以太剑_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -853,13 +853,13 @@
     },
     {
       "ID": 110902,
-      "NCNLGEKLLGJ": "低阶以太剑_AI_教学",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "低阶以太剑_AI_教学",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
+      "DAKADKPJANI": [
         "Tutorial"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -887,13 +887,13 @@
     },
     {
       "ID": 110903,
-      "NCNLGEKLLGJ": "低阶以太剑_AI_屏蔽攻击",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "低阶以太剑_AI_屏蔽攻击",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
+      "DAKADKPJANI": [
         "Disarm"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -921,13 +921,13 @@
     },
     {
       "ID": 110908,
-      "NCNLGEKLLGJ": "低阶以太剑_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "低阶以太剑_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -955,11 +955,11 @@
     },
     {
       "ID": 110911,
-      "NCNLGEKLLGJ": "低阶以太剑_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "低阶以太剑_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -987,11 +987,11 @@
     },
     {
       "ID": 111001,
-      "NCNLGEKLLGJ": "低阶以太粘液_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "低阶以太粘液_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -1019,13 +1019,13 @@
     },
     {
       "ID": 111008,
-      "NCNLGEKLLGJ": "低阶以太粘液_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "低阶以太粘液_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -1053,16 +1053,16 @@
     },
     {
       "ID": 111009,
-      "NCNLGEKLLGJ": "低阶以太粘液_AI_辅攻，无视攻权，高频，不run",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "低阶以太粘液_AI_辅攻，无视攻权，高频，不run",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Decision",
+      "DAKADKPJANI": [
         "Aid",
         "MuteGlobalAI",
         "Occupation",
         "OccupationAttack"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:1.5",
         "AttackCD_Success_Hard:1.5",
@@ -1090,21 +1090,21 @@
     },
     {
       "ID": 111010,
-      "NCNLGEKLLGJ": "低阶以太粘液_AI_巡逻（巡逻模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Patrol",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "低阶以太粘液_AI_巡逻（巡逻模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Patrol",
+      "DAKADKPJANI": [
         "Patrol"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111011,
-      "NCNLGEKLLGJ": "低阶以太粘液_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "低阶以太粘液_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cyclops/Behavior_Monster_Cyclops_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:4",
         "AttackCD_Success_Hard:3",
@@ -1132,11 +1132,11 @@
     },
     {
       "ID": 111101,
-      "NCNLGEKLLGJ": "以太巨兽_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太巨兽_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:0.3",
         "AttackCD_Success_Hard:0.2",
@@ -1164,13 +1164,13 @@
     },
     {
       "ID": 111102,
-      "NCNLGEKLLGJ": "以太巨兽_AI_辅攻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太巨兽_AI_辅攻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
+      "DAKADKPJANI": [
         "Aide"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:7",
@@ -1198,13 +1198,13 @@
     },
     {
       "ID": 111103,
-      "NCNLGEKLLGJ": "以太巨兽_AI_教学",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太巨兽_AI_教学",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
+      "DAKADKPJANI": [
         "Tutorial"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -1232,13 +1232,13 @@
     },
     {
       "ID": 111104,
-      "NCNLGEKLLGJ": "以太巨兽_AI_破坏物",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太巨兽_AI_破坏物",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
+      "DAKADKPJANI": [
         "Destruct"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:0.3",
         "AttackCD_Success_Hard:0.2",
@@ -1266,13 +1266,13 @@
     },
     {
       "ID": 111105,
-      "NCNLGEKLLGJ": "以太巨兽_AI_破坏物_辅攻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太巨兽_AI_破坏物_辅攻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
+      "DAKADKPJANI": [
         "DestructAide"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:10",
         "AttackCD_Success_Hard:10",
@@ -1300,11 +1300,11 @@
     },
     {
       "ID": 111106,
-      "NCNLGEKLLGJ": "以太巨兽_AI_嘲讽活动测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision_TauntEvent",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太巨兽_AI_嘲讽活动测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision_TauntEvent",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:10",
         "AttackCD_Success_Hard:10",
@@ -1332,11 +1332,11 @@
     },
     {
       "ID": 111111,
-      "NCNLGEKLLGJ": "以太巨兽_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太巨兽_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Giant/Behavior_Monster_Giant_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:0.15",
         "AttackCD_Success_Hard:0.1",
@@ -1364,11 +1364,11 @@
     },
     {
       "ID": 111201,
-      "NCNLGEKLLGJ": "以太巡兽_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太巡兽_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:2",
         "AttackCD_Success_Hard:1",
@@ -1396,13 +1396,13 @@
     },
     {
       "ID": 111202,
-      "NCNLGEKLLGJ": "以太巡兽_AI_辅攻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太巡兽_AI_辅攻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Decision",
+      "DAKADKPJANI": [
         "Aide"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:7",
@@ -1430,14 +1430,14 @@
     },
     {
       "ID": 111203,
-      "NCNLGEKLLGJ": "以太巡兽_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太巡兽_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Decision",
+      "DAKADKPJANI": [
         "Occupation",
         "OccupationAttack"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:2",
         "AttackCD_Success_Hard:1",
@@ -1465,27 +1465,27 @@
     },
     {
       "ID": 111204,
-      "NCNLGEKLLGJ": "以太巡兽_AI_Boss",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_UnArmored_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太巡兽_AI_Boss",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_UnArmored_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111205,
-      "NCNLGEKLLGJ": "以太巡兽_AI_Boss_红色",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_UnArmored_Boss_Red_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太巡兽_AI_Boss_红色",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_UnArmored_Boss_Red_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111211,
-      "NCNLGEKLLGJ": "以太巡兽_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太巡兽_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:1",
         "AttackCD_Success_Hard:0.5",
@@ -1513,19 +1513,19 @@
     },
     {
       "ID": 111301,
-      "NCNLGEKLLGJ": "以太爆弹_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_FierySerpent/Behavior_Monster_FierySerpent_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太爆弹_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_FierySerpent/Behavior_Monster_FierySerpent_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111401,
-      "NCNLGEKLLGJ": "以太信号斧_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Satyrus/Behavior_Monster_Satyrus_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太信号斧_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Satyrus/Behavior_Monster_Satyrus_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -1553,13 +1553,13 @@
     },
     {
       "ID": 111408,
-      "NCNLGEKLLGJ": "以太信号斧_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Satyrus/Behavior_Monster_Satyrus_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太信号斧_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Satyrus/Behavior_Monster_Satyrus_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -1587,11 +1587,11 @@
     },
     {
       "ID": 111411,
-      "NCNLGEKLLGJ": "以太信号斧_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Satyrus/Behavior_Monster_Satyrus_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太信号斧_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Satyrus/Behavior_Monster_Satyrus_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -1619,29 +1619,29 @@
     },
     {
       "ID": 111501,
-      "NCNLGEKLLGJ": "以太剑盾_AI_默认（Boss模板）（中途转阶段）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太剑盾_AI_默认（Boss模板）（中途转阶段）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111502,
-      "NCNLGEKLLGJ": "以太剑盾_AI_序章（Boss模板）（没有二阶段）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太剑盾_AI_序章（Boss模板）（没有二阶段）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Boss_Decision",
+      "DAKADKPJANI": [
         "MuteTransform"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111503,
-      "NCNLGEKLLGJ": "以太剑盾_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太剑盾_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -1669,23 +1669,23 @@
     },
     {
       "ID": 111504,
-      "NCNLGEKLLGJ": "以太剑盾_AI_序章（Boss模板）（直接二阶段）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太剑盾_AI_序章（Boss模板）（直接二阶段）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Boss_Decision",
+      "DAKADKPJANI": [
         "BornTransform"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111509,
-      "NCNLGEKLLGJ": "以太剑盾_AI_小BOSS指挥者",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太剑盾_AI_小BOSS指挥者",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Decision",
+      "DAKADKPJANI": [
         "DurahanLeader"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:9",
         "AttackCD_Success_Hard:6",
@@ -1713,11 +1713,11 @@
     },
     {
       "ID": 111511,
-      "NCNLGEKLLGJ": "以太剑盾_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太剑盾_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Durahan/Behavior_Monster_Durahan_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -1745,11 +1745,11 @@
     },
     {
       "ID": 111601,
-      "NCNLGEKLLGJ": "掠袭猎兵_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_StrikeJaeger/Behavior_Monster_StrikeJaeger_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "掠袭猎兵_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_StrikeJaeger/Behavior_Monster_StrikeJaeger_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -1777,13 +1777,13 @@
     },
     {
       "ID": 111608,
-      "NCNLGEKLLGJ": "掠袭猎兵_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_StrikeJaeger/Behavior_Monster_StrikeJaeger_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "掠袭猎兵_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_StrikeJaeger/Behavior_Monster_StrikeJaeger_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -1811,13 +1811,13 @@
     },
     {
       "ID": 111609,
-      "NCNLGEKLLGJ": "掠袭猎兵_AI_友方单位",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_StrikeJaeger/Behavior_Monster_Allied_StrikeJaeger_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "掠袭猎兵_AI_友方单位",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_StrikeJaeger/Behavior_Monster_Allied_StrikeJaeger_Decision",
+      "DAKADKPJANI": [
         "Allied"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:6",
@@ -1845,11 +1845,11 @@
     },
     {
       "ID": 111611,
-      "NCNLGEKLLGJ": "掠袭猎兵_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_StrikeJaeger/Behavior_Monster_StrikeJaeger_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "掠袭猎兵_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_StrikeJaeger/Behavior_Monster_StrikeJaeger_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -1877,11 +1877,11 @@
     },
     {
       "ID": 111801,
-      "NCNLGEKLLGJ": "以太死神XIII_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太死神XIII_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -1909,13 +1909,13 @@
     },
     {
       "ID": 111802,
-      "NCNLGEKLLGJ": "以太死神XIII_AI_辅攻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太死神XIII_AI_辅攻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Decision",
+      "DAKADKPJANI": [
         "Aide"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -1943,40 +1943,40 @@
     },
     {
       "ID": 111803,
-      "NCNLGEKLLGJ": "以太死神XIII_AI_BOSS",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太死神XIII_AI_BOSS",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111804,
-      "NCNLGEKLLGJ": "以太死神XIII_AI_BOSS_削弱",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太死神XIII_AI_BOSS_削弱",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "Timer_ActionMode_0_Default:12",
         "Timer_ActionMode_1_Default:8"
       ]
     },
     {
       "ID": 111809,
-      "NCNLGEKLLGJ": "以太死神XIII_AI_关卡传送",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Level_Teleport",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太死神XIII_AI_关卡传送",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Level_Teleport",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111810,
-      "NCNLGEKLLGJ": "以太死神XIII_AI_关卡测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII_Bak/Behavior_Monster_DeathXIII_CCC_Decision_1",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太死神XIII_AI_关卡测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII_Bak/Behavior_Monster_DeathXIII_CCC_Decision_1",
+      "DAKADKPJANI": [
         "LevelTest"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.2",
         "AttackCD_Success_Normal:0.2",
         "AttackCD_Success_Hard:0.2",
@@ -2004,11 +2004,11 @@
     },
     {
       "ID": 111811,
-      "NCNLGEKLLGJ": "以太死神XIII_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太死神XIII_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_DeathXIII/Behavior_Monster_DeathXIII_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:1.5",
         "AttackCD_Success_Hard:1",
@@ -2036,11 +2036,11 @@
     },
     {
       "ID": 111901,
-      "NCNLGEKLLGJ": "以太巡兽_装甲版_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Armored_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太巡兽_装甲版_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Armored_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -2068,19 +2068,19 @@
     },
     {
       "ID": 111902,
-      "NCNLGEKLLGJ": "以太巡兽_装甲版_AI_BOSS",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太巡兽_装甲版_AI_BOSS",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 111911,
-      "NCNLGEKLLGJ": "以太巡兽_装甲版_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Armored_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太巡兽_装甲版_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hati/Behavior_Monster_Hati_Armored_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:1.5",
         "AttackCD_Success_Hard:1",
@@ -2108,11 +2108,11 @@
     },
     {
       "ID": 112001,
-      "NCNLGEKLLGJ": "以太壁垒_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太壁垒_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -2140,13 +2140,13 @@
     },
     {
       "ID": 112002,
-      "NCNLGEKLLGJ": "以太壁垒_AI_占点只进圈防御",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太壁垒_AI_占点只进圈防御",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -2174,13 +2174,13 @@
     },
     {
       "ID": 112003,
-      "NCNLGEKLLGJ": "以太壁垒_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太壁垒_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -2208,11 +2208,11 @@
     },
     {
       "ID": 112004,
-      "NCNLGEKLLGJ": "以太壁垒_AI_嘲讽活动测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision_TauntEvent",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太壁垒_AI_嘲讽活动测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision_TauntEvent",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -2240,11 +2240,11 @@
     },
     {
       "ID": 112011,
-      "NCNLGEKLLGJ": "以太壁垒_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太壁垒_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Golem/Behavior_Monster_Golem_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:4",
         "AttackCD_Success_Hard:3",
@@ -2272,11 +2272,11 @@
     },
     {
       "ID": 112101,
-      "NCNLGEKLLGJ": "以太魔花_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Arlaune/Behavior_Monster_Arlaune_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太魔花_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Arlaune/Behavior_Monster_Arlaune_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -2304,13 +2304,13 @@
     },
     {
       "ID": 112102,
-      "NCNLGEKLLGJ": "以太魔花_AI_辅攻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Arlaune/Behavior_Monster_Arlaune_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太魔花_AI_辅攻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Arlaune/Behavior_Monster_Arlaune_Decision",
+      "DAKADKPJANI": [
         "Aide"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:10",
         "AttackCD_Success_Hard:8",
@@ -2338,13 +2338,13 @@
     },
     {
       "ID": 112103,
-      "NCNLGEKLLGJ": "以太魔花_AI_教学",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Arlaune/Behavior_Monster_Arlaune_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太魔花_AI_教学",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Arlaune/Behavior_Monster_Arlaune_Decision",
+      "DAKADKPJANI": [
         "Tutorial"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:10",
         "AttackCD_Success_Hard:8",
@@ -2372,11 +2372,11 @@
     },
     {
       "ID": 112111,
-      "NCNLGEKLLGJ": "以太魔花_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Arlaune/Behavior_Monster_Arlaune_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太魔花_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Arlaune/Behavior_Monster_Arlaune_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -2404,11 +2404,11 @@
     },
     {
       "ID": 112201,
-      "NCNLGEKLLGJ": "以太双斧_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太双斧_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -2436,13 +2436,13 @@
     },
     {
       "ID": 112202,
-      "NCNLGEKLLGJ": "以太双斧_AI_辅攻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太双斧_AI_辅攻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
+      "DAKADKPJANI": [
         "Aide"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -2470,13 +2470,13 @@
     },
     {
       "ID": 112208,
-      "NCNLGEKLLGJ": "以太双斧_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太双斧_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -2504,11 +2504,11 @@
     },
     {
       "ID": 112211,
-      "NCNLGEKLLGJ": "以太双斧_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "以太双斧_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -2536,13 +2536,13 @@
     },
     {
       "ID": 112212,
-      "NCNLGEKLLGJ": "以太双斧_AI_升阶指挥者",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "以太双斧_AI_升阶指挥者",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Goblin/Behavior_Monster_Goblin_Decision",
+      "DAKADKPJANI": [
         "GoblinLeader"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -2570,86 +2570,98 @@
     },
     {
       "ID": 112301,
-      "NCNLGEKLLGJ": "死路巨人_P1阶段_AI_默认（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "死路巨人_P1阶段_AI_默认（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
+      "DAKADKPJANI": [
         "Boss"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 112302,
-      "NCNLGEKLLGJ": "死路巨人_P2阶段_AI_默认（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cottus_P2/Behavior_Monster_Cottus_P2_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "死路巨人_P2阶段_AI_默认（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cottus_P2/Behavior_Monster_Cottus_P2_Boss_Decision",
+      "DAKADKPJANI": [
         "Boss"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 112303,
-      "NCNLGEKLLGJ": "死路巨人_P1阶段_AI_精英（Boss模板）(弃用）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "死路巨人_P1阶段_AI_精英（Boss模板）(弃用）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
+      "DAKADKPJANI": [
         "Elite"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 112304,
-      "NCNLGEKLLGJ": "死路巨人_P1阶段_AI_高难（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "死路巨人_P1阶段_AI_高难（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
+      "DAKADKPJANI": [
         "Boss",
         "Hard"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 112305,
-      "NCNLGEKLLGJ": "死路巨人_P2阶段_AI_高难（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cottus_P2/Behavior_Monster_Cottus_P2_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "死路巨人_P2阶段_AI_高难（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cottus_P2/Behavior_Monster_Cottus_P2_Boss_Decision",
+      "DAKADKPJANI": [
         "Boss",
         "Hard"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 112306,
-      "NCNLGEKLLGJ": "死路巨人_P1阶段_AI_默认_出场播片（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "死路巨人_P1阶段_AI_默认_出场播片（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
+      "DAKADKPJANI": [
         "Boss",
         "CutScene"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 112307,
-      "NCNLGEKLLGJ": "死路巨人_P1阶段_AI_高难_出场播片（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "死路巨人_P1阶段_AI_高难_出场播片（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
+      "DAKADKPJANI": [
         "Boss",
         "Hard",
         "CutScene"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 112308,
+      "CDILHBONOMJ": "死路巨人_P1阶段_AI_高难（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cottus/Behavior_Monster_Cottus_P1_Boss_Decision",
+      "DAKADKPJANI": [
+        "Boss",
+        "Hard",
+        "Perception"
+      ],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 112401,
-      "NCNLGEKLLGJ": "摇钱布_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_GoldenBomb/Behavior_Monster_GoldenBomb_Decision.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "摇钱布_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_GoldenBomb/Behavior_Monster_GoldenBomb_Decision.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -2677,21 +2689,21 @@
     },
     {
       "ID": 112410,
-      "NCNLGEKLLGJ": "摇钱布_AI_巡逻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_GoldenBomb/Behavior_Monster_GoldenBomb_Patrol.asset",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "摇钱布_AI_巡逻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_GoldenBomb/Behavior_Monster_GoldenBomb_Patrol.asset",
+      "DAKADKPJANI": [
         "Patrol"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 112501,
-      "NCNLGEKLLGJ": "轻装猎兵_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "轻装猎兵_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -2719,13 +2731,13 @@
     },
     {
       "ID": 112502,
-      "NCNLGEKLLGJ": "轻装猎兵_AI_友方单位",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_Allied_RangeSoldier_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "轻装猎兵_AI_友方单位",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_Allied_RangeSoldier_Decision",
+      "DAKADKPJANI": [
         "Allied"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -2753,13 +2765,13 @@
     },
     {
       "ID": 112503,
-      "NCNLGEKLLGJ": "轻装猎兵_AI_友方_NedfSoldier纯战斗版",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LightJaeger/Behavior_Monster_Allied_NedfSoldier_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "轻装猎兵_AI_友方_NedfSoldier纯战斗版",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LightJaeger/Behavior_Monster_Allied_NedfSoldier_Decision",
+      "DAKADKPJANI": [
         "Allied"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -2787,13 +2799,13 @@
     },
     {
       "ID": 112508,
-      "NCNLGEKLLGJ": "轻装猎兵_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "轻装猎兵_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -2821,13 +2833,13 @@
     },
     {
       "ID": 112509,
-      "NCNLGEKLLGJ": "轻装猎兵_AI_索敌",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Action_SelectTargetOnly",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "轻装猎兵_AI_索敌",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Action_SelectTargetOnly",
+      "DAKADKPJANI": [
         "SelectTargetOnly"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -2855,11 +2867,11 @@
     },
     {
       "ID": 112511,
-      "NCNLGEKLLGJ": "轻装猎兵_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "轻装猎兵_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RangeSoldier/Behavior_Monster_RangeSoldier_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:4",
         "AttackCD_Success_Hard:3",
@@ -2887,11 +2899,11 @@
     },
     {
       "ID": 112601,
-      "NCNLGEKLLGJ": "重装炮手_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavyFirePower/Behavior_Monster_HeavyFirePower_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "重装炮手_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavyFirePower/Behavior_Monster_HeavyFirePower_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -2919,13 +2931,13 @@
     },
     {
       "ID": 112602,
-      "NCNLGEKLLGJ": "重装炮手_AI_辅攻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavyFirePower/Behavior_Monster_HeavyFirePower_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "重装炮手_AI_辅攻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavyFirePower/Behavior_Monster_HeavyFirePower_Decision",
+      "DAKADKPJANI": [
         "Aide"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -2953,13 +2965,13 @@
     },
     {
       "ID": 112608,
-      "NCNLGEKLLGJ": "重装炮手_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavyFirePower/Behavior_Monster_HeavyFirePower_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "重装炮手_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavyFirePower/Behavior_Monster_HeavyFirePower_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -2987,11 +2999,11 @@
     },
     {
       "ID": 112611,
-      "NCNLGEKLLGJ": "重装炮手_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavyFirePower/Behavior_Monster_HeavyFirePower_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "重装炮手_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavyFirePower/Behavior_Monster_HeavyFirePower_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3019,11 +3031,11 @@
     },
     {
       "ID": 112701,
-      "NCNLGEKLLGJ": "近战猎兵_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MeleeJaeger/Behavior_Monster_MeleeJaeger_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "近战猎兵_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MeleeJaeger/Behavior_Monster_MeleeJaeger_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -3051,13 +3063,13 @@
     },
     {
       "ID": 112708,
-      "NCNLGEKLLGJ": "近战猎兵_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MeleeJaeger/Behavior_Monster_MeleeJaeger_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "近战猎兵_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MeleeJaeger/Behavior_Monster_MeleeJaeger_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -3085,11 +3097,11 @@
     },
     {
       "ID": 112711,
-      "NCNLGEKLLGJ": "近战猎兵_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MeleeJaeger/Behavior_Monster_MeleeJaeger_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "近战猎兵_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MeleeJaeger/Behavior_Monster_MeleeJaeger_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3117,27 +3129,27 @@
     },
     {
       "ID": 112901,
-      "NCNLGEKLLGJ": "以太核心曼陀罗_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Mandrake/Behavior_Monster_Mandrake_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太核心曼陀罗_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Mandrake/Behavior_Monster_Mandrake_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 113001,
-      "NCNLGEKLLGJ": "工地机械_破拆机_AI_默认（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_BoringMachine/Behavior_Monster_BoringMachine_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "工地机械_破拆机_AI_默认（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_BoringMachine/Behavior_Monster_BoringMachine_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 113101,
-      "NCNLGEKLLGJ": "混混电棍兵_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugAssaulter/Behavior_Monster_ThugAssaulter_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混电棍兵_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugAssaulter/Behavior_Monster_ThugAssaulter_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -3165,13 +3177,13 @@
     },
     {
       "ID": 113108,
-      "NCNLGEKLLGJ": "混混电棍兵_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugAssaulter/Behavior_Monster_ThugAssaulter_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "混混电棍兵_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugAssaulter/Behavior_Monster_ThugAssaulter_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -3199,21 +3211,21 @@
     },
     {
       "ID": 113110,
-      "NCNLGEKLLGJ": "混混电棍兵_巡逻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugAssaulter/Behavior_Monster_ThugAssaulter_Patrol",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "混混电棍兵_巡逻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugAssaulter/Behavior_Monster_ThugAssaulter_Patrol",
+      "DAKADKPJANI": [
         "Patrol"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 113111,
-      "NCNLGEKLLGJ": "混混电棍兵_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugAssaulter/Behavior_Monster_ThugAssaulter_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混电棍兵_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugAssaulter/Behavior_Monster_ThugAssaulter_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3241,11 +3253,11 @@
     },
     {
       "ID": 113201,
-      "NCNLGEKLLGJ": "混混弩机兵_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugPoacher/Behavior_Monster_ThugPoacher_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混弩机兵_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugPoacher/Behavior_Monster_ThugPoacher_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -3273,13 +3285,13 @@
     },
     {
       "ID": 113208,
-      "NCNLGEKLLGJ": "混混弩机兵_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugPoacher/Behavior_Monster_ThugPoacher_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "混混弩机兵_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugPoacher/Behavior_Monster_ThugPoacher_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -3307,21 +3319,21 @@
     },
     {
       "ID": 113209,
-      "NCNLGEKLLGJ": "混混弩机兵_索敌",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugPoacher/Behavior_Monster_ThugPoacher_Action_SelectTargetOnly",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "混混弩机兵_索敌",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugPoacher/Behavior_Monster_ThugPoacher_Action_SelectTargetOnly",
+      "DAKADKPJANI": [
         "SelectTargetOnly"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 113211,
-      "NCNLGEKLLGJ": "混混弩机兵_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugPoacher/Behavior_Monster_ThugPoacher_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混弩机兵_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugPoacher/Behavior_Monster_ThugPoacher_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:4",
         "AttackCD_Success_Hard:3",
@@ -3349,11 +3361,11 @@
     },
     {
       "ID": 113301,
-      "NCNLGEKLLGJ": "混混纵火犯_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugPyromaniac/Behavior_Monster_ThugPyromaniac_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混纵火犯_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugPyromaniac/Behavior_Monster_ThugPyromaniac_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -3381,13 +3393,13 @@
     },
     {
       "ID": 113308,
-      "NCNLGEKLLGJ": "混混纵火犯_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugPyromaniac/Behavior_Monster_ThugPyromaniac_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "混混纵火犯_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugPyromaniac/Behavior_Monster_ThugPyromaniac_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -3415,11 +3427,11 @@
     },
     {
       "ID": 113311,
-      "NCNLGEKLLGJ": "混混纵火犯_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugPyromaniac/Behavior_Monster_ThugPyromaniac_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混纵火犯_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugPyromaniac/Behavior_Monster_ThugPyromaniac_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:4",
         "AttackCD_Success_Hard:3",
@@ -3447,11 +3459,11 @@
     },
     {
       "ID": 113401,
-      "NCNLGEKLLGJ": "混混鱼叉兵_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugRaider/Behavior_Monster_ThugRaider_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混鱼叉兵_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugRaider/Behavior_Monster_ThugRaider_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -3479,13 +3491,13 @@
     },
     {
       "ID": 113408,
-      "NCNLGEKLLGJ": "混混鱼叉兵_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugRaider/Behavior_Monster_ThugRaider_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "混混鱼叉兵_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugRaider/Behavior_Monster_ThugRaider_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -3513,11 +3525,11 @@
     },
     {
       "ID": 113411,
-      "NCNLGEKLLGJ": "混混鱼叉兵_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugRaider/Behavior_Monster_ThugRaider_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混鱼叉兵_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugRaider/Behavior_Monster_ThugRaider_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3545,11 +3557,11 @@
     },
     {
       "ID": 113501,
-      "NCNLGEKLLGJ": "混混拳击手_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyEnforcer/Behavior_Monster_ThugBulkyEnforcer_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混拳击手_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyEnforcer/Behavior_Monster_ThugBulkyEnforcer_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3577,13 +3589,13 @@
     },
     {
       "ID": 113508,
-      "NCNLGEKLLGJ": "混混拳击手_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyEnforcer/Behavior_Monster_ThugBulkyEnforcer_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "混混拳击手_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyEnforcer/Behavior_Monster_ThugBulkyEnforcer_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3611,11 +3623,11 @@
     },
     {
       "ID": 113511,
-      "NCNLGEKLLGJ": "混混拳击手_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyEnforcer/Behavior_Monster_ThugBulkyEnforcer_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混拳击手_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyEnforcer/Behavior_Monster_ThugBulkyEnforcer_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:1.5",
         "AttackCD_Success_Hard:1",
@@ -3643,11 +3655,11 @@
     },
     {
       "ID": 113521,
-      "NCNLGEKLLGJ": "混混拳击手_Boss",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyEnforcer/Behavior_Monster_ThugBulkyEnforcer_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混拳击手_Boss",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyEnforcer/Behavior_Monster_ThugBulkyEnforcer_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:1.5",
         "AttackCD_Success_Hard:1",
@@ -3675,11 +3687,11 @@
     },
     {
       "ID": 113601,
-      "NCNLGEKLLGJ": "混混霰弹枪_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyAbuser/Behavior_Monster_ThugBulkyAbuser_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混霰弹枪_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyAbuser/Behavior_Monster_ThugBulkyAbuser_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3707,13 +3719,13 @@
     },
     {
       "ID": 113608,
-      "NCNLGEKLLGJ": "混混霰弹枪_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyAbuser/Behavior_Monster_ThugBulkyAbuser_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "混混霰弹枪_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyAbuser/Behavior_Monster_ThugBulkyAbuser_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3741,11 +3753,11 @@
     },
     {
       "ID": 113611,
-      "NCNLGEKLLGJ": "混混霰弹枪_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyAbuser/Behavior_Monster_ThugBulkyAbuser_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "混混霰弹枪_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ThugBulkyAbuser/Behavior_Monster_ThugBulkyAbuser_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:1.5",
         "AttackCD_Success_Hard:1",
@@ -3773,11 +3785,11 @@
     },
     {
       "ID": 113701,
-      "NCNLGEKLLGJ": "眼魔引擎_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "眼魔引擎_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -3805,13 +3817,13 @@
     },
     {
       "ID": 113702,
-      "NCNLGEKLLGJ": "眼魔引擎_特殊滚动版",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "眼魔引擎_特殊滚动版",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision",
+      "DAKADKPJANI": [
         "BeholderEngineRoll"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3839,11 +3851,11 @@
     },
     {
       "ID": 113703,
-      "NCNLGEKLLGJ": "眼魔引擎_协同攻击版",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision_Team",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "眼魔引擎_协同攻击版",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision_Team",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3871,13 +3883,13 @@
     },
     {
       "ID": 113708,
-      "NCNLGEKLLGJ": "眼魔引擎_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "眼魔引擎_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -3905,11 +3917,11 @@
     },
     {
       "ID": 113711,
-      "NCNLGEKLLGJ": "眼魔引擎_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "眼魔引擎_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_BeholderEngine/Behavior_Monster_BeholderEngine_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -3937,11 +3949,11 @@
     },
     {
       "ID": 113801,
-      "NCNLGEKLLGJ": "泰拉斯奎祸车_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_TarasqueMixer/Behavior_Monster_TarasqueMixer_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "泰拉斯奎祸车_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TarasqueMixer/Behavior_Monster_TarasqueMixer_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:5",
@@ -3969,13 +3981,13 @@
     },
     {
       "ID": 113808,
-      "NCNLGEKLLGJ": "泰拉斯奎祸车_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_TarasqueMixer/Behavior_Monster_TarasqueMixer_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "泰拉斯奎祸车_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TarasqueMixer/Behavior_Monster_TarasqueMixer_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:5",
@@ -4003,11 +4015,11 @@
     },
     {
       "ID": 113811,
-      "NCNLGEKLLGJ": "泰拉斯奎祸车_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_TarasqueMixer/Behavior_Monster_TarasqueMixer_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "泰拉斯奎祸车_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TarasqueMixer/Behavior_Monster_TarasqueMixer_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2.5",
@@ -4035,13 +4047,13 @@
     },
     {
       "ID": 113812,
-      "NCNLGEKLLGJ": "泰拉斯奎祸车_升阶指挥者",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_TarasqueMixer/Behavior_Monster_TarasqueMixer_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "泰拉斯奎祸车_升阶指挥者",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TarasqueMixer/Behavior_Monster_TarasqueMixer_Decision",
+      "DAKADKPJANI": [
         "TarasqueMixerLeader"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2.5",
@@ -4069,99 +4081,99 @@
     },
     {
       "ID": 113901,
-      "NCNLGEKLLGJ": "工地机械_打桩机_AI_默认（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_PileDriver/Behavior_Monster_PileDriver_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "工地机械_打桩机_AI_默认（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_PileDriver/Behavior_Monster_PileDriver_Boss_Decision",
+      "DAKADKPJANI": [
         "Eazy"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 113902,
-      "NCNLGEKLLGJ": "工地机械_打桩机_AI_默认（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_PileDriver/Behavior_Monster_PileDriver_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "工地机械_打桩机_AI_默认（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_PileDriver/Behavior_Monster_PileDriver_Boss_Decision",
+      "DAKADKPJANI": [
         "Hard"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114001,
-      "NCNLGEKLLGJ": "工地机械_挖掘机_AI_默认（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MaterialHandler/Behavior_Monster_MaterialHandler_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "工地机械_挖掘机_AI_默认（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MaterialHandler/Behavior_Monster_MaterialHandler_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114002,
-      "NCNLGEKLLGJ": "工地机械_挖掘机_AI_投石专精_01（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MaterialHandler/Behavior_Monster_MaterialHandler_LevelSpecial_01",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "工地机械_挖掘机_AI_投石专精_01（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MaterialHandler/Behavior_Monster_MaterialHandler_LevelSpecial_01",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114003,
-      "NCNLGEKLLGJ": "工地机械_挖掘机_AI_特殊Idle（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MaterialHandler/Behavior_Monster_MaterialHandler_LevelSpecial_02",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "工地机械_挖掘机_AI_特殊Idle（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MaterialHandler/Behavior_Monster_MaterialHandler_LevelSpecial_02",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114004,
-      "NCNLGEKLLGJ": "工地机械_挖掘机_AI_投石专精_02（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_MaterialHandler/Behavior_Monster_MaterialHandler_LevelSpecial_03",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "工地机械_挖掘机_AI_投石专精_02（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_MaterialHandler/Behavior_Monster_MaterialHandler_LevelSpecial_03",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114101,
-      "NCNLGEKLLGJ": "工地Boss_复合侵蚀体_AI_默认（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ComplexCorrupted/Behavior_Monster_ComplexCorrupted_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "工地Boss_复合侵蚀体_AI_默认（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ComplexCorrupted/Behavior_Monster_ComplexCorrupted_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114201,
-      "NCNLGEKLLGJ": "双子舞者_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LampasBlackVeil/Behavior_Monster_LampasBlackVeil_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "双子舞者_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LampasBlackVeil/Behavior_Monster_LampasBlackVeil_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114202,
-      "NCNLGEKLLGJ": "双子舞者_组合_AI_高难度",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LampasBlackVeil/Behavior_Monster_LampasBlackVeil_CoAttack_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "双子舞者_组合_AI_高难度",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LampasBlackVeil/Behavior_Monster_LampasBlackVeil_CoAttack_Boss_Decision",
+      "DAKADKPJANI": [
         "Hard"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114203,
-      "NCNLGEKLLGJ": "双子舞者_组合_AI_低难度",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LampasBlackVeil/Behavior_Monster_LampasBlackVeil_CoAttack_Boss_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "双子舞者_组合_AI_低难度",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LampasBlackVeil/Behavior_Monster_LampasBlackVeil_CoAttack_Boss_Decision",
+      "DAKADKPJANI": [
         "Eazy"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114401,
-      "NCNLGEKLLGJ": "捷足巡游者_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LightfootRover/Behavior_Monster_LightfootRover_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "捷足巡游者_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LightfootRover/Behavior_Monster_LightfootRover_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:5",
@@ -4189,11 +4201,11 @@
     },
     {
       "ID": 114411,
-      "NCNLGEKLLGJ": "捷足巡游者_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_LightfootRover/Behavior_Monster_LightfootRover_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "捷足巡游者_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_LightfootRover/Behavior_Monster_LightfootRover_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:5",
         "AttackCD_Success_Hard:4",
@@ -4221,11 +4233,11 @@
     },
     {
       "ID": 114501,
-      "NCNLGEKLLGJ": "重装侵袭者_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavyStriker/Behavior_Monster_HeavyStriker_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "重装侵袭者_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavyStriker/Behavior_Monster_HeavyStriker_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:5",
@@ -4253,11 +4265,11 @@
     },
     {
       "ID": 114511,
-      "NCNLGEKLLGJ": "重装侵袭者_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavyStriker/Behavior_Monster_HeavyStriker_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "重装侵袭者_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavyStriker/Behavior_Monster_HeavyStriker_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:5",
         "AttackCD_Success_Hard:4",
@@ -4285,19 +4297,19 @@
     },
     {
       "ID": 114521,
-      "NCNLGEKLLGJ": "重装侵袭者_AI_Boss",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavyStriker/Behavior_Monster_HeavyStriker_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "重装侵袭者_AI_Boss",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavyStriker/Behavior_Monster_HeavyStriker_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 114601,
-      "NCNLGEKLLGJ": "恶灵_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Ahriman/Behavior_Monster_Ahriman_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "恶灵_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Ahriman/Behavior_Monster_Ahriman_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -4325,11 +4337,11 @@
     },
     {
       "ID": 114611,
-      "NCNLGEKLLGJ": "恶灵_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Ahriman/Behavior_Monster_Ahriman_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "恶灵_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Ahriman/Behavior_Monster_Ahriman_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -4357,11 +4369,11 @@
     },
     {
       "ID": 114701,
-      "NCNLGEKLLGJ": "游魂_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Specter/Behavior_Monster_Specter_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "游魂_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Specter/Behavior_Monster_Specter_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -4389,11 +4401,11 @@
     },
     {
       "ID": 114711,
-      "NCNLGEKLLGJ": "游魂_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Specter/Behavior_Monster_Specter_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "游魂_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Specter/Behavior_Monster_Specter_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:4",
         "AttackCD_Success_Hard:3",
@@ -4421,11 +4433,11 @@
     },
     {
       "ID": 114801,
-      "NCNLGEKLLGJ": "恶毒打手_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ViciousStriker/Behavior_Monster_ViciousStriker_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "恶毒打手_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ViciousStriker/Behavior_Monster_ViciousStriker_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -4453,13 +4465,13 @@
     },
     {
       "ID": 114808,
-      "NCNLGEKLLGJ": "恶毒打手_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ViciousStriker/Behavior_Monster_ViciousStriker_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "恶毒打手_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ViciousStriker/Behavior_Monster_ViciousStriker_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -4487,11 +4499,11 @@
     },
     {
       "ID": 114811,
-      "NCNLGEKLLGJ": "恶毒打手_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_ViciousStriker/Behavior_Monster_ViciousStriker_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "恶毒打手_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_ViciousStriker/Behavior_Monster_ViciousStriker_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -4519,11 +4531,11 @@
     },
     {
       "ID": 114901,
-      "NCNLGEKLLGJ": "贪婪射手_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_GreedyGunner/Behavior_Monster_GreedyGunner_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "贪婪射手_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_GreedyGunner/Behavior_Monster_GreedyGunner_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -4551,13 +4563,13 @@
     },
     {
       "ID": 114908,
-      "NCNLGEKLLGJ": "贪婪射手_AI_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_GreedyGunner/Behavior_Monster_GreedyGunner_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "贪婪射手_AI_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_GreedyGunner/Behavior_Monster_GreedyGunner_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:8",
         "AttackCD_Success_Hard:6",
@@ -4585,11 +4597,11 @@
     },
     {
       "ID": 114911,
-      "NCNLGEKLLGJ": "贪婪射手_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_GreedyGunner/Behavior_Monster_GreedyGunner_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "贪婪射手_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_GreedyGunner/Behavior_Monster_GreedyGunner_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:4",
         "AttackCD_Success_Hard:3",
@@ -4617,11 +4629,11 @@
     },
     {
       "ID": 115001,
-      "NCNLGEKLLGJ": "狂乱暴徒_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_FrenziedManiac/Behavior_Monster_FrenziedManiac_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "狂乱暴徒_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_FrenziedManiac/Behavior_Monster_FrenziedManiac_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -4649,11 +4661,11 @@
     },
     {
       "ID": 115011,
-      "NCNLGEKLLGJ": "狂乱暴徒_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_FrenziedManiac/Behavior_Monster_FrenziedManiac_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "狂乱暴徒_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_FrenziedManiac/Behavior_Monster_FrenziedManiac_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:1.5",
         "AttackCD_Success_Hard:1",
@@ -4681,11 +4693,11 @@
     },
     {
       "ID": 115101,
-      "NCNLGEKLLGJ": "盛怒恶霸_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_WickedWrath/Behavior_Monster_WickedWrath_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "盛怒恶霸_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_WickedWrath/Behavior_Monster_WickedWrath_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -4713,13 +4725,13 @@
     },
     {
       "ID": 115102,
-      "NCNLGEKLLGJ": "盛怒恶霸_AI_辅攻",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_WickedWrath/Behavior_Monster_WickedWrath_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "盛怒恶霸_AI_辅攻",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_WickedWrath/Behavior_Monster_WickedWrath_Decision",
+      "DAKADKPJANI": [
         "Aide"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -4747,11 +4759,11 @@
     },
     {
       "ID": 115111,
-      "NCNLGEKLLGJ": "盛怒恶霸_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_WickedWrath/Behavior_Monster_WickedWrath_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "盛怒恶霸_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_WickedWrath/Behavior_Monster_WickedWrath_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:1.5",
         "AttackCD_Success_Hard:1",
@@ -4779,11 +4791,11 @@
     },
     {
       "ID": 115201,
-      "NCNLGEKLLGJ": "凶心疯汉_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RuthlessFiend/Behavior_Monster_RuthlessFiend_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "凶心疯汉_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RuthlessFiend/Behavior_Monster_RuthlessFiend_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:0.3",
         "AttackCD_Success_Hard:0.2",
@@ -4811,11 +4823,11 @@
     },
     {
       "ID": 115211,
-      "NCNLGEKLLGJ": "凶心疯汉_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_RuthlessFiend/Behavior_Monster_RuthlessFiend_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "凶心疯汉_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_RuthlessFiend/Behavior_Monster_RuthlessFiend_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:0.15",
         "AttackCD_Success_Hard:0.1",
@@ -4843,43 +4855,43 @@
     },
     {
       "ID": 115301,
-      "NCNLGEKLLGJ": "尼尼微_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Nineveh/Behavior_Monster_Nineveh_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "尼尼微_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Nineveh/Behavior_Monster_Nineveh_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 115302,
-      "NCNLGEKLLGJ": "尼尼微_AI_召唤屏障",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Nineveh/Behavior_Monster_Nineveh_Boss_Decision_SummonWall",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "尼尼微_AI_召唤屏障",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Nineveh/Behavior_Monster_Nineveh_Boss_Decision_SummonWall",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 115303,
-      "NCNLGEKLLGJ": "尼尼微_AI_召唤屏障_可破坏物碰撞测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Nineveh/Behavior_Monster_Nineveh_Boss_Decision_SummonWall_Test",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "尼尼微_AI_召唤屏障_可破坏物碰撞测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Nineveh/Behavior_Monster_Nineveh_Boss_Decision_SummonWall_Test",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 115304,
-      "NCNLGEKLLGJ": "尼尼微_AI_BossRush",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Nineveh/Behavior_Monster_Nineveh_Boss_Decision_BossRush",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "尼尼微_AI_BossRush",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Nineveh/Behavior_Monster_Nineveh_Boss_Decision_BossRush",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 115601,
-      "NCNLGEKLLGJ": "尼尼微僚机_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_NinevehBee/Behavior_Monster_NinevehBee_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "尼尼微僚机_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_NinevehBee/Behavior_Monster_NinevehBee_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -4907,13 +4919,13 @@
     },
     {
       "ID": 115602,
-      "NCNLGEKLLGJ": "尼尼微僚机_AI_普通关卡用",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_NinevehBee/Behavior_Monster_NinevehBee_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "尼尼微僚机_AI_普通关卡用",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_NinevehBee/Behavior_Monster_NinevehBee_Decision",
+      "DAKADKPJANI": [
         "WithNineveh"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -4941,19 +4953,19 @@
     },
     {
       "ID": 115801,
-      "NCNLGEKLLGJ": "重机素体_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_HeavyMachineBase/Behavior_Monster_HeavyMachineBase_LevelSpecial",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "重机素体_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_HeavyMachineBase/Behavior_Monster_HeavyMachineBase_LevelSpecial",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 115901,
-      "NCNLGEKLLGJ": "重装猎兵_火箭筒_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_GrenadierJaeger/Behavior_Monster_GrenadierJaeger_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "重装猎兵_火箭筒_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_GrenadierJaeger/Behavior_Monster_GrenadierJaeger_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -4981,11 +4993,11 @@
     },
     {
       "ID": 115911,
-      "NCNLGEKLLGJ": "重装猎兵_火箭筒_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_GrenadierJaeger/Behavior_Monster_GrenadierJaeger_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "重装猎兵_火箭筒_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_GrenadierJaeger/Behavior_Monster_GrenadierJaeger_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -5013,11 +5025,11 @@
     },
     {
       "ID": 116001,
-      "NCNLGEKLLGJ": "莫尔斯_AI",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Mors/Behavior_Monster_Mors_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "莫尔斯_AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Mors/Behavior_Monster_Mors_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -5045,11 +5057,11 @@
     },
     {
       "ID": 116101,
-      "NCNLGEKLLGJ": "巴罗姆_AI",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Bellum/Behavior_Monster_Bellum_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "巴罗姆_AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Bellum/Behavior_Monster_Bellum_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -5077,11 +5089,11 @@
     },
     {
       "ID": 116201,
-      "NCNLGEKLLGJ": "波可娜_AI",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Pulchra/Behavior_Monster_Pulchra_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "波可娜_AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Pulchra/Behavior_Monster_Pulchra_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:3",
         "AttackCD_Success_Hard:2",
@@ -5109,19 +5121,19 @@
     },
     {
       "ID": 116401,
-      "NCNLGEKLLGJ": "简Boss_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_JaneDoe/Behavior_Monster_JaneDoe_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "简Boss_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_JaneDoe/Behavior_Monster_JaneDoe_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 116501,
-      "NCNLGEKLLGJ": "尼尼微藤曼触手_AI",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_NinevehVine/Behavior_Monster_NinevehVine_Action_Attack",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "尼尼微藤曼触手_AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_NinevehVine/Behavior_Monster_NinevehVine_Action_Attack",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:2",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5149,19 +5161,19 @@
     },
     {
       "ID": 116701,
-      "NCNLGEKLLGJ": "盗洞暴徒·蛮横力士",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_DubiousHero/Behavior_Monster_DubiousHero_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "盗洞暴徒·蛮横力士",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_DubiousHero/Behavior_Monster_DubiousHero_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 116801,
-      "NCNLGEKLLGJ": "弗瑟尔",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Fossor/Behavior_Monster_Fossor_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "弗瑟尔",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Fossor/Behavior_Monster_Fossor_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5189,13 +5201,13 @@
     },
     {
       "ID": 116802,
-      "NCNLGEKLLGJ": "弗瑟尔_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Fossor/Behavior_Monster_Fossor_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "弗瑟尔_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Fossor/Behavior_Monster_Fossor_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5223,11 +5235,11 @@
     },
     {
       "ID": 116811,
-      "NCNLGEKLLGJ": "弗瑟尔_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Fossor/Behavior_Monster_Fossor_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "弗瑟尔_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Fossor/Behavior_Monster_Fossor_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5255,11 +5267,11 @@
     },
     {
       "ID": 116901,
-      "NCNLGEKLLGJ": "索迪代斯",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Sordidus/Behavior_Monster_Sordidus_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "索迪代斯",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Sordidus/Behavior_Monster_Sordidus_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5287,13 +5299,13 @@
     },
     {
       "ID": 116902,
-      "NCNLGEKLLGJ": "索迪代斯_占点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Sordidus/Behavior_Monster_Sordidus_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "索迪代斯_占点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Sordidus/Behavior_Monster_Sordidus_Decision",
+      "DAKADKPJANI": [
         "Occupation"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5321,11 +5333,11 @@
     },
     {
       "ID": 116911,
-      "NCNLGEKLLGJ": "索迪代斯_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Sordidus/Behavior_Monster_Sordidus_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "索迪代斯_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Sordidus/Behavior_Monster_Sordidus_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5353,50 +5365,50 @@
     },
     {
       "ID": 117001,
-      "NCNLGEKLLGJ": "霸主庞培_AI_默认P1",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P1_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "霸主庞培_AI_默认P1",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P1_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 117002,
-      "NCNLGEKLLGJ": "霸主庞培_AI_P2",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P2_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "霸主庞培_AI_P2",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P2_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 117003,
-      "NCNLGEKLLGJ": "霸主庞培_P1阶段_AI_默认_出场播片（Boss模板）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P1_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "霸主庞培_P1阶段_AI_默认_出场播片（Boss模板）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P1_Decision",
+      "DAKADKPJANI": [
         "Boss",
         "CutScene"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 117011,
-      "NCNLGEKLLGJ": "霸主庞培_AI_P1_简单",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P1_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "霸主庞培_AI_P1_简单",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P1_Decision",
+      "DAKADKPJANI": [
         "Weak"
       ],
-      "CPHIINBILJA": []
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 117012,
-      "NCNLGEKLLGJ": "霸主庞培_AI_P2_简单",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P2_Decision",
-      "CJIOBALCCHI": [
+      "CDILHBONOMJ": "霸主庞培_AI_P2_简单",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TyrantPompey/Behavior_Monster_TyrantPompey_Boss_P2_Decision",
+      "DAKADKPJANI": [
         "Weak"
       ],
-      "CPHIINBILJA": [
+      "FHIFLCOEDDF": [
         "Coefficient_02_Default:20",
         "Float_SpecialComboCDLow:45",
         "Float_SpecialComboCDHigh:60"
@@ -5404,19 +5416,19 @@
     },
     {
       "ID": 117101,
-      "NCNLGEKLLGJ": "色雷斯人_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Thracian/Behavior_Monster_Thracian_Boss_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "色雷斯人_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Thracian/Behavior_Monster_Thracian_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 117601,
-      "NCNLGEKLLGJ": "重装猎兵_火箭筒_AI",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_GrenadierJaeger/Behavior_Monster_GrenadierJaeger_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "重装猎兵_火箭筒_AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_GrenadierJaeger/Behavior_Monster_GrenadierJaeger_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5444,11 +5456,11 @@
     },
     {
       "ID": 117701,
-      "NCNLGEKLLGJ": "能量体近战_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cyrtoidea/Behavior_Monster_Cyrtoidea_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "能量体近战_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cyrtoidea/Behavior_Monster_Cyrtoidea_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5476,11 +5488,11 @@
     },
     {
       "ID": 117702,
-      "NCNLGEKLLGJ": "能量体近战_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Cyrtoidea/Behavior_Monster_Cyrtoidea_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "能量体近战_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Cyrtoidea/Behavior_Monster_Cyrtoidea_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:4",
         "AttackCD_Success_Hard:3",
@@ -5508,11 +5520,11 @@
     },
     {
       "ID": 117801,
-      "NCNLGEKLLGJ": "能量体远程_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Nassellaria/Behavior_Monster_Nassellaria_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "能量体远程_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Nassellaria/Behavior_Monster_Nassellaria_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:1",
         "AttackCD_Success_Normal:6",
         "AttackCD_Success_Hard:4",
@@ -5540,11 +5552,11 @@
     },
     {
       "ID": 117802,
-      "NCNLGEKLLGJ": "能量体远程_AI_升阶",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_Nassellaria/Behavior_Monster_Nassellaria_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": [
+      "CDILHBONOMJ": "能量体远程_AI_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Nassellaria/Behavior_Monster_Nassellaria_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
         "AttackCD_Born:0.5",
         "AttackCD_Success_Normal:4",
         "AttackCD_Success_Hard:3",
@@ -5571,508 +5583,972 @@
       ]
     },
     {
+      "ID": 118101,
+      "CDILHBONOMJ": "牲鬼(P1)_主线1阶段_转阶段播片",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_SacrificeBringer/Behavior_Monster_SacrificeBringer_Boss_P1_Decision",
+      "DAKADKPJANI": [
+        "Boss",
+        "CutScene"
+      ],
+      "FHIFLCOEDDF": [
+        "P1_Ult_CD_Max:30",
+        ""
+      ]
+    },
+    {
+      "ID": 118102,
+      "CDILHBONOMJ": "牲鬼(P2)_新深渊",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_SacrificeBringer/Behavior_Monster_SacrificeBringer_Boss_P2_Decision",
+      "DAKADKPJANI": [
+        "SacrificeBringerP2"
+      ],
+      "FHIFLCOEDDF": [
+        "P2_OD_Skill_CD_Max:50",
+        "P2_Charge_Skill_CD_Max:25",
+        ""
+      ]
+    },
+    {
+      "ID": 118103,
+      "CDILHBONOMJ": "牲鬼虚空手",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_SacrificeBringerHand/Behavior_Monster_SacrificeBringerHand_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 118104,
+      "CDILHBONOMJ": "牲鬼蛋壳虫01",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Spider/Behavior_Monster_Spider_Aumbush",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 118105,
+      "CDILHBONOMJ": "牲鬼蛋壳虫02",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Spider/Behavior_Monster_Spider_Aumbush",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 118106,
+      "CDILHBONOMJ": "牲鬼蛋壳虫03",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Spider/Behavior_Monster_Spider_Aumbush",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 118107,
+      "CDILHBONOMJ": "牲鬼(P1)_直面大boss",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_SacrificeBringer/Behavior_Monster_SacrificeBringer_Boss_P1_Decision",
+      "DAKADKPJANI": [
+        "HP_OD"
+      ],
+      "FHIFLCOEDDF": [
+        "P1_Ult_CD_Max:30",
+        ""
+      ]
+    },
+    {
+      "ID": 118108,
+      "CDILHBONOMJ": "牲鬼(P2)_主线2阶段",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_SacrificeBringer/Behavior_Monster_SacrificeBringer_Boss_P2_Decision",
+      "DAKADKPJANI": [
+        "CS_OD",
+        "SacrificeBringerP2"
+      ],
+      "FHIFLCOEDDF": [
+        "P2_OD_Skill_CD_Max:50",
+        "P2_Charge_Skill_CD_Max:25",
+        ""
+      ]
+    },
+    {
+      "ID": 118109,
+      "CDILHBONOMJ": "牲鬼(P2)_记忆战场",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_SacrificeBringer/Behavior_Monster_SacrificeBringer_Boss_P2_Decision",
+      "DAKADKPJANI": [
+        "Boss_Challenge",
+        "SacrificeBringerP2"
+      ],
+      "FHIFLCOEDDF": [
+        "P2_OD_Skill_CD_Max:30",
+        "P2_Charge_Skill_CD_Max:45",
+        "Total_OD_Count:2",
+        ""
+      ]
+    },
+    {
+      "ID": 118201,
+      "CDILHBONOMJ": "以太粘液异化_常规",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_AlpecaInfested/Behavior_Monster_AlpecaInfested_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
+        "AttackCD_Born:0.1",
+        "AttackCD_Success_Normal:1",
+        "AttackCD_Success_Hard:0.5",
+        "AttackCD_Success_Lunatic:0.5",
+        "AttackCD_Fail_Normal:0.5",
+        "AttackCD_Fail_Hard:0",
+        "AttackCD_Fail_Lunatic:0",
+        "AttackCD_Success_Random_Normal:0",
+        "AttackCD_Success_Random_Hard:0",
+        "AttackCD_Success_Random_Lunatic:0",
+        "AttackCD_Fail_Random_Normal:0",
+        "AttackCD_Fail_Random_Hard:0",
+        "AttackCD_Fail_Random_Lunatic:0",
+        "Range_Alert:20",
+        "StearNearDis_min:6",
+        "StearNearDis_max:12",
+        "Range_A_min:5",
+        "Range_A_max:7",
+        "Range_B_min:11",
+        "Range_B_max:13",
+        "Range_C_min:17",
+        "Range_C_max:19",
+        ""
+      ]
+    },
+    {
+      "ID": 118202,
+      "CDILHBONOMJ": "以太粘液异化_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_AlpecaInfested/Behavior_Monster_AlpecaInfested_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
+        "AttackCD_Born:0.1",
+        "AttackCD_Success_Normal:1",
+        "AttackCD_Success_Hard:0.5",
+        "AttackCD_Success_Lunatic:0.5",
+        "AttackCD_Fail_Normal:0.5",
+        "AttackCD_Fail_Hard:0",
+        "AttackCD_Fail_Lunatic:0",
+        "AttackCD_Success_Random_Normal:0",
+        "AttackCD_Success_Random_Hard:0",
+        "AttackCD_Success_Random_Lunatic:0",
+        "AttackCD_Fail_Random_Normal:0",
+        "AttackCD_Fail_Random_Hard:0",
+        "AttackCD_Fail_Random_Lunatic:0",
+        "Range_Alert:20",
+        "StearNearDis_min:6",
+        "StearNearDis_max:12",
+        "Range_A_min:5",
+        "Range_A_max:7",
+        "Range_B_min:11",
+        "Range_B_max:13",
+        "Range_C_min:17",
+        "Range_C_max:19",
+        ""
+      ]
+    },
+    {
+      "ID": 118301,
+      "CDILHBONOMJ": "以太剑异化_常规",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TyrfingInfested/Behavior_Monster_TyrfingInfested_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
+        "AttackCD_Born:0.1",
+        "AttackCD_Success_Normal:1",
+        "AttackCD_Success_Hard:0.5",
+        "AttackCD_Success_Lunatic:0.5",
+        "AttackCD_Fail_Normal:0.5",
+        "AttackCD_Fail_Hard:0",
+        "AttackCD_Fail_Lunatic:0",
+        "AttackCD_Success_Random_Normal:0",
+        "AttackCD_Success_Random_Hard:0",
+        "AttackCD_Success_Random_Lunatic:0",
+        "AttackCD_Fail_Random_Normal:0",
+        "AttackCD_Fail_Random_Hard:0",
+        "AttackCD_Fail_Random_Lunatic:0",
+        "Range_Alert:20",
+        "StearNearDis_min:2.5",
+        "StearNearDis_max:4.5",
+        "Range_A_min:2",
+        "Range_A_max:3",
+        "Range_B_min:4",
+        "Range_B_max:5",
+        "Range_C_min:7",
+        "Range_C_max:8",
+        ""
+      ]
+    },
+    {
+      "ID": 118302,
+      "CDILHBONOMJ": "以太剑异化_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TyrfingInfested/Behavior_Monster_TyrfingInfested_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
+        "AttackCD_Born:0.1",
+        "AttackCD_Success_Normal:1",
+        "AttackCD_Success_Hard:0.5",
+        "AttackCD_Success_Lunatic:0.5",
+        "AttackCD_Fail_Normal:0.5",
+        "AttackCD_Fail_Hard:0",
+        "AttackCD_Fail_Lunatic:0",
+        "AttackCD_Success_Random_Normal:0",
+        "AttackCD_Success_Random_Hard:0",
+        "AttackCD_Success_Random_Lunatic:0",
+        "AttackCD_Fail_Random_Normal:0",
+        "AttackCD_Fail_Random_Hard:0",
+        "AttackCD_Fail_Random_Lunatic:0",
+        "Range_Alert:20",
+        "StearNearDis_min:2.5",
+        "StearNearDis_max:4.5",
+        "Range_A_min:2",
+        "Range_A_max:3",
+        "Range_B_min:4",
+        "Range_B_max:5",
+        "Range_C_min:7",
+        "Range_C_max:8",
+        ""
+      ]
+    },
+    {
+      "ID": 118501,
+      "CDILHBONOMJ": "寄生怪_常规",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hitchspiker/Behavior_Monster_Hitchspiker_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
+        "AttackCD_Born:1",
+        "AttackCD_Success_Normal:6",
+        "AttackCD_Success_Hard:4",
+        "AttackCD_Success_Lunatic:2",
+        "AttackCD_Fail_Normal:3",
+        "AttackCD_Fail_Hard:2",
+        "AttackCD_Fail_Lunatic:1",
+        "AttackCD_Success_Random_Normal:0",
+        "AttackCD_Success_Random_Hard:0",
+        "AttackCD_Success_Random_Lunatic:0",
+        "AttackCD_Fail_Random_Normal:0",
+        "AttackCD_Fail_Random_Hard:0",
+        "AttackCD_Fail_Random_Lunatic:0",
+        "Range_Alert:20",
+        "StearNearDis_min:6",
+        "StearNearDis_max:12",
+        "Range_A_min:5",
+        "Range_A_max:7",
+        "Range_B_min:11",
+        "Range_B_max:13",
+        "Range_C_min:17",
+        "Range_C_max:19",
+        ""
+      ]
+    },
+    {
+      "ID": 118502,
+      "CDILHBONOMJ": "寄生怪_升阶",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Hitchspiker/Behavior_Monster_Hitchspiker_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": [
+        "AttackCD_Born:0.5",
+        "AttackCD_Success_Normal:4",
+        "AttackCD_Success_Hard:3",
+        "AttackCD_Success_Lunatic:2",
+        "AttackCD_Fail_Normal:2",
+        "AttackCD_Fail_Hard:1.5",
+        "AttackCD_Fail_Lunatic:1",
+        "AttackCD_Success_Random_Normal:0",
+        "AttackCD_Success_Random_Hard:0",
+        "AttackCD_Success_Random_Lunatic:0",
+        "AttackCD_Fail_Random_Normal:0",
+        "AttackCD_Fail_Random_Hard:0",
+        "AttackCD_Fail_Random_Lunatic:0",
+        "Range_Alert:20",
+        "StearNearDis_min:6",
+        "StearNearDis_max:12",
+        "Range_A_min:5",
+        "Range_A_max:7",
+        "Range_B_min:11",
+        "Range_B_max:13",
+        "Range_C_min:17",
+        "Range_C_max:19",
+        ""
+      ]
+    },
+    {
+      "ID": 118601,
+      "CDILHBONOMJ": "恶名·冥宁芙",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_NotoriousMarionette/Behavior_Monster_NotoriousMarionette_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 118801,
+      "CDILHBONOMJ": "恶名庞培_AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_NotoriousPompey/Behavior_Monster_NotoriousPompey_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 118901,
+      "CDILHBONOMJ": "机甲猩猩亚种_AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_TyphonDestroyer/Behavior_Monster_TyphonDestroyer_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 119001,
+      "CDILHBONOMJ": "死路屠夫亚种_AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_NotoriousDeadEndButcher/Behavior_Monster_NotoriousDeadEndButcher_P1_Boss_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
       "ID": 120121,
-      "NCNLGEKLLGJ": "军方_加特林机枪塔_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_GatlingTower/Behavior_Device_Military_GatlingTower_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_加特林机枪塔_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_GatlingTower/Behavior_Device_Military_GatlingTower_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 120211,
-      "NCNLGEKLLGJ": "军方_激光镭射装置_完好_单发射击_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_Intact_SS_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_激光镭射装置_完好_单发射击_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_Intact_SS_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 120221,
-      "NCNLGEKLLGJ": "军方_激光镭射装置_单头损坏_单发射击_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_Damaged_SS_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_激光镭射装置_单头损坏_单发射击_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_Damaged_SS_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 120231,
-      "NCNLGEKLLGJ": "军方_激光镭射装置_长时间射击_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_MS_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_激光镭射装置_长时间射击_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_MS_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 120232,
-      "NCNLGEKLLGJ": "军方_激光镭射装置_长时间射击_AI_低速版",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_MS_Decision_Slow",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_激光镭射装置_长时间射击_AI_低速版",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_MS_Decision_Slow",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 120302,
-      "NCNLGEKLLGJ": "导弹井_AI_长关卡测试_目标为中心落点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_MissileWell/Behavior_Device_MissileWell_Level_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "导弹井_AI_长关卡测试_目标为中心落点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_MissileWell/Behavior_Device_MissileWell_Level_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 120303,
-      "NCNLGEKLLGJ": "垂直导弹发射器_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_MissileVerticalLauncher/Behavior_Device_Military_MissileVerticalLauncher_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "垂直导弹发射器_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_MissileVerticalLauncher/Behavior_Device_Military_MissileVerticalLauncher_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 120304,
-      "NCNLGEKLLGJ": "追踪导弹发射器_AI_30半径战场",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_TrackingMissileLauncher/Behavior_Device_Military_TrackingMissileLauncher_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "追踪导弹发射器_AI_30半径战场",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_TrackingMissileLauncher/Behavior_Device_Military_TrackingMissileLauncher_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 120305,
-      "NCNLGEKLLGJ": "追踪导弹发射器_AI_20半径战场",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_TrackingMissileLauncher/Behavior_Device_Military_TrackingMissileLauncher_Decision_20",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "追踪导弹发射器_AI_20半径战场",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_TrackingMissileLauncher/Behavior_Device_Military_TrackingMissileLauncher_Decision_20",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 120521,
-      "NCNLGEKLLGJ": "陷阱_弯管道_AI",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Pipeline/Behavior_Device_Pipeline_Curve",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "陷阱_弯管道_AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Pipeline/Behavior_Device_Pipeline_Curve",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 121111,
-      "NCNLGEKLLGJ": "军方_攻击型围栏_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserFence/Behavior_Device_Military_LaserFence_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_攻击型围栏_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserFence/Behavior_Device_Military_LaserFence_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 121201,
-      "NCNLGEKLLGJ": "军方_地雷_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_Mine/Behavior_Device_Military_Mine_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_地雷_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_Mine/Behavior_Device_Military_Mine_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 121501,
-      "NCNLGEKLLGJ": "军方_激光屏障_AI_默认_间歇射击",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_SkyScraper_AttackTheftWall/Behavior_Device_SkyScraper_AttackTheftWall_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_激光屏障_AI_默认_间歇射击",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_SkyScraper_AttackTheftWall/Behavior_Device_SkyScraper_AttackTheftWall_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 121601,
-      "NCNLGEKLLGJ": "军方_子母雷_空爆型",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_ClusterMunitions/Behavior_Device_Military_ClusterMunitions_AerialType_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_子母雷_空爆型",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_ClusterMunitions/Behavior_Device_Military_ClusterMunitions_AerialType_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 121611,
-      "NCNLGEKLLGJ": "军方_子母雷_地爆型",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_ClusterMunitions/Behavior_Device_Military_ClusterMunitions_LandType_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_子母雷_地爆型",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_ClusterMunitions/Behavior_Device_Military_ClusterMunitions_LandType_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 121701,
-      "NCNLGEKLLGJ": "军方_激光镭射装置_单头损坏_长时间射击_AI_固定定时射击",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_Damaged_MS_Decision_ByTime",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_激光镭射装置_单头损坏_长时间射击_AI_固定定时射击",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_Damaged_MS_Decision_ByTime",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 121702,
+      "CDILHBONOMJ": "军方_激光镭射装置_单头损坏_长时间射击_AI_固定定时射击",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserDevice/Behavior_Device_Military_LaserDevice_Damaged_MS_Decision_ByTimePuzzle.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 121801,
-      "NCNLGEKLLGJ": "军方_垂直导弹发射器_AI_固定落点",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_MissileVerticalLauncher/Behavior_Device_Military_MissileVerticalLauncher_Decision_ByAnchor",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_垂直导弹发射器_AI_固定落点",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_MissileVerticalLauncher/Behavior_Device_Military_MissileVerticalLauncher_Decision_ByAnchor",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 122001,
-      "NCNLGEKLLGJ": "军方_追踪激光_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_TraceLaser/Behavior_Device_Military_TraceLaser_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_追踪激光_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_TraceLaser/Behavior_Device_Military_TraceLaser_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 122201,
-      "NCNLGEKLLGJ": "军方_泰瑟枪_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_AutoCannon/Behavior_Device_Military_AutoCannon_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_泰瑟枪_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_AutoCannon/Behavior_Device_Military_AutoCannon_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 122301,
-      "NCNLGEKLLGJ": "以太流发射器_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_EtherGather/Behavior_Device_EtherGather_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太流发射器_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_EtherGather/Behavior_Device_EtherGather_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 122302,
-      "NCNLGEKLLGJ": "以太流发射器_AI_竞速",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_EtherGather/Behavior_Device_EtherGather_Decision_Race",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "以太流发射器_AI_竞速",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_EtherGather/Behavior_Device_EtherGather_Decision_Race",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 130811,
-      "NCNLGEKLLGJ": "军方_攻击型围栏_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserFence/Behavior_Device_Military_LaserFence_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_攻击型围栏_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_LaserFence/Behavior_Device_Military_LaserFence_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 131301,
-      "NCNLGEKLLGJ": "军方_地雷_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_Mine/Behavior_Device_Military_Mine_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "军方_地雷_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_Military_Mine/Behavior_Device_Military_Mine_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 140601,
-      "NCNLGEKLLGJ": "丽娜_杜拉西_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Avatar_Rina/Behavior_Avatar_Rina_Anastacia",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "丽娜_杜拉西_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Avatar_Rina/Behavior_Avatar_Rina_Anastacia",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 140701,
-      "NCNLGEKLLGJ": "丽娜_安娜塔莎_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Avatar_Rina/Behavior_Avatar_Rina_Anastacia",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "丽娜_安娜塔莎_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Avatar_Rina/Behavior_Avatar_Rina_Anastacia",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 190541,
-      "NCNLGEKLLGJ": "智能货柜_AI_默认",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_TreasureCar/Behavior_Device_TreasureCar_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "智能货柜_AI_默认",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Device/Behavior_Device_TreasureCar/Behavior_Device_TreasureCar_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211021,
-      "NCNLGEKLLGJ": "关卡测试_AI_跟随玩家_枪兵AI（纯测试关卡用）",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_NPC_Follow_Decision.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_跟随玩家_枪兵AI（纯测试关卡用）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_NPC_Follow_Decision.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211022,
-      "NCNLGEKLLGJ": "关卡测试_AI_按照路径寻路",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_NPC_NonBattle_FollowWayPath.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_按照路径寻路",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_NPC_NonBattle_FollowWayPath.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211023,
-      "NCNLGEKLLGJ": "关卡测试_AI_直接战斗_近战",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/BehaviorTest/Monster_LevelGamePlay_Test/Battle_NPC_Follow/Direct_Combat_NPC_Melee/Behavior_Battle_NPC_Direct_Combat_Melee_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_直接战斗_近战",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/BehaviorTest/Monster_LevelGamePlay_Test/Battle_NPC_Follow/Direct_Combat_NPC_Melee/Behavior_Battle_NPC_Direct_Combat_Melee_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211024,
-      "NCNLGEKLLGJ": "关卡测试_AI_直接战斗_远程",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/BehaviorTest/Monster_LevelGamePlay_Test/Battle_NPC_Follow/Direct_Combat_NPC_Range/Behavior_Battle_NPC_Direct_Combat_Range_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_直接战斗_远程",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/BehaviorTest/Monster_LevelGamePlay_Test/Battle_NPC_Follow/Direct_Combat_NPC_Range/Behavior_Battle_NPC_Direct_Combat_Range_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211025,
-      "NCNLGEKLLGJ": "关卡测试_AI_遁入空门",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/GamePlay/SingleEntityControl/Behavior_Entity_Buddhism_ForgetBattle",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_遁入空门",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/GamePlay/SingleEntityControl/Behavior_Entity_Buddhism_ForgetBattle",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211026,
-      "NCNLGEKLLGJ": "关卡测试_AI_按照路径寻路_慢走",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_NPC_NonBattle_FollowWayPath_SlowWalk",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_按照路径寻路_慢走",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_NPC_NonBattle_FollowWayPath_SlowWalk",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211027,
-      "NCNLGEKLLGJ": "关卡测试_AI_怪物技能专精",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/GamePlay/SingleEntityControl/Behavior_Monster_Special_Trigger_Skill.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_怪物技能专精",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/GamePlay/SingleEntityControl/Behavior_Monster_Special_Trigger_Skill.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211028,
-      "NCNLGEKLLGJ": "关卡测试_AI_安全邦布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Safety/Behavior_Bangboo_Safety_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_安全邦布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Safety/Behavior_Bangboo_Safety_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211029,
-      "NCNLGEKLLGJ": "关卡测试_AI_家政邦布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Butler/Behavior_Bangboo_Butler_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_家政邦布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Butler/Behavior_Bangboo_Butler_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211030,
-      "NCNLGEKLLGJ": "关卡测试_AI_跟随邦布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_Bomb_Decision_OnlyFollow",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_跟随邦布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_Bomb_Decision_OnlyFollow",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211031,
-      "NCNLGEKLLGJ": "关卡测试_AI_长流程邦布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/Behavior_SuccessiveLevel_Guide",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_长流程邦布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/Behavior_SuccessiveLevel_Guide",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211032,
-      "NCNLGEKLLGJ": "关卡测试_AI_招财邦布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Luckyboo/Behavior_Bangboo_Luckyboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_招财邦布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Luckyboo/Behavior_Bangboo_Luckyboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211033,
-      "NCNLGEKLLGJ": "关卡测试_AI_鲨鱼邦布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Sharkboo/Behavior_Bangboo_Sharkboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_鲨鱼邦布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Sharkboo/Behavior_Bangboo_Sharkboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211034,
-      "NCNLGEKLLGJ": "关卡测试_AI_相扑邦布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Sumoboo/Behavior_Bangboo_Sumoboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_相扑邦布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Sumoboo/Behavior_Bangboo_Sumoboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211035,
-      "NCNLGEKLLGJ": "关卡测试_AI_探险邦布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Exploreboo/Behavior_Bangboo_Exploreboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_探险邦布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Exploreboo/Behavior_Bangboo_Exploreboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211036,
-      "NCNLGEKLLGJ": "关卡测试_AI_按照路径寻路_玩家远离停止",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_NPC_NonBattle_FollowWayPath_PlayerCall",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_按照路径寻路_玩家远离停止",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/GamePlay/NPC/Behavior_Battle_NPC_NonBattle_FollowWayPath_PlayerCall",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211037,
-      "NCNLGEKLLGJ": "关卡测试_宝石结晶虫AI",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Monster_CrystalBugster_LDTEST/Behavior_Monster_CrystalBugster_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_宝石结晶虫AI",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_CrystalBugster_LDTEST/Behavior_Monster_CrystalBugster_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211038,
-      "NCNLGEKLLGJ": "关卡测试_AI_自定义场景Tag节点AI测试",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/LevelDesign/BehaviorTest/Monster_LevelGamePlay_Test/Behavior_CustomSceneTagTest",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_自定义场景Tag节点AI测试",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/LevelDesign/BehaviorTest/Monster_LevelGamePlay_Test/Behavior_CustomSceneTagTest",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211039,
-      "NCNLGEKLLGJ": "关卡测试_AI_纸壳布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Paperboo/Behavior_Bangboo_Paperboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_纸壳布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Paperboo/Behavior_Bangboo_Paperboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211040,
-      "NCNLGEKLLGJ": "关卡测试_AI_纸袋布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Bagboo/Behavior_Bangboo_Bagboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_纸袋布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bagboo/Behavior_Bangboo_Bagboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211041,
-      "NCNLGEKLLGJ": "关卡测试_AI_泪眼布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Cryboo/Behavior_Bangboo_Cryboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_泪眼布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Cryboo/Behavior_Bangboo_Cryboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211042,
-      "NCNLGEKLLGJ": "关卡测试_AI_飚速布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Rocketboo/Behavior_Bangboo_Rocketboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_飚速布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Rocketboo/Behavior_Bangboo_Rocketboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211043,
-      "NCNLGEKLLGJ": "关卡测试_AI_艾米丽安_诺查邦布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Amillion001/Behavior_Bangboo_Amillion001_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_艾米丽安_诺查邦布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Amillion001/Behavior_Bangboo_Amillion001_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211044,
-      "NCNLGEKLLGJ": "关卡测试_AI_果核布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Avocaboo/Behavior_Bangboo_Avocaboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_果核布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Avocaboo/Behavior_Bangboo_Avocaboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211045,
-      "NCNLGEKLLGJ": "关卡测试_AI_飞靶布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Boollseye/Behavior_Bangboo_Boollseye_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_飞靶布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Boollseye/Behavior_Bangboo_Boollseye_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211046,
-      "NCNLGEKLLGJ": "关卡测试_AI_气压布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Booressure/Behavior_Bangboo_Booressure_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_气压布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Booressure/Behavior_Bangboo_Booressure_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211047,
-      "NCNLGEKLLGJ": "关卡测试_AI_电击布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Electroboo/Behavior_Bangboo_Electroboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_电击布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Electroboo/Behavior_Bangboo_Electroboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211048,
-      "NCNLGEKLLGJ": "关卡测试_AI_磁力布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Magnetiboo/Behavior_Bangboo_Magnetiboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_磁力布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Magnetiboo/Behavior_Bangboo_Magnetiboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211049,
-      "NCNLGEKLLGJ": "关卡测试_AI_企鹅布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Penguinboo/Behavior_Bangboo_Penguinboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_企鹅布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Penguinboo/Behavior_Bangboo_Penguinboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211051,
-      "NCNLGEKLLGJ": "关卡测试_AI_阿崔巡查",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Officercui/Behavior_Bangboo_Officercui_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_阿崔巡查",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Officercui/Behavior_Bangboo_Officercui_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211054,
-      "NCNLGEKLLGJ": "关卡测试_AI_左轮布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Bangvolver/Behavior_Bangboo_Bangvolver_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_左轮布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bangvolver/Behavior_Bangboo_Bangvolver_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211055,
-      "NCNLGEKLLGJ": "关卡测试_AI_不良布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Baddieboo/Behavior_Bangboo_Baddieboo_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_不良布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Baddieboo/Behavior_Bangboo_Baddieboo_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211056,
-      "NCNLGEKLLGJ": "关卡测试_AI_伊埃斯",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Eous001/Behavior_Bangboo_Eous001_Decision",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡测试_AI_伊埃斯",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Eous001/Behavior_Bangboo_Eous001_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211057,
-      "NCNLGEKLLGJ": "关卡_护送用_AI_寻宝布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Exploreboo/Behavior_Bangboo_Exploreboo_Escort_Decision.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡_护送用_AI_寻宝布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Exploreboo/Behavior_Bangboo_Exploreboo_Escort_Decision.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211058,
-      "NCNLGEKLLGJ": "关卡_护送用_AI_飙速布",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_Rocketboo/Behavior_Bangboo_Rocketboo_Escort_Decision.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡_护送用_AI_飙速布",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Rocketboo/Behavior_Bangboo_Rocketboo_Escort_Decision.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211059,
-      "NCNLGEKLLGJ": "关卡_护送用_AI_赤红莫库斯",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_RedMoccus/Behavior_Bangboo_RedMoccus_Escort_Decision.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "关卡_护送用_AI_赤红莫库斯",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_RedMoccus/Behavior_Bangboo_RedMoccus_Escort_Decision.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211060,
+      "CDILHBONOMJ": "主城代理人约会",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Avatar_DateCommon/Behavior_Avatar_DateCommon_Decision",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211331,
+      "CDILHBONOMJ": "关卡_探险家邦布（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Exploreboo_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211341,
+      "CDILHBONOMJ": "关卡_纸袋布（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Bagboo_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211351,
+      "CDILHBONOMJ": "关卡_企鹅布（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Penguinboo_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211361,
+      "CDILHBONOMJ": "关卡_插头布（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Plugboo_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211371,
+      "CDILHBONOMJ": "关卡_纸壳布（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Paperboo_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211381,
+      "CDILHBONOMJ": "关卡_阿全（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Safety_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211391,
+      "CDILHBONOMJ": "关卡_飞靶布（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Boollseye_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211401,
+      "CDILHBONOMJ": "关卡_恶魔布（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Devilboo_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211411,
+      "CDILHBONOMJ": "关卡_艾米利安（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Amillion001_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211421,
+      "CDILHBONOMJ": "关卡_格列佛探员（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_AgentGulliver_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211431,
+      "CDILHBONOMJ": "关卡_果核布（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Avocaboo_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211441,
+      "CDILHBONOMJ": "关卡_巴特勒（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Butler_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211451,
+      "CDILHBONOMJ": "关卡_飙速布（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_Bookemon/Behavior_Bangboo_Rocketboo_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211461,
+      "CDILHBONOMJ": "关卡_低阶以太剑_灰色（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Claymore/Behavior_Monster_Claymore_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
+    },
+    {
+      "ID": 211471,
+      "CDILHBONOMJ": "关卡_以太魔花_灰色（1.4活动）",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Monster_Arlaune/Behavior_Monster_Arlaune_Decision_Bookemon.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     },
     {
       "ID": 211801,
-      "NCNLGEKLLGJ": "1.3邦布跑一跑测试配置",
-      "GLEKHFFBKPG": "",
-      "JJGBMNDOHFL": "Data/ScriptConfig/AI/Behavior_Bangboo_NPCCommon/Behavior_Bangboo_NPCCommon_Decision.asset",
-      "CJIOBALCCHI": [],
-      "CPHIINBILJA": []
+      "CDILHBONOMJ": "1.3邦布跑一跑测试配置",
+      "GEKFLNPEBIN": "",
+      "FAGJIBMKBPB": "Data/ScriptConfig/AI/Behavior_Bangboo_NPCCommon/Behavior_Bangboo_NPCCommon_Decision.asset",
+      "DAKADKPJANI": [],
+      "FHIFLCOEDDF": []
     }
   ]
 }

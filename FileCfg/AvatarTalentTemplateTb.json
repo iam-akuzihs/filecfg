@@ -813,6 +813,122 @@
       ]
     },
     {
+      "ID": 1091001,
+      "AvatarID": 1091,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Unagi_Talent_01_Title",
+      "TalentDescRealign": "Unagi_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Unagi_Talent_01_Desc_02",
+      "TalentDesc": "Unagi_Talent_01_Desc_01",
+      "TalentNameRealign": "Unagi_Talent_01_Title_Realign",
+      "TalentAbilities": [
+        11091101
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5091,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1091002,
+      "AvatarID": 1091,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Unagi_Talent_02_Title",
+      "TalentDescRealign": "Unagi_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Unagi_Talent_02_Desc_02",
+      "TalentDesc": "Unagi_Talent_02_Desc_01",
+      "TalentNameRealign": "Unagi_Talent_02_Title_Realign",
+      "TalentAbilities": [
+        11091102
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5091,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1091003,
+      "AvatarID": 1091,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Unagi_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Unagi_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Unagi_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
+        {
+          "ItemID": 5091,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1091004,
+      "AvatarID": 1091,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Unagi_Talent_04_Title",
+      "TalentDescRealign": "Unagi_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Unagi_Talent_04_Desc_02",
+      "TalentDesc": "Unagi_Talent_04_Desc_01",
+      "TalentNameRealign": "Unagi_Talent_04_Title_Realign",
+      "TalentAbilities": [
+        11091103
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5091,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1091005,
+      "AvatarID": 1091,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Unagi_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Unagi_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Unagi_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
+        {
+          "ItemID": 5091,
+          "Number": 1
+        }
+      ]
+    },
+    {
+      "ID": 1091006,
+      "AvatarID": 1091,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Unagi_Talent_06_Title",
+      "TalentDescRealign": "Unagi_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Unagi_Talent_06_Desc_02",
+      "TalentDesc": "Unagi_Talent_06_Desc_01",
+      "TalentNameRealign": "Unagi_Talent_06_Title_Realign",
+      "TalentAbilities": [
+        11091104
+      ],
+      "TalentMaterials": [
+        {
+          "ItemID": 5091,
+          "Number": 1
+        }
+      ]
+    },
+    {
       "ID": 1101001,
       "AvatarID": 1101,
       "TalentLevel": 1,
@@ -1973,12 +2089,14 @@
       "AvatarID": 1201,
       "TalentLevel": 1,
       "__unk_Q3525130232": 0,
-      "TalentName": "TestKey_PlaceHolder",
-      "TalentDescRealign": "TestKey_PlaceHolder",
-      "TalentDesc2": "TestKey_PlaceHolder",
-      "TalentDesc": "TestKey_PlaceHolder",
-      "TalentNameRealign": "TestKey_PlaceHolder",
-      "TalentAbilities": [],
+      "TalentName": "Harumasa_Talent_01_Title",
+      "TalentDescRealign": "Harumasa_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Harumasa_Talent_01_Desc_02",
+      "TalentDesc": "Harumasa_Talent_01_Desc_01",
+      "TalentNameRealign": "Harumasa_Talent_01_Title_Realign",
+      "TalentAbilities": [
+        11201101
+      ],
       "TalentMaterials": [
         {
           "ItemID": 5201,
@@ -1991,12 +2109,14 @@
       "AvatarID": 1201,
       "TalentLevel": 2,
       "__unk_Q3525130232": 0,
-      "TalentName": "TestKey_PlaceHolder",
-      "TalentDescRealign": "TestKey_PlaceHolder",
-      "TalentDesc2": "TestKey_PlaceHolder",
-      "TalentDesc": "TestKey_PlaceHolder",
-      "TalentNameRealign": "TestKey_PlaceHolder",
-      "TalentAbilities": [],
+      "TalentName": "Harumasa_Talent_02_Title",
+      "TalentDescRealign": "Harumasa_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Harumasa_Talent_02_Desc_02",
+      "TalentDesc": "Harumasa_Talent_02_Desc_01",
+      "TalentNameRealign": "Harumasa_Talent_02_Title_Realign",
+      "TalentAbilities": [
+        11201102
+      ],
       "TalentMaterials": [
         {
           "ItemID": 5201,
@@ -2009,11 +2129,11 @@
       "AvatarID": 1201,
       "TalentLevel": 3,
       "__unk_Q3525130232": 2,
-      "TalentName": "TestKey_PlaceHolder",
-      "TalentDescRealign": "TestKey_PlaceHolder",
-      "TalentDesc2": "TestKey_PlaceHolder",
-      "TalentDesc": "TestKey_PlaceHolder",
-      "TalentNameRealign": "TestKey_PlaceHolder",
+      "TalentName": "Harumasa_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Harumasa_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Harumasa_Talent_03_Title_Realign",
       "TalentAbilities": [],
       "TalentMaterials": [
         {
@@ -2027,12 +2147,14 @@
       "AvatarID": 1201,
       "TalentLevel": 4,
       "__unk_Q3525130232": 0,
-      "TalentName": "TestKey_PlaceHolder",
-      "TalentDescRealign": "TestKey_PlaceHolder",
-      "TalentDesc2": "TestKey_PlaceHolder",
-      "TalentDesc": "TestKey_PlaceHolder",
-      "TalentNameRealign": "TestKey_PlaceHolder",
-      "TalentAbilities": [],
+      "TalentName": "Harumasa_Talent_04_Title",
+      "TalentDescRealign": "Harumasa_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Harumasa_Talent_04_Desc_02",
+      "TalentDesc": "Harumasa_Talent_04_Desc_01",
+      "TalentNameRealign": "Harumasa_Talent_04_Title_Realign",
+      "TalentAbilities": [
+        11201103
+      ],
       "TalentMaterials": [
         {
           "ItemID": 5201,
@@ -2045,11 +2167,11 @@
       "AvatarID": 1201,
       "TalentLevel": 5,
       "__unk_Q3525130232": 2,
-      "TalentName": "TestKey_PlaceHolder",
-      "TalentDescRealign": "TestKey_PlaceHolder",
-      "TalentDesc2": "TestKey_PlaceHolder",
-      "TalentDesc": "TestKey_PlaceHolder",
-      "TalentNameRealign": "TestKey_PlaceHolder",
+      "TalentName": "Harumasa_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Harumasa_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Harumasa_Talent_05_Title_Realign",
       "TalentAbilities": [],
       "TalentMaterials": [
         {
@@ -2063,12 +2185,14 @@
       "AvatarID": 1201,
       "TalentLevel": 6,
       "__unk_Q3525130232": 0,
-      "TalentName": "TestKey_PlaceHolder",
-      "TalentDescRealign": "TestKey_PlaceHolder",
-      "TalentDesc2": "TestKey_PlaceHolder",
-      "TalentDesc": "TestKey_PlaceHolder",
-      "TalentNameRealign": "TestKey_PlaceHolder",
-      "TalentAbilities": [],
+      "TalentName": "Harumasa_Talent_06_Title",
+      "TalentDescRealign": "Harumasa_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Harumasa_Talent_06_Desc_02",
+      "TalentDesc": "Harumasa_Talent_06_Desc_01",
+      "TalentNameRealign": "Harumasa_Talent_06_Title_Realign",
+      "TalentAbilities": [
+        11201104
+      ],
       "TalentMaterials": [
         {
           "ItemID": 5201,
