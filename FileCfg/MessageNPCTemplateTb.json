@@ -1,0 +1,544 @@
+{
+  "__exp_FileCfg": [
+    {
+      "ID": 998,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1021.png",
+      "Name": "Message_MultiMessage_Name"
+    },
+    {
+      "ID": 999,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2027.png",
+      "Name": ""
+    },
+    {
+      "ID": 2011,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle31.png",
+      "Name": "Message_NPC6"
+    },
+    {
+      "ID": 2021,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle32.png",
+      "Name": "Message_NPC7"
+    },
+    {
+      "ID": 10001,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle01.png",
+      "Name": "Message_Role_01"
+    },
+    {
+      "ID": 10002,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle02.png",
+      "Name": "Message_Role_02"
+    },
+    {
+      "ID": 10003,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle03.png",
+      "Name": "Message_Role_03"
+    },
+    {
+      "ID": 10004,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle04.png",
+      "Name": "Message_Role_04"
+    },
+    {
+      "ID": 10005,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle05.png",
+      "Name": "Message_Role_05"
+    },
+    {
+      "ID": 10006,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle06.png",
+      "Name": "Message_Role_06"
+    },
+    {
+      "ID": 10007,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle07.png",
+      "Name": "Message_Role_07"
+    },
+    {
+      "ID": 10008,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle08.png",
+      "Name": "Message_Role_08"
+    },
+    {
+      "ID": 10009,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle09.png",
+      "Name": "Message_Role_09"
+    },
+    {
+      "ID": 10010,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle10.png",
+      "Name": "Message_Role_10"
+    },
+    {
+      "ID": 10011,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle11.png",
+      "Name": "Message_Role_11"
+    },
+    {
+      "ID": 10012,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle12.png",
+      "Name": "Message_Role_12"
+    },
+    {
+      "ID": 10013,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle13.png",
+      "Name": "Message_Role_13"
+    },
+    {
+      "ID": 10014,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle14.png",
+      "Name": "Message_Role_14"
+    },
+    {
+      "ID": 10015,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle15.png",
+      "Name": "Message_Role_15"
+    },
+    {
+      "ID": 10016,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle16.png",
+      "Name": "Message_Role_16"
+    },
+    {
+      "ID": 10017,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle17.png",
+      "Name": ""
+    },
+    {
+      "ID": 10018,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle18.png",
+      "Name": "Message_NPC2"
+    },
+    {
+      "ID": 10019,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle19.png",
+      "Name": ""
+    },
+    {
+      "ID": 10020,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2016.png",
+      "Name": "Message_NPC3"
+    },
+    {
+      "ID": 10021,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2035.png",
+      "Name": "Message_NPC4"
+    },
+    {
+      "ID": 10022,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconCircleEmpty.png",
+      "Name": "Message_NPC5"
+    },
+    {
+      "ID": 10023,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircleFairy.png",
+      "Name": "Message_NPC10"
+    },
+    {
+      "ID": 10024,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle05.png",
+      "Name": "Message_NPC11"
+    },
+    {
+      "ID": 10025,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle11.png",
+      "Name": "11号个人线临时编辑占位"
+    },
+    {
+      "ID": 10026,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnot0016.png",
+      "Name": "Message_NPC12"
+    },
+    {
+      "ID": 10027,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+      "Name": "Message_NPC13"
+    },
+    {
+      "ID": 10028,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle02.png",
+      "Name": "Message_Group_NO11"
+    },
+    {
+      "ID": 10029,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1001.png",
+      "Name": "Message_NPC16"
+    },
+    {
+      "ID": 10030,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1001.png",
+      "Name": "Message_NPC17"
+    },
+    {
+      "ID": 10031,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1005.png",
+      "Name": "Message_NPC18"
+    },
+    {
+      "ID": 10032,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle05.png",
+      "Name": "Message_NPC19"
+    },
+    {
+      "ID": 10033,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle30.png",
+      "Name": "Message_NPC20"
+    },
+    {
+      "ID": 10034,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1004.png",
+      "Name": "Message_NPC21"
+    },
+    {
+      "ID": 10035,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1006.png",
+      "Name": "Message_NPC22"
+    },
+    {
+      "ID": 10036,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle13.png",
+      "Name": "Message_Group_Grace"
+    },
+    {
+      "ID": 10037,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle20.png",
+      "Name": "Message_NPC23"
+    },
+    {
+      "ID": 10038,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle30035.png",
+      "Name": "Message_NPC24"
+    },
+    {
+      "ID": 10039,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle01.png",
+      "Name": "Message_NPC25"
+    },
+    {
+      "ID": 10040,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1002.png",
+      "Name": "Message_NPC26"
+    },
+    {
+      "ID": 10041,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle06.png",
+      "Name": "Message_NPC27"
+    },
+    {
+      "ID": 10042,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle30010.png",
+      "Name": "Message_NPC28"
+    },
+    {
+      "ID": 10043,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1003.png",
+      "Name": "Message_NPC29"
+    },
+    {
+      "ID": 10044,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1002.png",
+      "Name": "Message_NPC30"
+    },
+    {
+      "ID": 10045,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1006.png",
+      "Name": "Message_NPC31"
+    },
+    {
+      "ID": 10046,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1004.png",
+      "Name": "Message_NPC32"
+    },
+    {
+      "ID": 10047,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnot0011.png",
+      "Name": "Message_NPC33"
+    },
+    {
+      "ID": 10048,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle17.png",
+      "Name": "Message_NPC34"
+    },
+    {
+      "ID": 10049,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle19.png",
+      "Name": "Message_NPC35"
+    },
+    {
+      "ID": 10050,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1006.png",
+      "Name": "Message_NPC36"
+    },
+    {
+      "ID": 10051,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1002.png",
+      "Name": "Message_NPC37"
+    },
+    {
+      "ID": 10052,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1006.png",
+      "Name": "Message_NPC38"
+    },
+    {
+      "ID": 10053,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle18.png",
+      "Name": "Message_NPC39"
+    },
+    {
+      "ID": 10054,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle29.png",
+      "Name": "Message_NPC40"
+    },
+    {
+      "ID": 10055,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1004.png",
+      "Name": "Message_NPC41"
+    },
+    {
+      "ID": 10056,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1005.png",
+      "Name": "Message_NPC42"
+    },
+    {
+      "ID": 10057,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1002.png",
+      "Name": "Message_NPC43"
+    },
+    {
+      "ID": 10058,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle12.png",
+      "Name": "Message_Role_12"
+    },
+    {
+      "ID": 10059,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1009.png",
+      "Name": "Message_NPC45"
+    },
+    {
+      "ID": 10060,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle35.png",
+      "Name": "Message_NPC46"
+    },
+    {
+      "ID": 10061,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle33.png",
+      "Name": "Message_NPC47"
+    },
+    {
+      "ID": 10062,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1005.png",
+      "Name": "Message_NPC48"
+    },
+    {
+      "ID": 10063,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1004.png",
+      "Name": "Message_NPC49"
+    },
+    {
+      "ID": 10064,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1002.png",
+      "Name": "Message_NPC50"
+    },
+    {
+      "ID": 10065,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1013.png",
+      "Name": "Message_NPC51"
+    },
+    {
+      "ID": 10066,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1017.png",
+      "Name": "Message_NPC61"
+    },
+    {
+      "ID": 10067,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle18.png",
+      "Name": "Message_NPC62"
+    },
+    {
+      "ID": 10068,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1012.png",
+      "Name": "Message_NPC63"
+    },
+    {
+      "ID": 10069,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1012.png",
+      "Name": "Message_NPC64"
+    },
+    {
+      "ID": 10070,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle33.png",
+      "Name": "Message_NPC65"
+    },
+    {
+      "ID": 10071,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle33.png",
+      "Name": "Message_NPC71"
+    },
+    {
+      "ID": 10072,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1010.png",
+      "Name": "Message_NPC72"
+    },
+    {
+      "ID": 10073,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle30.png",
+      "Name": "Message_NPC73"
+    },
+    {
+      "ID": 10074,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1001.png",
+      "Name": "Message_NPC74"
+    },
+    {
+      "ID": 10075,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1015.png",
+      "Name": "Message_NPC75"
+    },
+    {
+      "ID": 10076,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1015.png",
+      "Name": "Message_NPC76"
+    },
+    {
+      "ID": 10077,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1015.png",
+      "Name": "Message_NPC77"
+    },
+    {
+      "ID": 10078,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle24.png",
+      "Name": "Message_NPC78"
+    },
+    {
+      "ID": 10079,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle25.png",
+      "Name": "Message_NPC79"
+    },
+    {
+      "ID": 10080,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle35.png",
+      "Name": "Message_NPC66"
+    },
+    {
+      "ID": 10081,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle35.png",
+      "Name": "Message_NPC67"
+    },
+    {
+      "ID": 10082,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1011.png",
+      "Name": "Message_NPC44"
+    },
+    {
+      "ID": 10083,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1002.png",
+      "Name": "Message_NPC80"
+    },
+    {
+      "ID": 10084,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle15.png",
+      "Name": "Message_Group_Rina"
+    },
+    {
+      "ID": 10085,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1002.png",
+      "Name": "Message_NPC81"
+    },
+    {
+      "ID": 10086,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1002.png",
+      "Name": "Message_NPC82"
+    },
+    {
+      "ID": 10087,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1002.png",
+      "Name": "Message_NPC83"
+    },
+    {
+      "ID": 10088,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle12.png",
+      "Name": "Message_Role_12"
+    },
+    {
+      "ID": 10089,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle15.png",
+      "Name": "Message_Role_15"
+    },
+    {
+      "ID": 10090,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle100006.png",
+      "Name": "Message_1020004_name"
+    },
+    {
+      "ID": 10091,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle35.png",
+      "Name": "Message_1020002_name"
+    },
+    {
+      "ID": 10092,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle1012.png",
+      "Name": "Message_1010002_name"
+    },
+    {
+      "ID": 10093,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle34.png",
+      "Name": "Message_NPC84"
+    },
+    {
+      "ID": 10094,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle09.png",
+      "Name": "Message_NPC85"
+    },
+    {
+      "ID": 10095,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle15.png",
+      "Name": "Message_NPC86"
+    },
+    {
+      "ID": 10096,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle03.png",
+      "Name": "Message_NPC87"
+    },
+    {
+      "ID": 10097,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle100008.png",
+      "Name": "Message_1020005_name"
+    },
+    {
+      "ID": 10099,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle100007.png",
+      "Name": "Message_NPC89"
+    },
+    {
+      "ID": 10109,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle06.png",
+      "Name": "Message_Role_06"
+    },
+    {
+      "ID": 20001,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle12.png",
+      "Name": "Message_NPC8"
+    },
+    {
+      "ID": 20002,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle01.png",
+      "Name": "Message_NPC9"
+    },
+    {
+      "ID": 100001,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle36.png",
+      "Name": "Message_Role_100001"
+    },
+    {
+      "ID": 100002,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle100002.png",
+      "Name": "Message_Role_100002"
+    },
+    {
+      "ID": 100004,
+      "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/Message/UnPacker/IconRole/IconMessageRoleCircle100004.png",
+      "Name": "Message_Role_100004"
+    }
+  ]
+}

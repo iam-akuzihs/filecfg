@@ -1,0 +1,63 @@
+{
+  "__exp_FileCfg": [
+    {
+      "ID": 1,
+      "FBEHIJGDCLJ": "Visible",
+      "PBDIMBMCKJB": [
+        "FLAG_VISIBLE",
+        "FLAG_CAN_MOVE"
+      ]
+    },
+    {
+      "ID": 2,
+      "FBEHIJGDCLJ": "VisibleAtGridAround",
+      "PBDIMBMCKJB": [
+        "FLAG_VISIBLE_AT_GRID_AROUND"
+      ]
+    },
+    {
+      "ID": 3,
+      "FBEHIJGDCLJ": "VisibleByTriggerEvent",
+      "PBDIMBMCKJB": [
+        "FLAG_VISIBLE_BY_TRIGGER_EVENT"
+      ]
+    },
+    {
+      "ID": 4,
+      "FBEHIJGDCLJ": "TemporaryVisibleAtAround",
+      "PBDIMBMCKJB": [
+        "FLAG_TEMPORARY_VISIBLE_AT_AROUND"
+      ]
+    },
+    {
+      "ID": 5,
+      "FBEHIJGDCLJ": "Blocked",
+      "PBDIMBMCKJB": [
+        "FLAG_VISIBLE"
+      ]
+    },
+    {
+      "ID": 6,
+      "FBEHIJGDCLJ": "All",
+      "PBDIMBMCKJB": [
+        "FLAG_VISIBLE",
+        "FLAG_CAN_MOVE"
+      ]
+    },
+    {
+      "ID": 7,
+      "FBEHIJGDCLJ": "",
+      "PBDIMBMCKJB": [
+        "FLAG_VISIBLE",
+        "FLAG_CAN_MOVE"
+      ]
+    },
+    {
+      "ID": 8,
+      "FBEHIJGDCLJ": "VisibleWhenLightning",
+      "PBDIMBMCKJB": [
+        "FLAG_VISIBLE_WHEN_LIGHTNING"
+      ]
+    }
+  ]
+}
