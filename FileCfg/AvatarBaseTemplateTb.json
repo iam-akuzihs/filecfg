@@ -106,6 +106,28 @@
       ]
     },
     {
+      "ID": 1071,
+      "CodeName": "Avatar_Female_Size03_Caesar_En",
+      "Name": "Avatar_Female_Size03_Caesar",
+      "FullName": "Avatar_Female_Size03_Caesar_FullName",
+      "AudioEventReplaceParam": "caesar",
+      "AudioBank": "BK_Caesar|BK_CHR_Common|BK_Caesar_VO",
+      "HitTypes": [
+        101,
+        102
+      ],
+      "ElementTypes": [
+        200
+      ],
+      "__unk_Q291526241": 5,
+      "Gender": 2,
+      "Camp": 4,
+      "__unk_Q70859988": [
+        "1:4:2",
+        "4:AidTypeParry:2"
+      ]
+    },
+    {
       "ID": 1081,
       "CodeName": "Avatar_Male_Size03_Billy_En",
       "Name": "Avatar_Male_Size03_Billy",
@@ -295,6 +317,27 @@
       ]
     },
     {
+      "ID": 1171,
+      "CodeName": "Avatar_Female_Size02_Burnice_En",
+      "Name": "Avatar_Female_Size02_Burnice",
+      "FullName": "Avatar_Female_Size02_Burnice_FullName",
+      "AudioEventReplaceParam": "burnice",
+      "AudioBank": "BK_Burnice|BK_CHR_Common|BK_Burnice_VO",
+      "HitTypes": [
+        103
+      ],
+      "ElementTypes": [
+        201
+      ],
+      "__unk_Q291526241": 3,
+      "Gender": 2,
+      "Camp": 4,
+      "__unk_Q70859988": [
+        "1:4:2",
+        "2:201:2"
+      ]
+    },
+    {
       "ID": 1181,
       "CodeName": "Avatar_Female_Size03_Lisa_En",
       "Name": "Avatar_Female_Size03_Lisa",
@@ -391,12 +434,12 @@
       "ElementTypes": [
         203
       ],
-      "__unk_Q291526241": 1,
+      "__unk_Q291526241": 3,
       "Gender": 2,
       "Camp": 6,
       "__unk_Q70859988": [
         "1:6:2",
-        "2:205:2"
+        "2:203:2"
       ]
     },
     {
@@ -438,7 +481,28 @@
       "Camp": 7,
       "__unk_Q70859988": [
         "1:7:2",
-        "2:203:2"
+        "3:1:1"
+      ]
+    },
+    {
+      "ID": 1261,
+      "CodeName": "Avatar_Female_Size03_JaneDoe_En",
+      "Name": "Avatar_Female_Size03_JaneDoe",
+      "FullName": "Avatar_Female_Size03_JaneDoe_FullName",
+      "AudioEventReplaceParam": "janedoe",
+      "AudioBank": "BK_JaneDoe|BK_CHR_Common|BK_JaneDoe_VO",
+      "HitTypes": [
+        101
+      ],
+      "ElementTypes": [
+        200
+      ],
+      "__unk_Q291526241": 3,
+      "Gender": 2,
+      "Camp": 7,
+      "__unk_Q70859988": [
+        "1:7:2",
+        "3:3:2"
       ]
     },
     {

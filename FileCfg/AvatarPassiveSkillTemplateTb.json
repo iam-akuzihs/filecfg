@@ -3875,7 +3875,7 @@
           "Number": 12000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110503,
           "Number": 2
         }
       ]
@@ -3909,7 +3909,7 @@
           "Number": 28000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110503,
           "Number": 4
         }
       ]
@@ -3943,11 +3943,11 @@
           "Number": 60000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110503,
           "Number": 9
         },
         {
-          "ItemID": 110001,
+          "ItemID": 110002,
           "Number": 2
         }
       ]
@@ -3981,11 +3981,11 @@
           "Number": 100000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110503,
           "Number": 15
         },
         {
-          "ItemID": 110001,
+          "ItemID": 110002,
           "Number": 3
         }
       ]
@@ -4019,11 +4019,435 @@
           "Number": 200000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110503,
+          "Number": 30
+        },
+        {
+          "ItemID": 110002,
+          "Number": 4
+        }
+      ]
+    },
+    {
+      "ID": 1261001,
+      "AvatarID": 1261,
+      "SkillUnlock": 15,
+      "SkillLevel": 1,
+      "__unk_Q11985137": 2,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31401,
+          "Number": 12
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 0
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "JaneDoe_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "JaneDoe_UniqueSkill_02_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 5000
+        }
+      ]
+    },
+    {
+      "ID": 1261002,
+      "AvatarID": 1261,
+      "SkillUnlock": 25,
+      "SkillLevel": 2,
+      "__unk_Q11985137": 3,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31401,
+          "Number": 12
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "JaneDoe_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "JaneDoe_UniqueSkill_03_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 12000
+        },
+        {
+          "ItemID": 110506,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1261003,
+      "AvatarID": 1261,
+      "SkillUnlock": 35,
+      "SkillLevel": 3,
+      "__unk_Q11985137": 4,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31401,
+          "Number": 24
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "JaneDoe_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "JaneDoe_UniqueSkill_04_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 28000
+        },
+        {
+          "ItemID": 110506,
+          "Number": 4
+        }
+      ]
+    },
+    {
+      "ID": 1261004,
+      "AvatarID": 1261,
+      "SkillUnlock": 45,
+      "SkillLevel": 4,
+      "__unk_Q11985137": 5,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31401,
+          "Number": 24
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "JaneDoe_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "JaneDoe_UniqueSkill_05_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 60000
+        },
+        {
+          "ItemID": 110506,
+          "Number": 9
+        },
+        {
+          "ItemID": 110001,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1261005,
+      "AvatarID": 1261,
+      "SkillUnlock": 55,
+      "SkillLevel": 5,
+      "__unk_Q11985137": 6,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31401,
+          "Number": 36
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "JaneDoe_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "JaneDoe_UniqueSkill_06_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 100000
+        },
+        {
+          "ItemID": 110506,
+          "Number": 15
+        },
+        {
+          "ItemID": 110001,
+          "Number": 3
+        }
+      ]
+    },
+    {
+      "ID": 1261006,
+      "AvatarID": 1261,
+      "SkillUnlock": 60,
+      "SkillLevel": 6,
+      "__unk_Q11985137": 7,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31401,
+          "Number": 36
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 75
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "JaneDoe_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "JaneDoe_UniqueSkill_07_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 200000
+        },
+        {
+          "ItemID": 110506,
           "Number": 30
         },
         {
           "ItemID": 110001,
+          "Number": 4
+        }
+      ]
+    },
+    {
+      "ID": 1271001,
+      "AvatarID": 1271,
+      "SkillUnlock": 15,
+      "SkillLevel": 1,
+      "__unk_Q11985137": 2,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 12
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 0
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "Seth_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Seth_UniqueSkill_02_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 5000
+        }
+      ]
+    },
+    {
+      "ID": 1271002,
+      "AvatarID": 1271,
+      "SkillUnlock": 25,
+      "SkillLevel": 2,
+      "__unk_Q11985137": 3,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 12
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "Seth_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Seth_UniqueSkill_03_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 12000
+        },
+        {
+          "ItemID": 110506,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1271003,
+      "AvatarID": 1271,
+      "SkillUnlock": 35,
+      "SkillLevel": 3,
+      "__unk_Q11985137": 4,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 24
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "Seth_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Seth_UniqueSkill_04_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 28000
+        },
+        {
+          "ItemID": 110506,
+          "Number": 4
+        }
+      ]
+    },
+    {
+      "ID": 1271004,
+      "AvatarID": 1271,
+      "SkillUnlock": 45,
+      "SkillLevel": 4,
+      "__unk_Q11985137": 5,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 24
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "Seth_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Seth_UniqueSkill_05_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 60000
+        },
+        {
+          "ItemID": 110506,
+          "Number": 9
+        },
+        {
+          "ItemID": 110002,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1271005,
+      "AvatarID": 1271,
+      "SkillUnlock": 55,
+      "SkillLevel": 5,
+      "__unk_Q11985137": 6,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 36
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "Seth_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Seth_UniqueSkill_06_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 100000
+        },
+        {
+          "ItemID": 110506,
+          "Number": 15
+        },
+        {
+          "ItemID": 110002,
+          "Number": 3
+        }
+      ]
+    },
+    {
+      "ID": 1271006,
+      "AvatarID": 1271,
+      "SkillUnlock": 60,
+      "SkillLevel": 6,
+      "__unk_Q11985137": 7,
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 30501,
+          "Number": 36
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 75
+        }
+      ],
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "PassiveName": [
+        "Seth_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Seth_UniqueSkill_07_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 200000
+        },
+        {
+          "ItemID": 110506,
+          "Number": 30
+        },
+        {
+          "ItemID": 110002,
           "Number": 4
         }
       ]
