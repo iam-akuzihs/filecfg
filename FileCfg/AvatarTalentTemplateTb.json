@@ -581,6 +581,122 @@
       "TalentNameRealign": "Corin_Talent_06_Title_Realign"
     },
     {
+      "ID": 1071001,
+      "AvatarID": 1071,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11071101
+      ],
+      "TalentName": "Caesar_Talent_01_Title",
+      "TalentDescRealign": "Caesar_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Caesar_Talent_01_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5071,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Caesar_Talent_01_Desc_01",
+      "TalentNameRealign": "Caesar_Talent_01_Title_Realign"
+    },
+    {
+      "ID": 1071002,
+      "AvatarID": 1071,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11071102
+      ],
+      "TalentName": "Caesar_Talent_02_Title",
+      "TalentDescRealign": "Caesar_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Caesar_Talent_02_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5071,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Caesar_Talent_02_Desc_01",
+      "TalentNameRealign": "Caesar_Talent_02_Title_Realign"
+    },
+    {
+      "ID": 1071003,
+      "AvatarID": 1071,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentAbilities": [],
+      "TalentName": "Caesar_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Caesar_Talent_03_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5071,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Caesar_Talent_03_Title_Realign"
+    },
+    {
+      "ID": 1071004,
+      "AvatarID": 1071,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11071103
+      ],
+      "TalentName": "Caesar_Talent_04_Title",
+      "TalentDescRealign": "Caesar_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Caesar_Talent_04_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5071,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Caesar_Talent_04_Desc_01",
+      "TalentNameRealign": "Caesar_Talent_04_Title_Realign"
+    },
+    {
+      "ID": 1071005,
+      "AvatarID": 1071,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentAbilities": [],
+      "TalentName": "Caesar_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Caesar_Talent_05_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5071,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Caesar_Talent_05_Title_Realign"
+    },
+    {
+      "ID": 1071006,
+      "AvatarID": 1071,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11071104
+      ],
+      "TalentName": "Caesar_Talent_06_Title",
+      "TalentDescRealign": "Caesar_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Caesar_Talent_06_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5071,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Caesar_Talent_06_Desc_01",
+      "TalentNameRealign": "Caesar_Talent_06_Title_Realign"
+    },
+    {
       "ID": 1081001,
       "AvatarID": 1081,
       "TalentLevel": 1,
@@ -1387,6 +1503,238 @@
       ],
       "TalentDesc": "Lucy_Talent_06_Desc_01",
       "TalentNameRealign": "Lucy_Talent_06_Title_Realign"
+    },
+    {
+      "ID": 1161001,
+      "AvatarID": 1161,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11161101
+      ],
+      "TalentName": "Lighter_Talent_01_Title",
+      "TalentDescRealign": "Lighter_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Lighter_Talent_01_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5161,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Lighter_Talent_01_Desc_01",
+      "TalentNameRealign": "Lighter_Talent_01_Title_Realign"
+    },
+    {
+      "ID": 1161002,
+      "AvatarID": 1161,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11161102
+      ],
+      "TalentName": "Lighter_Talent_02_Title",
+      "TalentDescRealign": "Lighter_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Lighter_Talent_02_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5161,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Lighter_Talent_02_Desc_01",
+      "TalentNameRealign": "Lighter_Talent_02_Title_Realign"
+    },
+    {
+      "ID": 1161003,
+      "AvatarID": 1161,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentAbilities": [],
+      "TalentName": "Lighter_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lighter_Talent_03_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5161,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lighter_Talent_03_Title_Realign"
+    },
+    {
+      "ID": 1161004,
+      "AvatarID": 1161,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11161103
+      ],
+      "TalentName": "Lighter_Talent_04_Title",
+      "TalentDescRealign": "Lighter_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Lighter_Talent_04_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5161,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Lighter_Talent_04_Desc_01",
+      "TalentNameRealign": "Lighter_Talent_04_Title_Realign"
+    },
+    {
+      "ID": 1161005,
+      "AvatarID": 1161,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentAbilities": [],
+      "TalentName": "Lighter_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lighter_Talent_05_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5161,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lighter_Talent_05_Title_Realign"
+    },
+    {
+      "ID": 1161006,
+      "AvatarID": 1161,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11161104
+      ],
+      "TalentName": "Lighter_Talent_06_Title",
+      "TalentDescRealign": "Lighter_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Lighter_Talent_06_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5161,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Lighter_Talent_06_Desc_01",
+      "TalentNameRealign": "Lighter_Talent_06_Title_Realign"
+    },
+    {
+      "ID": 1171001,
+      "AvatarID": 1171,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11171101
+      ],
+      "TalentName": "Burnice_Talent_01_Title",
+      "TalentDescRealign": "Burnice_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Burnice_Talent_01_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5171,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Burnice_Talent_01_Desc_01",
+      "TalentNameRealign": "Burnice_Talent_01_Title_Realign"
+    },
+    {
+      "ID": 1171002,
+      "AvatarID": 1171,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11171102
+      ],
+      "TalentName": "Burnice_Talent_02_Title",
+      "TalentDescRealign": "Burnice_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Burnice_Talent_02_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5171,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Burnice_Talent_02_Desc_01",
+      "TalentNameRealign": "Burnice_Talent_02_Title_Realign"
+    },
+    {
+      "ID": 1171003,
+      "AvatarID": 1171,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentAbilities": [],
+      "TalentName": "Burnice_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Burnice_Talent_03_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5171,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Burnice_Talent_03_Title_Realign"
+    },
+    {
+      "ID": 1171004,
+      "AvatarID": 1171,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11171103
+      ],
+      "TalentName": "Burnice_Talent_04_Title",
+      "TalentDescRealign": "Burnice_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Burnice_Talent_04_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5171,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Burnice_Talent_04_Desc_01",
+      "TalentNameRealign": "Burnice_Talent_04_Title_Realign"
+    },
+    {
+      "ID": 1171005,
+      "AvatarID": 1171,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentAbilities": [],
+      "TalentName": "Burnice_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Burnice_Talent_05_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5171,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Burnice_Talent_05_Title_Realign"
+    },
+    {
+      "ID": 1171006,
+      "AvatarID": 1171,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentAbilities": [
+        11171104
+      ],
+      "TalentName": "Burnice_Talent_06_Title",
+      "TalentDescRealign": "Burnice_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Burnice_Talent_06_Desc_02",
+      "TalentMaterials": [
+        {
+          "ItemID": 5171,
+          "Number": 1
+        }
+      ],
+      "TalentDesc": "Burnice_Talent_06_Desc_01",
+      "TalentNameRealign": "Burnice_Talent_06_Title_Realign"
     },
     {
       "ID": 1181001,
