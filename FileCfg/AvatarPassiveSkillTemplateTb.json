@@ -1485,6 +1485,218 @@
       ]
     },
     {
+      "ID": 1091001,
+      "AvatarID": 1091,
+      "SkillUnlock": 15,
+      "SkillLevel": 1,
+      "__unk_Q11985137": 2,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31201,
+          "Number": 30
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 0
+        }
+      ],
+      "PassiveName": [
+        "Unagi_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Unagi_UniqueSkill_02_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 5000
+        }
+      ]
+    },
+    {
+      "ID": 1091002,
+      "AvatarID": 1091,
+      "SkillUnlock": 25,
+      "SkillLevel": 2,
+      "__unk_Q11985137": 3,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31201,
+          "Number": 30
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "PassiveName": [
+        "Unagi_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Unagi_UniqueSkill_03_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 12000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1091003,
+      "AvatarID": 1091,
+      "SkillUnlock": 35,
+      "SkillLevel": 3,
+      "__unk_Q11985137": 4,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31201,
+          "Number": 60
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 25
+        }
+      ],
+      "PassiveName": [
+        "Unagi_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Unagi_UniqueSkill_04_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 28000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 4
+        }
+      ]
+    },
+    {
+      "ID": 1091004,
+      "AvatarID": 1091,
+      "SkillUnlock": 45,
+      "SkillLevel": 4,
+      "__unk_Q11985137": 5,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31201,
+          "Number": 60
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "PassiveName": [
+        "Unagi_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Unagi_UniqueSkill_05_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 60000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 9
+        },
+        {
+          "ItemID": 110005,
+          "Number": 2
+        }
+      ]
+    },
+    {
+      "ID": 1091005,
+      "AvatarID": 1091,
+      "SkillUnlock": 55,
+      "SkillLevel": 5,
+      "__unk_Q11985137": 6,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31201,
+          "Number": 90
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 50
+        }
+      ],
+      "PassiveName": [
+        "Unagi_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Unagi_UniqueSkill_06_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 100000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 15
+        },
+        {
+          "ItemID": 110005,
+          "Number": 3
+        }
+      ]
+    },
+    {
+      "ID": 1091006,
+      "AvatarID": 1091,
+      "SkillUnlock": 60,
+      "SkillLevel": 6,
+      "__unk_Q11985137": 7,
+      "__unk_Q3657090899": "Avatar_PassiveSkill_CoreSkillLevelUp",
+      "__unk_Q1589919627": [
+        {
+          "__exp_PropertyID": 31201,
+          "Number": 90
+        },
+        {
+          "__exp_PropertyID": 12101,
+          "Number": 75
+        }
+      ],
+      "PassiveName": [
+        "Unagi_UniqueSkill_Title"
+      ],
+      "PassiveDesc": [
+        "Unagi_UniqueSkill_07_Desc"
+      ],
+      "SkillMaterials": [
+        {
+          "ItemID": 10,
+          "Number": 200000
+        },
+        {
+          "ItemID": 110508,
+          "Number": 30
+        },
+        {
+          "ItemID": 110005,
+          "Number": 4
+        }
+      ]
+    },
+    {
       "ID": 1101001,
       "AvatarID": 1101,
       "SkillUnlock": 15,
@@ -3614,7 +3826,7 @@
       "__unk_Q1589919627": [
         {
           "__exp_PropertyID": 20101,
-          "Number": 0
+          "Number": 480
         },
         {
           "__exp_PropertyID": 12101,
@@ -3644,7 +3856,7 @@
       "__unk_Q1589919627": [
         {
           "__exp_PropertyID": 20101,
-          "Number": 0
+          "Number": 480
         },
         {
           "__exp_PropertyID": 12101,
@@ -3663,7 +3875,7 @@
           "Number": 12000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110508,
           "Number": 2
         }
       ]
@@ -3678,7 +3890,7 @@
       "__unk_Q1589919627": [
         {
           "__exp_PropertyID": 20101,
-          "Number": 0
+          "Number": 960
         },
         {
           "__exp_PropertyID": 12101,
@@ -3697,7 +3909,7 @@
           "Number": 28000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110508,
           "Number": 4
         }
       ]
@@ -3712,7 +3924,7 @@
       "__unk_Q1589919627": [
         {
           "__exp_PropertyID": 20101,
-          "Number": 0
+          "Number": 960
         },
         {
           "__exp_PropertyID": 12101,
@@ -3731,11 +3943,11 @@
           "Number": 60000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110508,
           "Number": 9
         },
         {
-          "ItemID": 110001,
+          "ItemID": 110005,
           "Number": 2
         }
       ]
@@ -3750,7 +3962,7 @@
       "__unk_Q1589919627": [
         {
           "__exp_PropertyID": 20101,
-          "Number": 0
+          "Number": 1440
         },
         {
           "__exp_PropertyID": 12101,
@@ -3769,11 +3981,11 @@
           "Number": 100000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110508,
           "Number": 15
         },
         {
-          "ItemID": 110001,
+          "ItemID": 110005,
           "Number": 3
         }
       ]
@@ -3788,7 +4000,7 @@
       "__unk_Q1589919627": [
         {
           "__exp_PropertyID": 20101,
-          "Number": 0
+          "Number": 1440
         },
         {
           "__exp_PropertyID": 12101,
@@ -3807,11 +4019,11 @@
           "Number": 200000
         },
         {
-          "ItemID": 110501,
+          "ItemID": 110508,
           "Number": 30
         },
         {
-          "ItemID": 110001,
+          "ItemID": 110005,
           "Number": 4
         }
       ]
