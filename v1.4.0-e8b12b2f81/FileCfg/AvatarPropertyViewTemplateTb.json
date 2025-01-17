@@ -1,0 +1,104 @@
+{
+  "LFPICNCBMIF": [
+    {
+      "FJKECLFEHOA": 1,
+      "HPFPNOICMDN": "HpMax",
+      "CJOMMFBKEPH": 0,
+      "LFILIPGOFAP": 0,
+      "AFCGGGDHMNH": 1,
+      "PELPGNOEEHI": "propertyID(111)",
+      "EHBHELJNBLH": 111,
+      "PIEBOJBBNIP": 1
+    },
+    {
+      "FJKECLFEHOA": 2,
+      "HPFPNOICMDN": "Atk",
+      "CJOMMFBKEPH": 0,
+      "LFILIPGOFAP": 0,
+      "AFCGGGDHMNH": -1,
+      "PELPGNOEEHI": "propertyID(121)",
+      "EHBHELJNBLH": 121,
+      "PIEBOJBBNIP": 2
+    },
+    {
+      "FJKECLFEHOA": 3,
+      "HPFPNOICMDN": "Def",
+      "CJOMMFBKEPH": 0,
+      "LFILIPGOFAP": 0,
+      "AFCGGGDHMNH": -1,
+      "PELPGNOEEHI": "propertyID(131)",
+      "EHBHELJNBLH": 131,
+      "PIEBOJBBNIP": 3
+    },
+    {
+      "FJKECLFEHOA": 4,
+      "HPFPNOICMDN": "BreakStun",
+      "CJOMMFBKEPH": 0,
+      "LFILIPGOFAP": 0,
+      "AFCGGGDHMNH": -1,
+      "PELPGNOEEHI": "propertyID(122)",
+      "EHBHELJNBLH": 122,
+      "PIEBOJBBNIP": 4
+    },
+    {
+      "FJKECLFEHOA": 5,
+      "HPFPNOICMDN": "Crit",
+      "CJOMMFBKEPH": 1,
+      "LFILIPGOFAP": 1,
+      "AFCGGGDHMNH": -1,
+      "PELPGNOEEHI": "propertyID(201)*100",
+      "EHBHELJNBLH": 201,
+      "PIEBOJBBNIP": 5
+    },
+    {
+      "FJKECLFEHOA": 6,
+      "HPFPNOICMDN": "CritDmg",
+      "CJOMMFBKEPH": 1,
+      "LFILIPGOFAP": 1,
+      "AFCGGGDHMNH": -1,
+      "PELPGNOEEHI": "propertyID(211)*100",
+      "EHBHELJNBLH": 211,
+      "PIEBOJBBNIP": 6
+    },
+    {
+      "FJKECLFEHOA": 7,
+      "HPFPNOICMDN": "ElementAbnormalPower",
+      "CJOMMFBKEPH": 0,
+      "LFILIPGOFAP": 0,
+      "AFCGGGDHMNH": -1,
+      "PELPGNOEEHI": "propertyID(314)",
+      "EHBHELJNBLH": 314,
+      "PIEBOJBBNIP": 7
+    },
+    {
+      "FJKECLFEHOA": 8,
+      "HPFPNOICMDN": "ElementMystery",
+      "CJOMMFBKEPH": 0,
+      "LFILIPGOFAP": 0,
+      "AFCGGGDHMNH": -1,
+      "PELPGNOEEHI": "propertyID(312)",
+      "EHBHELJNBLH": 312,
+      "PIEBOJBBNIP": 8
+    },
+    {
+      "FJKECLFEHOA": 9,
+      "HPFPNOICMDN": "PenRatio",
+      "CJOMMFBKEPH": 1,
+      "LFILIPGOFAP": 1,
+      "AFCGGGDHMNH": -1,
+      "PELPGNOEEHI": "propertyID(231)*100",
+      "EHBHELJNBLH": 231,
+      "PIEBOJBBNIP": 9
+    },
+    {
+      "FJKECLFEHOA": 11,
+      "HPFPNOICMDN": "SpRecover",
+      "CJOMMFBKEPH": 2,
+      "LFILIPGOFAP": 0,
+      "AFCGGGDHMNH": -1,
+      "PELPGNOEEHI": "propertyID(305)",
+      "EHBHELJNBLH": 305,
+      "PIEBOJBBNIP": 11
+    }
+  ]
+}
