@@ -1,0 +1,92 @@
+{
+  "PEPPKLMFFBD": [
+    {
+      "GKNMDKNIMHP": 1,
+      "NIJLEJDDPKB": "HpMax",
+      "BFFDDNIKFAD": 0,
+      "BNKACCIGIIE": 0,
+      "HCMFGJHJBIE": 1,
+      "BABCFJJJHCJ": "propertyID(111)",
+      "PHBMNGICCEH": 111,
+      "KDKHCKGCDKD": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png",
+      "NJCCFCPEGFP": ""
+    },
+    {
+      "GKNMDKNIMHP": 2,
+      "NIJLEJDDPKB": "Atk",
+      "BFFDDNIKFAD": 0,
+      "BNKACCIGIIE": 0,
+      "HCMFGJHJBIE": -1,
+      "BABCFJJJHCJ": "propertyID(121)",
+      "PHBMNGICCEH": 121,
+      "KDKHCKGCDKD": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png",
+      "NJCCFCPEGFP": ""
+    },
+    {
+      "GKNMDKNIMHP": 3,
+      "NIJLEJDDPKB": "Def",
+      "BFFDDNIKFAD": 0,
+      "BNKACCIGIIE": 0,
+      "HCMFGJHJBIE": -1,
+      "BABCFJJJHCJ": "propertyID(131)",
+      "PHBMNGICCEH": 131,
+      "KDKHCKGCDKD": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconDef.png",
+      "NJCCFCPEGFP": ""
+    },
+    {
+      "GKNMDKNIMHP": 4,
+      "NIJLEJDDPKB": "BreakStun",
+      "BFFDDNIKFAD": 0,
+      "BNKACCIGIIE": 0,
+      "HCMFGJHJBIE": -1,
+      "BABCFJJJHCJ": "propertyID(122)",
+      "PHBMNGICCEH": 122,
+      "KDKHCKGCDKD": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconBreakStun.png",
+      "NJCCFCPEGFP": "PropertyView_BreakStun"
+    },
+    {
+      "GKNMDKNIMHP": 5,
+      "NIJLEJDDPKB": "Crit",
+      "BFFDDNIKFAD": 1,
+      "BNKACCIGIIE": 1,
+      "HCMFGJHJBIE": -1,
+      "BABCFJJJHCJ": "propertyID(201)*100",
+      "PHBMNGICCEH": 201,
+      "KDKHCKGCDKD": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png",
+      "NJCCFCPEGFP": ""
+    },
+    {
+      "GKNMDKNIMHP": 6,
+      "NIJLEJDDPKB": "CritDmg",
+      "BFFDDNIKFAD": 1,
+      "BNKACCIGIIE": 1,
+      "HCMFGJHJBIE": -1,
+      "BABCFJJJHCJ": "propertyID(211)*100",
+      "PHBMNGICCEH": 211,
+      "KDKHCKGCDKD": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png",
+      "NJCCFCPEGFP": ""
+    },
+    {
+      "GKNMDKNIMHP": 7,
+      "NIJLEJDDPKB": "PenRatio",
+      "BFFDDNIKFAD": 1,
+      "BNKACCIGIIE": 1,
+      "HCMFGJHJBIE": -1,
+      "BABCFJJJHCJ": "propertyID(231)*100",
+      "PHBMNGICCEH": 231,
+      "KDKHCKGCDKD": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconPenRatio.png",
+      "NJCCFCPEGFP": "PropertyView_PenRatio"
+    },
+    {
+      "GKNMDKNIMHP": 8,
+      "NIJLEJDDPKB": "ElementAbnormalPower",
+      "BFFDDNIKFAD": 0,
+      "BNKACCIGIIE": 0,
+      "HCMFGJHJBIE": -1,
+      "BABCFJJJHCJ": "propertyID(314)",
+      "PHBMNGICCEH": 314,
+      "KDKHCKGCDKD": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementAbnormalPower.png",
+      "NJCCFCPEGFP": "PropertyView_ElementAbnormalPower"
+    }
+  ]
+}
