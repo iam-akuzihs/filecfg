@@ -1,103 +1,103 @@
 {
-  "__unk_Q4214585430": [
+  "__exp_FileCfg": [
     {
-      "__exp_id": 1,
+      "ID": 1,
       "HPFPNOICMDN": "HpMax",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": 1,
       "PELPGNOEEHI": "propertyID(111)",
-      "__unk_Q2479923100": 111,
+      "__exp_PropertyID": 111,
       "PIEBOJBBNIP": 1
     },
     {
-      "__exp_id": 2,
+      "ID": 2,
       "HPFPNOICMDN": "Atk",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(121)",
-      "__unk_Q2479923100": 121,
+      "__exp_PropertyID": 121,
       "PIEBOJBBNIP": 2
     },
     {
-      "__exp_id": 3,
+      "ID": 3,
       "HPFPNOICMDN": "Def",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(131)",
-      "__unk_Q2479923100": 131,
+      "__exp_PropertyID": 131,
       "PIEBOJBBNIP": 3
     },
     {
-      "__exp_id": 4,
+      "ID": 4,
       "HPFPNOICMDN": "BreakStun",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(122)",
-      "__unk_Q2479923100": 122,
+      "__exp_PropertyID": 122,
       "PIEBOJBBNIP": 4
     },
     {
-      "__exp_id": 5,
+      "ID": 5,
       "HPFPNOICMDN": "Crit",
       "CJOMMFBKEPH": 1,
       "LFILIPGOFAP": 1,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(201)*100",
-      "__unk_Q2479923100": 201,
+      "__exp_PropertyID": 201,
       "PIEBOJBBNIP": 5
     },
     {
-      "__exp_id": 6,
+      "ID": 6,
       "HPFPNOICMDN": "CritDmg",
       "CJOMMFBKEPH": 1,
       "LFILIPGOFAP": 1,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(211)*100",
-      "__unk_Q2479923100": 211,
+      "__exp_PropertyID": 211,
       "PIEBOJBBNIP": 6
     },
     {
-      "__exp_id": 7,
+      "ID": 7,
       "HPFPNOICMDN": "ElementAbnormalPower",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(314)",
-      "__unk_Q2479923100": 314,
+      "__exp_PropertyID": 314,
       "PIEBOJBBNIP": 7
     },
     {
-      "__exp_id": 8,
+      "ID": 8,
       "HPFPNOICMDN": "ElementMystery",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(312)",
-      "__unk_Q2479923100": 312,
+      "__exp_PropertyID": 312,
       "PIEBOJBBNIP": 8
     },
     {
-      "__exp_id": 9,
+      "ID": 9,
       "HPFPNOICMDN": "PenRatio",
       "CJOMMFBKEPH": 1,
       "LFILIPGOFAP": 1,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(231)*100",
-      "__unk_Q2479923100": 231,
+      "__exp_PropertyID": 231,
       "PIEBOJBBNIP": 9
     },
     {
-      "__exp_id": 11,
+      "ID": 11,
       "HPFPNOICMDN": "SpRecover",
       "CJOMMFBKEPH": 2,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(305)",
-      "__unk_Q2479923100": 305,
+      "__exp_PropertyID": 305,
       "PIEBOJBBNIP": 11
     }
   ]

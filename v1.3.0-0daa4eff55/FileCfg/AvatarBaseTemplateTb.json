@@ -1,611 +1,611 @@
 {
-  "__unk_Q4214585430": [
+  "__exp_FileCfg": [
     {
-      "__exp_id": 1011,
-      "__unk_Q4110824942": "Avatar_Female_Size02_Anbi_En",
-      "__unk_Q3319702070": "Avatar_Female_Size02_Anbi",
-      "__unk_Q2130649686": "Avatar_Female_Size02_Anbi_FullName",
-      "__unk_Q2276755531": "anbi",
-      "__unk_Q1662986891": "BK_Anbi|BK_CHR_Common|BK_Anbi_VO",
-      "__unk_Q697753239": 2,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 1,
-      "__unk_Q2143245331": [
+      "ID": 1011,
+      "CodeName": "Avatar_Female_Size02_Anbi_En",
+      "Name": "Avatar_Female_Size02_Anbi",
+      "FullName": "Avatar_Female_Size02_Anbi_FullName",
+      "AudioEventReplaceParam": "anbi",
+      "AudioBank": "BK_Anbi|BK_CHR_Common|BK_Anbi_VO",
+      "__unk_Q291526241": 2,
+      "Gender": 2,
+      "Camp": 1,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         203
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:1:2",
         "2:203:2"
       ]
     },
     {
-      "__exp_id": 1021,
-      "__unk_Q4110824942": "Avatar_Female_Size01_Tsubaki_En",
-      "__unk_Q3319702070": "Avatar_Female_Size01_Tsubaki",
-      "__unk_Q2130649686": "Avatar_Female_Size01_Tsubaki_FullName",
-      "__unk_Q2276755531": "tsubaki",
-      "__unk_Q1662986891": "BK_Tsubaki|BK_CHR_Common|BK_Tsubaki_VO",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 1,
-      "__unk_Q2143245331": [
+      "ID": 1021,
+      "CodeName": "Avatar_Female_Size01_Tsubaki_En",
+      "Name": "Avatar_Female_Size01_Tsubaki",
+      "FullName": "Avatar_Female_Size01_Tsubaki_FullName",
+      "AudioEventReplaceParam": "tsubaki",
+      "AudioBank": "BK_Tsubaki|BK_CHR_Common|BK_Tsubaki_VO",
+      "__unk_Q291526241": 1,
+      "Gender": 2,
+      "Camp": 1,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         200
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:1:2",
         "2:200:2"
       ]
     },
     {
-      "__exp_id": 1031,
-      "__unk_Q4110824942": "Avatar_Female_Size02_Nostradamus_En",
-      "__unk_Q3319702070": "Avatar_Female_Size02_Nostradamus",
-      "__unk_Q2130649686": "Avatar_Female_Size02_Nostradamus_FullName",
-      "__unk_Q2276755531": "nicole",
-      "__unk_Q1662986891": "BK_Nicole|BK_CHR_Common|BK_Nicole_VO",
-      "__unk_Q697753239": 4,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 1,
-      "__unk_Q2143245331": [
+      "ID": 1031,
+      "CodeName": "Avatar_Female_Size02_Nostradamus_En",
+      "Name": "Avatar_Female_Size02_Nostradamus",
+      "FullName": "Avatar_Female_Size02_Nostradamus_FullName",
+      "AudioEventReplaceParam": "nicole",
+      "AudioBank": "BK_Nicole|BK_CHR_Common|BK_Nicole_VO",
+      "__unk_Q291526241": 4,
+      "Gender": 2,
+      "Camp": 1,
+      "HitTypes": [
         102
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         205
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:1:2",
         "2:205:2"
       ]
     },
     {
-      "__exp_id": 1041,
-      "__unk_Q4110824942": "Avatar_Female_Size02_Longinus_En",
-      "__unk_Q3319702070": "Avatar_Female_Size02_Longinus",
-      "__unk_Q2130649686": "Avatar_Female_Size02_Longinus_FullName",
-      "__unk_Q2276755531": "longinus",
-      "__unk_Q1662986891": "BK_Longinus|BK_CHR_Common|BK_Longinus_VO",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 5,
-      "__unk_Q2143245331": [
+      "ID": 1041,
+      "CodeName": "Avatar_Female_Size02_Longinus_En",
+      "Name": "Avatar_Female_Size02_Longinus",
+      "FullName": "Avatar_Female_Size02_Longinus_FullName",
+      "AudioEventReplaceParam": "longinus",
+      "AudioBank": "BK_Longinus|BK_CHR_Common|BK_Longinus_VO",
+      "__unk_Q291526241": 1,
+      "Gender": 2,
+      "Camp": 5,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         201
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:5:2",
         "2:201:2"
       ]
     },
     {
-      "__exp_id": 1061,
-      "__unk_Q4110824942": "Avatar_Female_Size01_Corin_En",
-      "__unk_Q3319702070": "Avatar_Female_Size01_Corin",
-      "__unk_Q2130649686": "Avatar_Female_Size01_Corin_FullName",
-      "__unk_Q2276755531": "corin",
-      "__unk_Q1662986891": "BK_Corin|BK_CHR_Common|BK_Corin_VO",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 2,
-      "__unk_Q2143245331": [
+      "ID": 1061,
+      "CodeName": "Avatar_Female_Size01_Corin_En",
+      "Name": "Avatar_Female_Size01_Corin",
+      "FullName": "Avatar_Female_Size01_Corin_FullName",
+      "AudioEventReplaceParam": "corin",
+      "AudioBank": "BK_Corin|BK_CHR_Common|BK_Corin_VO",
+      "__unk_Q291526241": 1,
+      "Gender": 2,
+      "Camp": 2,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         200
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:2:2",
         "2:200:2"
       ]
     },
     {
-      "__exp_id": 1071,
-      "__unk_Q4110824942": "Avatar_Female_Size03_Caesar_En",
-      "__unk_Q3319702070": "Avatar_Female_Size03_Caesar",
-      "__unk_Q2130649686": "Avatar_Female_Size03_Caesar_FullName",
-      "__unk_Q2276755531": "caesar",
-      "__unk_Q1662986891": "BK_Caesar|BK_CHR_Common|BK_Caesar_VO",
-      "__unk_Q697753239": 5,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 4,
-      "__unk_Q2143245331": [
+      "ID": 1071,
+      "CodeName": "Avatar_Female_Size03_Caesar_En",
+      "Name": "Avatar_Female_Size03_Caesar",
+      "FullName": "Avatar_Female_Size03_Caesar_FullName",
+      "AudioEventReplaceParam": "caesar",
+      "AudioBank": "BK_Caesar|BK_CHR_Common|BK_Caesar_VO",
+      "__unk_Q291526241": 5,
+      "Gender": 2,
+      "Camp": 4,
+      "HitTypes": [
         101,
         102
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         200
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:4:2",
         "4:AidTypeParry:2"
       ]
     },
     {
-      "__exp_id": 1081,
-      "__unk_Q4110824942": "Avatar_Male_Size03_Billy_En",
-      "__unk_Q3319702070": "Avatar_Male_Size03_Billy",
-      "__unk_Q2130649686": "Avatar_Male_Size03_Billy_FullName",
-      "__unk_Q2276755531": "billy",
-      "__unk_Q1662986891": "BK_Billy|BK_CHR_Common|BK_Billy_VO",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 1,
-      "__unk_Q1424042706": 1,
-      "__unk_Q2143245331": [
+      "ID": 1081,
+      "CodeName": "Avatar_Male_Size03_Billy_En",
+      "Name": "Avatar_Male_Size03_Billy",
+      "FullName": "Avatar_Male_Size03_Billy_FullName",
+      "AudioEventReplaceParam": "billy",
+      "AudioBank": "BK_Billy|BK_CHR_Common|BK_Billy_VO",
+      "__unk_Q291526241": 1,
+      "Gender": 1,
+      "Camp": 1,
+      "HitTypes": [
         103
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         200
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:1:2",
         "2:200:2"
       ]
     },
     {
-      "__exp_id": 1091,
-      "__unk_Q4110824942": "Avatar_Female_Size02_Unagi_En",
-      "__unk_Q3319702070": "Avatar_Female_Size02_Unagi",
-      "__unk_Q2130649686": "Avatar_Female_Size02_Unagi_FullName",
-      "__unk_Q2276755531": "unagi",
-      "__unk_Q1662986891": "BK_Unagi|BK_CHR_Common|BK_Unagi_VO",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 6,
-      "__unk_Q2143245331": [
+      "ID": 1091,
+      "CodeName": "Avatar_Female_Size02_Unagi_En",
+      "Name": "Avatar_Female_Size02_Unagi",
+      "FullName": "Avatar_Female_Size02_Unagi_FullName",
+      "AudioEventReplaceParam": "unagi",
+      "AudioBank": "BK_Unagi|BK_CHR_Common|BK_Unagi_VO",
+      "__unk_Q291526241": 1,
+      "Gender": 2,
+      "Camp": 6,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         202
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:6:2",
         "2:202:2"
       ]
     },
     {
-      "__exp_id": 1101,
-      "__unk_Q4110824942": "Avatar_Female_Size01_OokumaMari_En",
-      "__unk_Q3319702070": "Avatar_Female_Size01_OokumaMari",
-      "__unk_Q2130649686": "Avatar_Female_Size01_OokumaMari_FullName",
-      "__unk_Q2276755531": "koleda",
-      "__unk_Q1662986891": "BK_Koleda|BK_CHR_Common|BK_Koleda_VO",
-      "__unk_Q697753239": 2,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 3,
-      "__unk_Q2143245331": [
+      "ID": 1101,
+      "CodeName": "Avatar_Female_Size01_OokumaMari_En",
+      "Name": "Avatar_Female_Size01_OokumaMari",
+      "FullName": "Avatar_Female_Size01_OokumaMari_FullName",
+      "AudioEventReplaceParam": "koleda",
+      "AudioBank": "BK_Koleda|BK_CHR_Common|BK_Koleda_VO",
+      "__unk_Q291526241": 2,
+      "Gender": 2,
+      "Camp": 3,
+      "HitTypes": [
         102
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         201
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:3:2",
         "2:201:2"
       ]
     },
     {
-      "__exp_id": 1111,
-      "__unk_Q4110824942": "Avatar_Male_Size03_Anton_En",
-      "__unk_Q3319702070": "Avatar_Male_Size03_Anton",
-      "__unk_Q2130649686": "Avatar_Male_Size03_Anton_FullName",
-      "__unk_Q2276755531": "anton",
-      "__unk_Q1662986891": "BK_Anton|BK_CHR_Common|BK_Anton_VO",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 1,
-      "__unk_Q1424042706": 3,
-      "__unk_Q2143245331": [
+      "ID": 1111,
+      "CodeName": "Avatar_Male_Size03_Anton_En",
+      "Name": "Avatar_Male_Size03_Anton",
+      "FullName": "Avatar_Male_Size03_Anton_FullName",
+      "AudioEventReplaceParam": "anton",
+      "AudioBank": "BK_Anton|BK_CHR_Common|BK_Anton_VO",
+      "__unk_Q291526241": 1,
+      "Gender": 1,
+      "Camp": 3,
+      "HitTypes": [
         103
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         203
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:3:2",
         "2:203:2"
       ]
     },
     {
-      "__exp_id": 1121,
-      "__unk_Q4110824942": "Avatar_Male_Size03_Ben_En",
-      "__unk_Q3319702070": "Avatar_Male_Size03_Ben",
-      "__unk_Q2130649686": "Avatar_Male_Size03_Ben_FullName",
-      "__unk_Q2276755531": "ben",
-      "__unk_Q1662986891": "BK_Ben|BK_CHR_Common|BK_Ben_VO",
-      "__unk_Q697753239": 5,
-      "__unk_Q2144106769": 1,
-      "__unk_Q1424042706": 3,
-      "__unk_Q2143245331": [
+      "ID": 1121,
+      "CodeName": "Avatar_Male_Size03_Ben_En",
+      "Name": "Avatar_Male_Size03_Ben",
+      "FullName": "Avatar_Male_Size03_Ben_FullName",
+      "AudioEventReplaceParam": "ben",
+      "AudioBank": "BK_Ben|BK_CHR_Common|BK_Ben_VO",
+      "__unk_Q291526241": 5,
+      "Gender": 1,
+      "Camp": 3,
+      "HitTypes": [
         102
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         201
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:3:2",
         "2:201:2"
       ]
     },
     {
-      "__exp_id": 1131,
-      "__unk_Q4110824942": "Avatar_Female_Size01_Aokaku_En",
-      "__unk_Q3319702070": "Avatar_Female_Size01_Aokaku",
-      "__unk_Q2130649686": "Avatar_Female_Size01_Aokaku_FullName",
-      "__unk_Q2276755531": "aokaku",
-      "__unk_Q1662986891": "BK_Aokaku|BK_CHR_Common|BK_Aokaku_VO",
-      "__unk_Q697753239": 4,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 6,
-      "__unk_Q2143245331": [
+      "ID": 1131,
+      "CodeName": "Avatar_Female_Size01_Aokaku_En",
+      "Name": "Avatar_Female_Size01_Aokaku",
+      "FullName": "Avatar_Female_Size01_Aokaku_FullName",
+      "AudioEventReplaceParam": "aokaku",
+      "AudioBank": "BK_Aokaku|BK_CHR_Common|BK_Aokaku_VO",
+      "__unk_Q291526241": 4,
+      "Gender": 2,
+      "Camp": 6,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         202
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:6:2",
         "2:202:2"
       ]
     },
     {
-      "__exp_id": 1141,
-      "__unk_Q4110824942": "Avatar_Male_Size03_Lycaon_En",
-      "__unk_Q3319702070": "Avatar_Male_Size03_Lycaon",
-      "__unk_Q2130649686": "Avatar_Male_Size03_Lycaon_FullName",
-      "__unk_Q2276755531": "lycaon",
-      "__unk_Q1662986891": "BK_Lycaon|BK_CHR_Common|BK_Lycaon_VO",
-      "__unk_Q697753239": 2,
-      "__unk_Q2144106769": 1,
-      "__unk_Q1424042706": 2,
-      "__unk_Q2143245331": [
+      "ID": 1141,
+      "CodeName": "Avatar_Male_Size03_Lycaon_En",
+      "Name": "Avatar_Male_Size03_Lycaon",
+      "FullName": "Avatar_Male_Size03_Lycaon_FullName",
+      "AudioEventReplaceParam": "lycaon",
+      "AudioBank": "BK_Lycaon|BK_CHR_Common|BK_Lycaon_VO",
+      "__unk_Q291526241": 2,
+      "Gender": 1,
+      "Camp": 2,
+      "HitTypes": [
         102
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         202
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:2:2",
         "2:202:2"
       ]
     },
     {
-      "__exp_id": 1151,
-      "__unk_Q4110824942": "Avatar_Female_Size01_Lucy_En",
-      "__unk_Q3319702070": "Avatar_Female_Size01_Lucy",
-      "__unk_Q2130649686": "Avatar_Female_Size01_Lucy_FullName",
-      "__unk_Q2276755531": "lucy",
-      "__unk_Q1662986891": "BK_Lucy|BK_CHR_Common|BK_Lucy_VO",
-      "__unk_Q697753239": 4,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 4,
-      "__unk_Q2143245331": [
+      "ID": 1151,
+      "CodeName": "Avatar_Female_Size01_Lucy_En",
+      "Name": "Avatar_Female_Size01_Lucy",
+      "FullName": "Avatar_Female_Size01_Lucy_FullName",
+      "AudioEventReplaceParam": "lucy",
+      "AudioBank": "BK_Lucy|BK_CHR_Common|BK_Lucy_VO",
+      "__unk_Q291526241": 4,
+      "Gender": 2,
+      "Camp": 4,
+      "HitTypes": [
         102
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         201
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:4:2",
         "2:201:2"
       ]
     },
     {
-      "__exp_id": 1161,
-      "__unk_Q4110824942": "Avatar_Male_Size02_Lighter_En",
-      "__unk_Q3319702070": "Avatar_Male_Size02_Lighter",
-      "__unk_Q2130649686": "Avatar_Male_Size02_Lighter_FullName",
-      "__unk_Q2276755531": "lighter",
-      "__unk_Q1662986891": "BK_Lighter|BK_CHR_Common|BK_Lighter_VO",
-      "__unk_Q697753239": 2,
-      "__unk_Q2144106769": 1,
-      "__unk_Q1424042706": 4,
-      "__unk_Q2143245331": [
+      "ID": 1161,
+      "CodeName": "Avatar_Male_Size02_Lighter_En",
+      "Name": "Avatar_Male_Size02_Lighter",
+      "FullName": "Avatar_Male_Size02_Lighter_FullName",
+      "AudioEventReplaceParam": "lighter",
+      "AudioBank": "BK_Lighter|BK_CHR_Common|BK_Lighter_VO",
+      "__unk_Q291526241": 2,
+      "Gender": 1,
+      "Camp": 4,
+      "HitTypes": [
         102
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         201
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:4:2",
         "3:1:1"
       ]
     },
     {
-      "__exp_id": 1171,
-      "__unk_Q4110824942": "Avatar_Female_Size02_Burnice_En",
-      "__unk_Q3319702070": "Avatar_Female_Size02_Burnice",
-      "__unk_Q2130649686": "Avatar_Female_Size02_Burnice_FullName",
-      "__unk_Q2276755531": "burnice",
-      "__unk_Q1662986891": "BK_Burnice|BK_CHR_Common|BK_Burnice_VO",
-      "__unk_Q697753239": 3,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 4,
-      "__unk_Q2143245331": [
+      "ID": 1171,
+      "CodeName": "Avatar_Female_Size02_Burnice_En",
+      "Name": "Avatar_Female_Size02_Burnice",
+      "FullName": "Avatar_Female_Size02_Burnice_FullName",
+      "AudioEventReplaceParam": "burnice",
+      "AudioBank": "BK_Burnice|BK_CHR_Common|BK_Burnice_VO",
+      "__unk_Q291526241": 3,
+      "Gender": 2,
+      "Camp": 4,
+      "HitTypes": [
         103
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         201
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:4:2",
         "3:3:2"
       ]
     },
     {
-      "__exp_id": 1181,
-      "__unk_Q4110824942": "Avatar_Female_Size03_Lisa_En",
-      "__unk_Q3319702070": "Avatar_Female_Size03_Lisa",
-      "__unk_Q2130649686": "Avatar_Female_Size03_Lisa_FullName",
-      "__unk_Q2276755531": "lisa",
-      "__unk_Q1662986891": "BK_Lisa|BK_CHR_Common|BK_Lisa_VO",
-      "__unk_Q697753239": 3,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 3,
-      "__unk_Q2143245331": [
+      "ID": 1181,
+      "CodeName": "Avatar_Female_Size03_Lisa_En",
+      "Name": "Avatar_Female_Size03_Lisa",
+      "FullName": "Avatar_Female_Size03_Lisa_FullName",
+      "AudioEventReplaceParam": "lisa",
+      "AudioBank": "BK_Lisa|BK_CHR_Common|BK_Lisa_VO",
+      "__unk_Q291526241": 3,
+      "Gender": 2,
+      "Camp": 3,
+      "HitTypes": [
         103
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         203
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:3:2",
         "2:203:2"
       ]
     },
     {
-      "__exp_id": 1191,
-      "__unk_Q4110824942": "Avatar_Female_Size02_Ellen_En",
-      "__unk_Q3319702070": "Avatar_Female_Size02_Ellen",
-      "__unk_Q2130649686": "Avatar_Female_Size02_Ellen_FullName",
-      "__unk_Q2276755531": "ellen",
-      "__unk_Q1662986891": "BK_Ellen|BK_CHR_Common|BK_Ellen_VO",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 2,
-      "__unk_Q2143245331": [
+      "ID": 1191,
+      "CodeName": "Avatar_Female_Size02_Ellen_En",
+      "Name": "Avatar_Female_Size02_Ellen",
+      "FullName": "Avatar_Female_Size02_Ellen_FullName",
+      "AudioEventReplaceParam": "ellen",
+      "AudioBank": "BK_Ellen|BK_CHR_Common|BK_Ellen_VO",
+      "__unk_Q291526241": 1,
+      "Gender": 2,
+      "Camp": 2,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         202
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:2:2",
         "2:202:2"
       ]
     },
     {
-      "__exp_id": 1201,
-      "__unk_Q4110824942": "Avatar_Male_Size01_Harumasa_En",
-      "__unk_Q3319702070": "Avatar_Male_Size01_Harumasa",
-      "__unk_Q2130649686": "Avatar_Male_Size01_Harumasa_FullName",
-      "__unk_Q2276755531": "harumasa",
-      "__unk_Q1662986891": "BK_Harumasa|BK_CHR_Common|BK_Harumasa_VO",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 1,
-      "__unk_Q1424042706": 6,
-      "__unk_Q2143245331": [
+      "ID": 1201,
+      "CodeName": "Avatar_Male_Size01_Harumasa_En",
+      "Name": "Avatar_Male_Size01_Harumasa",
+      "FullName": "Avatar_Male_Size01_Harumasa_FullName",
+      "AudioEventReplaceParam": "harumasa",
+      "AudioBank": "BK_Harumasa|BK_CHR_Common|BK_Harumasa_VO",
+      "__unk_Q291526241": 1,
+      "Gender": 1,
+      "Camp": 6,
+      "HitTypes": [
         103
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         203
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:6:2",
         "2:200:2"
       ]
     },
     {
-      "__exp_id": 1211,
-      "__unk_Q4110824942": "Avatar_Female_Size03_Rina_En",
-      "__unk_Q3319702070": "Avatar_Female_Size03_Rina",
-      "__unk_Q2130649686": "Avatar_Female_Size03_Rina_FullName",
-      "__unk_Q2276755531": "rina",
-      "__unk_Q1662986891": "BK_Rina|BK_CHR_Common|BK_Rina_VO",
-      "__unk_Q697753239": 4,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 2,
-      "__unk_Q2143245331": [
+      "ID": 1211,
+      "CodeName": "Avatar_Female_Size03_Rina_En",
+      "Name": "Avatar_Female_Size03_Rina",
+      "FullName": "Avatar_Female_Size03_Rina_FullName",
+      "AudioEventReplaceParam": "rina",
+      "AudioBank": "BK_Rina|BK_CHR_Common|BK_Rina_VO",
+      "__unk_Q291526241": 4,
+      "Gender": 2,
+      "Camp": 2,
+      "HitTypes": [
         102
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         203
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:2:2",
         "2:203:2"
       ]
     },
     {
-      "__exp_id": 1221,
-      "__unk_Q4110824942": "Avatar_Female_Size03_Yanagi_En",
-      "__unk_Q3319702070": "Avatar_Female_Size03_Yanagi",
-      "__unk_Q2130649686": "Avatar_Female_Size03_Yanagi_FullName",
-      "__unk_Q2276755531": "yanagi",
-      "__unk_Q1662986891": "BK_Yanagi|BK_CHR_Common|BK_Yanagi_VO",
-      "__unk_Q697753239": 3,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 6,
-      "__unk_Q2143245331": [
+      "ID": 1221,
+      "CodeName": "Avatar_Female_Size03_Yanagi_En",
+      "Name": "Avatar_Female_Size03_Yanagi",
+      "FullName": "Avatar_Female_Size03_Yanagi_FullName",
+      "AudioEventReplaceParam": "yanagi",
+      "AudioBank": "BK_Yanagi|BK_CHR_Common|BK_Yanagi_VO",
+      "__unk_Q291526241": 3,
+      "Gender": 2,
+      "Camp": 6,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         203
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "2:203:2",
         "3:3:2"
       ]
     },
     {
-      "__exp_id": 1241,
-      "__unk_Q4110824942": "Avatar_Female_Size03_ZhuYuan_En",
-      "__unk_Q3319702070": "Avatar_Female_Size03_ZhuYuan",
-      "__unk_Q2130649686": "Avatar_Female_Size03_ZhuYuan_FullName",
-      "__unk_Q2276755531": "ZhuYuan",
-      "__unk_Q1662986891": "BK_ZhuYuan|BK_CHR_Common|BK_ZhuYuan_VO",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 7,
-      "__unk_Q2143245331": [
+      "ID": 1241,
+      "CodeName": "Avatar_Female_Size03_ZhuYuan_En",
+      "Name": "Avatar_Female_Size03_ZhuYuan",
+      "FullName": "Avatar_Female_Size03_ZhuYuan_FullName",
+      "AudioEventReplaceParam": "ZhuYuan",
+      "AudioBank": "BK_ZhuYuan|BK_CHR_Common|BK_ZhuYuan_VO",
+      "__unk_Q291526241": 1,
+      "Gender": 2,
+      "Camp": 7,
+      "HitTypes": [
         103
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         205
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:7:2",
         "3:4:1"
       ]
     },
     {
-      "__exp_id": 1251,
-      "__unk_Q4110824942": "Avatar_Female_Size01_QingYi_En",
-      "__unk_Q3319702070": "Avatar_Female_Size01_QingYi",
-      "__unk_Q2130649686": "Avatar_Female_Size01_QingYi_FullName",
-      "__unk_Q2276755531": "qingyi",
-      "__unk_Q1662986891": "BK_QingYi|BK_CHR_Common|BK_QingYi_VO",
-      "__unk_Q697753239": 2,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 7,
-      "__unk_Q2143245331": [
+      "ID": 1251,
+      "CodeName": "Avatar_Female_Size01_QingYi_En",
+      "Name": "Avatar_Female_Size01_QingYi",
+      "FullName": "Avatar_Female_Size01_QingYi_FullName",
+      "AudioEventReplaceParam": "qingyi",
+      "AudioBank": "BK_QingYi|BK_CHR_Common|BK_QingYi_VO",
+      "__unk_Q291526241": 2,
+      "Gender": 2,
+      "Camp": 7,
+      "HitTypes": [
         102
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         203
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:7:2",
         "3:1:1"
       ]
     },
     {
-      "__exp_id": 1261,
-      "__unk_Q4110824942": "Avatar_Female_Size03_JaneDoe_En",
-      "__unk_Q3319702070": "Avatar_Female_Size03_JaneDoe",
-      "__unk_Q2130649686": "Avatar_Female_Size03_JaneDoe_FullName",
-      "__unk_Q2276755531": "janedoe",
-      "__unk_Q1662986891": "BK_JaneDoe|BK_CHR_Common|BK_JaneDoe_VO",
-      "__unk_Q697753239": 3,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 7,
-      "__unk_Q2143245331": [
+      "ID": 1261,
+      "CodeName": "Avatar_Female_Size03_JaneDoe_En",
+      "Name": "Avatar_Female_Size03_JaneDoe",
+      "FullName": "Avatar_Female_Size03_JaneDoe_FullName",
+      "AudioEventReplaceParam": "janedoe",
+      "AudioBank": "BK_JaneDoe|BK_CHR_Common|BK_JaneDoe_VO",
+      "__unk_Q291526241": 3,
+      "Gender": 2,
+      "Camp": 7,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         200
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:7:2",
         "3:3:2"
       ]
     },
     {
-      "__exp_id": 1271,
-      "__unk_Q4110824942": "Avatar_Male_Size01_Seth_En",
-      "__unk_Q3319702070": "Avatar_Male_Size01_Seth",
-      "__unk_Q2130649686": "Avatar_Male_Size01_Seth_FullName",
-      "__unk_Q2276755531": "seth",
-      "__unk_Q1662986891": "BK_Seth|BK_CHR_Common|BK_Seth_VO",
-      "__unk_Q697753239": 5,
-      "__unk_Q2144106769": 1,
-      "__unk_Q1424042706": 7,
-      "__unk_Q2143245331": [
+      "ID": 1271,
+      "CodeName": "Avatar_Male_Size01_Seth_En",
+      "Name": "Avatar_Male_Size01_Seth",
+      "FullName": "Avatar_Male_Size01_Seth_FullName",
+      "AudioEventReplaceParam": "seth",
+      "AudioBank": "BK_Seth|BK_CHR_Common|BK_Seth_VO",
+      "__unk_Q291526241": 5,
+      "Gender": 1,
+      "Camp": 7,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         203
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:7:2",
         "2:203:2"
       ]
     },
     {
-      "__exp_id": 1281,
-      "__unk_Q4110824942": "Avatar_Female_Size01_Clara_En",
-      "__unk_Q3319702070": "Avatar_Female_Size01_Clara",
-      "__unk_Q2130649686": "Avatar_Female_Size01_Clara_FullName",
-      "__unk_Q2276755531": "clara",
-      "__unk_Q1662986891": "BK_Clara|BK_CHR_Common|BK_Clara_VO",
-      "__unk_Q697753239": 3,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 4,
-      "__unk_Q2143245331": [
+      "ID": 1281,
+      "CodeName": "Avatar_Female_Size01_Clara_En",
+      "Name": "Avatar_Female_Size01_Clara",
+      "FullName": "Avatar_Female_Size01_Clara_FullName",
+      "AudioEventReplaceParam": "clara",
+      "AudioBank": "BK_Clara|BK_CHR_Common|BK_Clara_VO",
+      "__unk_Q291526241": 3,
+      "Gender": 2,
+      "Camp": 4,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         200
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:4:2",
         "2:200:2"
       ]
     },
     {
-      "__exp_id": 1351,
-      "__unk_Q4110824942": "Avatar_Female_Size03_Pulchra_En",
-      "__unk_Q3319702070": "Avatar_Female_Size03_Pulchra",
-      "__unk_Q2130649686": "Avatar_Female_Size03_Pulchra_FullName",
-      "__unk_Q2276755531": "Pulchra",
-      "__unk_Q1662986891": "BK_Pulchra|BK_CHR_Common|BK_Pulchra_VO",
-      "__unk_Q697753239": 2,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 1,
-      "__unk_Q2143245331": [
+      "ID": 1351,
+      "CodeName": "Avatar_Female_Size03_Pulchra_En",
+      "Name": "Avatar_Female_Size03_Pulchra",
+      "FullName": "Avatar_Female_Size03_Pulchra_FullName",
+      "AudioEventReplaceParam": "Pulchra",
+      "AudioBank": "BK_Pulchra|BK_CHR_Common|BK_Pulchra_VO",
+      "__unk_Q291526241": 2,
+      "Gender": 2,
+      "Camp": 1,
+      "HitTypes": [
         101
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         203
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:1:2",
         "2:203:2"
       ]
     },
     {
-      "__exp_id": 2011,
-      "__unk_Q4110824942": "Avatar_Male_Size01_Wise_En",
-      "__unk_Q3319702070": "Avatar_Male_Size01_Wise",
-      "__unk_Q2130649686": "Avatar_Male_Size01_Wise_FullName",
-      "__unk_Q2276755531": "wise",
-      "__unk_Q1662986891": "BK_Wise",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 1,
-      "__unk_Q1424042706": 0,
-      "__unk_Q2143245331": [
+      "ID": 2011,
+      "CodeName": "Avatar_Male_Size01_Wise_En",
+      "Name": "Avatar_Male_Size01_Wise",
+      "FullName": "Avatar_Male_Size01_Wise_FullName",
+      "AudioEventReplaceParam": "wise",
+      "AudioBank": "BK_Wise",
+      "__unk_Q291526241": 1,
+      "Gender": 1,
+      "Camp": 0,
+      "HitTypes": [
         0
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         1
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:0:2",
         "2:1:2"
       ]
     },
     {
-      "__exp_id": 2021,
-      "__unk_Q4110824942": "Avatar_Female_Size02_Belle_En",
-      "__unk_Q3319702070": "Avatar_Female_Size02_Belle",
-      "__unk_Q2130649686": "Avatar_Female_Size02_Belle_FullName",
-      "__unk_Q2276755531": "belle",
-      "__unk_Q1662986891": "BK_Belle",
-      "__unk_Q697753239": 1,
-      "__unk_Q2144106769": 2,
-      "__unk_Q1424042706": 0,
-      "__unk_Q2143245331": [
+      "ID": 2021,
+      "CodeName": "Avatar_Female_Size02_Belle_En",
+      "Name": "Avatar_Female_Size02_Belle",
+      "FullName": "Avatar_Female_Size02_Belle_FullName",
+      "AudioEventReplaceParam": "belle",
+      "AudioBank": "BK_Belle",
+      "__unk_Q291526241": 1,
+      "Gender": 2,
+      "Camp": 0,
+      "HitTypes": [
         0
       ],
-      "__unk_Q1694244356": [
+      "ElementTypes": [
         1
       ],
-      "__unk_Q1588417428": [
+      "__unk_Q70859988": [
         "1:0:2",
         "2:1:2"
       ]

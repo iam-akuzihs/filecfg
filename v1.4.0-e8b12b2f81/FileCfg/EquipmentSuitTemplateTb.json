@@ -1,8 +1,8 @@
 {
-  "__unk_Q4214585430": [
+  "__exp_FileCfg": [
     {
-      "__exp_id": 31000,
-      "__unk_Q3319702070": "EquipmentSuit_31000_name",
+      "ID": 31000,
+      "Name": "EquipmentSuit_31000_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_31000_2_des",
@@ -18,8 +18,8 @@
       "CMGMFHCILPG": 12,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 20103,
-          "__exp_value": 800
+          "__exp_Property": 20103,
+          "Value": 800
         }
       ],
       "AGCKLJANLNB": [
@@ -45,8 +45,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_31000_Tag"
     },
     {
-      "__exp_id": 31100,
-      "__unk_Q3319702070": "EquipmentSuit_31100_name",
+      "ID": 31100,
+      "Name": "EquipmentSuit_31100_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_31100_2_des",
@@ -62,8 +62,8 @@
       "CMGMFHCILPG": 11,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 23103,
-          "__exp_value": 800
+          "__exp_Property": 23103,
+          "Value": 800
         }
       ],
       "AGCKLJANLNB": [
@@ -89,8 +89,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_31100_Tag"
     },
     {
-      "__exp_id": 31200,
-      "__unk_Q3319702070": "EquipmentSuit_31200_name",
+      "ID": 31200,
+      "Name": "EquipmentSuit_31200_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_31200_2_des",
@@ -106,8 +106,8 @@
       "CMGMFHCILPG": 10,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 12202,
-          "__exp_value": 600
+          "__exp_Property": 12202,
+          "Value": 600
         }
       ],
       "AGCKLJANLNB": [
@@ -133,8 +133,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_31200_Tag"
     },
     {
-      "__exp_id": 31300,
-      "__unk_Q3319702070": "EquipmentSuit_31300_name",
+      "ID": 31300,
+      "Name": "EquipmentSuit_31300_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_31300_2_des",
@@ -150,8 +150,8 @@
       "CMGMFHCILPG": 9,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 31203,
-          "__exp_value": 30
+          "__exp_Property": 31203,
+          "Value": 30
         }
       ],
       "AGCKLJANLNB": [
@@ -177,8 +177,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_31300_Tag"
     },
     {
-      "__exp_id": 31400,
-      "__unk_Q3319702070": "EquipmentSuit_31400_name",
+      "ID": 31400,
+      "Name": "EquipmentSuit_31400_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_31400_2_des",
@@ -194,8 +194,8 @@
       "CMGMFHCILPG": 8,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 12102,
-          "__exp_value": 1000
+          "__exp_Property": 12102,
+          "Value": 1000
         }
       ],
       "AGCKLJANLNB": [
@@ -221,8 +221,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_31400_Tag"
     },
     {
-      "__exp_id": 31500,
-      "__unk_Q3319702070": "EquipmentSuit_31500_name",
+      "ID": 31500,
+      "Name": "EquipmentSuit_31500_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_31500_2_des",
@@ -238,8 +238,8 @@
       "CMGMFHCILPG": 7,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 13102,
-          "__exp_value": 1600
+          "__exp_Property": 13102,
+          "Value": 1600
         }
       ],
       "AGCKLJANLNB": [
@@ -265,8 +265,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_31500_Tag"
     },
     {
-      "__exp_id": 31600,
-      "__unk_Q3319702070": "EquipmentSuit_31600_name",
+      "ID": 31600,
+      "Name": "EquipmentSuit_31600_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_31600_2_des",
@@ -282,8 +282,8 @@
       "CMGMFHCILPG": 6,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 30502,
-          "__exp_value": 2000
+          "__exp_Property": 30502,
+          "Value": 2000
         }
       ],
       "AGCKLJANLNB": [
@@ -309,8 +309,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_31600_Tag"
     },
     {
-      "__exp_id": 31800,
-      "__unk_Q3319702070": "EquipmentSuit_31800_name",
+      "ID": 31800,
+      "Name": "EquipmentSuit_31800_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_31800_2_des",
@@ -326,8 +326,8 @@
       "CMGMFHCILPG": 22,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 31203,
-          "__exp_value": 30
+          "__exp_Property": 31203,
+          "Value": 30
         }
       ],
       "AGCKLJANLNB": [
@@ -353,8 +353,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_31800_Tag"
     },
     {
-      "__exp_id": 31900,
-      "__unk_Q3319702070": "EquipmentSuit_31900_name",
+      "ID": 31900,
+      "Name": "EquipmentSuit_31900_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [
         50431901
@@ -394,8 +394,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_31900_Tag"
     },
     {
-      "__exp_id": 32200,
-      "__unk_Q3319702070": "EquipmentSuit_32200_name",
+      "ID": 32200,
+      "Name": "EquipmentSuit_32200_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_32200_2_des",
@@ -411,8 +411,8 @@
       "CMGMFHCILPG": 5,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 31603,
-          "__exp_value": 1000
+          "__exp_Property": 31603,
+          "Value": 1000
         }
       ],
       "AGCKLJANLNB": [
@@ -438,8 +438,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_32200_Tag"
     },
     {
-      "__exp_id": 32300,
-      "__unk_Q3319702070": "EquipmentSuit_32300_name",
+      "ID": 32300,
+      "Name": "EquipmentSuit_32300_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_32300_2_des",
@@ -455,8 +455,8 @@
       "CMGMFHCILPG": 4,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 31903,
-          "__exp_value": 1000
+          "__exp_Property": 31903,
+          "Value": 1000
         }
       ],
       "AGCKLJANLNB": [
@@ -482,8 +482,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_32300_Tag"
     },
     {
-      "__exp_id": 32400,
-      "__unk_Q3319702070": "EquipmentSuit_32400_name",
+      "ID": 32400,
+      "Name": "EquipmentSuit_32400_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_32400_2_des",
@@ -499,8 +499,8 @@
       "CMGMFHCILPG": 3,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 31803,
-          "__exp_value": 1000
+          "__exp_Property": 31803,
+          "Value": 1000
         }
       ],
       "AGCKLJANLNB": [
@@ -526,8 +526,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_32400_Tag"
     },
     {
-      "__exp_id": 32500,
-      "__unk_Q3319702070": "EquipmentSuit_32500_name",
+      "ID": 32500,
+      "Name": "EquipmentSuit_32500_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_32500_2_des",
@@ -543,8 +543,8 @@
       "CMGMFHCILPG": 2,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 31703,
-          "__exp_value": 1000
+          "__exp_Property": 31703,
+          "Value": 1000
         }
       ],
       "AGCKLJANLNB": [
@@ -570,8 +570,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_32500_Tag"
     },
     {
-      "__exp_id": 32600,
-      "__unk_Q3319702070": "EquipmentSuit_32600_name",
+      "ID": 32600,
+      "Name": "EquipmentSuit_32600_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_32600_2_des",
@@ -587,8 +587,8 @@
       "CMGMFHCILPG": 1,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 31503,
-          "__exp_value": 1000
+          "__exp_Property": 31503,
+          "Value": 1000
         }
       ],
       "AGCKLJANLNB": [
@@ -614,8 +614,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_32600_Tag"
     },
     {
-      "__exp_id": 32700,
-      "__unk_Q3319702070": "EquipmentSuit_32700_name",
+      "ID": 32700,
+      "Name": "EquipmentSuit_32700_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_32700_2_des",
@@ -631,8 +631,8 @@
       "CMGMFHCILPG": 24,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 21103,
-          "__exp_value": 1600
+          "__exp_Property": 21103,
+          "Value": 1600
         }
       ],
       "AGCKLJANLNB": [
@@ -658,8 +658,8 @@
       "LEJDJHBCBNL": "EquipmentSuit_32700_Tag"
     },
     {
-      "__exp_id": 32800,
-      "__unk_Q3319702070": "EquipmentSuit_32800_name",
+      "ID": 32800,
+      "Name": "EquipmentSuit_32800_name",
       "FHGHIGHIEBJ": 2,
       "DBHPFBJHEBK": [],
       "JPGMKPEHJHN": "EquipmentSuit_32800_2_des",
@@ -675,8 +675,8 @@
       "CMGMFHCILPG": 23,
       "GNPEFEDJNEF": [
         {
-          "__exp_propType": 12102,
-          "__exp_value": 1000
+          "__exp_Property": 12102,
+          "Value": 1000
         }
       ],
       "AGCKLJANLNB": [

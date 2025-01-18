@@ -1,2890 +1,2890 @@
 {
-  "__unk_Q4214585430": [
+  "__exp_FileCfg": [
     {
-      "__exp_id": 1011001,
-      "__unk_Q768500238": 1011,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Anbi_Talent_01_Title",
-      "__unk_Q3707810141": "Anbi_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Anbi_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Anbi_Talent_01_Desc_01",
-      "__unk_Q111896588": "Anbi_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1011001,
+      "AvatarID": 1011,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Anbi_Talent_01_Title",
+      "TalentDescRealign": "Anbi_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Anbi_Talent_01_Desc_02",
+      "TalentDesc": "Anbi_Talent_01_Desc_01",
+      "TalentNameRealign": "Anbi_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11011101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5011,
-          "__exp_amount": 1
+          "ItemID": 5011,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1011002,
-      "__unk_Q768500238": 1011,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Anbi_Talent_02_Title",
-      "__unk_Q3707810141": "Anbi_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Anbi_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Anbi_Talent_02_Desc_01",
-      "__unk_Q111896588": "Anbi_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1011002,
+      "AvatarID": 1011,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Anbi_Talent_02_Title",
+      "TalentDescRealign": "Anbi_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Anbi_Talent_02_Desc_02",
+      "TalentDesc": "Anbi_Talent_02_Desc_01",
+      "TalentNameRealign": "Anbi_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11011102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5011,
-          "__exp_amount": 1
+          "ItemID": 5011,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1011003,
-      "__unk_Q768500238": 1011,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Anbi_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Anbi_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Anbi_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1011003,
+      "AvatarID": 1011,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Anbi_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Anbi_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Anbi_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5011,
-          "__exp_amount": 1
+          "ItemID": 5011,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1011004,
-      "__unk_Q768500238": 1011,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Anbi_Talent_04_Title",
-      "__unk_Q3707810141": "Anbi_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Anbi_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Anbi_Talent_04_Desc_01",
-      "__unk_Q111896588": "Anbi_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1011004,
+      "AvatarID": 1011,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Anbi_Talent_04_Title",
+      "TalentDescRealign": "Anbi_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Anbi_Talent_04_Desc_02",
+      "TalentDesc": "Anbi_Talent_04_Desc_01",
+      "TalentNameRealign": "Anbi_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11011103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5011,
-          "__exp_amount": 1
+          "ItemID": 5011,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1011005,
-      "__unk_Q768500238": 1011,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Anbi_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Anbi_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Anbi_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1011005,
+      "AvatarID": 1011,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Anbi_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Anbi_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Anbi_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5011,
-          "__exp_amount": 1
+          "ItemID": 5011,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1011006,
-      "__unk_Q768500238": 1011,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Anbi_Talent_06_Title",
-      "__unk_Q3707810141": "Anbi_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Anbi_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Anbi_Talent_06_Desc_01",
-      "__unk_Q111896588": "Anbi_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1011006,
+      "AvatarID": 1011,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Anbi_Talent_06_Title",
+      "TalentDescRealign": "Anbi_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Anbi_Talent_06_Desc_02",
+      "TalentDesc": "Anbi_Talent_06_Desc_01",
+      "TalentNameRealign": "Anbi_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11011104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5011,
-          "__exp_amount": 1
+          "ItemID": 5011,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1021001,
-      "__unk_Q768500238": 1021,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Tsubaki_Talent_01_Title",
-      "__unk_Q3707810141": "Tsubaki_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Tsubaki_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Tsubaki_Talent_01_Desc_01",
-      "__unk_Q111896588": "Tsubaki_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1021001,
+      "AvatarID": 1021,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Tsubaki_Talent_01_Title",
+      "TalentDescRealign": "Tsubaki_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Tsubaki_Talent_01_Desc_02",
+      "TalentDesc": "Tsubaki_Talent_01_Desc_01",
+      "TalentNameRealign": "Tsubaki_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11021101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5021,
-          "__exp_amount": 1
+          "ItemID": 5021,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1021002,
-      "__unk_Q768500238": 1021,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Tsubaki_Talent_02_Title",
-      "__unk_Q3707810141": "Tsubaki_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Tsubaki_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Tsubaki_Talent_02_Desc_01",
-      "__unk_Q111896588": "Tsubaki_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1021002,
+      "AvatarID": 1021,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Tsubaki_Talent_02_Title",
+      "TalentDescRealign": "Tsubaki_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Tsubaki_Talent_02_Desc_02",
+      "TalentDesc": "Tsubaki_Talent_02_Desc_01",
+      "TalentNameRealign": "Tsubaki_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11021102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5021,
-          "__exp_amount": 1
+          "ItemID": 5021,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1021003,
-      "__unk_Q768500238": 1021,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Tsubaki_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Tsubaki_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Tsubaki_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1021003,
+      "AvatarID": 1021,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Tsubaki_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Tsubaki_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Tsubaki_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5021,
-          "__exp_amount": 1
+          "ItemID": 5021,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1021004,
-      "__unk_Q768500238": 1021,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Tsubaki_Talent_04_Title",
-      "__unk_Q3707810141": "Tsubaki_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Tsubaki_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Tsubaki_Talent_04_Desc_01",
-      "__unk_Q111896588": "Tsubaki_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1021004,
+      "AvatarID": 1021,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Tsubaki_Talent_04_Title",
+      "TalentDescRealign": "Tsubaki_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Tsubaki_Talent_04_Desc_02",
+      "TalentDesc": "Tsubaki_Talent_04_Desc_01",
+      "TalentNameRealign": "Tsubaki_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11021103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5021,
-          "__exp_amount": 1
+          "ItemID": 5021,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1021005,
-      "__unk_Q768500238": 1021,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Tsubaki_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Tsubaki_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Tsubaki_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1021005,
+      "AvatarID": 1021,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Tsubaki_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Tsubaki_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Tsubaki_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5021,
-          "__exp_amount": 1
+          "ItemID": 5021,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1021006,
-      "__unk_Q768500238": 1021,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Tsubaki_Talent_06_Title",
-      "__unk_Q3707810141": "Tsubaki_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Tsubaki_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Tsubaki_Talent_06_Desc_01",
-      "__unk_Q111896588": "Tsubaki_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1021006,
+      "AvatarID": 1021,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Tsubaki_Talent_06_Title",
+      "TalentDescRealign": "Tsubaki_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Tsubaki_Talent_06_Desc_02",
+      "TalentDesc": "Tsubaki_Talent_06_Desc_01",
+      "TalentNameRealign": "Tsubaki_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11021104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5021,
-          "__exp_amount": 1
+          "ItemID": 5021,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1031001,
-      "__unk_Q768500238": 1031,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Nostradamus_Talent_01_Title",
-      "__unk_Q3707810141": "Nostradamus_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Nostradamus_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Nostradamus_Talent_01_Desc_01",
-      "__unk_Q111896588": "Nostradamus_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1031001,
+      "AvatarID": 1031,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Nostradamus_Talent_01_Title",
+      "TalentDescRealign": "Nostradamus_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Nostradamus_Talent_01_Desc_02",
+      "TalentDesc": "Nostradamus_Talent_01_Desc_01",
+      "TalentNameRealign": "Nostradamus_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11031101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5031,
-          "__exp_amount": 1
+          "ItemID": 5031,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1031002,
-      "__unk_Q768500238": 1031,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Nostradamus_Talent_02_Title",
-      "__unk_Q3707810141": "Nostradamus_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Nostradamus_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Nostradamus_Talent_02_Desc_01",
-      "__unk_Q111896588": "Nostradamus_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1031002,
+      "AvatarID": 1031,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Nostradamus_Talent_02_Title",
+      "TalentDescRealign": "Nostradamus_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Nostradamus_Talent_02_Desc_02",
+      "TalentDesc": "Nostradamus_Talent_02_Desc_01",
+      "TalentNameRealign": "Nostradamus_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11031102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5031,
-          "__exp_amount": 1
+          "ItemID": 5031,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1031003,
-      "__unk_Q768500238": 1031,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Nostradamus_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Nostradamus_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Nostradamus_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1031003,
+      "AvatarID": 1031,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Nostradamus_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Nostradamus_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Nostradamus_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5031,
-          "__exp_amount": 1
+          "ItemID": 5031,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1031004,
-      "__unk_Q768500238": 1031,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Nostradamus_Talent_04_Title",
-      "__unk_Q3707810141": "Nostradamus_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Nostradamus_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Nostradamus_Talent_04_Desc_01",
-      "__unk_Q111896588": "Nostradamus_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1031004,
+      "AvatarID": 1031,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Nostradamus_Talent_04_Title",
+      "TalentDescRealign": "Nostradamus_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Nostradamus_Talent_04_Desc_02",
+      "TalentDesc": "Nostradamus_Talent_04_Desc_01",
+      "TalentNameRealign": "Nostradamus_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11031103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5031,
-          "__exp_amount": 1
+          "ItemID": 5031,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1031005,
-      "__unk_Q768500238": 1031,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Nostradamus_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Nostradamus_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Nostradamus_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1031005,
+      "AvatarID": 1031,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Nostradamus_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Nostradamus_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Nostradamus_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5031,
-          "__exp_amount": 1
+          "ItemID": 5031,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1031006,
-      "__unk_Q768500238": 1031,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Nostradamus_Talent_06_Title",
-      "__unk_Q3707810141": "Nostradamus_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Nostradamus_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Nostradamus_Talent_06_Desc_01",
-      "__unk_Q111896588": "Nostradamus_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1031006,
+      "AvatarID": 1031,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Nostradamus_Talent_06_Title",
+      "TalentDescRealign": "Nostradamus_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Nostradamus_Talent_06_Desc_02",
+      "TalentDesc": "Nostradamus_Talent_06_Desc_01",
+      "TalentNameRealign": "Nostradamus_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11031104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5031,
-          "__exp_amount": 1
+          "ItemID": 5031,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1041001,
-      "__unk_Q768500238": 1041,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Longinus_Talent_01_Title",
-      "__unk_Q3707810141": "Longinus_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Longinus_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Longinus_Talent_01_Desc_01",
-      "__unk_Q111896588": "Longinus_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1041001,
+      "AvatarID": 1041,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Longinus_Talent_01_Title",
+      "TalentDescRealign": "Longinus_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Longinus_Talent_01_Desc_02",
+      "TalentDesc": "Longinus_Talent_01_Desc_01",
+      "TalentNameRealign": "Longinus_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11041101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5041,
-          "__exp_amount": 1
+          "ItemID": 5041,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1041002,
-      "__unk_Q768500238": 1041,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Longinus_Talent_02_Title",
-      "__unk_Q3707810141": "Longinus_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Longinus_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Longinus_Talent_02_Desc_01",
-      "__unk_Q111896588": "Longinus_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1041002,
+      "AvatarID": 1041,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Longinus_Talent_02_Title",
+      "TalentDescRealign": "Longinus_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Longinus_Talent_02_Desc_02",
+      "TalentDesc": "Longinus_Talent_02_Desc_01",
+      "TalentNameRealign": "Longinus_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11041102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5041,
-          "__exp_amount": 1
+          "ItemID": 5041,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1041003,
-      "__unk_Q768500238": 1041,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Longinus_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Longinus_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Longinus_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1041003,
+      "AvatarID": 1041,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Longinus_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Longinus_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Longinus_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5041,
-          "__exp_amount": 1
+          "ItemID": 5041,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1041004,
-      "__unk_Q768500238": 1041,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Longinus_Talent_04_Title",
-      "__unk_Q3707810141": "Longinus_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Longinus_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Longinus_Talent_04_Desc_01",
-      "__unk_Q111896588": "Longinus_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1041004,
+      "AvatarID": 1041,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Longinus_Talent_04_Title",
+      "TalentDescRealign": "Longinus_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Longinus_Talent_04_Desc_02",
+      "TalentDesc": "Longinus_Talent_04_Desc_01",
+      "TalentNameRealign": "Longinus_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11041103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5041,
-          "__exp_amount": 1
+          "ItemID": 5041,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1041005,
-      "__unk_Q768500238": 1041,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Longinus_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Longinus_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Longinus_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1041005,
+      "AvatarID": 1041,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Longinus_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Longinus_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Longinus_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5041,
-          "__exp_amount": 1
+          "ItemID": 5041,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1041006,
-      "__unk_Q768500238": 1041,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Longinus_Talent_06_Title",
-      "__unk_Q3707810141": "Longinus_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Longinus_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Longinus_Talent_06_Desc_01",
-      "__unk_Q111896588": "Longinus_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1041006,
+      "AvatarID": 1041,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Longinus_Talent_06_Title",
+      "TalentDescRealign": "Longinus_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Longinus_Talent_06_Desc_02",
+      "TalentDesc": "Longinus_Talent_06_Desc_01",
+      "TalentNameRealign": "Longinus_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11041104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5041,
-          "__exp_amount": 1
+          "ItemID": 5041,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1061001,
-      "__unk_Q768500238": 1061,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Corin_Talent_01_Title",
-      "__unk_Q3707810141": "Corin_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Corin_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Corin_Talent_01_Desc_01",
-      "__unk_Q111896588": "Corin_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1061001,
+      "AvatarID": 1061,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Corin_Talent_01_Title",
+      "TalentDescRealign": "Corin_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Corin_Talent_01_Desc_02",
+      "TalentDesc": "Corin_Talent_01_Desc_01",
+      "TalentNameRealign": "Corin_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11061101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5061,
-          "__exp_amount": 1
+          "ItemID": 5061,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1061002,
-      "__unk_Q768500238": 1061,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Corin_Talent_02_Title",
-      "__unk_Q3707810141": "Corin_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Corin_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Corin_Talent_02_Desc_01",
-      "__unk_Q111896588": "Corin_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1061002,
+      "AvatarID": 1061,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Corin_Talent_02_Title",
+      "TalentDescRealign": "Corin_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Corin_Talent_02_Desc_02",
+      "TalentDesc": "Corin_Talent_02_Desc_01",
+      "TalentNameRealign": "Corin_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11061102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5061,
-          "__exp_amount": 1
+          "ItemID": 5061,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1061003,
-      "__unk_Q768500238": 1061,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Corin_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Corin_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Corin_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1061003,
+      "AvatarID": 1061,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Corin_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Corin_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Corin_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5061,
-          "__exp_amount": 1
+          "ItemID": 5061,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1061004,
-      "__unk_Q768500238": 1061,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Corin_Talent_04_Title",
-      "__unk_Q3707810141": "Corin_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Corin_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Corin_Talent_04_Desc_01",
-      "__unk_Q111896588": "Corin_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1061004,
+      "AvatarID": 1061,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Corin_Talent_04_Title",
+      "TalentDescRealign": "Corin_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Corin_Talent_04_Desc_02",
+      "TalentDesc": "Corin_Talent_04_Desc_01",
+      "TalentNameRealign": "Corin_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11061103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5061,
-          "__exp_amount": 1
+          "ItemID": 5061,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1061005,
-      "__unk_Q768500238": 1061,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Corin_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Corin_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Corin_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1061005,
+      "AvatarID": 1061,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Corin_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Corin_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Corin_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5061,
-          "__exp_amount": 1
+          "ItemID": 5061,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1061006,
-      "__unk_Q768500238": 1061,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Corin_Talent_06_Title",
-      "__unk_Q3707810141": "Corin_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Corin_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Corin_Talent_06_Desc_01",
-      "__unk_Q111896588": "Corin_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1061006,
+      "AvatarID": 1061,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Corin_Talent_06_Title",
+      "TalentDescRealign": "Corin_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Corin_Talent_06_Desc_02",
+      "TalentDesc": "Corin_Talent_06_Desc_01",
+      "TalentNameRealign": "Corin_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11061104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5061,
-          "__exp_amount": 1
+          "ItemID": 5061,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1071001,
-      "__unk_Q768500238": 1071,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Caesar_Talent_01_Title",
-      "__unk_Q3707810141": "Caesar_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Caesar_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Caesar_Talent_01_Desc_01",
-      "__unk_Q111896588": "Caesar_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1071001,
+      "AvatarID": 1071,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Caesar_Talent_01_Title",
+      "TalentDescRealign": "Caesar_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Caesar_Talent_01_Desc_02",
+      "TalentDesc": "Caesar_Talent_01_Desc_01",
+      "TalentNameRealign": "Caesar_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11071101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5071,
-          "__exp_amount": 1
+          "ItemID": 5071,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1071002,
-      "__unk_Q768500238": 1071,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Caesar_Talent_02_Title",
-      "__unk_Q3707810141": "Caesar_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Caesar_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Caesar_Talent_02_Desc_01",
-      "__unk_Q111896588": "Caesar_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1071002,
+      "AvatarID": 1071,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Caesar_Talent_02_Title",
+      "TalentDescRealign": "Caesar_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Caesar_Talent_02_Desc_02",
+      "TalentDesc": "Caesar_Talent_02_Desc_01",
+      "TalentNameRealign": "Caesar_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11071102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5071,
-          "__exp_amount": 1
+          "ItemID": 5071,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1071003,
-      "__unk_Q768500238": 1071,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Caesar_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Caesar_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Caesar_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1071003,
+      "AvatarID": 1071,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Caesar_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Caesar_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Caesar_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5071,
-          "__exp_amount": 1
+          "ItemID": 5071,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1071004,
-      "__unk_Q768500238": 1071,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Caesar_Talent_04_Title",
-      "__unk_Q3707810141": "Caesar_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Caesar_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Caesar_Talent_04_Desc_01",
-      "__unk_Q111896588": "Caesar_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1071004,
+      "AvatarID": 1071,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Caesar_Talent_04_Title",
+      "TalentDescRealign": "Caesar_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Caesar_Talent_04_Desc_02",
+      "TalentDesc": "Caesar_Talent_04_Desc_01",
+      "TalentNameRealign": "Caesar_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11071103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5071,
-          "__exp_amount": 1
+          "ItemID": 5071,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1071005,
-      "__unk_Q768500238": 1071,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Caesar_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Caesar_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Caesar_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1071005,
+      "AvatarID": 1071,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Caesar_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Caesar_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Caesar_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5071,
-          "__exp_amount": 1
+          "ItemID": 5071,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1071006,
-      "__unk_Q768500238": 1071,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Caesar_Talent_06_Title",
-      "__unk_Q3707810141": "Caesar_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Caesar_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Caesar_Talent_06_Desc_01",
-      "__unk_Q111896588": "Caesar_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1071006,
+      "AvatarID": 1071,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Caesar_Talent_06_Title",
+      "TalentDescRealign": "Caesar_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Caesar_Talent_06_Desc_02",
+      "TalentDesc": "Caesar_Talent_06_Desc_01",
+      "TalentNameRealign": "Caesar_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11071104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5071,
-          "__exp_amount": 1
+          "ItemID": 5071,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1081001,
-      "__unk_Q768500238": 1081,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Billy_Talent_01_Title",
-      "__unk_Q3707810141": "Billy_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Billy_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Billy_Talent_01_Desc_01",
-      "__unk_Q111896588": "Billy_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1081001,
+      "AvatarID": 1081,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Billy_Talent_01_Title",
+      "TalentDescRealign": "Billy_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Billy_Talent_01_Desc_02",
+      "TalentDesc": "Billy_Talent_01_Desc_01",
+      "TalentNameRealign": "Billy_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11081101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5081,
-          "__exp_amount": 1
+          "ItemID": 5081,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1081002,
-      "__unk_Q768500238": 1081,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Billy_Talent_02_Title",
-      "__unk_Q3707810141": "Billy_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Billy_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Billy_Talent_02_Desc_01",
-      "__unk_Q111896588": "Billy_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1081002,
+      "AvatarID": 1081,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Billy_Talent_02_Title",
+      "TalentDescRealign": "Billy_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Billy_Talent_02_Desc_02",
+      "TalentDesc": "Billy_Talent_02_Desc_01",
+      "TalentNameRealign": "Billy_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11081102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5081,
-          "__exp_amount": 1
+          "ItemID": 5081,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1081003,
-      "__unk_Q768500238": 1081,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Billy_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Billy_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Billy_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1081003,
+      "AvatarID": 1081,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Billy_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Billy_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Billy_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5081,
-          "__exp_amount": 1
+          "ItemID": 5081,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1081004,
-      "__unk_Q768500238": 1081,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Billy_Talent_04_Title",
-      "__unk_Q3707810141": "Billy_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Billy_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Billy_Talent_04_Desc_01",
-      "__unk_Q111896588": "Billy_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1081004,
+      "AvatarID": 1081,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Billy_Talent_04_Title",
+      "TalentDescRealign": "Billy_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Billy_Talent_04_Desc_02",
+      "TalentDesc": "Billy_Talent_04_Desc_01",
+      "TalentNameRealign": "Billy_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11081103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5081,
-          "__exp_amount": 1
+          "ItemID": 5081,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1081005,
-      "__unk_Q768500238": 1081,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Billy_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Billy_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Billy_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1081005,
+      "AvatarID": 1081,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Billy_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Billy_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Billy_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5081,
-          "__exp_amount": 1
+          "ItemID": 5081,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1081006,
-      "__unk_Q768500238": 1081,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Billy_Talent_06_Title",
-      "__unk_Q3707810141": "Billy_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Billy_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Billy_Talent_06_Desc_01",
-      "__unk_Q111896588": "Billy_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1081006,
+      "AvatarID": 1081,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Billy_Talent_06_Title",
+      "TalentDescRealign": "Billy_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Billy_Talent_06_Desc_02",
+      "TalentDesc": "Billy_Talent_06_Desc_01",
+      "TalentNameRealign": "Billy_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11081104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5081,
-          "__exp_amount": 1
+          "ItemID": 5081,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1101001,
-      "__unk_Q768500238": 1101,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "OokumaMari_Talent_01_Title",
-      "__unk_Q3707810141": "OokumaMari_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "OokumaMari_Talent_01_Desc_02",
-      "__unk_Q1133248761": "OokumaMari_Talent_01_Desc_01",
-      "__unk_Q111896588": "OokumaMari_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1101001,
+      "AvatarID": 1101,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "OokumaMari_Talent_01_Title",
+      "TalentDescRealign": "OokumaMari_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "OokumaMari_Talent_01_Desc_02",
+      "TalentDesc": "OokumaMari_Talent_01_Desc_01",
+      "TalentNameRealign": "OokumaMari_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11101101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5101,
-          "__exp_amount": 1
+          "ItemID": 5101,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1101002,
-      "__unk_Q768500238": 1101,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "OokumaMari_Talent_02_Title",
-      "__unk_Q3707810141": "OokumaMari_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "OokumaMari_Talent_02_Desc_02",
-      "__unk_Q1133248761": "OokumaMari_Talent_02_Desc_01",
-      "__unk_Q111896588": "OokumaMari_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1101002,
+      "AvatarID": 1101,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "OokumaMari_Talent_02_Title",
+      "TalentDescRealign": "OokumaMari_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "OokumaMari_Talent_02_Desc_02",
+      "TalentDesc": "OokumaMari_Talent_02_Desc_01",
+      "TalentNameRealign": "OokumaMari_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11101102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5101,
-          "__exp_amount": 1
+          "ItemID": 5101,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1101003,
-      "__unk_Q768500238": 1101,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "OokumaMari_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "OokumaMari_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "OokumaMari_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1101003,
+      "AvatarID": 1101,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "OokumaMari_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "OokumaMari_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "OokumaMari_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5101,
-          "__exp_amount": 1
+          "ItemID": 5101,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1101004,
-      "__unk_Q768500238": 1101,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "OokumaMari_Talent_04_Title",
-      "__unk_Q3707810141": "OokumaMari_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "OokumaMari_Talent_04_Desc_02",
-      "__unk_Q1133248761": "OokumaMari_Talent_04_Desc_01",
-      "__unk_Q111896588": "OokumaMari_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1101004,
+      "AvatarID": 1101,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "OokumaMari_Talent_04_Title",
+      "TalentDescRealign": "OokumaMari_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "OokumaMari_Talent_04_Desc_02",
+      "TalentDesc": "OokumaMari_Talent_04_Desc_01",
+      "TalentNameRealign": "OokumaMari_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11101103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5101,
-          "__exp_amount": 1
+          "ItemID": 5101,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1101005,
-      "__unk_Q768500238": 1101,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "OokumaMari_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "OokumaMari_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "OokumaMari_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1101005,
+      "AvatarID": 1101,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "OokumaMari_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "OokumaMari_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "OokumaMari_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5101,
-          "__exp_amount": 1
+          "ItemID": 5101,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1101006,
-      "__unk_Q768500238": 1101,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "OokumaMari_Talent_06_Title",
-      "__unk_Q3707810141": "OokumaMari_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "OokumaMari_Talent_06_Desc_02",
-      "__unk_Q1133248761": "OokumaMari_Talent_06_Desc_01",
-      "__unk_Q111896588": "OokumaMari_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1101006,
+      "AvatarID": 1101,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "OokumaMari_Talent_06_Title",
+      "TalentDescRealign": "OokumaMari_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "OokumaMari_Talent_06_Desc_02",
+      "TalentDesc": "OokumaMari_Talent_06_Desc_01",
+      "TalentNameRealign": "OokumaMari_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11101104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5101,
-          "__exp_amount": 1
+          "ItemID": 5101,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1111001,
-      "__unk_Q768500238": 1111,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Anton_Talent_01_Title",
-      "__unk_Q3707810141": "Anton_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Anton_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Anton_Talent_01_Desc_01",
-      "__unk_Q111896588": "Anton_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1111001,
+      "AvatarID": 1111,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Anton_Talent_01_Title",
+      "TalentDescRealign": "Anton_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Anton_Talent_01_Desc_02",
+      "TalentDesc": "Anton_Talent_01_Desc_01",
+      "TalentNameRealign": "Anton_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11111101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5111,
-          "__exp_amount": 1
+          "ItemID": 5111,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1111002,
-      "__unk_Q768500238": 1111,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Anton_Talent_02_Title",
-      "__unk_Q3707810141": "Anton_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Anton_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Anton_Talent_02_Desc_01",
-      "__unk_Q111896588": "Anton_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1111002,
+      "AvatarID": 1111,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Anton_Talent_02_Title",
+      "TalentDescRealign": "Anton_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Anton_Talent_02_Desc_02",
+      "TalentDesc": "Anton_Talent_02_Desc_01",
+      "TalentNameRealign": "Anton_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11111102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5111,
-          "__exp_amount": 1
+          "ItemID": 5111,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1111003,
-      "__unk_Q768500238": 1111,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Anton_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Anton_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Anton_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1111003,
+      "AvatarID": 1111,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Anton_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Anton_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Anton_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5111,
-          "__exp_amount": 1
+          "ItemID": 5111,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1111004,
-      "__unk_Q768500238": 1111,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Anton_Talent_04_Title",
-      "__unk_Q3707810141": "Anton_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Anton_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Anton_Talent_04_Desc_01",
-      "__unk_Q111896588": "Anton_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1111004,
+      "AvatarID": 1111,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Anton_Talent_04_Title",
+      "TalentDescRealign": "Anton_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Anton_Talent_04_Desc_02",
+      "TalentDesc": "Anton_Talent_04_Desc_01",
+      "TalentNameRealign": "Anton_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11111103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5111,
-          "__exp_amount": 1
+          "ItemID": 5111,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1111005,
-      "__unk_Q768500238": 1111,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Anton_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Anton_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Anton_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1111005,
+      "AvatarID": 1111,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Anton_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Anton_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Anton_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5111,
-          "__exp_amount": 1
+          "ItemID": 5111,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1111006,
-      "__unk_Q768500238": 1111,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Anton_Talent_06_Title",
-      "__unk_Q3707810141": "Anton_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Anton_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Anton_Talent_06_Desc_01",
-      "__unk_Q111896588": "Anton_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1111006,
+      "AvatarID": 1111,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Anton_Talent_06_Title",
+      "TalentDescRealign": "Anton_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Anton_Talent_06_Desc_02",
+      "TalentDesc": "Anton_Talent_06_Desc_01",
+      "TalentNameRealign": "Anton_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11111104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5111,
-          "__exp_amount": 1
+          "ItemID": 5111,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1121001,
-      "__unk_Q768500238": 1121,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Ben_Talent_01_Title",
-      "__unk_Q3707810141": "Ben_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Ben_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Ben_Talent_01_Desc_01",
-      "__unk_Q111896588": "Ben_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1121001,
+      "AvatarID": 1121,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Ben_Talent_01_Title",
+      "TalentDescRealign": "Ben_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Ben_Talent_01_Desc_02",
+      "TalentDesc": "Ben_Talent_01_Desc_01",
+      "TalentNameRealign": "Ben_Talent_01_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5121,
-          "__exp_amount": 1
+          "ItemID": 5121,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1121002,
-      "__unk_Q768500238": 1121,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Ben_Talent_02_Title",
-      "__unk_Q3707810141": "Ben_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Ben_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Ben_Talent_02_Desc_01",
-      "__unk_Q111896588": "Ben_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1121002,
+      "AvatarID": 1121,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Ben_Talent_02_Title",
+      "TalentDescRealign": "Ben_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Ben_Talent_02_Desc_02",
+      "TalentDesc": "Ben_Talent_02_Desc_01",
+      "TalentNameRealign": "Ben_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11121102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5121,
-          "__exp_amount": 1
+          "ItemID": 5121,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1121003,
-      "__unk_Q768500238": 1121,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Ben_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Ben_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Ben_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1121003,
+      "AvatarID": 1121,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Ben_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Ben_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Ben_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5121,
-          "__exp_amount": 1
+          "ItemID": 5121,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1121004,
-      "__unk_Q768500238": 1121,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Ben_Talent_04_Title",
-      "__unk_Q3707810141": "Ben_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Ben_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Ben_Talent_04_Desc_01",
-      "__unk_Q111896588": "Ben_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1121004,
+      "AvatarID": 1121,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Ben_Talent_04_Title",
+      "TalentDescRealign": "Ben_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Ben_Talent_04_Desc_02",
+      "TalentDesc": "Ben_Talent_04_Desc_01",
+      "TalentNameRealign": "Ben_Talent_04_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5121,
-          "__exp_amount": 1
+          "ItemID": 5121,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1121005,
-      "__unk_Q768500238": 1121,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Ben_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Ben_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Ben_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1121005,
+      "AvatarID": 1121,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Ben_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Ben_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Ben_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5121,
-          "__exp_amount": 1
+          "ItemID": 5121,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1121006,
-      "__unk_Q768500238": 1121,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Ben_Talent_06_Title",
-      "__unk_Q3707810141": "Ben_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Ben_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Ben_Talent_06_Desc_01",
-      "__unk_Q111896588": "Ben_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1121006,
+      "AvatarID": 1121,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Ben_Talent_06_Title",
+      "TalentDescRealign": "Ben_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Ben_Talent_06_Desc_02",
+      "TalentDesc": "Ben_Talent_06_Desc_01",
+      "TalentNameRealign": "Ben_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11121104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5121,
-          "__exp_amount": 1
+          "ItemID": 5121,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1131001,
-      "__unk_Q768500238": 1131,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Aokaku_Talent_01_Title",
-      "__unk_Q3707810141": "Aokaku_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Aokaku_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Aokaku_Talent_01_Desc_01",
-      "__unk_Q111896588": "Aokaku_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1131001,
+      "AvatarID": 1131,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Aokaku_Talent_01_Title",
+      "TalentDescRealign": "Aokaku_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Aokaku_Talent_01_Desc_02",
+      "TalentDesc": "Aokaku_Talent_01_Desc_01",
+      "TalentNameRealign": "Aokaku_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11131101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5131,
-          "__exp_amount": 1
+          "ItemID": 5131,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1131002,
-      "__unk_Q768500238": 1131,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Aokaku_Talent_02_Title",
-      "__unk_Q3707810141": "Aokaku_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Aokaku_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Aokaku_Talent_02_Desc_01",
-      "__unk_Q111896588": "Aokaku_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1131002,
+      "AvatarID": 1131,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Aokaku_Talent_02_Title",
+      "TalentDescRealign": "Aokaku_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Aokaku_Talent_02_Desc_02",
+      "TalentDesc": "Aokaku_Talent_02_Desc_01",
+      "TalentNameRealign": "Aokaku_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11131102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5131,
-          "__exp_amount": 1
+          "ItemID": 5131,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1131003,
-      "__unk_Q768500238": 1131,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Aokaku_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Aokaku_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Aokaku_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1131003,
+      "AvatarID": 1131,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Aokaku_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Aokaku_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Aokaku_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5131,
-          "__exp_amount": 1
+          "ItemID": 5131,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1131004,
-      "__unk_Q768500238": 1131,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Aokaku_Talent_04_Title",
-      "__unk_Q3707810141": "Aokaku_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Aokaku_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Aokaku_Talent_04_Desc_01",
-      "__unk_Q111896588": "Aokaku_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1131004,
+      "AvatarID": 1131,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Aokaku_Talent_04_Title",
+      "TalentDescRealign": "Aokaku_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Aokaku_Talent_04_Desc_02",
+      "TalentDesc": "Aokaku_Talent_04_Desc_01",
+      "TalentNameRealign": "Aokaku_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11131103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5131,
-          "__exp_amount": 1
+          "ItemID": 5131,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1131005,
-      "__unk_Q768500238": 1131,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Aokaku_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Aokaku_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Aokaku_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1131005,
+      "AvatarID": 1131,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Aokaku_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Aokaku_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Aokaku_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5131,
-          "__exp_amount": 1
+          "ItemID": 5131,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1131006,
-      "__unk_Q768500238": 1131,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Aokaku_Talent_06_Title",
-      "__unk_Q3707810141": "Aokaku_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Aokaku_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Aokaku_Talent_06_Desc_01",
-      "__unk_Q111896588": "Aokaku_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1131006,
+      "AvatarID": 1131,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Aokaku_Talent_06_Title",
+      "TalentDescRealign": "Aokaku_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Aokaku_Talent_06_Desc_02",
+      "TalentDesc": "Aokaku_Talent_06_Desc_01",
+      "TalentNameRealign": "Aokaku_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11131104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5131,
-          "__exp_amount": 1
+          "ItemID": 5131,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1141001,
-      "__unk_Q768500238": 1141,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lycaon_Talent_01_Title",
-      "__unk_Q3707810141": "Lycaon_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Lycaon_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Lycaon_Talent_01_Desc_01",
-      "__unk_Q111896588": "Lycaon_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1141001,
+      "AvatarID": 1141,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lycaon_Talent_01_Title",
+      "TalentDescRealign": "Lycaon_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Lycaon_Talent_01_Desc_02",
+      "TalentDesc": "Lycaon_Talent_01_Desc_01",
+      "TalentNameRealign": "Lycaon_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11141101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5141,
-          "__exp_amount": 1
+          "ItemID": 5141,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1141002,
-      "__unk_Q768500238": 1141,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lycaon_Talent_02_Title",
-      "__unk_Q3707810141": "Lycaon_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Lycaon_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Lycaon_Talent_02_Desc_01",
-      "__unk_Q111896588": "Lycaon_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1141002,
+      "AvatarID": 1141,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lycaon_Talent_02_Title",
+      "TalentDescRealign": "Lycaon_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Lycaon_Talent_02_Desc_02",
+      "TalentDesc": "Lycaon_Talent_02_Desc_01",
+      "TalentNameRealign": "Lycaon_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11141102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5141,
-          "__exp_amount": 1
+          "ItemID": 5141,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1141003,
-      "__unk_Q768500238": 1141,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Lycaon_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Lycaon_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Lycaon_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1141003,
+      "AvatarID": 1141,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Lycaon_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lycaon_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lycaon_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5141,
-          "__exp_amount": 1
+          "ItemID": 5141,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1141004,
-      "__unk_Q768500238": 1141,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lycaon_Talent_04_Title",
-      "__unk_Q3707810141": "Lycaon_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Lycaon_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Lycaon_Talent_04_Desc_01",
-      "__unk_Q111896588": "Lycaon_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1141004,
+      "AvatarID": 1141,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lycaon_Talent_04_Title",
+      "TalentDescRealign": "Lycaon_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Lycaon_Talent_04_Desc_02",
+      "TalentDesc": "Lycaon_Talent_04_Desc_01",
+      "TalentNameRealign": "Lycaon_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11141103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5141,
-          "__exp_amount": 1
+          "ItemID": 5141,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1141005,
-      "__unk_Q768500238": 1141,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Lycaon_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Lycaon_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Lycaon_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1141005,
+      "AvatarID": 1141,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Lycaon_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lycaon_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lycaon_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5141,
-          "__exp_amount": 1
+          "ItemID": 5141,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1141006,
-      "__unk_Q768500238": 1141,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lycaon_Talent_06_Title",
-      "__unk_Q3707810141": "Lycaon_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Lycaon_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Lycaon_Talent_06_Desc_01",
-      "__unk_Q111896588": "Lycaon_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1141006,
+      "AvatarID": 1141,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lycaon_Talent_06_Title",
+      "TalentDescRealign": "Lycaon_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Lycaon_Talent_06_Desc_02",
+      "TalentDesc": "Lycaon_Talent_06_Desc_01",
+      "TalentNameRealign": "Lycaon_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11141104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5141,
-          "__exp_amount": 1
+          "ItemID": 5141,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1151001,
-      "__unk_Q768500238": 1151,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lucy_Talent_01_Title",
-      "__unk_Q3707810141": "Lucy_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Lucy_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Lucy_Talent_01_Desc_01",
-      "__unk_Q111896588": "Lucy_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1151001,
+      "AvatarID": 1151,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lucy_Talent_01_Title",
+      "TalentDescRealign": "Lucy_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Lucy_Talent_01_Desc_02",
+      "TalentDesc": "Lucy_Talent_01_Desc_01",
+      "TalentNameRealign": "Lucy_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11151101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5151,
-          "__exp_amount": 1
+          "ItemID": 5151,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1151002,
-      "__unk_Q768500238": 1151,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lucy_Talent_02_Title",
-      "__unk_Q3707810141": "Lucy_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Lucy_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Lucy_Talent_02_Desc_01",
-      "__unk_Q111896588": "Lucy_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1151002,
+      "AvatarID": 1151,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lucy_Talent_02_Title",
+      "TalentDescRealign": "Lucy_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Lucy_Talent_02_Desc_02",
+      "TalentDesc": "Lucy_Talent_02_Desc_01",
+      "TalentNameRealign": "Lucy_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11151102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5151,
-          "__exp_amount": 1
+          "ItemID": 5151,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1151003,
-      "__unk_Q768500238": 1151,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Lucy_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Lucy_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Lucy_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1151003,
+      "AvatarID": 1151,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Lucy_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lucy_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lucy_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5151,
-          "__exp_amount": 1
+          "ItemID": 5151,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1151004,
-      "__unk_Q768500238": 1151,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lucy_Talent_04_Title",
-      "__unk_Q3707810141": "Lucy_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Lucy_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Lucy_Talent_04_Desc_01",
-      "__unk_Q111896588": "Lucy_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1151004,
+      "AvatarID": 1151,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lucy_Talent_04_Title",
+      "TalentDescRealign": "Lucy_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Lucy_Talent_04_Desc_02",
+      "TalentDesc": "Lucy_Talent_04_Desc_01",
+      "TalentNameRealign": "Lucy_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11151103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5151,
-          "__exp_amount": 1
+          "ItemID": 5151,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1151005,
-      "__unk_Q768500238": 1151,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Lucy_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Lucy_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Lucy_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1151005,
+      "AvatarID": 1151,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Lucy_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lucy_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lucy_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5151,
-          "__exp_amount": 1
+          "ItemID": 5151,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1151006,
-      "__unk_Q768500238": 1151,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lucy_Talent_06_Title",
-      "__unk_Q3707810141": "Lucy_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Lucy_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Lucy_Talent_06_Desc_01",
-      "__unk_Q111896588": "Lucy_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1151006,
+      "AvatarID": 1151,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lucy_Talent_06_Title",
+      "TalentDescRealign": "Lucy_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Lucy_Talent_06_Desc_02",
+      "TalentDesc": "Lucy_Talent_06_Desc_01",
+      "TalentNameRealign": "Lucy_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11151104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5151,
-          "__exp_amount": 1
+          "ItemID": 5151,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1161001,
-      "__unk_Q768500238": 1161,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lighter_Talent_01_Title",
-      "__unk_Q3707810141": "Lighter_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Lighter_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Lighter_Talent_01_Desc_01",
-      "__unk_Q111896588": "Lighter_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1161001,
+      "AvatarID": 1161,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lighter_Talent_01_Title",
+      "TalentDescRealign": "Lighter_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Lighter_Talent_01_Desc_02",
+      "TalentDesc": "Lighter_Talent_01_Desc_01",
+      "TalentNameRealign": "Lighter_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11161101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5161,
-          "__exp_amount": 1
+          "ItemID": 5161,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1161002,
-      "__unk_Q768500238": 1161,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lighter_Talent_02_Title",
-      "__unk_Q3707810141": "Lighter_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Lighter_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Lighter_Talent_02_Desc_01",
-      "__unk_Q111896588": "Lighter_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1161002,
+      "AvatarID": 1161,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lighter_Talent_02_Title",
+      "TalentDescRealign": "Lighter_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Lighter_Talent_02_Desc_02",
+      "TalentDesc": "Lighter_Talent_02_Desc_01",
+      "TalentNameRealign": "Lighter_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11161102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5161,
-          "__exp_amount": 1
+          "ItemID": 5161,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1161003,
-      "__unk_Q768500238": 1161,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Lighter_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Lighter_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Lighter_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1161003,
+      "AvatarID": 1161,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Lighter_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lighter_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lighter_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5161,
-          "__exp_amount": 1
+          "ItemID": 5161,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1161004,
-      "__unk_Q768500238": 1161,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lighter_Talent_04_Title",
-      "__unk_Q3707810141": "Lighter_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Lighter_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Lighter_Talent_04_Desc_01",
-      "__unk_Q111896588": "Lighter_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1161004,
+      "AvatarID": 1161,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lighter_Talent_04_Title",
+      "TalentDescRealign": "Lighter_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Lighter_Talent_04_Desc_02",
+      "TalentDesc": "Lighter_Talent_04_Desc_01",
+      "TalentNameRealign": "Lighter_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11161103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5161,
-          "__exp_amount": 1
+          "ItemID": 5161,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1161005,
-      "__unk_Q768500238": 1161,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Lighter_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Lighter_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Lighter_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1161005,
+      "AvatarID": 1161,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Lighter_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lighter_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lighter_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5161,
-          "__exp_amount": 1
+          "ItemID": 5161,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1161006,
-      "__unk_Q768500238": 1161,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lighter_Talent_06_Title",
-      "__unk_Q3707810141": "Lighter_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Lighter_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Lighter_Talent_06_Desc_01",
-      "__unk_Q111896588": "Lighter_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1161006,
+      "AvatarID": 1161,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lighter_Talent_06_Title",
+      "TalentDescRealign": "Lighter_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Lighter_Talent_06_Desc_02",
+      "TalentDesc": "Lighter_Talent_06_Desc_01",
+      "TalentNameRealign": "Lighter_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11161104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5161,
-          "__exp_amount": 1
+          "ItemID": 5161,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1171001,
-      "__unk_Q768500238": 1171,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Burnice_Talent_01_Title",
-      "__unk_Q3707810141": "Burnice_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Burnice_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Burnice_Talent_01_Desc_01",
-      "__unk_Q111896588": "Burnice_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1171001,
+      "AvatarID": 1171,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Burnice_Talent_01_Title",
+      "TalentDescRealign": "Burnice_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Burnice_Talent_01_Desc_02",
+      "TalentDesc": "Burnice_Talent_01_Desc_01",
+      "TalentNameRealign": "Burnice_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11171101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5171,
-          "__exp_amount": 1
+          "ItemID": 5171,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1171002,
-      "__unk_Q768500238": 1171,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Burnice_Talent_02_Title",
-      "__unk_Q3707810141": "Burnice_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Burnice_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Burnice_Talent_02_Desc_01",
-      "__unk_Q111896588": "Burnice_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1171002,
+      "AvatarID": 1171,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Burnice_Talent_02_Title",
+      "TalentDescRealign": "Burnice_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Burnice_Talent_02_Desc_02",
+      "TalentDesc": "Burnice_Talent_02_Desc_01",
+      "TalentNameRealign": "Burnice_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11171102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5171,
-          "__exp_amount": 1
+          "ItemID": 5171,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1171003,
-      "__unk_Q768500238": 1171,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Burnice_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Burnice_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Burnice_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1171003,
+      "AvatarID": 1171,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Burnice_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Burnice_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Burnice_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5171,
-          "__exp_amount": 1
+          "ItemID": 5171,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1171004,
-      "__unk_Q768500238": 1171,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Burnice_Talent_04_Title",
-      "__unk_Q3707810141": "Burnice_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Burnice_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Burnice_Talent_04_Desc_01",
-      "__unk_Q111896588": "Burnice_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1171004,
+      "AvatarID": 1171,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Burnice_Talent_04_Title",
+      "TalentDescRealign": "Burnice_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Burnice_Talent_04_Desc_02",
+      "TalentDesc": "Burnice_Talent_04_Desc_01",
+      "TalentNameRealign": "Burnice_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11171103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5171,
-          "__exp_amount": 1
+          "ItemID": 5171,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1171005,
-      "__unk_Q768500238": 1171,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Burnice_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Burnice_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Burnice_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1171005,
+      "AvatarID": 1171,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Burnice_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Burnice_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Burnice_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5171,
-          "__exp_amount": 1
+          "ItemID": 5171,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1171006,
-      "__unk_Q768500238": 1171,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Burnice_Talent_06_Title",
-      "__unk_Q3707810141": "Burnice_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Burnice_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Burnice_Talent_06_Desc_01",
-      "__unk_Q111896588": "Burnice_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1171006,
+      "AvatarID": 1171,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Burnice_Talent_06_Title",
+      "TalentDescRealign": "Burnice_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Burnice_Talent_06_Desc_02",
+      "TalentDesc": "Burnice_Talent_06_Desc_01",
+      "TalentNameRealign": "Burnice_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11171104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5171,
-          "__exp_amount": 1
+          "ItemID": 5171,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1181001,
-      "__unk_Q768500238": 1181,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lisa_Talent_01_Title",
-      "__unk_Q3707810141": "Lisa_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Lisa_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Lisa_Talent_01_Desc_01",
-      "__unk_Q111896588": "Lisa_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1181001,
+      "AvatarID": 1181,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lisa_Talent_01_Title",
+      "TalentDescRealign": "Lisa_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Lisa_Talent_01_Desc_02",
+      "TalentDesc": "Lisa_Talent_01_Desc_01",
+      "TalentNameRealign": "Lisa_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11181101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5181,
-          "__exp_amount": 1
+          "ItemID": 5181,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1181002,
-      "__unk_Q768500238": 1181,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lisa_Talent_02_Title",
-      "__unk_Q3707810141": "Lisa_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Lisa_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Lisa_Talent_02_Desc_01",
-      "__unk_Q111896588": "Lisa_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1181002,
+      "AvatarID": 1181,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lisa_Talent_02_Title",
+      "TalentDescRealign": "Lisa_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Lisa_Talent_02_Desc_02",
+      "TalentDesc": "Lisa_Talent_02_Desc_01",
+      "TalentNameRealign": "Lisa_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11181102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5181,
-          "__exp_amount": 1
+          "ItemID": 5181,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1181003,
-      "__unk_Q768500238": 1181,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Lisa_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Lisa_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Lisa_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1181003,
+      "AvatarID": 1181,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Lisa_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lisa_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lisa_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5181,
-          "__exp_amount": 1
+          "ItemID": 5181,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1181004,
-      "__unk_Q768500238": 1181,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lisa_Talent_04_Title",
-      "__unk_Q3707810141": "Lisa_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Lisa_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Lisa_Talent_04_Desc_01",
-      "__unk_Q111896588": "Lisa_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1181004,
+      "AvatarID": 1181,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lisa_Talent_04_Title",
+      "TalentDescRealign": "Lisa_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Lisa_Talent_04_Desc_02",
+      "TalentDesc": "Lisa_Talent_04_Desc_01",
+      "TalentNameRealign": "Lisa_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11181103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5181,
-          "__exp_amount": 1
+          "ItemID": 5181,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1181005,
-      "__unk_Q768500238": 1181,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Lisa_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Lisa_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Lisa_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1181005,
+      "AvatarID": 1181,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Lisa_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Lisa_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Lisa_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5181,
-          "__exp_amount": 1
+          "ItemID": 5181,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1181006,
-      "__unk_Q768500238": 1181,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Lisa_Talent_06_Title",
-      "__unk_Q3707810141": "Lisa_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Lisa_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Lisa_Talent_06_Desc_01",
-      "__unk_Q111896588": "Lisa_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1181006,
+      "AvatarID": 1181,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Lisa_Talent_06_Title",
+      "TalentDescRealign": "Lisa_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Lisa_Talent_06_Desc_02",
+      "TalentDesc": "Lisa_Talent_06_Desc_01",
+      "TalentNameRealign": "Lisa_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11181104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5181,
-          "__exp_amount": 1
+          "ItemID": 5181,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1191001,
-      "__unk_Q768500238": 1191,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Ellen_Talent_01_Title",
-      "__unk_Q3707810141": "Ellen_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Ellen_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Ellen_Talent_01_Desc_01",
-      "__unk_Q111896588": "Ellen_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1191001,
+      "AvatarID": 1191,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Ellen_Talent_01_Title",
+      "TalentDescRealign": "Ellen_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Ellen_Talent_01_Desc_02",
+      "TalentDesc": "Ellen_Talent_01_Desc_01",
+      "TalentNameRealign": "Ellen_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11191101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5191,
-          "__exp_amount": 1
+          "ItemID": 5191,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1191002,
-      "__unk_Q768500238": 1191,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Ellen_Talent_02_Title",
-      "__unk_Q3707810141": "Ellen_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Ellen_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Ellen_Talent_02_Desc_01",
-      "__unk_Q111896588": "Ellen_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1191002,
+      "AvatarID": 1191,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Ellen_Talent_02_Title",
+      "TalentDescRealign": "Ellen_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Ellen_Talent_02_Desc_02",
+      "TalentDesc": "Ellen_Talent_02_Desc_01",
+      "TalentNameRealign": "Ellen_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11191102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5191,
-          "__exp_amount": 1
+          "ItemID": 5191,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1191003,
-      "__unk_Q768500238": 1191,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Ellen_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Ellen_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Ellen_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1191003,
+      "AvatarID": 1191,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Ellen_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Ellen_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Ellen_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5191,
-          "__exp_amount": 1
+          "ItemID": 5191,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1191004,
-      "__unk_Q768500238": 1191,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Ellen_Talent_04_Title",
-      "__unk_Q3707810141": "Ellen_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Ellen_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Ellen_Talent_04_Desc_01",
-      "__unk_Q111896588": "Ellen_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1191004,
+      "AvatarID": 1191,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Ellen_Talent_04_Title",
+      "TalentDescRealign": "Ellen_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Ellen_Talent_04_Desc_02",
+      "TalentDesc": "Ellen_Talent_04_Desc_01",
+      "TalentNameRealign": "Ellen_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11191103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5191,
-          "__exp_amount": 1
+          "ItemID": 5191,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1191005,
-      "__unk_Q768500238": 1191,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Ellen_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Ellen_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Ellen_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1191005,
+      "AvatarID": 1191,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Ellen_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Ellen_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Ellen_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5191,
-          "__exp_amount": 1
+          "ItemID": 5191,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1191006,
-      "__unk_Q768500238": 1191,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Ellen_Talent_06_Title",
-      "__unk_Q3707810141": "Ellen_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Ellen_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Ellen_Talent_06_Desc_01",
-      "__unk_Q111896588": "Ellen_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1191006,
+      "AvatarID": 1191,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Ellen_Talent_06_Title",
+      "TalentDescRealign": "Ellen_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Ellen_Talent_06_Desc_02",
+      "TalentDesc": "Ellen_Talent_06_Desc_01",
+      "TalentNameRealign": "Ellen_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11191104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5191,
-          "__exp_amount": 1
+          "ItemID": 5191,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1201001,
-      "__unk_Q768500238": 1201,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "TestKey_PlaceHolder",
-      "__unk_Q3707810141": "TestKey_PlaceHolder",
-      "__unk_Q1103806112": "TestKey_PlaceHolder",
-      "__unk_Q1133248761": "TestKey_PlaceHolder",
-      "__unk_Q111896588": "TestKey_PlaceHolder",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1201001,
+      "AvatarID": 1201,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "TestKey_PlaceHolder",
+      "TalentDescRealign": "TestKey_PlaceHolder",
+      "TalentDesc2": "TestKey_PlaceHolder",
+      "TalentDesc": "TestKey_PlaceHolder",
+      "TalentNameRealign": "TestKey_PlaceHolder",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5201,
-          "__exp_amount": 1
+          "ItemID": 5201,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1201002,
-      "__unk_Q768500238": 1201,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "TestKey_PlaceHolder",
-      "__unk_Q3707810141": "TestKey_PlaceHolder",
-      "__unk_Q1103806112": "TestKey_PlaceHolder",
-      "__unk_Q1133248761": "TestKey_PlaceHolder",
-      "__unk_Q111896588": "TestKey_PlaceHolder",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1201002,
+      "AvatarID": 1201,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "TestKey_PlaceHolder",
+      "TalentDescRealign": "TestKey_PlaceHolder",
+      "TalentDesc2": "TestKey_PlaceHolder",
+      "TalentDesc": "TestKey_PlaceHolder",
+      "TalentNameRealign": "TestKey_PlaceHolder",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5201,
-          "__exp_amount": 1
+          "ItemID": 5201,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1201003,
-      "__unk_Q768500238": 1201,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "TestKey_PlaceHolder",
-      "__unk_Q3707810141": "TestKey_PlaceHolder",
-      "__unk_Q1103806112": "TestKey_PlaceHolder",
-      "__unk_Q1133248761": "TestKey_PlaceHolder",
-      "__unk_Q111896588": "TestKey_PlaceHolder",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1201003,
+      "AvatarID": 1201,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "TestKey_PlaceHolder",
+      "TalentDescRealign": "TestKey_PlaceHolder",
+      "TalentDesc2": "TestKey_PlaceHolder",
+      "TalentDesc": "TestKey_PlaceHolder",
+      "TalentNameRealign": "TestKey_PlaceHolder",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5201,
-          "__exp_amount": 1
+          "ItemID": 5201,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1201004,
-      "__unk_Q768500238": 1201,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "TestKey_PlaceHolder",
-      "__unk_Q3707810141": "TestKey_PlaceHolder",
-      "__unk_Q1103806112": "TestKey_PlaceHolder",
-      "__unk_Q1133248761": "TestKey_PlaceHolder",
-      "__unk_Q111896588": "TestKey_PlaceHolder",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1201004,
+      "AvatarID": 1201,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "TestKey_PlaceHolder",
+      "TalentDescRealign": "TestKey_PlaceHolder",
+      "TalentDesc2": "TestKey_PlaceHolder",
+      "TalentDesc": "TestKey_PlaceHolder",
+      "TalentNameRealign": "TestKey_PlaceHolder",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5201,
-          "__exp_amount": 1
+          "ItemID": 5201,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1201005,
-      "__unk_Q768500238": 1201,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "TestKey_PlaceHolder",
-      "__unk_Q3707810141": "TestKey_PlaceHolder",
-      "__unk_Q1103806112": "TestKey_PlaceHolder",
-      "__unk_Q1133248761": "TestKey_PlaceHolder",
-      "__unk_Q111896588": "TestKey_PlaceHolder",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1201005,
+      "AvatarID": 1201,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "TestKey_PlaceHolder",
+      "TalentDescRealign": "TestKey_PlaceHolder",
+      "TalentDesc2": "TestKey_PlaceHolder",
+      "TalentDesc": "TestKey_PlaceHolder",
+      "TalentNameRealign": "TestKey_PlaceHolder",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5201,
-          "__exp_amount": 1
+          "ItemID": 5201,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1201006,
-      "__unk_Q768500238": 1201,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "TestKey_PlaceHolder",
-      "__unk_Q3707810141": "TestKey_PlaceHolder",
-      "__unk_Q1103806112": "TestKey_PlaceHolder",
-      "__unk_Q1133248761": "TestKey_PlaceHolder",
-      "__unk_Q111896588": "TestKey_PlaceHolder",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1201006,
+      "AvatarID": 1201,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "TestKey_PlaceHolder",
+      "TalentDescRealign": "TestKey_PlaceHolder",
+      "TalentDesc2": "TestKey_PlaceHolder",
+      "TalentDesc": "TestKey_PlaceHolder",
+      "TalentNameRealign": "TestKey_PlaceHolder",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5201,
-          "__exp_amount": 1
+          "ItemID": 5201,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1211001,
-      "__unk_Q768500238": 1211,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Rina_Talent_01_Title",
-      "__unk_Q3707810141": "Rina_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Rina_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Rina_Talent_01_Desc_01",
-      "__unk_Q111896588": "Rina_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1211001,
+      "AvatarID": 1211,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Rina_Talent_01_Title",
+      "TalentDescRealign": "Rina_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Rina_Talent_01_Desc_02",
+      "TalentDesc": "Rina_Talent_01_Desc_01",
+      "TalentNameRealign": "Rina_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11211101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5211,
-          "__exp_amount": 1
+          "ItemID": 5211,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1211002,
-      "__unk_Q768500238": 1211,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Rina_Talent_02_Title",
-      "__unk_Q3707810141": "Rina_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Rina_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Rina_Talent_02_Desc_01",
-      "__unk_Q111896588": "Rina_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1211002,
+      "AvatarID": 1211,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Rina_Talent_02_Title",
+      "TalentDescRealign": "Rina_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Rina_Talent_02_Desc_02",
+      "TalentDesc": "Rina_Talent_02_Desc_01",
+      "TalentNameRealign": "Rina_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11211102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5211,
-          "__exp_amount": 1
+          "ItemID": 5211,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1211003,
-      "__unk_Q768500238": 1211,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Rina_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Rina_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Rina_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1211003,
+      "AvatarID": 1211,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Rina_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Rina_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Rina_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5211,
-          "__exp_amount": 1
+          "ItemID": 5211,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1211004,
-      "__unk_Q768500238": 1211,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Rina_Talent_04_Title",
-      "__unk_Q3707810141": "Rina_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Rina_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Rina_Talent_04_Desc_01",
-      "__unk_Q111896588": "Rina_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1211004,
+      "AvatarID": 1211,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Rina_Talent_04_Title",
+      "TalentDescRealign": "Rina_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Rina_Talent_04_Desc_02",
+      "TalentDesc": "Rina_Talent_04_Desc_01",
+      "TalentNameRealign": "Rina_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11211103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5211,
-          "__exp_amount": 1
+          "ItemID": 5211,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1211005,
-      "__unk_Q768500238": 1211,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Rina_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Rina_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Rina_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1211005,
+      "AvatarID": 1211,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Rina_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Rina_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Rina_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5211,
-          "__exp_amount": 1
+          "ItemID": 5211,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1211006,
-      "__unk_Q768500238": 1211,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Rina_Talent_06_Title",
-      "__unk_Q3707810141": "Rina_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Rina_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Rina_Talent_06_Desc_01",
-      "__unk_Q111896588": "Rina_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1211006,
+      "AvatarID": 1211,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Rina_Talent_06_Title",
+      "TalentDescRealign": "Rina_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Rina_Talent_06_Desc_02",
+      "TalentDesc": "Rina_Talent_06_Desc_01",
+      "TalentNameRealign": "Rina_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11211104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5211,
-          "__exp_amount": 1
+          "ItemID": 5211,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1221001,
-      "__unk_Q768500238": 1221,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Yanagi_Talent_01_Title",
-      "__unk_Q3707810141": "Yanagi_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Yanagi_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Yanagi_Talent_01_Desc_01",
-      "__unk_Q111896588": "Yanagi_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1221001,
+      "AvatarID": 1221,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Yanagi_Talent_01_Title",
+      "TalentDescRealign": "Yanagi_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Yanagi_Talent_01_Desc_02",
+      "TalentDesc": "Yanagi_Talent_01_Desc_01",
+      "TalentNameRealign": "Yanagi_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11221101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5221,
-          "__exp_amount": 1
+          "ItemID": 5221,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1221002,
-      "__unk_Q768500238": 1221,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Yanagi_Talent_02_Title",
-      "__unk_Q3707810141": "Yanagi_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Yanagi_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Yanagi_Talent_02_Desc_01",
-      "__unk_Q111896588": "Yanagi_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1221002,
+      "AvatarID": 1221,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Yanagi_Talent_02_Title",
+      "TalentDescRealign": "Yanagi_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Yanagi_Talent_02_Desc_02",
+      "TalentDesc": "Yanagi_Talent_02_Desc_01",
+      "TalentNameRealign": "Yanagi_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11221102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5221,
-          "__exp_amount": 1
+          "ItemID": 5221,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1221003,
-      "__unk_Q768500238": 1221,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Yanagi_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Yanagi_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Yanagi_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1221003,
+      "AvatarID": 1221,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Yanagi_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Yanagi_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Yanagi_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5221,
-          "__exp_amount": 1
+          "ItemID": 5221,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1221004,
-      "__unk_Q768500238": 1221,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Yanagi_Talent_04_Title",
-      "__unk_Q3707810141": "Yanagi_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Yanagi_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Yanagi_Talent_04_Desc_01",
-      "__unk_Q111896588": "Yanagi_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1221004,
+      "AvatarID": 1221,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Yanagi_Talent_04_Title",
+      "TalentDescRealign": "Yanagi_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Yanagi_Talent_04_Desc_02",
+      "TalentDesc": "Yanagi_Talent_04_Desc_01",
+      "TalentNameRealign": "Yanagi_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11221103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5221,
-          "__exp_amount": 1
+          "ItemID": 5221,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1221005,
-      "__unk_Q768500238": 1221,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Yanagi_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Yanagi_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Yanagi_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1221005,
+      "AvatarID": 1221,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Yanagi_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Yanagi_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Yanagi_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5221,
-          "__exp_amount": 1
+          "ItemID": 5221,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1221006,
-      "__unk_Q768500238": 1221,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Yanagi_Talent_06_Title",
-      "__unk_Q3707810141": "Yanagi_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Yanagi_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Yanagi_Talent_06_Desc_01",
-      "__unk_Q111896588": "Yanagi_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1221006,
+      "AvatarID": 1221,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Yanagi_Talent_06_Title",
+      "TalentDescRealign": "Yanagi_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Yanagi_Talent_06_Desc_02",
+      "TalentDesc": "Yanagi_Talent_06_Desc_01",
+      "TalentNameRealign": "Yanagi_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11221104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5221,
-          "__exp_amount": 1
+          "ItemID": 5221,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1241001,
-      "__unk_Q768500238": 1241,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "ZhuYuan_Talent_01_Title",
-      "__unk_Q3707810141": "ZhuYuan_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "ZhuYuan_Talent_01_Desc_02",
-      "__unk_Q1133248761": "ZhuYuan_Talent_01_Desc_01",
-      "__unk_Q111896588": "ZhuYuan_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1241001,
+      "AvatarID": 1241,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "ZhuYuan_Talent_01_Title",
+      "TalentDescRealign": "ZhuYuan_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "ZhuYuan_Talent_01_Desc_02",
+      "TalentDesc": "ZhuYuan_Talent_01_Desc_01",
+      "TalentNameRealign": "ZhuYuan_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11241101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5241,
-          "__exp_amount": 1
+          "ItemID": 5241,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1241002,
-      "__unk_Q768500238": 1241,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "ZhuYuan_Talent_02_Title",
-      "__unk_Q3707810141": "ZhuYuan_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "ZhuYuan_Talent_02_Desc_02",
-      "__unk_Q1133248761": "ZhuYuan_Talent_02_Desc_01",
-      "__unk_Q111896588": "ZhuYuan_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1241002,
+      "AvatarID": 1241,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "ZhuYuan_Talent_02_Title",
+      "TalentDescRealign": "ZhuYuan_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "ZhuYuan_Talent_02_Desc_02",
+      "TalentDesc": "ZhuYuan_Talent_02_Desc_01",
+      "TalentNameRealign": "ZhuYuan_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11241102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5241,
-          "__exp_amount": 1
+          "ItemID": 5241,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1241003,
-      "__unk_Q768500238": 1241,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "ZhuYuan_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "ZhuYuan_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "ZhuYuan_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1241003,
+      "AvatarID": 1241,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "ZhuYuan_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "ZhuYuan_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "ZhuYuan_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5241,
-          "__exp_amount": 1
+          "ItemID": 5241,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1241004,
-      "__unk_Q768500238": 1241,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "ZhuYuan_Talent_04_Title",
-      "__unk_Q3707810141": "ZhuYuan_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "ZhuYuan_Talent_04_Desc_02",
-      "__unk_Q1133248761": "ZhuYuan_Talent_04_Desc_01",
-      "__unk_Q111896588": "ZhuYuan_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1241004,
+      "AvatarID": 1241,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "ZhuYuan_Talent_04_Title",
+      "TalentDescRealign": "ZhuYuan_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "ZhuYuan_Talent_04_Desc_02",
+      "TalentDesc": "ZhuYuan_Talent_04_Desc_01",
+      "TalentNameRealign": "ZhuYuan_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11241103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5241,
-          "__exp_amount": 1
+          "ItemID": 5241,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1241005,
-      "__unk_Q768500238": 1241,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "ZhuYuan_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "ZhuYuan_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "ZhuYuan_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1241005,
+      "AvatarID": 1241,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "ZhuYuan_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "ZhuYuan_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "ZhuYuan_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5241,
-          "__exp_amount": 1
+          "ItemID": 5241,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1241006,
-      "__unk_Q768500238": 1241,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "ZhuYuan_Talent_06_Title",
-      "__unk_Q3707810141": "ZhuYuan_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "ZhuYuan_Talent_06_Desc_02",
-      "__unk_Q1133248761": "ZhuYuan_Talent_06_Desc_01",
-      "__unk_Q111896588": "ZhuYuan_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1241006,
+      "AvatarID": 1241,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "ZhuYuan_Talent_06_Title",
+      "TalentDescRealign": "ZhuYuan_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "ZhuYuan_Talent_06_Desc_02",
+      "TalentDesc": "ZhuYuan_Talent_06_Desc_01",
+      "TalentNameRealign": "ZhuYuan_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11241104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5241,
-          "__exp_amount": 1
+          "ItemID": 5241,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1251001,
-      "__unk_Q768500238": 1251,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "QingYi_Talent_01_Title",
-      "__unk_Q3707810141": "QingYi_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "QingYi_Talent_01_Desc_02",
-      "__unk_Q1133248761": "QingYi_Talent_01_Desc_01",
-      "__unk_Q111896588": "QingYi_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1251001,
+      "AvatarID": 1251,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "QingYi_Talent_01_Title",
+      "TalentDescRealign": "QingYi_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "QingYi_Talent_01_Desc_02",
+      "TalentDesc": "QingYi_Talent_01_Desc_01",
+      "TalentNameRealign": "QingYi_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11251101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5251,
-          "__exp_amount": 1
+          "ItemID": 5251,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1251002,
-      "__unk_Q768500238": 1251,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "QingYi_Talent_02_Title",
-      "__unk_Q3707810141": "QingYi_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "QingYi_Talent_02_Desc_02",
-      "__unk_Q1133248761": "QingYi_Talent_02_Desc_01",
-      "__unk_Q111896588": "QingYi_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1251002,
+      "AvatarID": 1251,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "QingYi_Talent_02_Title",
+      "TalentDescRealign": "QingYi_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "QingYi_Talent_02_Desc_02",
+      "TalentDesc": "QingYi_Talent_02_Desc_01",
+      "TalentNameRealign": "QingYi_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11251102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5251,
-          "__exp_amount": 1
+          "ItemID": 5251,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1251003,
-      "__unk_Q768500238": 1251,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "QingYi_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "QingYi_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "QingYi_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1251003,
+      "AvatarID": 1251,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "QingYi_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "QingYi_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "QingYi_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5251,
-          "__exp_amount": 1
+          "ItemID": 5251,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1251004,
-      "__unk_Q768500238": 1251,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "QingYi_Talent_04_Title",
-      "__unk_Q3707810141": "QingYi_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "QingYi_Talent_04_Desc_02",
-      "__unk_Q1133248761": "QingYi_Talent_04_Desc_01",
-      "__unk_Q111896588": "QingYi_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1251004,
+      "AvatarID": 1251,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "QingYi_Talent_04_Title",
+      "TalentDescRealign": "QingYi_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "QingYi_Talent_04_Desc_02",
+      "TalentDesc": "QingYi_Talent_04_Desc_01",
+      "TalentNameRealign": "QingYi_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11251103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5251,
-          "__exp_amount": 1
+          "ItemID": 5251,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1251005,
-      "__unk_Q768500238": 1251,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "QingYi_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "QingYi_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "QingYi_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1251005,
+      "AvatarID": 1251,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "QingYi_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "QingYi_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "QingYi_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5251,
-          "__exp_amount": 1
+          "ItemID": 5251,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1251006,
-      "__unk_Q768500238": 1251,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "QingYi_Talent_06_Title",
-      "__unk_Q3707810141": "QingYi_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "QingYi_Talent_06_Desc_02",
-      "__unk_Q1133248761": "QingYi_Talent_06_Desc_01",
-      "__unk_Q111896588": "QingYi_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1251006,
+      "AvatarID": 1251,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "QingYi_Talent_06_Title",
+      "TalentDescRealign": "QingYi_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "QingYi_Talent_06_Desc_02",
+      "TalentDesc": "QingYi_Talent_06_Desc_01",
+      "TalentNameRealign": "QingYi_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11251104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5251,
-          "__exp_amount": 1
+          "ItemID": 5251,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1261001,
-      "__unk_Q768500238": 1261,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "JaneDoe_Talent_01_Title",
-      "__unk_Q3707810141": "JaneDoe_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "JaneDoe_Talent_01_Desc_02",
-      "__unk_Q1133248761": "JaneDoe_Talent_01_Desc_01",
-      "__unk_Q111896588": "JaneDoe_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1261001,
+      "AvatarID": 1261,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "JaneDoe_Talent_01_Title",
+      "TalentDescRealign": "JaneDoe_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "JaneDoe_Talent_01_Desc_02",
+      "TalentDesc": "JaneDoe_Talent_01_Desc_01",
+      "TalentNameRealign": "JaneDoe_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11261101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5261,
-          "__exp_amount": 1
+          "ItemID": 5261,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1261002,
-      "__unk_Q768500238": 1261,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "JaneDoe_Talent_02_Title",
-      "__unk_Q3707810141": "JaneDoe_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "JaneDoe_Talent_02_Desc_02",
-      "__unk_Q1133248761": "JaneDoe_Talent_02_Desc_01",
-      "__unk_Q111896588": "JaneDoe_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1261002,
+      "AvatarID": 1261,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "JaneDoe_Talent_02_Title",
+      "TalentDescRealign": "JaneDoe_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "JaneDoe_Talent_02_Desc_02",
+      "TalentDesc": "JaneDoe_Talent_02_Desc_01",
+      "TalentNameRealign": "JaneDoe_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11261102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5261,
-          "__exp_amount": 1
+          "ItemID": 5261,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1261003,
-      "__unk_Q768500238": 1261,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "JaneDoe_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "JaneDoe_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "JaneDoe_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1261003,
+      "AvatarID": 1261,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "JaneDoe_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "JaneDoe_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "JaneDoe_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5261,
-          "__exp_amount": 1
+          "ItemID": 5261,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1261004,
-      "__unk_Q768500238": 1261,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "JaneDoe_Talent_04_Title",
-      "__unk_Q3707810141": "JaneDoe_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "JaneDoe_Talent_04_Desc_02",
-      "__unk_Q1133248761": "JaneDoe_Talent_04_Desc_01",
-      "__unk_Q111896588": "JaneDoe_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1261004,
+      "AvatarID": 1261,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "JaneDoe_Talent_04_Title",
+      "TalentDescRealign": "JaneDoe_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "JaneDoe_Talent_04_Desc_02",
+      "TalentDesc": "JaneDoe_Talent_04_Desc_01",
+      "TalentNameRealign": "JaneDoe_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11261103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5261,
-          "__exp_amount": 1
+          "ItemID": 5261,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1261005,
-      "__unk_Q768500238": 1261,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "JaneDoe_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "JaneDoe_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "JaneDoe_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1261005,
+      "AvatarID": 1261,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "JaneDoe_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "JaneDoe_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "JaneDoe_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5261,
-          "__exp_amount": 1
+          "ItemID": 5261,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1261006,
-      "__unk_Q768500238": 1261,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "JaneDoe_Talent_06_Title",
-      "__unk_Q3707810141": "JaneDoe_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "JaneDoe_Talent_06_Desc_02",
-      "__unk_Q1133248761": "JaneDoe_Talent_06_Desc_01",
-      "__unk_Q111896588": "JaneDoe_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1261006,
+      "AvatarID": 1261,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "JaneDoe_Talent_06_Title",
+      "TalentDescRealign": "JaneDoe_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "JaneDoe_Talent_06_Desc_02",
+      "TalentDesc": "JaneDoe_Talent_06_Desc_01",
+      "TalentNameRealign": "JaneDoe_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11261104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5261,
-          "__exp_amount": 1
+          "ItemID": 5261,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1271001,
-      "__unk_Q768500238": 1271,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Seth_Talent_01_Title",
-      "__unk_Q3707810141": "Seth_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Seth_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Seth_Talent_01_Desc_01",
-      "__unk_Q111896588": "Seth_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1271001,
+      "AvatarID": 1271,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Seth_Talent_01_Title",
+      "TalentDescRealign": "Seth_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Seth_Talent_01_Desc_02",
+      "TalentDesc": "Seth_Talent_01_Desc_01",
+      "TalentNameRealign": "Seth_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11271101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5271,
-          "__exp_amount": 1
+          "ItemID": 5271,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1271002,
-      "__unk_Q768500238": 1271,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Seth_Talent_02_Title",
-      "__unk_Q3707810141": "Seth_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Seth_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Seth_Talent_02_Desc_01",
-      "__unk_Q111896588": "Seth_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1271002,
+      "AvatarID": 1271,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Seth_Talent_02_Title",
+      "TalentDescRealign": "Seth_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Seth_Talent_02_Desc_02",
+      "TalentDesc": "Seth_Talent_02_Desc_01",
+      "TalentNameRealign": "Seth_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11271102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5271,
-          "__exp_amount": 1
+          "ItemID": 5271,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1271003,
-      "__unk_Q768500238": 1271,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Seth_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Seth_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Seth_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1271003,
+      "AvatarID": 1271,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Seth_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Seth_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Seth_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5271,
-          "__exp_amount": 1
+          "ItemID": 5271,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1271004,
-      "__unk_Q768500238": 1271,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Seth_Talent_04_Title",
-      "__unk_Q3707810141": "Seth_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Seth_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Seth_Talent_04_Desc_01",
-      "__unk_Q111896588": "Seth_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1271004,
+      "AvatarID": 1271,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Seth_Talent_04_Title",
+      "TalentDescRealign": "Seth_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Seth_Talent_04_Desc_02",
+      "TalentDesc": "Seth_Talent_04_Desc_01",
+      "TalentNameRealign": "Seth_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11271103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5271,
-          "__exp_amount": 1
+          "ItemID": 5271,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1271005,
-      "__unk_Q768500238": 1271,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Seth_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Seth_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Seth_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1271005,
+      "AvatarID": 1271,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Seth_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Seth_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Seth_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5271,
-          "__exp_amount": 1
+          "ItemID": 5271,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1271006,
-      "__unk_Q768500238": 1271,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Seth_Talent_06_Title",
-      "__unk_Q3707810141": "Seth_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Seth_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Seth_Talent_06_Desc_01",
-      "__unk_Q111896588": "Seth_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1271006,
+      "AvatarID": 1271,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Seth_Talent_06_Title",
+      "TalentDescRealign": "Seth_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Seth_Talent_06_Desc_02",
+      "TalentDesc": "Seth_Talent_06_Desc_01",
+      "TalentNameRealign": "Seth_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11271104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5271,
-          "__exp_amount": 1
+          "ItemID": 5271,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1281001,
-      "__unk_Q768500238": 1281,
-      "__unk_Q3721088137": 1,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Clara_Talent_01_Title",
-      "__unk_Q3707810141": "Clara_Talent_01_Desc_01_Realign",
-      "__unk_Q1103806112": "Clara_Talent_01_Desc_02",
-      "__unk_Q1133248761": "Clara_Talent_01_Desc_01",
-      "__unk_Q111896588": "Clara_Talent_01_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1281001,
+      "AvatarID": 1281,
+      "TalentLevel": 1,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Clara_Talent_01_Title",
+      "TalentDescRealign": "Clara_Talent_01_Desc_01_Realign",
+      "TalentDesc2": "Clara_Talent_01_Desc_02",
+      "TalentDesc": "Clara_Talent_01_Desc_01",
+      "TalentNameRealign": "Clara_Talent_01_Title_Realign",
+      "TalentAbilities": [
         11281101
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5281,
-          "__exp_amount": 1
+          "ItemID": 5281,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1281002,
-      "__unk_Q768500238": 1281,
-      "__unk_Q3721088137": 2,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Clara_Talent_02_Title",
-      "__unk_Q3707810141": "Clara_Talent_02_Desc_01_Realign",
-      "__unk_Q1103806112": "Clara_Talent_02_Desc_02",
-      "__unk_Q1133248761": "Clara_Talent_02_Desc_01",
-      "__unk_Q111896588": "Clara_Talent_02_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1281002,
+      "AvatarID": 1281,
+      "TalentLevel": 2,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Clara_Talent_02_Title",
+      "TalentDescRealign": "Clara_Talent_02_Desc_01_Realign",
+      "TalentDesc2": "Clara_Talent_02_Desc_02",
+      "TalentDesc": "Clara_Talent_02_Desc_01",
+      "TalentNameRealign": "Clara_Talent_02_Title_Realign",
+      "TalentAbilities": [
         11281102
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5281,
-          "__exp_amount": 1
+          "ItemID": 5281,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1281003,
-      "__unk_Q768500238": 1281,
-      "__unk_Q3721088137": 3,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Clara_Talent_03_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Clara_Talent_03_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Clara_Talent_03_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1281003,
+      "AvatarID": 1281,
+      "TalentLevel": 3,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Clara_Talent_03_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Clara_Talent_03_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Clara_Talent_03_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5281,
-          "__exp_amount": 1
+          "ItemID": 5281,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1281004,
-      "__unk_Q768500238": 1281,
-      "__unk_Q3721088137": 4,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Clara_Talent_04_Title",
-      "__unk_Q3707810141": "Clara_Talent_04_Desc_01_Realign",
-      "__unk_Q1103806112": "Clara_Talent_04_Desc_02",
-      "__unk_Q1133248761": "Clara_Talent_04_Desc_01",
-      "__unk_Q111896588": "Clara_Talent_04_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1281004,
+      "AvatarID": 1281,
+      "TalentLevel": 4,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Clara_Talent_04_Title",
+      "TalentDescRealign": "Clara_Talent_04_Desc_01_Realign",
+      "TalentDesc2": "Clara_Talent_04_Desc_02",
+      "TalentDesc": "Clara_Talent_04_Desc_01",
+      "TalentNameRealign": "Clara_Talent_04_Title_Realign",
+      "TalentAbilities": [
         11281103
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5281,
-          "__exp_amount": 1
+          "ItemID": 5281,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1281005,
-      "__unk_Q768500238": 1281,
-      "__unk_Q3721088137": 5,
-      "__unk_Q3301998024": 2,
-      "__unk_Q3790943920": "Clara_Talent_05_Title",
-      "__unk_Q3707810141": "Common_Talent_Desc",
-      "__unk_Q1103806112": "Clara_Talent_05_Desc_02",
-      "__unk_Q1133248761": "Common_Talent_Desc",
-      "__unk_Q111896588": "Clara_Talent_05_Title_Realign",
-      "__unk_Q2835793274": [],
-      "__exp_items": [
+      "ID": 1281005,
+      "AvatarID": 1281,
+      "TalentLevel": 5,
+      "__unk_Q3525130232": 2,
+      "TalentName": "Clara_Talent_05_Title",
+      "TalentDescRealign": "Common_Talent_Desc",
+      "TalentDesc2": "Clara_Talent_05_Desc_02",
+      "TalentDesc": "Common_Talent_Desc",
+      "TalentNameRealign": "Clara_Talent_05_Title_Realign",
+      "TalentAbilities": [],
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5281,
-          "__exp_amount": 1
+          "ItemID": 5281,
+          "Number": 1
         }
       ]
     },
     {
-      "__exp_id": 1281006,
-      "__unk_Q768500238": 1281,
-      "__unk_Q3721088137": 6,
-      "__unk_Q3301998024": 0,
-      "__unk_Q3790943920": "Clara_Talent_06_Title",
-      "__unk_Q3707810141": "Clara_Talent_06_Desc_01_Realign",
-      "__unk_Q1103806112": "Clara_Talent_06_Desc_02",
-      "__unk_Q1133248761": "Clara_Talent_06_Desc_01",
-      "__unk_Q111896588": "Clara_Talent_06_Title_Realign",
-      "__unk_Q2835793274": [
+      "ID": 1281006,
+      "AvatarID": 1281,
+      "TalentLevel": 6,
+      "__unk_Q3525130232": 0,
+      "TalentName": "Clara_Talent_06_Title",
+      "TalentDescRealign": "Clara_Talent_06_Desc_01_Realign",
+      "TalentDesc2": "Clara_Talent_06_Desc_02",
+      "TalentDesc": "Clara_Talent_06_Desc_01",
+      "TalentNameRealign": "Clara_Talent_06_Title_Realign",
+      "TalentAbilities": [
         11281104
       ],
-      "__exp_items": [
+      "TalentMaterials": [
         {
-          "__exp_itemId": 5281,
-          "__exp_amount": 1
+          "ItemID": 5281,
+          "Number": 1
         }
       ]
     }

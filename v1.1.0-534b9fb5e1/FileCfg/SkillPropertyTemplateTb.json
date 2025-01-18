@@ -1,22 +1,22 @@
 {
-  "__unk_Q4214585430": [
+  "__exp_FileCfg": [
     {
-      "__exp_id": 1001,
-      "__unk_Q3319702070": "SkillDamageRate",
+      "ID": 1001,
+      "Name": "SkillDamageRate",
       "BDHKIKIEOGN": 10000,
       "JMBCNMICGIP": "{0:0.#%}",
       "DDOCANPHAOL": 3
     },
     {
-      "__exp_id": 1002,
-      "__unk_Q3319702070": "SkillStunRatio",
+      "ID": 1002,
+      "Name": "SkillStunRatio",
       "BDHKIKIEOGN": 10000,
       "JMBCNMICGIP": "{0:0.#%}",
       "DDOCANPHAOL": 3
     },
     {
-      "__exp_id": 1003,
-      "__unk_Q3319702070": "SkillSpRecovery",
+      "ID": 1003,
+      "Name": "SkillSpRecovery",
       "BDHKIKIEOGN": 10000,
       "JMBCNMICGIP": "{0:0}",
       "DDOCANPHAOL": 3

@@ -1,13 +1,13 @@
 {
-  "__unk_Q4214585430": [
+  "__exp_FileCfg": [
     {
-      "__exp_id": 31000,
-      "__unk_Q3319702070": "EquipmentSuit_31000_name",
+      "ID": 31000,
+      "Name": "EquipmentSuit_31000_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 20103,
-          "__exp_value": 800
+          "__exp_Property": 20103,
+          "Value": 800
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_31000_2_des",
@@ -44,13 +44,13 @@
       ]
     },
     {
-      "__exp_id": 31100,
-      "__unk_Q3319702070": "EquipmentSuit_31100_name",
+      "ID": 31100,
+      "Name": "EquipmentSuit_31100_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 23103,
-          "__exp_value": 800
+          "__exp_Property": 23103,
+          "Value": 800
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_31100_2_des",
@@ -87,13 +87,13 @@
       ]
     },
     {
-      "__exp_id": 31200,
-      "__unk_Q3319702070": "EquipmentSuit_31200_name",
+      "ID": 31200,
+      "Name": "EquipmentSuit_31200_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 12202,
-          "__exp_value": 600
+          "__exp_Property": 12202,
+          "Value": 600
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_31200_2_des",
@@ -130,13 +130,13 @@
       ]
     },
     {
-      "__exp_id": 31300,
-      "__unk_Q3319702070": "EquipmentSuit_31300_name",
+      "ID": 31300,
+      "Name": "EquipmentSuit_31300_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 31203,
-          "__exp_value": 30
+          "__exp_Property": 31203,
+          "Value": 30
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_31300_2_des",
@@ -173,13 +173,13 @@
       ]
     },
     {
-      "__exp_id": 31400,
-      "__unk_Q3319702070": "EquipmentSuit_31400_name",
+      "ID": 31400,
+      "Name": "EquipmentSuit_31400_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 12102,
-          "__exp_value": 1000
+          "__exp_Property": 12102,
+          "Value": 1000
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_31400_2_des",
@@ -216,13 +216,13 @@
       ]
     },
     {
-      "__exp_id": 31500,
-      "__unk_Q3319702070": "EquipmentSuit_31500_name",
+      "ID": 31500,
+      "Name": "EquipmentSuit_31500_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 13102,
-          "__exp_value": 1600
+          "__exp_Property": 13102,
+          "Value": 1600
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_31500_2_des",
@@ -259,13 +259,13 @@
       ]
     },
     {
-      "__exp_id": 31600,
-      "__unk_Q3319702070": "EquipmentSuit_31600_name",
+      "ID": 31600,
+      "Name": "EquipmentSuit_31600_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 30502,
-          "__exp_value": 2000
+          "__exp_Property": 30502,
+          "Value": 2000
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_31600_2_des",
@@ -302,13 +302,13 @@
       ]
     },
     {
-      "__exp_id": 31800,
-      "__unk_Q3319702070": "EquipmentSuit_31800_name",
+      "ID": 31800,
+      "Name": "EquipmentSuit_31800_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 31203,
-          "__exp_value": 30
+          "__exp_Property": 31203,
+          "Value": 30
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_31800_2_des",
@@ -345,8 +345,8 @@
       ]
     },
     {
-      "__exp_id": 31900,
-      "__unk_Q3319702070": "EquipmentSuit_31900_name",
+      "ID": 31900,
+      "Name": "EquipmentSuit_31900_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [],
       "IIMACLBDKNN": "EquipmentSuit_31900_2_des",
@@ -385,13 +385,13 @@
       ]
     },
     {
-      "__exp_id": 32200,
-      "__unk_Q3319702070": "EquipmentSuit_32200_name",
+      "ID": 32200,
+      "Name": "EquipmentSuit_32200_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 31603,
-          "__exp_value": 1000
+          "__exp_Property": 31603,
+          "Value": 1000
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_32200_2_des",
@@ -428,13 +428,13 @@
       ]
     },
     {
-      "__exp_id": 32300,
-      "__unk_Q3319702070": "EquipmentSuit_32300_name",
+      "ID": 32300,
+      "Name": "EquipmentSuit_32300_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 31903,
-          "__exp_value": 1000
+          "__exp_Property": 31903,
+          "Value": 1000
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_32300_2_des",
@@ -471,13 +471,13 @@
       ]
     },
     {
-      "__exp_id": 32400,
-      "__unk_Q3319702070": "EquipmentSuit_32400_name",
+      "ID": 32400,
+      "Name": "EquipmentSuit_32400_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 31803,
-          "__exp_value": 1000
+          "__exp_Property": 31803,
+          "Value": 1000
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_32400_2_des",
@@ -514,13 +514,13 @@
       ]
     },
     {
-      "__exp_id": 32500,
-      "__unk_Q3319702070": "EquipmentSuit_32500_name",
+      "ID": 32500,
+      "Name": "EquipmentSuit_32500_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 31703,
-          "__exp_value": 1000
+          "__exp_Property": 31703,
+          "Value": 1000
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_32500_2_des",
@@ -557,13 +557,13 @@
       ]
     },
     {
-      "__exp_id": 32600,
-      "__unk_Q3319702070": "EquipmentSuit_32600_name",
+      "ID": 32600,
+      "Name": "EquipmentSuit_32600_name",
       "LEJLHKLKIBD": 2,
       "IGFFPPLNBLP": [
         {
-          "__exp_propType": 31503,
-          "__exp_value": 1000
+          "__exp_Property": 31503,
+          "Value": 1000
         }
       ],
       "IIMACLBDKNN": "EquipmentSuit_32600_2_des",
