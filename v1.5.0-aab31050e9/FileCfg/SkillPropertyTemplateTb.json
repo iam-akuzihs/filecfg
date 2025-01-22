@@ -1,22 +1,22 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1001,
-      "KMFMLNCJBEG": "SkillDamageRate",
+      "ID": 1001,
+      "Name": "SkillDamageRate",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.#%}",
       "BCGFPNPBIPI": 3
     },
     {
-      "PDJOCPDOOAA": 1002,
-      "KMFMLNCJBEG": "SkillStunRatio",
+      "ID": 1002,
+      "Name": "SkillStunRatio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.#%}",
       "BCGFPNPBIPI": 3
     },
     {
-      "PDJOCPDOOAA": 1003,
-      "KMFMLNCJBEG": "SkillSpRecovery",
+      "ID": 1003,
+      "Name": "SkillSpRecovery",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0}",
       "BCGFPNPBIPI": 3

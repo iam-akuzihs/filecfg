@@ -1,90 +1,90 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1,
+      "ID": 1,
       "ACOKOKIIBKD": "HpMax",
       "BJDADABLJDC": 0,
       "IPMBJOJLCPI": 0,
       "ALDPFLHMIGC": 1,
       "DOLAJKLBAOF": "propertyID(111)",
-      "PDFDEFPOGEK": 111,
+      "__exp_PropertyID": 111,
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png",
       "ELHGBPOKHNE": ""
     },
     {
-      "PDJOCPDOOAA": 2,
+      "ID": 2,
       "ACOKOKIIBKD": "Atk",
       "BJDADABLJDC": 0,
       "IPMBJOJLCPI": 0,
       "ALDPFLHMIGC": -1,
       "DOLAJKLBAOF": "propertyID(121)",
-      "PDFDEFPOGEK": 121,
+      "__exp_PropertyID": 121,
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png",
       "ELHGBPOKHNE": ""
     },
     {
-      "PDJOCPDOOAA": 3,
+      "ID": 3,
       "ACOKOKIIBKD": "Def",
       "BJDADABLJDC": 0,
       "IPMBJOJLCPI": 0,
       "ALDPFLHMIGC": -1,
       "DOLAJKLBAOF": "propertyID(131)",
-      "PDFDEFPOGEK": 131,
+      "__exp_PropertyID": 131,
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconDef.png",
       "ELHGBPOKHNE": ""
     },
     {
-      "PDJOCPDOOAA": 4,
+      "ID": 4,
       "ACOKOKIIBKD": "BreakStun",
       "BJDADABLJDC": 0,
       "IPMBJOJLCPI": 0,
       "ALDPFLHMIGC": -1,
       "DOLAJKLBAOF": "propertyID(122)",
-      "PDFDEFPOGEK": 122,
+      "__exp_PropertyID": 122,
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconBreakStun.png",
       "ELHGBPOKHNE": "PropertyView_BreakStun"
     },
     {
-      "PDJOCPDOOAA": 5,
+      "ID": 5,
       "ACOKOKIIBKD": "Crit",
       "BJDADABLJDC": 1,
       "IPMBJOJLCPI": 1,
       "ALDPFLHMIGC": -1,
       "DOLAJKLBAOF": "propertyID(201)*100",
-      "PDFDEFPOGEK": 201,
+      "__exp_PropertyID": 201,
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png",
       "ELHGBPOKHNE": ""
     },
     {
-      "PDJOCPDOOAA": 6,
+      "ID": 6,
       "ACOKOKIIBKD": "CritDmg",
       "BJDADABLJDC": 1,
       "IPMBJOJLCPI": 1,
       "ALDPFLHMIGC": -1,
       "DOLAJKLBAOF": "propertyID(211)*100",
-      "PDFDEFPOGEK": 211,
+      "__exp_PropertyID": 211,
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png",
       "ELHGBPOKHNE": ""
     },
     {
-      "PDJOCPDOOAA": 7,
+      "ID": 7,
       "ACOKOKIIBKD": "PenRatio",
       "BJDADABLJDC": 1,
       "IPMBJOJLCPI": 1,
       "ALDPFLHMIGC": -1,
       "DOLAJKLBAOF": "propertyID(231)*100",
-      "PDFDEFPOGEK": 231,
+      "__exp_PropertyID": 231,
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconPenRatio.png",
       "ELHGBPOKHNE": "PropertyView_PenRatio"
     },
     {
-      "PDJOCPDOOAA": 8,
+      "ID": 8,
       "ACOKOKIIBKD": "ElementAbnormalPower",
       "BJDADABLJDC": 0,
       "IPMBJOJLCPI": 0,
       "ALDPFLHMIGC": -1,
       "DOLAJKLBAOF": "propertyID(314)",
-      "PDFDEFPOGEK": 314,
+      "__exp_PropertyID": 314,
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementAbnormalPower.png",
       "ELHGBPOKHNE": "PropertyView_ElementAbnormalPower"
     }
