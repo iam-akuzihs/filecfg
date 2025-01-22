@@ -18,6 +18,7 @@ DPNPHFDBDNK -> __exp_ElementProficiency
 EAALPBELBHJ -> AudioEventReplaceParam
 EJHGOCKJEFI -> __unk_Q1747447732
 ENBFLOFNHMN -> __exp_Property
+FACNGGNOPCJ -> __unk_Q3753556530
 FDDKBNGCHFE -> Value
 FEMLMMMJKJI -> __unk_Q3657090899
 FHLGLKAHNLB -> DefenceGrowth
@@ -28,6 +29,7 @@ GCDNEEFKADJ -> TalentMaterials
 GEBDPPMPMMI -> TextTitle
 GEHGGKLPKEP -> SkillUnlock
 GIAAGJMPELJ -> Gender
+GMMLBLDMGFH -> Tags
 HAAMJFOBLPK -> __unk_Q859744666
 HBEGBJCAGAJ -> __exp_FileCfg
 HBFCCOBIJAE -> CritDamage
@@ -35,8 +37,10 @@ HHOLJHONCGL -> AvatarID
 HLCHLMLBGHM -> AudioBank
 HOFKLGAMFNI -> __unk_Q4035778255
 HOMKMAAFFHH -> __unk_Q2975967732
+IBOCEBFLOLP -> HitTypes
 IEJPEDHIGPL -> __unk_Q1589919627
 IMMPAGAKNNC -> SkillLevel
+IOOONBLLMDC -> ElementTypes
 IPJKNHIKILJ -> __unk_Q112905560
 JAPKMJGKNOC -> TalentDesc2
 JEOGFPBLENA -> FeverRecovery
@@ -90,7 +94,6 @@ POOPMNMGJGJ -> DamagePercentageGrowth
 ignored queries:
   ElementTypes
   HitTypes
-  Tags
   __unk_Q1963758437
   __unk_Q291526241
   __unk_Q3061199317
