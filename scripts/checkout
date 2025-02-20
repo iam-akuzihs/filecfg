@@ -13,14 +13,8 @@ OUT="$PWD/$NAME"
 git -C "$DM_REPO" worktree add --detach --no-checkout -- "$OUT" "$COMMIT"
 mv -- "$OUT/.git" "$OUT/.git.tmp"
 
-for pathspec in \
-	FileCfg/Avatar* \
-	FileCfg/Buddy* \
-	FileCfg/Equipment* \
-	FileCfg/Item* \
-	FileCfg/Partner* \
-	FileCfg/Skill* \
-	FileCfg/Weapon*; do
+# shellcheck disable=SC2041
+for pathspec in 'FileCfg/*TemplateTb.json'; do
 	git -C "$OUT" --git-dir ".git.tmp" checkout HEAD -- "$pathspec"
 	git add -v -- "$NAME/$pathspec" > /dev/null
 done
