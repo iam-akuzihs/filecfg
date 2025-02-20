@@ -1,0 +1,36 @@
+{
+  "HBEGBJCAGAJ": [
+    {
+      "IEOCOIMCPFL": 0,
+      "KMFMLNCJBEG": "HitType_None",
+      "ONPDBOKEBPP": "None",
+      "CILMDHCOLND": "",
+      "GIKIIIBMKDD": "",
+      "FOPHNODPCIL": ""
+    },
+    {
+      "IEOCOIMCPFL": 101,
+      "KMFMLNCJBEG": "HitType_Cut",
+      "ONPDBOKEBPP": "Cut",
+      "CILMDHCOLND": "HitTypeIconTitle_Cut",
+      "GIKIIIBMKDD": "HitTypeIconText_Cut",
+      "FOPHNODPCIL": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png"
+    },
+    {
+      "IEOCOIMCPFL": 102,
+      "KMFMLNCJBEG": "HitType_Punch",
+      "ONPDBOKEBPP": "Punch",
+      "CILMDHCOLND": "HitTypeIconTitle_Punch",
+      "GIKIIIBMKDD": "HitTypeIconText_Punch",
+      "FOPHNODPCIL": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPunch.png"
+    },
+    {
+      "IEOCOIMCPFL": 103,
+      "KMFMLNCJBEG": "HitType_Pierce",
+      "ONPDBOKEBPP": "Pierce",
+      "CILMDHCOLND": "HitTypeIconTitle_Pierce",
+      "GIKIIIBMKDD": "HitTypeIconText_Pierce",
+      "FOPHNODPCIL": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPierce.png"
+    }
+  ]
+}
