@@ -1,0 +1,144 @@
+{
+  "LFPICNCBMIF": [
+    {
+      "NIHDBNAMMON": 0,
+      "JOMJELIIAGO": "ElementType_None",
+      "EIAIPPCANOA": "None",
+      "AOPMHIOGIDI": "",
+      "JJOEMBLGCCH": "",
+      "HBJMCOAIBIC": "",
+      "LMPCKPMCLMD": "",
+      "IELHCAFCCBP": "",
+      "JEBMDEBICKI": 0,
+      "FLPGPGDCLIH": 100,
+      "KFLAECMBFFF": 0,
+      "PDHDIPCBKGP": []
+    },
+    {
+      "NIHDBNAMMON": 200,
+      "JOMJELIIAGO": "ElementType_Physics",
+      "EIAIPPCANOA": "Physics",
+      "AOPMHIOGIDI": "ElementIconTitle_Physics",
+      "JJOEMBLGCCH": "ElementIconText_Physics",
+      "HBJMCOAIBIC": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+      "LMPCKPMCLMD": "ElementIconText_Physics",
+      "IELHCAFCCBP": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+      "JEBMDEBICKI": 0,
+      "FLPGPGDCLIH": 101,
+      "KFLAECMBFFF": 0,
+      "PDHDIPCBKGP": [
+        100110,
+        100120,
+        100130
+      ]
+    },
+    {
+      "NIHDBNAMMON": 200,
+      "JOMJELIIAGO": "ElementType_Physics",
+      "EIAIPPCANOA": "Physics",
+      "AOPMHIOGIDI": "ElementIconTitle_Physics",
+      "JJOEMBLGCCH": "ElementIconText_Physics",
+      "HBJMCOAIBIC": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+      "LMPCKPMCLMD": "ElementIconText_Physics",
+      "IELHCAFCCBP": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+      "JEBMDEBICKI": 0,
+      "FLPGPGDCLIH": 108,
+      "KFLAECMBFFF": 1,
+      "PDHDIPCBKGP": [
+        100110,
+        100120,
+        100130
+      ]
+    },
+    {
+      "NIHDBNAMMON": 201,
+      "JOMJELIIAGO": "ElementType_Fire",
+      "EIAIPPCANOA": "Fire",
+      "AOPMHIOGIDI": "ElementIconTitle_Fire",
+      "JJOEMBLGCCH": "ElementIconText_Fire",
+      "HBJMCOAIBIC": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png",
+      "LMPCKPMCLMD": "ElementIconText_Fire",
+      "IELHCAFCCBP": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png",
+      "JEBMDEBICKI": 0,
+      "FLPGPGDCLIH": 102,
+      "KFLAECMBFFF": 0,
+      "PDHDIPCBKGP": [
+        100111,
+        100121,
+        100131
+      ]
+    },
+    {
+      "NIHDBNAMMON": 202,
+      "JOMJELIIAGO": "ElementType_Ice",
+      "EIAIPPCANOA": "Ice",
+      "AOPMHIOGIDI": "ElementIconTitle_Ice",
+      "JJOEMBLGCCH": "ElementIconText_Ice",
+      "HBJMCOAIBIC": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconIce.png",
+      "LMPCKPMCLMD": "ElementIconText_Ice",
+      "IELHCAFCCBP": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconIce.png",
+      "JEBMDEBICKI": 0,
+      "FLPGPGDCLIH": 103,
+      "KFLAECMBFFF": 0,
+      "PDHDIPCBKGP": [
+        100112,
+        100122,
+        100132
+      ]
+    },
+    {
+      "NIHDBNAMMON": 202,
+      "JOMJELIIAGO": "ElementType_FireFrost",
+      "EIAIPPCANOA": "FireFrost",
+      "AOPMHIOGIDI": "ElementIconTitle_FireFrost",
+      "JJOEMBLGCCH": "ElementIconText_FireFrost",
+      "HBJMCOAIBIC": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
+      "LMPCKPMCLMD": "ElementIconText_FireFrost",
+      "IELHCAFCCBP": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
+      "JEBMDEBICKI": 0,
+      "FLPGPGDCLIH": 104,
+      "KFLAECMBFFF": 1,
+      "PDHDIPCBKGP": [
+        100112,
+        100122,
+        100132
+      ]
+    },
+    {
+      "NIHDBNAMMON": 203,
+      "JOMJELIIAGO": "ElementType_Elec",
+      "EIAIPPCANOA": "Elec",
+      "AOPMHIOGIDI": "ElementIconTitle_Elec",
+      "JJOEMBLGCCH": "ElementIconText_Elec",
+      "HBJMCOAIBIC": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png",
+      "LMPCKPMCLMD": "ElementIconText_Elec",
+      "IELHCAFCCBP": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png",
+      "JEBMDEBICKI": 0,
+      "FLPGPGDCLIH": 105,
+      "KFLAECMBFFF": 0,
+      "PDHDIPCBKGP": [
+        100113,
+        100123,
+        100133
+      ]
+    },
+    {
+      "NIHDBNAMMON": 205,
+      "JOMJELIIAGO": "ElementType_Ether",
+      "EIAIPPCANOA": "Ether",
+      "AOPMHIOGIDI": "ElementIconTitle_Ether",
+      "JJOEMBLGCCH": "ElementIconText_Ether",
+      "HBJMCOAIBIC": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png",
+      "LMPCKPMCLMD": "ElementIconText_Ether",
+      "IELHCAFCCBP": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png",
+      "JEBMDEBICKI": 0,
+      "FLPGPGDCLIH": 107,
+      "KFLAECMBFFF": 0,
+      "PDHDIPCBKGP": [
+        100115,
+        100125,
+        100135
+      ]
+    }
+  ]
+}

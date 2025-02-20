@@ -1,0 +1,559 @@
+{
+  "JIJNDLLPCHO": [
+    {
+      "DGKAIIPMHNI": 111001,
+      "NJOGNGOGNHL": [],
+      "KEFFFHIEIAM": "Ice",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1001102,
+        1001103,
+        1001104,
+        1001106,
+        1001107,
+        1001108,
+        1001109,
+        1001110,
+        1001111,
+        1101102,
+        1101103,
+        1101104,
+        1101106,
+        1101107,
+        1101108,
+        1101109,
+        1101110,
+        1101111,
+        1001112
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111002,
+      "NJOGNGOGNHL": [],
+      "KEFFFHIEIAM": "Fire",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1000102,
+        1000104,
+        1000105,
+        1000106,
+        1000107,
+        1000108,
+        1000109,
+        1000110,
+        1000111,
+        1100102,
+        1100104,
+        1100105,
+        1100106,
+        1100107,
+        1100108,
+        1100109,
+        1100110,
+        1100111,
+        1000112
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111003,
+      "NJOGNGOGNHL": [],
+      "KEFFFHIEIAM": "Electric",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1000501,
+        1000502,
+        1000504,
+        1000505,
+        1000506,
+        1000508,
+        1000509,
+        1000510,
+        1000511,
+        1100501,
+        1100502,
+        1100504,
+        1100505,
+        1100506,
+        1100508,
+        1100509,
+        1100510,
+        1100511,
+        1000512
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111004,
+      "NJOGNGOGNHL": [],
+      "KEFFFHIEIAM": "Ether",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1001901,
+        1001902,
+        1001903,
+        1001904,
+        1001905,
+        1001906,
+        1001907,
+        1001908,
+        1001909,
+        1001910,
+        1001911,
+        1101901,
+        1101902,
+        1101903,
+        1101904,
+        1101905,
+        1101906,
+        1101907,
+        1101908,
+        1101909,
+        1101910,
+        1101911
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111005,
+      "NJOGNGOGNHL": [],
+      "KEFFFHIEIAM": "Physics",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 0,
+      "GLFNMKMJNLB": [
+        1015
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111006,
+      "NJOGNGOGNHL": [
+        1000703,
+        1000705,
+        1000706,
+        1100703,
+        1100705,
+        1100706
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1000701,
+        1100701
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111008,
+      "NJOGNGOGNHL": [
+        1000104,
+        1000106,
+        1000107,
+        1100104,
+        1100106,
+        1100107
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1000101,
+        1000103,
+        1100101,
+        1100103
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111009,
+      "NJOGNGOGNHL": [],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 0,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1002101,
+        1002102,
+        1002103,
+        1002104,
+        1002105,
+        1002106,
+        1002107,
+        1002108,
+        1002109,
+        1002110,
+        1002111,
+        1012101,
+        1012102,
+        1102101,
+        1102102,
+        1102103,
+        1102104,
+        1102105,
+        1102106,
+        1102107,
+        1102108,
+        1102109,
+        1102110,
+        1102111
+      ],
+      "FDGNJLHKCPF": 1,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111010,
+      "NJOGNGOGNHL": [],
+      "KEFFFHIEIAM": "Ice|Fire|Electric|Ether|Physics",
+      "FBJJMBJDCFN": 2,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111011,
+      "NJOGNGOGNHL": [],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 0,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1001601,
+        1001602,
+        1001603,
+        1001604,
+        1001605,
+        1001606,
+        1001607,
+        1001608,
+        1001609,
+        1001610,
+        1001611,
+        1001614,
+        1101601,
+        1101602,
+        1101603,
+        1101604,
+        1101605,
+        1101606,
+        1101607,
+        1101608,
+        1101609,
+        1101610,
+        1101611
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 1
+    },
+    {
+      "DGKAIIPMHNI": 111012,
+      "NJOGNGOGNHL": [
+        1001112
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1001102,
+        1001103,
+        1001104,
+        1001106,
+        1001107,
+        1001108,
+        1001109,
+        1001110,
+        1001111,
+        1101102,
+        1101103,
+        1101104,
+        1101106,
+        1101107,
+        1101108,
+        1101109,
+        1101110,
+        1101111,
+        1001112
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111013,
+      "NJOGNGOGNHL": [
+        1000112
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1000102,
+        1000104,
+        1000105,
+        1000106,
+        1000107,
+        1000108,
+        1000109,
+        1000110,
+        1000111,
+        1100102,
+        1100104,
+        1100105,
+        1100106,
+        1100107,
+        1100108,
+        1100109,
+        1100110,
+        1100111,
+        1000112
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111014,
+      "NJOGNGOGNHL": [
+        1000512
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1000501,
+        1000502,
+        1000504,
+        1000505,
+        1000506,
+        1000508,
+        1000509,
+        1000510,
+        1000511,
+        1100501,
+        1100502,
+        1100504,
+        1100505,
+        1100506,
+        1100508,
+        1100509,
+        1100510,
+        1100511,
+        1000512
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111015,
+      "NJOGNGOGNHL": [
+        1001912
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1001901,
+        1001902,
+        1001903,
+        1001904,
+        1001905,
+        1001906,
+        1001907,
+        1001908,
+        1001909,
+        1001910,
+        1001911,
+        1101901,
+        1101902,
+        1101903,
+        1101904,
+        1101905,
+        1101906,
+        1101907,
+        1101908,
+        1101909,
+        1101910,
+        1101911
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111016,
+      "NJOGNGOGNHL": [
+        1001412
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 0,
+      "GLFNMKMJNLB": [
+        1015
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111017,
+      "NJOGNGOGNHL": [
+        1001614
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1001601,
+        1001602,
+        1001603,
+        1001604,
+        1001605,
+        1001606,
+        1001607,
+        1001608,
+        1001609,
+        1001610,
+        1001611,
+        1001614,
+        1101601,
+        1101602,
+        1101603,
+        1101604,
+        1101605,
+        1101606,
+        1101607,
+        1101608,
+        1101609,
+        1101610,
+        1101611
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 111018,
+      "NJOGNGOGNHL": [
+        1002112
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1002101,
+        1002102,
+        1002103,
+        1002104,
+        1002105,
+        1002106,
+        1002107,
+        1002108,
+        1002109,
+        1002110,
+        1002111,
+        1012101,
+        1012102,
+        1102101,
+        1102102,
+        1102103,
+        1102104,
+        1102105,
+        1102106,
+        1102107,
+        1102108,
+        1102109,
+        1102110,
+        1102111
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 121001,
+      "NJOGNGOGNHL": [
+        1000803,
+        1000806,
+        1010801,
+        1100803,
+        1100806
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1000802,
+        1000805,
+        1100802,
+        1100805
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 121002,
+      "NJOGNGOGNHL": [
+        1000803,
+        1100803
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1000804,
+        1100804
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 121003,
+      "NJOGNGOGNHL": [
+        1001104,
+        1001107,
+        1001110,
+        1101104,
+        1101107,
+        1101110
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1001105,
+        1001101,
+        1101105,
+        1101101
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    },
+    {
+      "DGKAIIPMHNI": 121004,
+      "NJOGNGOGNHL": [
+        1000505,
+        1000506,
+        1000508,
+        1100505,
+        1100506,
+        1100508
+      ],
+      "KEFFFHIEIAM": "",
+      "FBJJMBJDCFN": 1,
+      "OFIBHGCNMHE": 1,
+      "GLFNMKMJNLB": [
+        1000503,
+        1000507,
+        1100503,
+        1100507
+      ],
+      "FDGNJLHKCPF": 0,
+      "DCPOCMGMMIC": 0
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "LFPICNCBMIF": [
+    {
+      "FJKECLFEHOA": 1001,
+      "BAAMLLKCNPK": 1001,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1002,
+      "BAAMLLKCNPK": 1002,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_SwitchIn_{}",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [
+        "Play_SFX_Char_SwitchIn_Attack"
+      ],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1003,
+      "BAAMLLKCNPK": 1002,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_vo_char_{}_qtestart",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1004,
+      "BAAMLLKCNPK": 1003,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_VoEvadeSuccess_Play",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1005,
+      "BAAMLLKCNPK": 1003,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_AttackCounter_Kill_EvadeSuccess",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1006,
+      "BAAMLLKCNPK": 1003,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1007,
+      "BAAMLLKCNPK": 1005,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_LevelEnd",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1008,
+      "BAAMLLKCNPK": 1006,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 10000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1009,
+      "BAAMLLKCNPK": 1007,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 5000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1010,
+      "BAAMLLKCNPK": 1008,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1011,
+      "BAAMLLKCNPK": 1009,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 10000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1012,
+      "BAAMLLKCNPK": 1010,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 60000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1013,
+      "BAAMLLKCNPK": 1011,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 6000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1014,
+      "BAAMLLKCNPK": 1012,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 30000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1015,
+      "BAAMLLKCNPK": 1013,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 10000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1016,
+      "BAAMLLKCNPK": 1014,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1017,
+      "BAAMLLKCNPK": 1015,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 10000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1018,
+      "BAAMLLKCNPK": 1016,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 10000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1019,
+      "BAAMLLKCNPK": 1017,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 10000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1020,
+      "BAAMLLKCNPK": 1018,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 20000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1021,
+      "BAAMLLKCNPK": 1019,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 20000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1022,
+      "BAAMLLKCNPK": 1020,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 30000,
+      "IBNONAELNEF": "Play_vo_char_{}_oshint",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1023,
+      "BAAMLLKCNPK": 1021,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 4000,
+      "IBNONAELNEF": "Play_vo_char_{}_battleswitch_bossstun",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [
+        "Play_SoundAction_Char_QTE_Start"
+      ],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1024,
+      "BAAMLLKCNPK": 1021,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 30000,
+      "IBNONAELNEF": "Play_vo_char_{}_battleswitch_offplay",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1025,
+      "BAAMLLKCNPK": 1021,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_vo_char_{}_battleswitch",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [
+        "Play_SFX_Char_Online_State_1"
+      ],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1026,
+      "BAAMLLKCNPK": 1021,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_SwitchIn_{}",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [
+        "Play_SFX_Avatar_Control"
+      ],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1027,
+      "BAAMLLKCNPK": 1021,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_VoBattleSwitch_After",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [
+        "Play_SFX_Char_Common_VoBattleSwitch_AfterScope"
+      ],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1028,
+      "BAAMLLKCNPK": 1021,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_BattleSwitch",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1029,
+      "BAAMLLKCNPK": 1022,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 60000,
+      "IBNONAELNEF": "Play_vo_char_{}_chargehint",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1030,
+      "BAAMLLKCNPK": 1023,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 5000,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1031,
+      "BAAMLLKCNPK": 1024,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_Level_CombatState_In",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": [
+        "QTEStart_Count:QTEStart_Count_None"
+      ]
+    },
+    {
+      "FJKECLFEHOA": 1032,
+      "BAAMLLKCNPK": 1025,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_Level_CombatState_Out",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1033,
+      "BAAMLLKCNPK": 1027,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1034,
+      "BAAMLLKCNPK": 1028,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1035,
+      "BAAMLLKCNPK": 1029,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1036,
+      "BAAMLLKCNPK": 1030,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1037,
+      "BAAMLLKCNPK": 1031,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1038,
+      "BAAMLLKCNPK": 1032,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1039,
+      "BAAMLLKCNPK": 1033,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1040,
+      "BAAMLLKCNPK": 1034,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_vo_char_{}_encounterenemy",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1041,
+      "BAAMLLKCNPK": 1035,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_vo_char_{}_encounterelite",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1042,
+      "BAAMLLKCNPK": 1036,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_vo_char_{}_encounterboss",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1043,
+      "BAAMLLKCNPK": 1037,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1044,
+      "BAAMLLKCNPK": 1038,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1045,
+      "BAAMLLKCNPK": 1039,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1046,
+      "BAAMLLKCNPK": 1040,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_LevelEnd",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1047,
+      "BAAMLLKCNPK": 1041,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_LevelEnd",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1048,
+      "BAAMLLKCNPK": 1042,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_LevelEnd",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1049,
+      "BAAMLLKCNPK": 1043,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Interrupt_{}",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1050,
+      "BAAMLLKCNPK": 1045,
+      "KFNEEPOKBFH": 1,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Monster_Interrupt_{}",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1051,
+      "BAAMLLKCNPK": 1056,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Stop_vo_char_switchout_normal",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [
+        "Play_SFX_Avatar_UnControl"
+      ],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1052,
+      "BAAMLLKCNPK": 1096,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [
+        "Play_SFX_Avatar_Control_Co"
+      ],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1053,
+      "BAAMLLKCNPK": 1097,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "",
+      "AGHBHIPLFMA": 1,
+      "KJGJCGBBHIP": [
+        "Play_SFX_Avatar_UnControl_Co"
+      ],
+      "EGNKACCNMBO": []
+    },
+    {
+      "FJKECLFEHOA": 1054,
+      "BAAMLLKCNPK": 1058,
+      "KFNEEPOKBFH": 0,
+      "KJLCBLNDKKK": 0,
+      "IBNONAELNEF": "Play_SFX_Char_Common_ExQTE_2D_End",
+      "AGHBHIPLFMA": 0,
+      "KJGJCGBBHIP": [],
+      "EGNKACCNMBO": []
+    }
+  ]
+}

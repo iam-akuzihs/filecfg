@@ -1,0 +1,468 @@
+{
+  "LFPICNCBMIF": [
+    {
+      "FJKECLFEHOA": 1001,
+      "JABCFMOLIAI": "Ramen_Enter",
+      "FJBBAHGOADK": 2019,
+      "DGKJGLGFMGF": 200302,
+      "INBANDMIDGA": "noodle:false",
+      "JDHKIPHJDAK": 100501,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1002,
+      "JABCFMOLIAI": "Ramen_Exit",
+      "FJBBAHGOADK": 2019,
+      "DGKJGLGFMGF": 200301,
+      "INBANDMIDGA": "noodle:false",
+      "JDHKIPHJDAK": 100503,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1003,
+      "JABCFMOLIAI": "Ramen_Meal",
+      "FJBBAHGOADK": 2019,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100502,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1004,
+      "JABCFMOLIAI": "Ramen_Order",
+      "FJBBAHGOADK": 2019,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1005,
+      "JABCFMOLIAI": "Ramen_Enter",
+      "FJBBAHGOADK": 2019,
+      "DGKJGLGFMGF": 200304,
+      "INBANDMIDGA": "noodle:false",
+      "JDHKIPHJDAK": 100501,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1006,
+      "JABCFMOLIAI": "Ramen_Enter",
+      "FJBBAHGOADK": 2019,
+      "DGKJGLGFMGF": 200305,
+      "INBANDMIDGA": "noodle:false",
+      "JDHKIPHJDAK": 100501,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1007,
+      "JABCFMOLIAI": "Grocery_Enter",
+      "FJBBAHGOADK": 2016,
+      "DGKJGLGFMGF": 300102,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100402,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1008,
+      "JABCFMOLIAI": "Grocery_Exit",
+      "FJBBAHGOADK": 2016,
+      "DGKJGLGFMGF": 300101,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100403,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1009,
+      "JABCFMOLIAI": "Grocery_Buy",
+      "FJBBAHGOADK": 2016,
+      "DGKJGLGFMGF": 300104,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100401,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1010,
+      "JABCFMOLIAI": "Grocery_Expand",
+      "FJBBAHGOADK": 2017,
+      "DGKJGLGFMGF": 300105,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1011,
+      "JABCFMOLIAI": "Grocery_Expand",
+      "FJBBAHGOADK": 2018,
+      "DGKJGLGFMGF": 300106,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1012,
+      "JABCFMOLIAI": "VHS_Enter",
+      "FJBBAHGOADK": 2028,
+      "DGKJGLGFMGF": 200751,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100801,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1013,
+      "JABCFMOLIAI": "VHS_Exit",
+      "FJBBAHGOADK": 2028,
+      "DGKJGLGFMGF": 200752,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1014,
+      "JABCFMOLIAI": "VHS_Stacking",
+      "FJBBAHGOADK": 2028,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100804,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1015,
+      "JABCFMOLIAI": "VHS_Click",
+      "FJBBAHGOADK": 2028,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100802,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1016,
+      "JABCFMOLIAI": "Video_Enter",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100201,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1017,
+      "JABCFMOLIAI": "Video_Exit",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1018,
+      "JABCFMOLIAI": "Video_Craft",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1019,
+      "JABCFMOLIAI": "Video_Craft10",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100203,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1020,
+      "JABCFMOLIAI": "BuddyCar_Enter",
+      "FJBBAHGOADK": 10011,
+      "DGKJGLGFMGF": 300202,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": [
+        "1101:11006"
+      ]
+    },
+    {
+      "FJKECLFEHOA": 1021,
+      "JABCFMOLIAI": "BuddyCar_Exit",
+      "FJBBAHGOADK": 10011,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": [
+        "1101:11001"
+      ]
+    },
+    {
+      "FJKECLFEHOA": 1022,
+      "JABCFMOLIAI": "Trendy_Enter",
+      "FJBBAHGOADK": 2103,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100601,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1023,
+      "JABCFMOLIAI": "Trendy_Exit",
+      "FJBBAHGOADK": 2103,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1024,
+      "JABCFMOLIAI": "Trendy_Order",
+      "FJBBAHGOADK": 2103,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100604,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1025,
+      "JABCFMOLIAI": "Trendy_Take",
+      "FJBBAHGOADK": 2103,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100603,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1026,
+      "JABCFMOLIAI": "BuddyCar_Tab1",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": [
+        "1101:11003"
+      ]
+    },
+    {
+      "FJKECLFEHOA": 1027,
+      "JABCFMOLIAI": "BuddyCar_Tab2",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": [
+        "1101:11005"
+      ]
+    },
+    {
+      "FJKECLFEHOA": 1028,
+      "JABCFMOLIAI": "BuddyCar_Tab3",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": [
+        "1101:11004"
+      ]
+    },
+    {
+      "FJKECLFEHOA": 1029,
+      "JABCFMOLIAI": "Arcade_Enter",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100101,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1030,
+      "JABCFMOLIAI": "Arcade_Select",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100103,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1031,
+      "JABCFMOLIAI": "Arcade_Exit",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1032,
+      "JABCFMOLIAI": "BuddyDIY_Enter",
+      "FJBBAHGOADK": 2,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100301,
+      "BLDNDNHNBHK": false,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1033,
+      "JABCFMOLIAI": "BuddyDIY_BeginEditor",
+      "FJBBAHGOADK": 2,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100304,
+      "BLDNDNHNBHK": false,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1034,
+      "JABCFMOLIAI": "BuddyDIY_EndEditor",
+      "FJBBAHGOADK": 2,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100303,
+      "BLDNDNHNBHK": false,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1035,
+      "JABCFMOLIAI": "BuddyDIY_Exit",
+      "FJBBAHGOADK": 2,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": false,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1036,
+      "JABCFMOLIAI": "Cafe_Enter",
+      "FJBBAHGOADK": 3,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100702,
+      "BLDNDNHNBHK": false,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1037,
+      "JABCFMOLIAI": "Cafe_Exit",
+      "FJBBAHGOADK": 3,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": false,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1038,
+      "JABCFMOLIAI": "Cafe_EnterSpecial",
+      "FJBBAHGOADK": 3,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100703,
+      "BLDNDNHNBHK": false,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1039,
+      "JABCFMOLIAI": "Cafe_Order",
+      "FJBBAHGOADK": 3,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 100701,
+      "BLDNDNHNBHK": false,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1040,
+      "JABCFMOLIAI": "News_Enter",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1041,
+      "JABCFMOLIAI": "News_Exit",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1042,
+      "JABCFMOLIAI": "BuddyCarGolden_Enter",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": [
+        "1201:12002"
+      ]
+    },
+    {
+      "FJKECLFEHOA": 1043,
+      "JABCFMOLIAI": "BuddyCarGolden_Exit",
+      "FJBBAHGOADK": 0,
+      "DGKJGLGFMGF": 0,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": [
+        "1201:12001"
+      ]
+    },
+    {
+      "FJKECLFEHOA": 1044,
+      "JABCFMOLIAI": "TrashBin_Enter",
+      "FJBBAHGOADK": 10022,
+      "DGKJGLGFMGF": 201007,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    },
+    {
+      "FJKECLFEHOA": 1045,
+      "JABCFMOLIAI": "TrashBin_Exit",
+      "FJBBAHGOADK": 10022,
+      "DGKJGLGFMGF": 201006,
+      "INBANDMIDGA": "",
+      "JDHKIPHJDAK": 0,
+      "BLDNDNHNBHK": true,
+      "INMOHGMCCAM": []
+    }
+  ]
+}

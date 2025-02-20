@@ -1,0 +1,536 @@
+{
+  "LFPICNCBMIF": [
+    {
+      "FJKECLFEHOA": 101,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 1,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Street/Galgame_Street_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 102,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 1,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Street/Galgame_Street_Cam01_02",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 103,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 1,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Street/Galgame_Street_Cam01_03",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 104,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 1,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Street/Galgame_Street_Cam01_04",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 201,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 2,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Studio/Galgame_Studio_Cam04_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 202,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 2,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Studio/Galgame_Studio_Cam04_01",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 203,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 2,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Studio/Galgame_Studio_Cam04_01",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 204,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 2,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Studio/Galgame_Studio_Cam04_01",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 301,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 3,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Garage/Galgame_Garage_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 302,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 3,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Garage/Galgame_Garage_Cam01_02",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 303,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 3,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Garage/Galgame_Garage_Cam01_02",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 304,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 3,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Garage/Galgame_Garage_Cam01_02",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 401,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 4,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ConstructionSite/Galgame_ConstructionSite_Cam5_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 402,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 4,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ConstructionSite/Galgame_ConstructionSite_Cam5_02",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 403,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 4,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ConstructionSite/Galgame_ConstructionSite_Cam5_03",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 404,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 4,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ConstructionSite/Galgame_ConstructionSite_Cam5_04",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 501,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 5,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/SkyScraper/Galgame_SkyScraper_Cam06_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 502,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 5,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/SkyScraper/Galgame_SkyScraper_Cam06_02",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 503,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 5,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/SkyScraper/Galgame_SkyScraper_Cam06_03",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 504,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 5,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/SkyScraper/Galgame_SkyScraper_Cam06_04",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 10101,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 101,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/Galgame_FortuneSquare_Statue_Cam02_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 10102,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 101,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/Galgame_FortuneSquare_Statue_Cam02_02",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 10103,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 101,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/Galgame_FortuneSquare_Statue_Cam02_03",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 10104,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 101,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/Galgame_FortuneSquare_Statue_Cam02_04",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 10201,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 102,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/MainPage_NEPS_Cam01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 10202,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 102,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/MainPage_NEPS_Cam01",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 10203,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 102,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/MainPage_NEPS_Cam01",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 10204,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 102,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/MainPage_NEPS_Cam01",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 10301,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 103,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/GalGame_FortuneSquare_HIA_Cam01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 10302,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 103,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/GalGame_FortuneSquare_HIA_Cam01",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 10303,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 103,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/GalGame_FortuneSquare_HIA_Cam01",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 10304,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 103,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/GalGame_FortuneSquare_HIA_Cam01",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 10401,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 104,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/OuterRing/Galgame_OuterRing_Cam18_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 10402,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 104,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/OuterRing/Galgame_OuterRing_Cam18_02",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 10403,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 104,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/OuterRing/Galgame_OuterRing_Cam18_03",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 10404,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 104,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/OuterRing/Galgame_OuterRing_Cam18_04",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 10501,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 105,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/MissionImg/MissionDaytimeImg/Hand01_Daytime.png",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 10502,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 105,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/MissionImg/MissionDaytimeImg/Hand01_Daytime.png",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 10503,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 105,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/MissionImg/MissionNightImg/Hand01_Night.png",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 10504,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 105,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/MissionImg/MissionEveningImg/Hand01_Evening.png",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 10601,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 106,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Port/Galgame_Port_Cam01_01.png",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 10602,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 106,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Port/Galgame_Port_Cam01_02.png",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 10603,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 106,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Port/Galgame_Port_Cam01_03.png",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 10604,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 106,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Port/Galgame_Port_Cam01_04.png",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 10701,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 107,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ReverbArena/Galgame_ReverbArena_Cam01_01.png",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 10702,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 107,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ReverbArena/Galgame_ReverbArena_Cam01_01.png",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 10703,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 107,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ReverbArena/Galgame_ReverbArena_Cam01_01.png",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 10704,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 107,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ReverbArena/Galgame_ReverbArena_Cam01_01.png",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 15101,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 151,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ZeroWorksite/Galgame_ZeroNPC_Cam02_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 15102,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 151,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ZeroWorksite/Galgame_ZeroNPC_Cam02_02",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 15103,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 151,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ZeroWorksite/Galgame_ZeroNPC_Cam02_03",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 15104,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 151,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/ZeroWorksite/Galgame_ZeroNPC_Cam02_04",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 15201,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 152,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_FortuneSquare_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 15202,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 152,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_FortuneSquare_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 15203,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 152,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_FortuneSquare_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 15204,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 152,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_FortuneSquare_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 15301,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 153,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_Street_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 15302,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 153,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_Street_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 15303,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 153,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_Street_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 15304,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 153,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_Street_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 15401,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 154,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_FortuneSquare_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 15402,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 154,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_FortuneSquare_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 15403,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 154,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_FortuneSquare_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 15404,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 154,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Special/Galgame_FortuneSquare_Station_Cam01_01",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 15501,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 155,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Hand/Galgame_HandOffice_Cam01_01.png",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 15502,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 155,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Hand/Galgame_HandOffice_Cam01_01.png",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 15503,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 155,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Hand/Galgame_HandOffice_Cam02_01.png",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 15504,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 155,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/Hand/Galgame_HandOffice_Cam02_01.png",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 15601,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 156,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/GalGame_FortuneSquare_HIA_Cam01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 15602,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 156,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/GalGame_FortuneSquare_HIA_Cam01",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 15603,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 156,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/GalGame_FortuneSquare_HIA_Cam01",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 15604,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 156,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/GalGame_FortuneSquare_HIA_Cam01",
+      "JLLGFFDBJBO": "TimePeriod04"
+    },
+    {
+      "FJKECLFEHOA": 15701,
+      "PLCFOLMECGN": 1,
+      "HINOKLOGNPP": 157,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/Galgame_FortuneSquare_Statue_Cam02_01",
+      "JLLGFFDBJBO": "TimePeriod01"
+    },
+    {
+      "FJKECLFEHOA": 15702,
+      "PLCFOLMECGN": 2,
+      "HINOKLOGNPP": 157,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/Galgame_FortuneSquare_Statue_Cam02_02",
+      "JLLGFFDBJBO": "TimePeriod02"
+    },
+    {
+      "FJKECLFEHOA": 15703,
+      "PLCFOLMECGN": 3,
+      "HINOKLOGNPP": 157,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/Galgame_FortuneSquare_Statue_Cam02_03",
+      "JLLGFFDBJBO": "TimePeriod03"
+    },
+    {
+      "FJKECLFEHOA": 15704,
+      "PLCFOLMECGN": 4,
+      "HINOKLOGNPP": 157,
+      "CABBJCJBALG": "UI/Sprite/A1DynamicLoad/Galgame/FullScreen/UnPacker/FortuneSquare/Galgame_FortuneSquare_Statue_Cam02_04",
+      "JLLGFFDBJBO": "TimePeriod04"
+    }
+  ]
+}
