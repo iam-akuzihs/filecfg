@@ -1,7 +1,7 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1,
+      "ID": 1,
       "LEJEJCMIJMB": "Locked",
       "PLNDLKPHGFA": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -9,7 +9,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 2,
+      "ID": 2,
       "LEJEJCMIJMB": "Unlocked",
       "PLNDLKPHGFA": [
         "FLAG_UNLOCKED",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 3,
+      "ID": 3,
       "LEJEJCMIJMB": "Finished",
       "PLNDLKPHGFA": [
         "FLAG_FINISHED",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 4,
+      "ID": 4,
       "LEJEJCMIJMB": "ShowEvent",
       "PLNDLKPHGFA": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 6,
+      "ID": 6,
       "LEJEJCMIJMB": "Brighten",
       "PLNDLKPHGFA": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 7,
+      "ID": 7,
       "LEJEJCMIJMB": "Guide",
       "PLNDLKPHGFA": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 8,
+      "ID": 8,
       "LEJEJCMIJMB": "Target",
       "PLNDLKPHGFA": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 9,
+      "ID": 9,
       "LEJEJCMIJMB": "BrightenOnlyVisible",
       "PLNDLKPHGFA": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 10,
+      "ID": 10,
       "LEJEJCMIJMB": "Unstable",
       "PLNDLKPHGFA": [
         "FLAG_UNSTABLE",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 11,
+      "ID": 11,
       "LEJEJCMIJMB": "Empty",
       "PLNDLKPHGFA": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 12,
+      "ID": 12,
       "LEJEJCMIJMB": "All",
       "PLNDLKPHGFA": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 13,
+      "ID": 13,
       "LEJEJCMIJMB": "",
       "PLNDLKPHGFA": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 14,
+      "ID": 14,
       "LEJEJCMIJMB": "LockedWithStamina",
       "PLNDLKPHGFA": []
     },
     {
-      "DKDDFEIAMIF": 15,
+      "ID": 15,
       "LEJEJCMIJMB": "UnEmpty",
       "PLNDLKPHGFA": [
         "FLAG_UNLOCKED",

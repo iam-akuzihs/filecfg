@@ -1,22 +1,22 @@
 {
-  "LFPICNCBMIF": [
+  "__exp_FileCfg": [
     {
-      "FJKECLFEHOA": 1001,
-      "JOMJELIIAGO": "SkillDamageRate",
+      "ID": 1001,
+      "Name": "SkillDamageRate",
       "AHAOMIPBPDE": 10000,
       "COHPOKHDJDO": "{0:0.#%}",
       "IACIDJALFJD": 3
     },
     {
-      "FJKECLFEHOA": 1002,
-      "JOMJELIIAGO": "SkillStunRatio",
+      "ID": 1002,
+      "Name": "SkillStunRatio",
       "AHAOMIPBPDE": 10000,
       "COHPOKHDJDO": "{0:0.#%}",
       "IACIDJALFJD": 3
     },
     {
-      "FJKECLFEHOA": 1003,
-      "JOMJELIIAGO": "SkillSpRecovery",
+      "ID": 1003,
+      "Name": "SkillSpRecovery",
       "AHAOMIPBPDE": 10000,
       "COHPOKHDJDO": "{0:0}",
       "IACIDJALFJD": 3

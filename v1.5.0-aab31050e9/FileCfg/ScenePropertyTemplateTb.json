@@ -1,10 +1,10 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1001,
+      "ID": 1001,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Stamina",
+      "Name": "Stamina",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 1002,
+      "ID": 1002,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Stamina_Max",
+      "Name": "Stamina_Max",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 1,
@@ -27,10 +27,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1003,
+      "ID": 1003,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Stamina_Ratio",
+      "Name": "Stamina_Ratio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -39,10 +39,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1004,
+      "ID": 1004,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Stamina_Delta",
+      "Name": "Stamina_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -51,10 +51,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1005,
+      "ID": 1005,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Gold_Ratio",
+      "Name": "Gold_Ratio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -63,10 +63,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1006,
+      "ID": 1006,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Gold_Delta",
+      "Name": "Gold_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -75,10 +75,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1007,
+      "ID": 1007,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Stamina_Ratio_Reduce",
+      "Name": "Stamina_Ratio_Reduce",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -87,10 +87,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1008,
+      "ID": 1008,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Stamina_Delta_Reduce",
+      "Name": "Stamina_Delta_Reduce",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -99,10 +99,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1018,
+      "ID": 1018,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_Price",
+      "Name": "Shop_Price",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -111,10 +111,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1019,
+      "ID": 1019,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Stamina_Increase",
+      "Name": "Stamina_Increase",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -123,10 +123,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1025,
+      "ID": 1025,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Player_View",
+      "Name": "Player_View",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -135,10 +135,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1035,
+      "ID": 1035,
       "IMCAMCFIMKN": 1,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "ActorMaxCurHP",
+      "Name": "ActorMaxCurHP",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": 100,
@@ -147,10 +147,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1036,
+      "ID": 1036,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "ShopPriceDelta",
+      "Name": "ShopPriceDelta",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -159,10 +159,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1043,
+      "ID": 1043,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Weather",
+      "Name": "Weather",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1,
@@ -171,10 +171,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1044,
+      "ID": 1044,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "TimePeriod",
+      "Name": "TimePeriod",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -183,10 +183,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1045,
+      "ID": 1045,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "AbyssPoint_Ratio",
+      "Name": "AbyssPoint_Ratio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -195,10 +195,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1046,
+      "ID": 1046,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "AbyssPoint_Delta",
+      "Name": "AbyssPoint_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -207,10 +207,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1047,
+      "ID": 1047,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpRecover_Ratio",
+      "Name": "HollowHpRecover_Ratio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -219,10 +219,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1048,
+      "ID": 1048,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpDecrease_Ratio",
+      "Name": "HollowHpDecrease_Ratio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -231,10 +231,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1049,
+      "ID": 1049,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Card_B_Probability_Delta",
+      "Name": "Card_B_Probability_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -243,10 +243,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1050,
+      "ID": 1050,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Card_A_Probability_Delta",
+      "Name": "Card_A_Probability_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -255,10 +255,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1051,
+      "ID": 1051,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Card_S_Probability_Delta",
+      "Name": "Card_S_Probability_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -267,10 +267,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1055,
+      "ID": 1055,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowItem_B_Probability_Delta",
+      "Name": "HollowItem_B_Probability_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -279,10 +279,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1056,
+      "ID": 1056,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowItem_A_Probability_Delta",
+      "Name": "HollowItem_A_Probability_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -291,10 +291,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1057,
+      "ID": 1057,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowItem_S_Probability_Delta",
+      "Name": "HollowItem_S_Probability_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -303,10 +303,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1058,
+      "ID": 1058,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "EnableCardFusion",
+      "Name": "EnableCardFusion",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -315,10 +315,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1059,
+      "ID": 1059,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "EnableCardUpgrade",
+      "Name": "EnableCardUpgrade",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -327,10 +327,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1060,
+      "ID": 1060,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "EnableCardRefresh",
+      "Name": "EnableCardRefresh",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -339,10 +339,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1061,
+      "ID": 1061,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "EnableHpBuy",
+      "Name": "EnableHpBuy",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -351,10 +351,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1062,
+      "ID": 1062,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "EnableHpOverflowToCoin",
+      "Name": "EnableHpOverflowToCoin",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -363,10 +363,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1063,
+      "ID": 1063,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "RecoverableTipID",
+      "Name": "RecoverableTipID",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -375,10 +375,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1064,
+      "ID": 1064,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "RecoverableBottomTipID",
+      "Name": "RecoverableBottomTipID",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -387,10 +387,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1065,
+      "ID": 1065,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowDrillEnergy",
+      "Name": "HollowDrillEnergy",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -399,10 +399,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1066,
+      "ID": 1066,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowDrillLevel",
+      "Name": "HollowDrillLevel",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -411,10 +411,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1067,
+      "ID": 1067,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpRecover_Ratio_Slot1",
+      "Name": "HollowHpRecover_Ratio_Slot1",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -423,10 +423,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1068,
+      "ID": 1068,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpDecrease_Ratio_Slot1",
+      "Name": "HollowHpDecrease_Ratio_Slot1",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -435,10 +435,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1069,
+      "ID": 1069,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpRecover_Ratio_Slot2",
+      "Name": "HollowHpRecover_Ratio_Slot2",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -447,10 +447,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1070,
+      "ID": 1070,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpDecrease_Ratio_Slot2",
+      "Name": "HollowHpDecrease_Ratio_Slot2",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -459,10 +459,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1071,
+      "ID": 1071,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpRecover_Ratio_Slot3",
+      "Name": "HollowHpRecover_Ratio_Slot3",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -471,10 +471,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1072,
+      "ID": 1072,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpDecrease_Ratio_Slot3",
+      "Name": "HollowHpDecrease_Ratio_Slot3",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -483,10 +483,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1073,
+      "ID": 1073,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowZeroCoinMaxNum",
+      "Name": "HollowZeroCoinMaxNum",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -495,10 +495,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1074,
+      "ID": 1074,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpRecover_Forbid",
+      "Name": "HollowHpRecover_Forbid",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -507,10 +507,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1075,
+      "ID": 1075,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowHpDecrease_Forbid",
+      "Name": "HollowHpDecrease_Forbid",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -519,10 +519,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1076,
+      "ID": 1076,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowLoadSupportAvatar_Forbid",
+      "Name": "HollowLoadSupportAvatar_Forbid",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -531,10 +531,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1077,
+      "ID": 1077,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowRetryTutorial",
+      "Name": "HollowRetryTutorial",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -543,10 +543,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1078,
+      "ID": 1078,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Relic_B_Probability",
+      "Name": "Relic_B_Probability",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -555,10 +555,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1079,
+      "ID": 1079,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Relic_A_Probability",
+      "Name": "Relic_A_Probability",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -567,10 +567,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1080,
+      "ID": 1080,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Relic_S_Probability",
+      "Name": "Relic_S_Probability",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -579,10 +579,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1081,
+      "ID": 1081,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "ForbidVoice",
+      "Name": "ForbidVoice",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -591,10 +591,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1082,
+      "ID": 1082,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "HollowDrillSpeedLevel",
+      "Name": "HollowDrillSpeedLevel",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -603,10 +603,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1083,
+      "ID": 1083,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Exp",
+      "Name": "Exp",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -615,10 +615,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1084,
+      "ID": 1084,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Exp_Max",
+      "Name": "Exp_Max",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 1,
@@ -627,10 +627,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1085,
+      "ID": 1085,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Exp_Ratio",
+      "Name": "Exp_Ratio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -639,10 +639,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1086,
+      "ID": 1086,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Exp_Delta",
+      "Name": "Exp_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -651,10 +651,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1087,
+      "ID": 1087,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Power",
+      "Name": "Power",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -663,10 +663,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1088,
+      "ID": 1088,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Power_LevelUp",
+      "Name": "Power_LevelUp",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -675,10 +675,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1089,
+      "ID": 1089,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Arpeggio_Layer",
+      "Name": "Arpeggio_Layer",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -687,10 +687,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1090,
+      "ID": 1090,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_BuyPriceRatio",
+      "Name": "Shop_BuyPriceRatio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -699,10 +699,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1091,
+      "ID": 1091,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_BuyPriceDelta",
+      "Name": "Shop_BuyPriceDelta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -711,10 +711,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1092,
+      "ID": 1092,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_SellPriceRatio",
+      "Name": "Shop_SellPriceRatio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -723,10 +723,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1093,
+      "ID": 1093,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_SellPriceDelta",
+      "Name": "Shop_SellPriceDelta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -735,10 +735,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1094,
+      "ID": 1094,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Arpeggio_Level",
+      "Name": "Arpeggio_Level",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,
@@ -747,10 +747,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1095,
+      "ID": 1095,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_GoodsNumDelta",
+      "Name": "Shop_GoodsNumDelta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": 0,
@@ -759,10 +759,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1096,
+      "ID": 1096,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_Goods_SW_Ratio",
+      "Name": "Shop_Goods_SW_Ratio",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -771,10 +771,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1097,
+      "ID": 1097,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_Goods_AW_Ratio",
+      "Name": "Shop_Goods_AW_Ratio",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -783,10 +783,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1098,
+      "ID": 1098,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_Goods_BW_Ratio",
+      "Name": "Shop_Goods_BW_Ratio",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -10000,
@@ -795,10 +795,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1099,
+      "ID": 1099,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_RefreshCost_Ratio",
+      "Name": "Shop_RefreshCost_Ratio",
       "PBDBEIEIEAD": 10000,
       "KOCALJGOCBP": "{0:0.##%}",
       "LACAFMEFMHN": -10000,
@@ -807,10 +807,10 @@
       "GAOJBCGCNBN": []
     },
     {
-      "PDJOCPDOOAA": 1100,
+      "ID": 1100,
       "IMCAMCFIMKN": 0,
       "NMPOBOJDCCB": "",
-      "KMFMLNCJBEG": "Shop_RefreshCost_Delta",
+      "Name": "Shop_RefreshCost_Delta",
       "PBDBEIEIEAD": 1,
       "KOCALJGOCBP": "{0:0}",
       "LACAFMEFMHN": -1000,

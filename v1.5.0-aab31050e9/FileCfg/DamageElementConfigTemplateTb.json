@@ -1,8 +1,8 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
       "CMLOGOEGDNL": 0,
-      "KMFMLNCJBEG": "ElementType_None",
+      "Name": "ElementType_None",
       "ONPDBOKEBPP": "None",
       "EGNNONPMDND": "",
       "DFBEBLIGJDC": "",
@@ -16,7 +16,7 @@
     },
     {
       "CMLOGOEGDNL": 200,
-      "KMFMLNCJBEG": "ElementType_Physics",
+      "Name": "ElementType_Physics",
       "ONPDBOKEBPP": "Physics",
       "EGNNONPMDND": "ElementIconTitle_Physics",
       "DFBEBLIGJDC": "ElementIconText_Physics",
@@ -34,7 +34,7 @@
     },
     {
       "CMLOGOEGDNL": 200,
-      "KMFMLNCJBEG": "ElementType_Physics",
+      "Name": "ElementType_Physics",
       "ONPDBOKEBPP": "Physics",
       "EGNNONPMDND": "ElementIconTitle_Physics",
       "DFBEBLIGJDC": "ElementIconText_Physics",
@@ -52,7 +52,7 @@
     },
     {
       "CMLOGOEGDNL": 201,
-      "KMFMLNCJBEG": "ElementType_Fire",
+      "Name": "ElementType_Fire",
       "ONPDBOKEBPP": "Fire",
       "EGNNONPMDND": "ElementIconTitle_Fire",
       "DFBEBLIGJDC": "ElementIconText_Fire",
@@ -70,7 +70,7 @@
     },
     {
       "CMLOGOEGDNL": 202,
-      "KMFMLNCJBEG": "ElementType_Ice",
+      "Name": "ElementType_Ice",
       "ONPDBOKEBPP": "Ice",
       "EGNNONPMDND": "ElementIconTitle_Ice",
       "DFBEBLIGJDC": "ElementIconText_Ice",
@@ -88,7 +88,7 @@
     },
     {
       "CMLOGOEGDNL": 202,
-      "KMFMLNCJBEG": "ElementType_FireFrost",
+      "Name": "ElementType_FireFrost",
       "ONPDBOKEBPP": "FireFrost",
       "EGNNONPMDND": "ElementIconTitle_FireFrost",
       "DFBEBLIGJDC": "ElementIconText_FireFrost",
@@ -106,7 +106,7 @@
     },
     {
       "CMLOGOEGDNL": 203,
-      "KMFMLNCJBEG": "ElementType_Elec",
+      "Name": "ElementType_Elec",
       "ONPDBOKEBPP": "Elec",
       "EGNNONPMDND": "ElementIconTitle_Elec",
       "DFBEBLIGJDC": "ElementIconText_Elec",
@@ -124,7 +124,7 @@
     },
     {
       "CMLOGOEGDNL": 205,
-      "KMFMLNCJBEG": "ElementType_Ether",
+      "Name": "ElementType_Ether",
       "ONPDBOKEBPP": "Ether",
       "EGNNONPMDND": "ElementIconTitle_Ether",
       "DFBEBLIGJDC": "ElementIconText_Ether",

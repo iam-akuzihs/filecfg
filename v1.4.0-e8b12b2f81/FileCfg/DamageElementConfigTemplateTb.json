@@ -1,8 +1,8 @@
 {
-  "LFPICNCBMIF": [
+  "__exp_FileCfg": [
     {
       "NIHDBNAMMON": 0,
-      "JOMJELIIAGO": "ElementType_None",
+      "Name": "ElementType_None",
       "EIAIPPCANOA": "None",
       "AOPMHIOGIDI": "",
       "JJOEMBLGCCH": "",
@@ -16,7 +16,7 @@
     },
     {
       "NIHDBNAMMON": 200,
-      "JOMJELIIAGO": "ElementType_Physics",
+      "Name": "ElementType_Physics",
       "EIAIPPCANOA": "Physics",
       "AOPMHIOGIDI": "ElementIconTitle_Physics",
       "JJOEMBLGCCH": "ElementIconText_Physics",
@@ -34,7 +34,7 @@
     },
     {
       "NIHDBNAMMON": 200,
-      "JOMJELIIAGO": "ElementType_Physics",
+      "Name": "ElementType_Physics",
       "EIAIPPCANOA": "Physics",
       "AOPMHIOGIDI": "ElementIconTitle_Physics",
       "JJOEMBLGCCH": "ElementIconText_Physics",
@@ -52,7 +52,7 @@
     },
     {
       "NIHDBNAMMON": 201,
-      "JOMJELIIAGO": "ElementType_Fire",
+      "Name": "ElementType_Fire",
       "EIAIPPCANOA": "Fire",
       "AOPMHIOGIDI": "ElementIconTitle_Fire",
       "JJOEMBLGCCH": "ElementIconText_Fire",
@@ -70,7 +70,7 @@
     },
     {
       "NIHDBNAMMON": 202,
-      "JOMJELIIAGO": "ElementType_Ice",
+      "Name": "ElementType_Ice",
       "EIAIPPCANOA": "Ice",
       "AOPMHIOGIDI": "ElementIconTitle_Ice",
       "JJOEMBLGCCH": "ElementIconText_Ice",
@@ -88,7 +88,7 @@
     },
     {
       "NIHDBNAMMON": 202,
-      "JOMJELIIAGO": "ElementType_FireFrost",
+      "Name": "ElementType_FireFrost",
       "EIAIPPCANOA": "FireFrost",
       "AOPMHIOGIDI": "ElementIconTitle_FireFrost",
       "JJOEMBLGCCH": "ElementIconText_FireFrost",
@@ -106,7 +106,7 @@
     },
     {
       "NIHDBNAMMON": 203,
-      "JOMJELIIAGO": "ElementType_Elec",
+      "Name": "ElementType_Elec",
       "EIAIPPCANOA": "Elec",
       "AOPMHIOGIDI": "ElementIconTitle_Elec",
       "JJOEMBLGCCH": "ElementIconText_Elec",
@@ -124,7 +124,7 @@
     },
     {
       "NIHDBNAMMON": 205,
-      "JOMJELIIAGO": "ElementType_Ether",
+      "Name": "ElementType_Ether",
       "EIAIPPCANOA": "Ether",
       "AOPMHIOGIDI": "ElementIconTitle_Ether",
       "JJOEMBLGCCH": "ElementIconText_Ether",

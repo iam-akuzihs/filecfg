@@ -1,7 +1,7 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 1,
+      "ID": 1,
       "CGDJPHIDPJB": "Stun",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -23,7 +23,7 @@
       "GCLAEIIBCBK": 1
     },
     {
-      "GKNMDKNIMHP": 2,
+      "ID": 2,
       "CGDJPHIDPJB": "Tied",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -39,7 +39,7 @@
       "GCLAEIIBCBK": 2
     },
     {
-      "GKNMDKNIMHP": 3,
+      "ID": 3,
       "CGDJPHIDPJB": "Frozen",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -57,7 +57,7 @@
       "GCLAEIIBCBK": 3
     },
     {
-      "GKNMDKNIMHP": 4,
+      "ID": 4,
       "CGDJPHIDPJB": "Sleep",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -73,7 +73,7 @@
       "GCLAEIIBCBK": 4
     },
     {
-      "GKNMDKNIMHP": 5,
+      "ID": 5,
       "CGDJPHIDPJB": "Slience",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -89,7 +89,7 @@
       "GCLAEIIBCBK": 5
     },
     {
-      "GKNMDKNIMHP": 6,
+      "ID": 6,
       "CGDJPHIDPJB": "Burn",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -107,7 +107,7 @@
       "GCLAEIIBCBK": 6
     },
     {
-      "GKNMDKNIMHP": 7,
+      "ID": 7,
       "CGDJPHIDPJB": "Poison",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 4,
@@ -123,7 +123,7 @@
       "GCLAEIIBCBK": 7
     },
     {
-      "GKNMDKNIMHP": 8,
+      "ID": 8,
       "CGDJPHIDPJB": "Bleed",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 4,
@@ -139,7 +139,7 @@
       "GCLAEIIBCBK": 8
     },
     {
-      "GKNMDKNIMHP": 9,
+      "ID": 9,
       "CGDJPHIDPJB": "AttackUp",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 4,
@@ -155,7 +155,7 @@
       "GCLAEIIBCBK": 9
     },
     {
-      "GKNMDKNIMHP": 10,
+      "ID": 10,
       "CGDJPHIDPJB": "AttackDown",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 4,
@@ -171,7 +171,7 @@
       "GCLAEIIBCBK": 10
     },
     {
-      "GKNMDKNIMHP": 11,
+      "ID": 11,
       "CGDJPHIDPJB": "CritUp",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 4,
@@ -187,7 +187,7 @@
       "GCLAEIIBCBK": 11
     },
     {
-      "GKNMDKNIMHP": 12,
+      "ID": 12,
       "CGDJPHIDPJB": "CritDown",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 4,
@@ -203,7 +203,7 @@
       "GCLAEIIBCBK": 12
     },
     {
-      "GKNMDKNIMHP": 13,
+      "ID": 13,
       "CGDJPHIDPJB": "CritDamageUp",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 4,
@@ -219,7 +219,7 @@
       "GCLAEIIBCBK": 13
     },
     {
-      "GKNMDKNIMHP": 14,
+      "ID": 14,
       "CGDJPHIDPJB": "CritDamageDown",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 4,
@@ -235,7 +235,7 @@
       "GCLAEIIBCBK": 14
     },
     {
-      "GKNMDKNIMHP": 15,
+      "ID": 15,
       "CGDJPHIDPJB": "DefenceUp",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 4,
@@ -251,7 +251,7 @@
       "GCLAEIIBCBK": 15
     },
     {
-      "GKNMDKNIMHP": 16,
+      "ID": 16,
       "CGDJPHIDPJB": "DefenceDown",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 4,
@@ -267,7 +267,7 @@
       "GCLAEIIBCBK": 16
     },
     {
-      "GKNMDKNIMHP": 17,
+      "ID": 17,
       "CGDJPHIDPJB": "MoveSpeedUp",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 4,
@@ -283,7 +283,7 @@
       "GCLAEIIBCBK": 17
     },
     {
-      "GKNMDKNIMHP": 18,
+      "ID": 18,
       "CGDJPHIDPJB": "MoveSpeedDown",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 4,
@@ -299,7 +299,7 @@
       "GCLAEIIBCBK": 18
     },
     {
-      "GKNMDKNIMHP": 19,
+      "ID": 19,
       "CGDJPHIDPJB": "AttackSpeedUp",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 4,
@@ -315,7 +315,7 @@
       "GCLAEIIBCBK": 19
     },
     {
-      "GKNMDKNIMHP": 20,
+      "ID": 20,
       "CGDJPHIDPJB": "AttackSpeedDown",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 4,
@@ -331,7 +331,7 @@
       "GCLAEIIBCBK": 20
     },
     {
-      "GKNMDKNIMHP": 21,
+      "ID": 21,
       "CGDJPHIDPJB": "Invincible",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 9,
@@ -347,7 +347,7 @@
       "GCLAEIIBCBK": 21
     },
     {
-      "GKNMDKNIMHP": 22,
+      "ID": 22,
       "CGDJPHIDPJB": "Unbreakable",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 9,
@@ -363,7 +363,7 @@
       "GCLAEIIBCBK": 22
     },
     {
-      "GKNMDKNIMHP": 23,
+      "ID": 23,
       "CGDJPHIDPJB": "Weak",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -379,7 +379,7 @@
       "GCLAEIIBCBK": 23
     },
     {
-      "GKNMDKNIMHP": 24,
+      "ID": 24,
       "CGDJPHIDPJB": "Vulnerable",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -395,7 +395,7 @@
       "GCLAEIIBCBK": 24
     },
     {
-      "GKNMDKNIMHP": 26,
+      "ID": 26,
       "CGDJPHIDPJB": "TimeSlow",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 7,
@@ -411,7 +411,7 @@
       "GCLAEIIBCBK": 26
     },
     {
-      "GKNMDKNIMHP": 27,
+      "ID": 27,
       "CGDJPHIDPJB": "Electric",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -429,7 +429,7 @@
       "GCLAEIIBCBK": 27
     },
     {
-      "GKNMDKNIMHP": 28,
+      "ID": 28,
       "CGDJPHIDPJB": "FrozenAvatar",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -445,7 +445,7 @@
       "GCLAEIIBCBK": 28
     },
     {
-      "GKNMDKNIMHP": 29,
+      "ID": 29,
       "CGDJPHIDPJB": "Block",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 9,
@@ -461,7 +461,7 @@
       "GCLAEIIBCBK": 29
     },
     {
-      "GKNMDKNIMHP": 30,
+      "ID": 30,
       "CGDJPHIDPJB": "Ignite",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -479,7 +479,7 @@
       "GCLAEIIBCBK": 30
     },
     {
-      "GKNMDKNIMHP": 31,
+      "ID": 31,
       "CGDJPHIDPJB": "Overload",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -497,7 +497,7 @@
       "GCLAEIIBCBK": 31
     },
     {
-      "GKNMDKNIMHP": 33,
+      "ID": 33,
       "CGDJPHIDPJB": "Erosion",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -518,7 +518,7 @@
       "GCLAEIIBCBK": 33
     },
     {
-      "GKNMDKNIMHP": 34,
+      "ID": 34,
       "CGDJPHIDPJB": "Chaos",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -539,7 +539,7 @@
       "GCLAEIIBCBK": 34
     },
     {
-      "GKNMDKNIMHP": 35,
+      "ID": 35,
       "CGDJPHIDPJB": "Strike",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -560,7 +560,7 @@
       "GCLAEIIBCBK": 35
     },
     {
-      "GKNMDKNIMHP": 36,
+      "ID": 36,
       "CGDJPHIDPJB": "Frostbite",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -576,7 +576,7 @@
       "GCLAEIIBCBK": 36
     },
     {
-      "GKNMDKNIMHP": 37,
+      "ID": 37,
       "CGDJPHIDPJB": "Frost",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -592,7 +592,7 @@
       "GCLAEIIBCBK": 37
     },
     {
-      "GKNMDKNIMHP": 38,
+      "ID": 38,
       "CGDJPHIDPJB": "Disorder",
       "GKLDIPOJNGD": 2,
       "MFDDNIEMBPC": 9,
@@ -608,7 +608,7 @@
       "GCLAEIIBCBK": 38
     },
     {
-      "GKNMDKNIMHP": 99,
+      "ID": 99,
       "CGDJPHIDPJB": "ActivityBattleSign",
       "GKLDIPOJNGD": 1,
       "MFDDNIEMBPC": 4,

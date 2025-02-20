@@ -1,13 +1,13 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
-      "HBKDOIKGNDE": 31000,
-      "DIIDBBGLDOL": "EquipmentSuit_31000_name",
+      "ID": 31000,
+      "Name": "EquipmentSuit_31000_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 20103,
-          "LPOMPMJAFLK": 800
+          "__exp_Property": 20103,
+          "Value": 800
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -22,13 +22,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWoodpeckerElectro.png"
     },
     {
-      "HBKDOIKGNDE": 31100,
-      "DIIDBBGLDOL": "EquipmentSuit_31100_name",
+      "ID": 31100,
+      "Name": "EquipmentSuit_31100_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 23103,
-          "LPOMPMJAFLK": 800
+          "__exp_Property": 23103,
+          "Value": 800
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -43,13 +43,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPufferElectro.png"
     },
     {
-      "HBKDOIKGNDE": 31200,
-      "DIIDBBGLDOL": "EquipmentSuit_31200_name",
+      "ID": 31200,
+      "Name": "EquipmentSuit_31200_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 12202,
-          "LPOMPMJAFLK": 600
+          "__exp_Property": 12202,
+          "Value": 600
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -64,13 +64,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShockstarDisco.png"
     },
     {
-      "HBKDOIKGNDE": 31300,
-      "DIIDBBGLDOL": "EquipmentSuit_31300_name",
+      "ID": 31300,
+      "Name": "EquipmentSuit_31300_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 31203,
-          "LPOMPMJAFLK": 30
+          "__exp_Property": 31203,
+          "Value": 30
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -85,13 +85,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitFreedomBlues.png"
     },
     {
-      "HBKDOIKGNDE": 31400,
-      "DIIDBBGLDOL": "EquipmentSuit_31400_name",
+      "ID": 31400,
+      "Name": "EquipmentSuit_31400_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 12102,
-          "LPOMPMJAFLK": 1000
+          "__exp_Property": 12102,
+          "Value": 1000
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -106,13 +106,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitHormonePunk.png"
     },
     {
-      "HBKDOIKGNDE": 31500,
-      "DIIDBBGLDOL": "EquipmentSuit_31500_name",
+      "ID": 31500,
+      "Name": "EquipmentSuit_31500_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 13102,
-          "LPOMPMJAFLK": 1600
+          "__exp_Property": 13102,
+          "Value": 1600
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -127,13 +127,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSoulRock.png"
     },
     {
-      "HBKDOIKGNDE": 31600,
-      "DIIDBBGLDOL": "EquipmentSuit_31600_name",
+      "ID": 31600,
+      "Name": "EquipmentSuit_31600_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 30502,
-          "LPOMPMJAFLK": 2000
+          "__exp_Property": 30502,
+          "Value": 2000
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -148,13 +148,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSwingJazz.png"
     },
     {
-      "HBKDOIKGNDE": 32200,
-      "DIIDBBGLDOL": "EquipmentSuit_32200_name",
+      "ID": 32200,
+      "Name": "EquipmentSuit_32200_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 31603,
-          "LPOMPMJAFLK": 1000
+          "__exp_Property": 31603,
+          "Value": 1000
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -169,13 +169,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitInfernoMetal.png"
     },
     {
-      "HBKDOIKGNDE": 32300,
-      "DIIDBBGLDOL": "EquipmentSuit_32300_name",
+      "ID": 32300,
+      "Name": "EquipmentSuit_32300_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 31903,
-          "LPOMPMJAFLK": 1000
+          "__exp_Property": 31903,
+          "Value": 1000
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -190,13 +190,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitChaosMetal.png"
     },
     {
-      "HBKDOIKGNDE": 32400,
-      "DIIDBBGLDOL": "EquipmentSuit_32400_name",
+      "ID": 32400,
+      "Name": "EquipmentSuit_32400_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 31803,
-          "LPOMPMJAFLK": 1000
+          "__exp_Property": 31803,
+          "Value": 1000
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -211,13 +211,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitThunderMetal.png"
     },
     {
-      "HBKDOIKGNDE": 32500,
-      "DIIDBBGLDOL": "EquipmentSuit_32500_name",
+      "ID": 32500,
+      "Name": "EquipmentSuit_32500_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 31703,
-          "LPOMPMJAFLK": 1000
+          "__exp_Property": 31703,
+          "Value": 1000
         }
       ],
       "ACIOBDLFFOK": 0,
@@ -232,13 +232,13 @@
       "CBNEDJNAOBO": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitPolarMetal.png"
     },
     {
-      "HBKDOIKGNDE": 32600,
-      "DIIDBBGLDOL": "EquipmentSuit_32600_name",
+      "ID": 32600,
+      "Name": "EquipmentSuit_32600_name",
       "DIKBFLDEBHE": 2,
       "NJLCEFEJDCI": [
         {
-          "IEKNHHOFCHL": 31503,
-          "LPOMPMJAFLK": 1000
+          "__exp_Property": 31503,
+          "Value": 1000
         }
       ],
       "ACIOBDLFFOK": 0,

@@ -1,7 +1,7 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
-      "HBKDOIKGNDE": 1001,
+      "ID": 1001,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 1,
       "ENAFENAEECG": 1,
@@ -11,7 +11,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconSundryBtn.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_321",
+      "Name": "UIText_321",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconSundryBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -23,7 +23,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1002,
+      "ID": 1002,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 2,
       "ENAFENAEECG": 1,
@@ -33,7 +33,7 @@
       "HCLOAOMNJEA": "GachaText_UnlockHint",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconGashaponBtn.png",
       "JAKDPIDICCJ": 4,
-      "DIIDBBGLDOL": "Gacha_Button_Entrance",
+      "Name": "Gacha_Button_Entrance",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconGashaponBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -45,7 +45,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1003,
+      "ID": 1003,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 3,
       "ENAFENAEECG": 1,
@@ -55,7 +55,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconShopBtn02.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_323",
+      "Name": "UIText_323",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconShopBtn02.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -67,7 +67,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1004,
+      "ID": 1004,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -77,7 +77,7 @@
       "HCLOAOMNJEA": "GachaText_Bangboo_UnlockHint",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconGashaponBtn.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "TabText_4001",
+      "Name": "TabText_4001",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconGashaponBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -89,7 +89,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1005,
+      "ID": 1005,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 5,
       "ENAFENAEECG": 1,
@@ -99,7 +99,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconYorozuyaManualBtn.png",
       "JAKDPIDICCJ": 25,
-      "DIIDBBGLDOL": "UIText_325",
+      "Name": "UIText_325",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconYorozuyaManualBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -111,7 +111,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1006,
+      "ID": 1006,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 6,
       "ENAFENAEECG": 1,
@@ -121,7 +121,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconBagBtn.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_326",
+      "Name": "UIText_326",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconBagBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -133,7 +133,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1007,
+      "ID": 1007,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 7,
       "ENAFENAEECG": 0,
@@ -143,7 +143,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconBangBooBtn.png",
       "JAKDPIDICCJ": 9,
-      "DIIDBBGLDOL": "UIText_327",
+      "Name": "UIText_327",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconBangBooBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -155,7 +155,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1008,
+      "ID": 1008,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 8,
       "ENAFENAEECG": 1,
@@ -165,7 +165,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconRoleBtn02.png",
       "JAKDPIDICCJ": 7,
-      "DIIDBBGLDOL": "UIText_328",
+      "Name": "UIText_328",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconRoleBtn02.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -177,7 +177,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1009,
+      "ID": 1009,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -187,7 +187,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconTeleportBtn.png",
       "JAKDPIDICCJ": 28,
-      "DIIDBBGLDOL": "UIText_329",
+      "Name": "UIText_329",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconTeleportBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -199,7 +199,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1010,
+      "ID": 1010,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 10,
       "ENAFENAEECG": 0,
@@ -209,7 +209,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 11,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -221,7 +221,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1011,
+      "ID": 1011,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 11,
       "ENAFENAEECG": 0,
@@ -231,7 +231,7 @@
       "HCLOAOMNJEA": "MenuText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -243,7 +243,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1013,
+      "ID": 1013,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 12,
       "ENAFENAEECG": 0,
@@ -253,7 +253,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -265,7 +265,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1014,
+      "ID": 1014,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 14,
       "ENAFENAEECG": 1,
@@ -275,7 +275,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconSetUp.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_330",
+      "Name": "UIText_330",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconSetUp.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -287,7 +287,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1015,
+      "ID": 1015,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 214,
       "ENAFENAEECG": 2,
@@ -297,7 +297,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconMail.png",
       "JAKDPIDICCJ": 2,
-      "DIIDBBGLDOL": "UIText_331",
+      "Name": "UIText_331",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconMail.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -309,7 +309,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1016,
+      "ID": 1016,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 215,
       "ENAFENAEECG": 2,
@@ -319,7 +319,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconNotice.png",
       "JAKDPIDICCJ": 26,
-      "DIIDBBGLDOL": "UIText_332",
+      "Name": "UIText_332",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconNotice.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -331,7 +331,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1017,
+      "ID": 1017,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 217,
       "ENAFENAEECG": 2,
@@ -341,7 +341,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconFeedback.png",
       "JAKDPIDICCJ": 3,
-      "DIIDBBGLDOL": "UIText_354",
+      "Name": "UIText_354",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconFeedback.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -353,7 +353,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1018,
+      "ID": 1018,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 18,
       "ENAFENAEECG": 0,
@@ -363,7 +363,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -375,7 +375,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1019,
+      "ID": 1019,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 220,
       "ENAFENAEECG": 2,
@@ -385,7 +385,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconSignOut",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_367",
+      "Name": "UIText_367",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconSignOut",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -397,7 +397,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1020,
+      "ID": 1020,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 20,
       "ENAFENAEECG": 3,
@@ -407,7 +407,7 @@
       "HCLOAOMNJEA": "Activity_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 5,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -419,7 +419,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1021,
+      "ID": 1021,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -429,7 +429,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconPhotograph.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_582",
+      "Name": "UIText_582",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconPhotograph.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -441,7 +441,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1022,
+      "ID": 1022,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 21,
       "ENAFENAEECG": 1,
@@ -451,7 +451,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconMsgBtn.png",
       "JAKDPIDICCJ": 27,
-      "DIIDBBGLDOL": "UIText_568",
+      "Name": "UIText_568",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconMsgBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -463,7 +463,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1023,
+      "ID": 1023,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 2,
@@ -473,7 +473,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconTrainingCourseBtn.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_569",
+      "Name": "UIText_569",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/KeyIcon/Packer/TestIcon.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -487,7 +487,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 1024,
+      "ID": 1024,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -497,7 +497,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 8,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -509,7 +509,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1025,
+      "ID": 1025,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -519,7 +519,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 1,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -531,7 +531,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1026,
+      "ID": 1026,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -541,7 +541,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 10,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -553,7 +553,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1027,
+      "ID": 1027,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -563,7 +563,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 15,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -575,7 +575,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1028,
+      "ID": 1028,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -585,7 +585,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 16,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -597,7 +597,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1029,
+      "ID": 1029,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -607,7 +607,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 17,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -619,7 +619,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1030,
+      "ID": 1030,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -629,7 +629,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 18,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -641,7 +641,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1031,
+      "ID": 1031,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -651,7 +651,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 19,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -663,7 +663,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1032,
+      "ID": 1032,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -673,7 +673,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 21,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -687,7 +687,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 1033,
+      "ID": 1033,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -697,7 +697,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 23,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 1034,
+      "ID": 1034,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -721,7 +721,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 27,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -733,7 +733,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1035,
+      "ID": 1035,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -743,7 +743,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 29,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -755,7 +755,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1036,
+      "ID": 1036,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -765,7 +765,7 @@
       "HCLOAOMNJEA": "BangbooModify_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -777,7 +777,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1037,
+      "ID": 1037,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 242,
       "ENAFENAEECG": 2,
@@ -787,7 +787,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconSeparate.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_702",
+      "Name": "UIText_702",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconFeedback.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -799,7 +799,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1038,
+      "ID": 1038,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 4,
       "ENAFENAEECG": 1,
@@ -809,7 +809,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconShopBtn02.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_747",
+      "Name": "UIText_747",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconShopBtn02.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -821,7 +821,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1040,
+      "ID": 1040,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -831,7 +831,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 23,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -845,7 +845,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 1041,
+      "ID": 1041,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 218,
       "ENAFENAEECG": 2,
@@ -855,7 +855,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconCommunity.png",
       "JAKDPIDICCJ": 46,
-      "DIIDBBGLDOL": "UIText_762",
+      "Name": "UIText_762",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconCommunity.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -867,7 +867,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1042,
+      "ID": 1042,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 221,
       "ENAFENAEECG": 0,
@@ -877,7 +877,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_762",
+      "Name": "UIText_762",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconCommunity.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -889,7 +889,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1043,
+      "ID": 1043,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -899,7 +899,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -911,7 +911,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1044,
+      "ID": 1044,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 222,
       "ENAFENAEECG": 0,
@@ -921,7 +921,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconBackWall.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_855",
+      "Name": "UIText_855",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconBackWall.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -933,7 +933,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1045,
+      "ID": 1045,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -943,7 +943,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -955,7 +955,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1046,
+      "ID": 1046,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 219,
       "ENAFENAEECG": 2,
@@ -965,7 +965,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconPGC.png",
       "JAKDPIDICCJ": 44,
-      "DIIDBBGLDOL": "UIText_PGCentrance",
+      "Name": "UIText_PGCentrance",
       "BOMNEKHOGIH": "UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconPGC.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -977,7 +977,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1048,
+      "ID": 1048,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -987,7 +987,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 23,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1001,7 +1001,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 1049,
+      "ID": 1049,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1011,7 +1011,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1023,7 +1023,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1050,
+      "ID": 1050,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 223,
       "ENAFENAEECG": 2,
@@ -1033,7 +1033,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconRedeemCode.png",
       "JAKDPIDICCJ": 52,
-      "DIIDBBGLDOL": "UIText_RedeemCodeTitle",
+      "Name": "UIText_RedeemCodeTitle",
       "BOMNEKHOGIH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconMenusOption/Packer/IconRedeemCode.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1045,7 +1045,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1051,
+      "ID": 1051,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1055,7 +1055,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1067,7 +1067,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1052,
+      "ID": 1052,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1077,7 +1077,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1089,7 +1089,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1053,
+      "ID": 1053,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1099,7 +1099,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1111,7 +1111,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1054,
+      "ID": 1054,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1121,7 +1121,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 62,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1133,7 +1133,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1055,
+      "ID": 1055,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1143,7 +1143,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 63,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1155,7 +1155,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1056,
+      "ID": 1056,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1165,7 +1165,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 61,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1177,7 +1177,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1057,
+      "ID": 1057,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1187,7 +1187,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 64,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1199,7 +1199,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1058,
+      "ID": 1058,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1209,7 +1209,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 54,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1221,7 +1221,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1059,
+      "ID": 1059,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1231,7 +1231,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 55,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1243,7 +1243,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 1060,
+      "ID": 1060,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 2,
@@ -1253,7 +1253,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconRopemakerNoteBtn.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_514",
+      "Name": "UIText_514",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconRopemakerNoteBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 0,
@@ -1265,7 +1265,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 2000,
+      "ID": 2000,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1275,7 +1275,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1287,7 +1287,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 2001,
+      "ID": 2001,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1297,7 +1297,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1309,7 +1309,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 3000,
+      "ID": 3000,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1319,7 +1319,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1331,7 +1331,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 3001,
+      "ID": 3001,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1341,7 +1341,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1353,7 +1353,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10001,
+      "ID": 10001,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 23,
       "ENAFENAEECG": 0,
@@ -1363,7 +1363,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1375,7 +1375,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10002,
+      "ID": 10002,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 24,
       "ENAFENAEECG": 0,
@@ -1385,7 +1385,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 4,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1397,7 +1397,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10003,
+      "ID": 10003,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 25,
       "ENAFENAEECG": 0,
@@ -1407,7 +1407,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1419,7 +1419,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10005,
+      "ID": 10005,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 27,
       "ENAFENAEECG": 0,
@@ -1429,7 +1429,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1441,7 +1441,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10006,
+      "ID": 10006,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 28,
       "ENAFENAEECG": 0,
@@ -1451,7 +1451,7 @@
       "HCLOAOMNJEA": "InventoryText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1463,7 +1463,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10007,
+      "ID": 10007,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 29,
       "ENAFENAEECG": 0,
@@ -1473,7 +1473,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1485,7 +1485,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10008,
+      "ID": 10008,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 30,
       "ENAFENAEECG": 0,
@@ -1495,7 +1495,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1507,7 +1507,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10009,
+      "ID": 10009,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 31,
       "ENAFENAEECG": 0,
@@ -1517,7 +1517,7 @@
       "HCLOAOMNJEA": "Teleport_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1529,7 +1529,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10010,
+      "ID": 10010,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 32,
       "ENAFENAEECG": 0,
@@ -1539,7 +1539,7 @@
       "HCLOAOMNJEA": "SmithyText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 11,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1553,7 +1553,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10012,
+      "ID": 10012,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 33,
       "ENAFENAEECG": 0,
@@ -1563,7 +1563,7 @@
       "HCLOAOMNJEA": "RamenText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 14,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1578,7 +1578,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10013,
+      "ID": 10013,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 34,
       "ENAFENAEECG": 0,
@@ -1588,7 +1588,7 @@
       "HCLOAOMNJEA": "WorkbenchText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 20,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1602,7 +1602,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10014,
+      "ID": 10014,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 35,
       "ENAFENAEECG": 0,
@@ -1612,7 +1612,7 @@
       "HCLOAOMNJEA": "VHSStoreText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 13,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1626,7 +1626,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10015,
+      "ID": 10015,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 36,
       "ENAFENAEECG": 0,
@@ -1636,7 +1636,7 @@
       "HCLOAOMNJEA": "GroceryText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 12,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1648,7 +1648,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10017,
+      "ID": 10017,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 37,
       "ENAFENAEECG": 0,
@@ -1658,7 +1658,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1670,7 +1670,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10018,
+      "ID": 10018,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 38,
       "ENAFENAEECG": 0,
@@ -1680,7 +1680,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1694,7 +1694,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10019,
+      "ID": 10019,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 39,
       "ENAFENAEECG": 0,
@@ -1704,7 +1704,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1716,7 +1716,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10020,
+      "ID": 10020,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 40,
       "ENAFENAEECG": 0,
@@ -1726,7 +1726,7 @@
       "HCLOAOMNJEA": "FortuneHIA_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1738,7 +1738,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10021,
+      "ID": 10021,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 41,
       "ENAFENAEECG": 0,
@@ -1748,7 +1748,7 @@
       "HCLOAOMNJEA": "VRText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 24,
-      "DIIDBBGLDOL": "UIText_465",
+      "Name": "UIText_465",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1762,7 +1762,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10022,
+      "ID": 10022,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1772,7 +1772,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1786,7 +1786,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10023,
+      "ID": 10023,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1796,7 +1796,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1808,7 +1808,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10024,
+      "ID": 10024,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1818,7 +1818,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1830,7 +1830,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10025,
+      "ID": 10025,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1840,7 +1840,7 @@
       "HCLOAOMNJEA": "ArcadeText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 15,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1854,7 +1854,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10026,
+      "ID": 10026,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1864,7 +1864,7 @@
       "HCLOAOMNJEA": "CafeText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 17,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1879,7 +1879,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10027,
+      "ID": 10027,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1889,7 +1889,7 @@
       "HCLOAOMNJEA": "TrendyText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 16,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1901,7 +1901,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10028,
+      "ID": 10028,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1911,7 +1911,7 @@
       "HCLOAOMNJEA": "BangbooModText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 10,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1925,7 +1925,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10029,
+      "ID": 10029,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1935,7 +1935,7 @@
       "HCLOAOMNJEA": "NewsstandText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 19,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1950,7 +1950,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10030,
+      "ID": 10030,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1960,7 +1960,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1974,7 +1974,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10031,
+      "ID": 10031,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -1984,7 +1984,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -1998,7 +1998,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10032,
+      "ID": 10032,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2008,7 +2008,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 18,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 1,
       "JIMLEDBLDAB": 7,
@@ -2020,7 +2020,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10033,
+      "ID": 10033,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2030,7 +2030,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2042,7 +2042,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10034,
+      "ID": 10034,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2052,7 +2052,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2064,7 +2064,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10035,
+      "ID": 10035,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2074,7 +2074,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 38,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2086,7 +2086,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10036,
+      "ID": 10036,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2096,7 +2096,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2110,7 +2110,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10037,
+      "ID": 10037,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 22,
       "ENAFENAEECG": 1,
@@ -2120,7 +2120,7 @@
       "HCLOAOMNJEA": "Handbook_UnlockHint",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconHandBookBtn.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "HB_HandbookName",
+      "Name": "HB_HandbookName",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconHandBookBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2132,7 +2132,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10038,
+      "ID": 10038,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2142,7 +2142,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2154,7 +2154,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10039,
+      "ID": 10039,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2164,7 +2164,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2176,7 +2176,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10040,
+      "ID": 10040,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2186,7 +2186,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2198,7 +2198,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10041,
+      "ID": 10041,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2208,7 +2208,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2220,7 +2220,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10042,
+      "ID": 10042,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2230,7 +2230,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2242,7 +2242,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10043,
+      "ID": 10043,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2252,7 +2252,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2267,7 +2267,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10044,
+      "ID": 10044,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2277,7 +2277,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2289,7 +2289,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10045,
+      "ID": 10045,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2299,7 +2299,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2313,7 +2313,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10046,
+      "ID": 10046,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2323,7 +2323,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2337,7 +2337,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10047,
+      "ID": 10047,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2347,7 +2347,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2361,7 +2361,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10048,
+      "ID": 10048,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2371,7 +2371,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2383,7 +2383,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10049,
+      "ID": 10049,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2393,7 +2393,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2405,7 +2405,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10050,
+      "ID": 10050,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2415,7 +2415,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2427,7 +2427,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10051,
+      "ID": 10051,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2437,7 +2437,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2451,7 +2451,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10052,
+      "ID": 10052,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2461,7 +2461,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2473,7 +2473,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10053,
+      "ID": 10053,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2483,7 +2483,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2495,7 +2495,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10054,
+      "ID": 10054,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2505,7 +2505,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2517,7 +2517,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10055,
+      "ID": 10055,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2527,7 +2527,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2539,7 +2539,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10056,
+      "ID": 10056,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2549,7 +2549,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2561,7 +2561,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10057,
+      "ID": 10057,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2571,7 +2571,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2583,7 +2583,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10058,
+      "ID": 10058,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2593,7 +2593,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2605,7 +2605,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10059,
+      "ID": 10059,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2615,7 +2615,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2627,7 +2627,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10060,
+      "ID": 10060,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2637,7 +2637,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2649,7 +2649,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10061,
+      "ID": 10061,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2659,7 +2659,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2671,7 +2671,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 10062,
+      "ID": 10062,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2681,7 +2681,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2695,7 +2695,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10063,
+      "ID": 10063,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2705,7 +2705,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2719,7 +2719,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10064,
+      "ID": 10064,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2729,7 +2729,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2743,7 +2743,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10065,
+      "ID": 10065,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2753,7 +2753,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2767,7 +2767,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10066,
+      "ID": 10066,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2777,7 +2777,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2791,7 +2791,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 20001,
+      "ID": 20001,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2801,7 +2801,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/MainCityRevival/UnPacker/MainCityRevivalBanner01.png",
       "JAKDPIDICCJ": 22,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 2,
       "JIMLEDBLDAB": 7,
@@ -2815,7 +2815,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 20002,
+      "ID": 20002,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2825,7 +2825,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/A1DynamicLoad/MainCityRevival/UnPacker/MainCityRevivalBanner03.png",
       "JAKDPIDICCJ": 22,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 2,
       "JIMLEDBLDAB": 7,
@@ -2839,7 +2839,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 20003,
+      "ID": 20003,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2849,7 +2849,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2863,7 +2863,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 20004,
+      "ID": 20004,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2873,7 +2873,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2887,7 +2887,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 20005,
+      "ID": 20005,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2897,7 +2897,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2911,7 +2911,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 20006,
+      "ID": 20006,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2921,7 +2921,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2935,7 +2935,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 20007,
+      "ID": 20007,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2945,7 +2945,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2959,7 +2959,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 20008,
+      "ID": 20008,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2969,7 +2969,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -2983,7 +2983,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 30001,
+      "ID": 30001,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -2993,7 +2993,7 @@
       "HCLOAOMNJEA": "VHSText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -3005,7 +3005,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 30002,
+      "ID": 30002,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3015,7 +3015,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -3027,7 +3027,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 30003,
+      "ID": 30003,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 42,
       "ENAFENAEECG": 0,
@@ -3037,7 +3037,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -3051,7 +3051,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 30004,
+      "ID": 30004,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 43,
       "ENAFENAEECG": 1,
@@ -3061,7 +3061,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "UI/Sprite/MainCityMenus/Packer/IconBagBtn.png",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "UIText_326",
+      "Name": "UIText_326",
       "BOMNEKHOGIH": "UI/Sprite/MainCityMenus/Packer/IconBagBtn.png",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -3073,7 +3073,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 30005,
+      "ID": 30005,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3083,7 +3083,7 @@
       "HCLOAOMNJEA": "DirectoryText_UnlockHint",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 0,
@@ -3095,7 +3095,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 30011,
+      "ID": 30011,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3105,7 +3105,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 1,
       "JIMLEDBLDAB": 6,
@@ -3117,7 +3117,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 30013,
+      "ID": 30013,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3127,7 +3127,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 1,
       "JIMLEDBLDAB": 6,
@@ -3139,7 +3139,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 30101,
+      "ID": 30101,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3149,7 +3149,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -3161,7 +3161,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 90001,
+      "ID": 90001,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3171,7 +3171,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -3183,7 +3183,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 90002,
+      "ID": 90002,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3193,7 +3193,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -3205,7 +3205,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 90003,
+      "ID": 90003,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3215,7 +3215,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -3227,7 +3227,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 90004,
+      "ID": 90004,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3237,7 +3237,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,
@@ -3249,7 +3249,7 @@
       "NGPMOECOMFO": []
     },
     {
-      "HBKDOIKGNDE": 90005,
+      "ID": 90005,
       "NOCBKKCNNKA": null,
       "MDBIECECHIC": 0,
       "ENAFENAEECG": 0,
@@ -3259,7 +3259,7 @@
       "HCLOAOMNJEA": "",
       "LFKDLJLJNBG": "",
       "JAKDPIDICCJ": 0,
-      "DIIDBBGLDOL": "",
+      "Name": "",
       "BOMNEKHOGIH": "",
       "IBIFHFJMHFF": 0,
       "JIMLEDBLDAB": 7,

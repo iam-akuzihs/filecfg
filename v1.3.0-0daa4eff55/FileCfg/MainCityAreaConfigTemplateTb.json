@@ -1,7 +1,7 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 1001,
+      "ID": 1001,
       "BJBLKCAGBDG": 1,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "MainCityStreet_Street",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2001,
+      "ID": 2001,
       "BJBLKCAGBDG": 2,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Workshop_1F",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2002,
+      "ID": 2002,
       "BJBLKCAGBDG": 2,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Workshop_Stairs",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2003,
+      "ID": 2003,
       "BJBLKCAGBDG": 2,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Workshop_2F",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3001,
+      "ID": 3001,
       "BJBLKCAGBDG": 3,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "MainCityStreet_Garage",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4001,
+      "ID": 4001,
       "BJBLKCAGBDG": 4,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "ConstructionSite_1F",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4002,
+      "ID": 4002,
       "BJBLKCAGBDG": 4,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "ConstructionSite_2F",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4003,
+      "ID": 4003,
       "BJBLKCAGBDG": 4,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "ConstructionSite_Elevator1",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4004,
+      "ID": 4004,
       "BJBLKCAGBDG": 4,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "ConstructionSite_Elevator2",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4005,
+      "ID": 4005,
       "BJBLKCAGBDG": 4,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "ConstructionSite_Elevator3",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4006,
+      "ID": 4006,
       "BJBLKCAGBDG": 4,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "ConstructionSite_Elevator4",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 5001,
+      "ID": 5001,
       "BJBLKCAGBDG": 5,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "SkyScraper_1F",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 5002,
+      "ID": 5002,
       "BJBLKCAGBDG": 5,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "SkyScraper_B1",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 5003,
+      "ID": 5003,
       "BJBLKCAGBDG": 5,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "SkyScraper_Stairs1",
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 5004,
+      "ID": 5004,
       "BJBLKCAGBDG": 5,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "SkyScraper_Stairs2",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101001,
+      "ID": 101001,
       "BJBLKCAGBDG": 101,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "FortuneSquare_Maincity",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101002,
+      "ID": 101002,
       "BJBLKCAGBDG": 101,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "Traffic_Green",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101003,
+      "ID": 101003,
       "BJBLKCAGBDG": 101,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "Traffic_Red",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101004,
+      "ID": 101004,
       "BJBLKCAGBDG": 101,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "Traffic_Red2",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101005,
+      "ID": 101005,
       "BJBLKCAGBDG": 101,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "Traffic_Light01",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101006,
+      "ID": 101006,
       "BJBLKCAGBDG": 101,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "Traffic_Light02",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101007,
+      "ID": 101007,
       "BJBLKCAGBDG": 101,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "Traffic_Light03",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101008,
+      "ID": 101008,
       "BJBLKCAGBDG": 101,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "Traffic_Light04",
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101009,
+      "ID": 101009,
       "BJBLKCAGBDG": 101,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "Traffic_PlayerHoldon",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 102001,
+      "ID": 102001,
       "BJBLKCAGBDG": 102,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "MainCity_FortuneNEPS",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 103001,
+      "ID": 103001,
       "BJBLKCAGBDG": 103,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "MainCity_FortuneHIA",
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 104001,
+      "ID": 104001,
       "BJBLKCAGBDG": 104,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Maincity_OuterRing_1F",
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 104002,
+      "ID": 104002,
       "BJBLKCAGBDG": 104,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Maincity_OuterRing_2F",
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 104003,
+      "ID": 104003,
       "BJBLKCAGBDG": 104,
       "GFCLDDJBDPO": false,
       "LLKMGEDGPGA": "Maincity_OuterRing_Elevator",
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 105001,
+      "ID": 105001,
       "BJBLKCAGBDG": 105,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Maincity_Hand",
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 151001,
+      "ID": 151001,
       "BJBLKCAGBDG": 151,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Maincity_Zero",
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 152001,
+      "ID": 152001,
       "BJBLKCAGBDG": 152,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Stage_SkyScraper_JaneOVA",
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 153001,
+      "ID": 153001,
       "BJBLKCAGBDG": 153,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Maincity_Subway_Street",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 154001,
+      "ID": 154001,
       "BJBLKCAGBDG": 154,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Maincity_Subway",
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 155001,
+      "ID": 155001,
       "BJBLKCAGBDG": 155,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Maincity_HandOffice",
@@ -351,7 +351,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 156001,
+      "ID": 156001,
       "BJBLKCAGBDG": 156,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Stage_VR_YanagiOVA_03",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 157001,
+      "ID": 157001,
       "BJBLKCAGBDG": 157,
       "GFCLDDJBDPO": true,
       "LLKMGEDGPGA": "Stage_VR_YanagiOVA_04",

@@ -1,5 +1,5 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
       "OJHOINNOBEO": 1,
       "JFFIIAOEDKE": "Photo_SectionName_01",
@@ -7,7 +7,7 @@
       "EDJLBCEECFC": "Street_PlayerPos_Default",
       "HBEJLAOOLEA": "Street_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_Street"
+      "Name": "SectionName_Street"
     },
     {
       "OJHOINNOBEO": 2,
@@ -16,7 +16,7 @@
       "EDJLBCEECFC": "Workshop_PlayerPos_Default",
       "HBEJLAOOLEA": "Workshop_PlayerPos_Pos2",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_Workshop"
+      "Name": "SectionName_Workshop"
     },
     {
       "OJHOINNOBEO": 3,
@@ -25,7 +25,7 @@
       "EDJLBCEECFC": "Garage_PlayerPos_Default",
       "HBEJLAOOLEA": "Garage_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_Garage"
+      "Name": "SectionName_Garage"
     },
     {
       "OJHOINNOBEO": 4,
@@ -34,7 +34,7 @@
       "EDJLBCEECFC": "ConstructionSite_PlayerPos_Default",
       "HBEJLAOOLEA": "ConstructionSite_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_ConstructionSite"
+      "Name": "SectionName_ConstructionSite"
     },
     {
       "OJHOINNOBEO": 5,
@@ -43,7 +43,7 @@
       "EDJLBCEECFC": "SkyScraper_PlayerPos_Default",
       "HBEJLAOOLEA": "SkyScraper_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_SkyScraper"
+      "Name": "SectionName_SkyScraper"
     },
     {
       "OJHOINNOBEO": 101,
@@ -52,7 +52,7 @@
       "EDJLBCEECFC": "FortuneSquare_PlayerPos_Default",
       "HBEJLAOOLEA": "FortuneSquare_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_FortuneSquare"
+      "Name": "SectionName_FortuneSquare"
     },
     {
       "OJHOINNOBEO": 102,
@@ -61,7 +61,7 @@
       "EDJLBCEECFC": "FortuneNEPS_PlayerPos_Default",
       "HBEJLAOOLEA": "FortuneNEPS_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_FortuneNEPS"
+      "Name": "SectionName_FortuneNEPS"
     },
     {
       "OJHOINNOBEO": 103,
@@ -70,7 +70,7 @@
       "EDJLBCEECFC": "FortuneHIA_PlayerPos_Default",
       "HBEJLAOOLEA": "FortuneHIA_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_FortuneHIA"
+      "Name": "SectionName_FortuneHIA"
     },
     {
       "OJHOINNOBEO": 151,
@@ -79,7 +79,7 @@
       "EDJLBCEECFC": "Zero_PlayerPos_Default",
       "HBEJLAOOLEA": "Zero_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_Zero"
+      "Name": "SectionName_Zero"
     },
     {
       "OJHOINNOBEO": 152,
@@ -88,7 +88,7 @@
       "EDJLBCEECFC": "SkyScraper_JaneOVA_PlayerPos_Default",
       "HBEJLAOOLEA": "SkyScraper_JaneOVA_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_SkyScraper"
+      "Name": "SectionName_SkyScraper"
     },
     {
       "OJHOINNOBEO": 153,
@@ -97,7 +97,7 @@
       "EDJLBCEECFC": "Subway_PlayerPos_Default",
       "HBEJLAOOLEA": "Subway_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_Subway"
+      "Name": "SectionName_Subway"
     },
     {
       "OJHOINNOBEO": 154,
@@ -106,7 +106,7 @@
       "EDJLBCEECFC": "SubwayFortuneSquare_PlayerPos_Default",
       "HBEJLAOOLEA": "SubwayFortuneSquare_PlayerPos_Default",
       "GJNBLJFCMCN": 3,
-      "EAAFCGPDFAA": "SectionName_Subway"
+      "Name": "SectionName_Subway"
     }
   ]
 }

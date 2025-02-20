@@ -1,7 +1,7 @@
 {
-  "LFPICNCBMIF": [
+  "__exp_FileCfg": [
     {
-      "FJKECLFEHOA": 1,
+      "ID": 1,
       "OKPHLIFIDKK": "Locked",
       "IIIBDDDJPKF": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -9,7 +9,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 2,
+      "ID": 2,
       "OKPHLIFIDKK": "Unlocked",
       "IIIBDDDJPKF": [
         "FLAG_UNLOCKED",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 3,
+      "ID": 3,
       "OKPHLIFIDKK": "Finished",
       "IIIBDDDJPKF": [
         "FLAG_FINISHED",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4,
+      "ID": 4,
       "OKPHLIFIDKK": "ShowEvent",
       "IIIBDDDJPKF": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 6,
+      "ID": 6,
       "OKPHLIFIDKK": "Brighten",
       "IIIBDDDJPKF": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 7,
+      "ID": 7,
       "OKPHLIFIDKK": "Guide",
       "IIIBDDDJPKF": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 8,
+      "ID": 8,
       "OKPHLIFIDKK": "Target",
       "IIIBDDDJPKF": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 9,
+      "ID": 9,
       "OKPHLIFIDKK": "BrightenOnlyVisible",
       "IIIBDDDJPKF": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 10,
+      "ID": 10,
       "OKPHLIFIDKK": "Unstable",
       "IIIBDDDJPKF": [
         "FLAG_UNSTABLE",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 11,
+      "ID": 11,
       "OKPHLIFIDKK": "Empty",
       "IIIBDDDJPKF": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 12,
+      "ID": 12,
       "OKPHLIFIDKK": "All",
       "IIIBDDDJPKF": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 13,
+      "ID": 13,
       "OKPHLIFIDKK": "",
       "IIIBDDDJPKF": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "FJKECLFEHOA": 14,
+      "ID": 14,
       "OKPHLIFIDKK": "LockedWithStamina",
       "IIIBDDDJPKF": []
     },
     {
-      "FJKECLFEHOA": 15,
+      "ID": 15,
       "OKPHLIFIDKK": "UnEmpty",
       "IIIBDDDJPKF": [
         "FLAG_UNLOCKED",

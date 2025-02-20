@@ -1,7 +1,7 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1,
+      "ID": 1,
       "DNPNCDAHOKH": "Stun",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -21,7 +21,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 2,
+      "ID": 2,
       "DNPNCDAHOKH": "Tied",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -35,7 +35,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 3,
+      "ID": 3,
       "DNPNCDAHOKH": "Frozen",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 4,
+      "ID": 4,
       "DNPNCDAHOKH": "Sleep",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -65,7 +65,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 5,
+      "ID": 5,
       "DNPNCDAHOKH": "Slience",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -79,7 +79,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 6,
+      "ID": 6,
       "DNPNCDAHOKH": "Burn",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 7,
+      "ID": 7,
       "DNPNCDAHOKH": "Poison",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 4,
@@ -109,7 +109,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 8,
+      "ID": 8,
       "DNPNCDAHOKH": "Bleed",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 4,
@@ -123,7 +123,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 9,
+      "ID": 9,
       "DNPNCDAHOKH": "AttackUp",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 4,
@@ -137,7 +137,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 10,
+      "ID": 10,
       "DNPNCDAHOKH": "AttackDown",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 4,
@@ -151,7 +151,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 11,
+      "ID": 11,
       "DNPNCDAHOKH": "CritUp",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 4,
@@ -165,7 +165,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 12,
+      "ID": 12,
       "DNPNCDAHOKH": "CritDown",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 4,
@@ -179,7 +179,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 13,
+      "ID": 13,
       "DNPNCDAHOKH": "CritDamageUp",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 4,
@@ -193,7 +193,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 14,
+      "ID": 14,
       "DNPNCDAHOKH": "CritDamageDown",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 4,
@@ -207,7 +207,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 15,
+      "ID": 15,
       "DNPNCDAHOKH": "DefenceUp",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 4,
@@ -221,7 +221,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 16,
+      "ID": 16,
       "DNPNCDAHOKH": "DefenceDown",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 4,
@@ -235,7 +235,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 17,
+      "ID": 17,
       "DNPNCDAHOKH": "MoveSpeedUp",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 4,
@@ -249,7 +249,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 18,
+      "ID": 18,
       "DNPNCDAHOKH": "MoveSpeedDown",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 4,
@@ -263,7 +263,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 19,
+      "ID": 19,
       "DNPNCDAHOKH": "AttackSpeedUp",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 4,
@@ -277,7 +277,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 20,
+      "ID": 20,
       "DNPNCDAHOKH": "AttackSpeedDown",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 4,
@@ -291,7 +291,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 21,
+      "ID": 21,
       "DNPNCDAHOKH": "Invincible",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 9,
@@ -305,7 +305,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 22,
+      "ID": 22,
       "DNPNCDAHOKH": "Unbreakable",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 9,
@@ -319,7 +319,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 23,
+      "ID": 23,
       "DNPNCDAHOKH": "Weak",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -333,7 +333,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 24,
+      "ID": 24,
       "DNPNCDAHOKH": "Vulnerable",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -347,7 +347,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 26,
+      "ID": 26,
       "DNPNCDAHOKH": "TimeSlow",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 7,
@@ -361,7 +361,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 27,
+      "ID": 27,
       "DNPNCDAHOKH": "Electric",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 28,
+      "ID": 28,
       "DNPNCDAHOKH": "FrozenAvatar",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -391,7 +391,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 29,
+      "ID": 29,
       "DNPNCDAHOKH": "Block",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 9,
@@ -405,7 +405,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 30,
+      "ID": 30,
       "DNPNCDAHOKH": "Ignite",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 31,
+      "ID": 31,
       "DNPNCDAHOKH": "Overload",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -437,7 +437,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 33,
+      "ID": 33,
       "DNPNCDAHOKH": "Erosion",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -456,7 +456,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 34,
+      "ID": 34,
       "DNPNCDAHOKH": "Chaos",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -475,7 +475,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 35,
+      "ID": 35,
       "DNPNCDAHOKH": "Strike",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -494,7 +494,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 36,
+      "ID": 36,
       "DNPNCDAHOKH": "Frostbite",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -508,7 +508,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 37,
+      "ID": 37,
       "DNPNCDAHOKH": "Frost",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -522,7 +522,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 38,
+      "ID": 38,
       "DNPNCDAHOKH": "Disorder",
       "EFKIPNNDLNC": 2,
       "NJINLPNKAPO": 9,
@@ -536,7 +536,7 @@
       "BKNOJAMCGDJ": []
     },
     {
-      "DKDDFEIAMIF": 99,
+      "ID": 99,
       "DNPNCDAHOKH": "ActivityBattleSign",
       "EFKIPNNDLNC": 1,
       "NJINLPNKAPO": 9,

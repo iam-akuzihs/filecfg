@@ -1,8 +1,8 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1,
-      "DEPJKIPACJK": "Arcade_CP_Difficulty_1_name",
+      "ID": 1,
+      "Name": "Arcade_CP_Difficulty_1_name",
       "HEGHNPFDFDN": "正常怪物血量，正常怪物伤害",
       "FKJKEJMJJDD": 0,
       "PJJDANBEKEH": 1000,
@@ -11,8 +11,8 @@
       "FMFPCAOFEPA": 3
     },
     {
-      "DKDDFEIAMIF": 2,
-      "DEPJKIPACJK": "Arcade_CP_Difficulty_2_name",
+      "ID": 2,
+      "Name": "Arcade_CP_Difficulty_2_name",
       "HEGHNPFDFDN": "<color=#CF4029>+30%</color> 怪物血量，<color=#CF4029>+50%</color> 怪物伤害，<color=#2BAD00>+25%</color> 分数",
       "FKJKEJMJJDD": 4001,
       "PJJDANBEKEH": 1250,
@@ -21,8 +21,8 @@
       "FMFPCAOFEPA": 6
     },
     {
-      "DKDDFEIAMIF": 3,
-      "DEPJKIPACJK": "Arcade_CP_Difficulty_3_name",
+      "ID": 3,
+      "Name": "Arcade_CP_Difficulty_3_name",
       "HEGHNPFDFDN": "<color=#CF4029>+60%</color> 怪物血量，<color=#CF4029>+100%</color> 怪物伤害，<color=#2BAD00>+50%</color> 分数",
       "FKJKEJMJJDD": 4002,
       "PJJDANBEKEH": 1500,
@@ -31,8 +31,8 @@
       "FMFPCAOFEPA": 10
     },
     {
-      "DKDDFEIAMIF": 4,
-      "DEPJKIPACJK": "Arcade_CP_Difficulty_4_name",
+      "ID": 4,
+      "Name": "Arcade_CP_Difficulty_4_name",
       "HEGHNPFDFDN": "<color=#CF4029>+90%</color> 怪物血量，<color=#CF4029>+150%</color> 怪物伤害，<color=#2BAD00>+75%</color> 分数",
       "FKJKEJMJJDD": 4003,
       "PJJDANBEKEH": 1750,
@@ -41,8 +41,8 @@
       "FMFPCAOFEPA": 10
     },
     {
-      "DKDDFEIAMIF": 5,
-      "DEPJKIPACJK": "Arcade_CP_Difficulty_5_name",
+      "ID": 5,
+      "Name": "Arcade_CP_Difficulty_5_name",
       "HEGHNPFDFDN": "<color=#CF4029>+120%</color> 怪物血量，<color=#CF4029>+200%</color> 怪物伤害，<color=#2BAD00>+100%</color> 分数",
       "FKJKEJMJJDD": 4004,
       "PJJDANBEKEH": 2000,

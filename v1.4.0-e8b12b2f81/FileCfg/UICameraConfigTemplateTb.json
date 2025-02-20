@@ -1,7 +1,7 @@
 {
-  "LFPICNCBMIF": [
+  "__exp_FileCfg": [
     {
-      "FJKECLFEHOA": 1,
+      "ID": 1,
       "CFLHMCHMMNC": "UIVHSStorePageController",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 2,
+      "ID": 2,
       "CFLHMCHMMNC": "UIGroceryPageController",
       "KIEHKMKLBOL": "Street_CameraPos_Grocery",
       "FDMEEOMIKBG": "Street_CameraPos_Grocery",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 3,
+      "ID": 3,
       "CFLHMCHMMNC": "UIRamenStorePageController",
       "KIEHKMKLBOL": "Street_CameraPos_RamenStore",
       "FDMEEOMIKBG": "Street_CameraPos_RamenStore_PC",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4,
+      "ID": 4,
       "CFLHMCHMMNC": "UICafePageController",
       "KIEHKMKLBOL": "Street_CameraPos_CafeStore",
       "FDMEEOMIKBG": "Street_CameraPos_CafeStore",
@@ -61,7 +61,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 5,
+      "ID": 5,
       "CFLHMCHMMNC": "UIBangbooModGaragePageController",
       "KIEHKMKLBOL": "Street_CameraPos_BangbooModGarage",
       "FDMEEOMIKBG": "Street_CameraPos_BangbooModGarage",
@@ -74,7 +74,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 6,
+      "ID": 6,
       "CFLHMCHMMNC": "UITrashbinHermitRecyclePageController",
       "KIEHKMKLBOL": "Street_CameraPos_Trash01",
       "FDMEEOMIKBG": "Street_CameraPos_Trash01_PC",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 7,
+      "ID": 7,
       "CFLHMCHMMNC": "UILandRevive_1",
       "KIEHKMKLBOL": "Street_CameraPos_Land20001",
       "FDMEEOMIKBG": "Street_CameraPos_Land20001_PC",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 8,
+      "ID": 8,
       "CFLHMCHMMNC": "UILandRevive_2",
       "KIEHKMKLBOL": "ConstructionSite_CameraPos_Land20002",
       "FDMEEOMIKBG": "ConstructionSite_CameraPos_Land20002_PC",
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 9,
+      "ID": 9,
       "CFLHMCHMMNC": "UIDailyChallengePageController",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -133,7 +133,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 10,
+      "ID": 10,
       "CFLHMCHMMNC": "UIActivityOperationalPageController",
       "KIEHKMKLBOL": "Street_CameraPos_HelloBoo",
       "FDMEEOMIKBG": "Street_CameraPos_HelloBoo_PC",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 11,
+      "ID": 11,
       "CFLHMCHMMNC": "UINewsStandPageController",
       "KIEHKMKLBOL": "Street_CameraPos_Woof",
       "FDMEEOMIKBG": "Street_CameraPos_Woof",
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 12,
+      "ID": 12,
       "CFLHMCHMMNC": "UITrendyStorePageController",
       "KIEHKMKLBOL": "Street_CameraPos_TrendyStore",
       "FDMEEOMIKBG": "Street_CameraPos_TrendyStore",
@@ -181,7 +181,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 13,
+      "ID": 13,
       "CFLHMCHMMNC": "UIActivityGoldenWeekPageController",
       "KIEHKMKLBOL": "Street_CameraPos_KeyBoo",
       "FDMEEOMIKBG": "Street_CameraPos_KeyBoo_PC",
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 14,
+      "ID": 14,
       "CFLHMCHMMNC": "UIBillyTrustQuestPageController",
       "KIEHKMKLBOL": "Street_CameraPos_Trust_Billy",
       "FDMEEOMIKBG": "Street_CameraPos_Trust_Billy",
@@ -210,7 +210,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 15,
+      "ID": 15,
       "CFLHMCHMMNC": "UIAbyssEntrancePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -223,7 +223,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 16,
+      "ID": 16,
       "CFLHMCHMMNC": "UIGroceryActivityPageController",
       "KIEHKMKLBOL": "Street_CameraPos_ActivityGrocery",
       "FDMEEOMIKBG": "Street_CameraPos_ActivityGrocery_PC",
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 17,
+      "ID": 17,
       "CFLHMCHMMNC": "UIPhotoWallPageController",
       "KIEHKMKLBOL": "WorkshopUpStairs_CameraPos_PhotoWall",
       "FDMEEOMIKBG": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 18,
+      "ID": 18,
       "CFLHMCHMMNC": "UIQuestionsAnswerPageController",
       "KIEHKMKLBOL": "FortuneNEPS_CameraPos_ActivityQuestioner",
       "FDMEEOMIKBG": "FortuneNEPS_CameraPos_ActivityQuestioner",
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 19,
+      "ID": 19,
       "CFLHMCHMMNC": "UIGroceryQuestActivityPageController",
       "KIEHKMKLBOL": "Street_CameraPos_ActivityGrocery",
       "FDMEEOMIKBG": "Street_CameraPos_ActivityGrocery_PC",
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 20,
+      "ID": 20,
       "CFLHMCHMMNC": "UINewsStandPuzzlePageController",
       "KIEHKMKLBOL": "Street_CameraPos_Woof",
       "FDMEEOMIKBG": "Street_CameraPos_Woof",

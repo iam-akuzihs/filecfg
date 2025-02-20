@@ -1,22 +1,22 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 1001,
-      "EAAFCGPDFAA": "SkillDamageRate",
+      "ID": 1001,
+      "Name": "SkillDamageRate",
       "BDHKIKIEOGN": 10000,
       "JMBCNMICGIP": "{0:0.#%}",
       "DDOCANPHAOL": 3
     },
     {
-      "NGPCCDGBLLK": 1002,
-      "EAAFCGPDFAA": "SkillStunRatio",
+      "ID": 1002,
+      "Name": "SkillStunRatio",
       "BDHKIKIEOGN": 10000,
       "JMBCNMICGIP": "{0:0.#%}",
       "DDOCANPHAOL": 3
     },
     {
-      "NGPCCDGBLLK": 1003,
-      "EAAFCGPDFAA": "SkillSpRecovery",
+      "ID": 1003,
+      "Name": "SkillSpRecovery",
       "BDHKIKIEOGN": 10000,
       "JMBCNMICGIP": "{0:0}",
       "DDOCANPHAOL": 3

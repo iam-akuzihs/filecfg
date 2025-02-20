@@ -1,7 +1,7 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 1065,
+      "ID": 1065,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistDelta_Elec",
       "EJHOFPCAEIE": 10000,
@@ -16,7 +16,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1066,
+      "ID": 1066,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistDelta_Ether",
       "EJHOFPCAEIE": 10000,
@@ -31,7 +31,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1063,
+      "ID": 1063,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistDelta_Fire",
       "EJHOFPCAEIE": 10000,
@@ -46,7 +46,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1064,
+      "ID": 1064,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistDelta_Ice",
       "EJHOFPCAEIE": 10000,
@@ -61,7 +61,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1062,
+      "ID": 1062,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistDelta_Physics",
       "EJHOFPCAEIE": 10000,
@@ -76,7 +76,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1060,
+      "ID": 1060,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistRatio_Elec",
       "EJHOFPCAEIE": 10000,
@@ -91,7 +91,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1061,
+      "ID": 1061,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistRatio_Ether",
       "EJHOFPCAEIE": 10000,
@@ -106,7 +106,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1058,
+      "ID": 1058,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistRatio_Fire",
       "EJHOFPCAEIE": 10000,
@@ -121,7 +121,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1059,
+      "ID": 1059,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistRatio_Ice",
       "EJHOFPCAEIE": 10000,
@@ -136,7 +136,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1057,
+      "ID": 1057,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AbnormalResistRatio_Physics",
       "EJHOFPCAEIE": 10000,
@@ -151,7 +151,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1005,
+      "ID": 1005,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedAttackDelta",
       "EJHOFPCAEIE": 1,
@@ -166,7 +166,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1067,
+      "ID": 1067,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedBreakStunRatio",
       "EJHOFPCAEIE": 10000,
@@ -181,7 +181,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1003,
+      "ID": 1003,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedDamageRatio",
       "EJHOFPCAEIE": 10000,
@@ -196,7 +196,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1076,
+      "ID": 1076,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedDamageRatio_Elec",
       "EJHOFPCAEIE": 10000,
@@ -211,7 +211,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1077,
+      "ID": 1077,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedDamageRatio_Ether",
       "EJHOFPCAEIE": 10000,
@@ -226,7 +226,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1074,
+      "ID": 1074,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedDamageRatio_Fire",
       "EJHOFPCAEIE": 10000,
@@ -241,7 +241,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1075,
+      "ID": 1075,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedDamageRatio_Ice",
       "EJHOFPCAEIE": 10000,
@@ -256,7 +256,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1073,
+      "ID": 1073,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedDamageRatio_Physics",
       "EJHOFPCAEIE": 10000,
@@ -271,7 +271,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1004,
+      "ID": 1004,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedDamageReplace",
       "EJHOFPCAEIE": 1,
@@ -286,7 +286,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1050,
+      "ID": 1050,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedElementAccumulationDelta",
       "EJHOFPCAEIE": 1,
@@ -301,7 +301,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1049,
+      "ID": 1049,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AddedElementAccumulationRatio",
       "EJHOFPCAEIE": 10000,
@@ -316,7 +316,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1022,
+      "ID": 1022,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AllDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -331,7 +331,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1039,
+      "ID": 1039,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AllStunResist",
       "EJHOFPCAEIE": 10000,
@@ -346,7 +346,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1070,
+      "ID": 1070,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_AttackAddedSpDelta",
       "EJHOFPCAEIE": 1,
@@ -361,7 +361,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1012,
+      "ID": 1012,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_BaseAttackDelta",
       "EJHOFPCAEIE": 1,
@@ -376,7 +376,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1011,
+      "ID": 1011,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_BaseAttackRatio",
       "EJHOFPCAEIE": 10000,
@@ -391,7 +391,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1028,
+      "ID": 1028,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_BreakStunDelta",
       "EJHOFPCAEIE": 1,
@@ -406,7 +406,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1027,
+      "ID": 1027,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_BreakStunRatio",
       "EJHOFPCAEIE": 10000,
@@ -421,7 +421,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1030,
+      "ID": 1030,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_BreakStunTakeDelta",
       "EJHOFPCAEIE": 1,
@@ -436,7 +436,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1029,
+      "ID": 1029,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_BreakStunTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -451,7 +451,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1085,
+      "ID": 1085,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_BuffCriticalDamageRatioDelta",
       "EJHOFPCAEIE": 10000,
@@ -466,7 +466,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1084,
+      "ID": 1084,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_BuffCriticalDelta",
       "EJHOFPCAEIE": 10000,
@@ -481,7 +481,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1054,
+      "ID": 1054,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_BuffDamageRatio",
       "EJHOFPCAEIE": 10000,
@@ -496,7 +496,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1087,
+      "ID": 1087,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_CastHpShieldGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -511,7 +511,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1043,
+      "ID": 1043,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_CritResDelta",
       "EJHOFPCAEIE": 10000,
@@ -526,7 +526,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1010,
+      "ID": 1010,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_CriticalDamageRatioDelta",
       "EJHOFPCAEIE": 10000,
@@ -541,7 +541,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1044,
+      "ID": 1044,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_CriticalDamageResDelta",
       "EJHOFPCAEIE": 10000,
@@ -556,7 +556,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1009,
+      "ID": 1009,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_CriticalDelta",
       "EJHOFPCAEIE": 10000,
@@ -571,7 +571,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1013,
+      "ID": 1013,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_CutDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -586,7 +586,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1033,
+      "ID": 1033,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_CutStunResist",
       "EJHOFPCAEIE": 10000,
@@ -601,7 +601,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1008,
+      "ID": 1008,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_DamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -616,7 +616,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1007,
+      "ID": 1007,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_DefenceDelta",
       "EJHOFPCAEIE": 1,
@@ -631,7 +631,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1006,
+      "ID": 1006,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_DefenceRatio",
       "EJHOFPCAEIE": 10000,
@@ -646,7 +646,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1090,
+      "ID": 1090,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_DisorderDamageDelta",
       "EJHOFPCAEIE": 1,
@@ -661,7 +661,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1091,
+      "ID": 1091,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_DisorderDamagePercentage",
       "EJHOFPCAEIE": 10000,
@@ -676,7 +676,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1089,
+      "ID": 1089,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_DisorderDamageRatio",
       "EJHOFPCAEIE": 10000,
@@ -691,7 +691,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1018,
+      "ID": 1018,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_ElecDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -706,7 +706,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1038,
+      "ID": 1038,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_ElecStunResist",
       "EJHOFPCAEIE": 10000,
@@ -721,7 +721,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1072,
+      "ID": 1072,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_ElementAbnormalPowerDelta",
       "EJHOFPCAEIE": 1,
@@ -736,7 +736,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1071,
+      "ID": 1071,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_ElementAbnormalPowerRatio",
       "EJHOFPCAEIE": 10000,
@@ -751,7 +751,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1069,
+      "ID": 1069,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_ElementMysteryDelta",
       "EJHOFPCAEIE": 1,
@@ -766,7 +766,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1068,
+      "ID": 1068,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_ElementMysteryRatio",
       "EJHOFPCAEIE": 10000,
@@ -781,7 +781,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1020,
+      "ID": 1020,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_EtherDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -796,7 +796,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1042,
+      "ID": 1042,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_FeverGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -811,7 +811,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1016,
+      "ID": 1016,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_FireDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -826,7 +826,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1036,
+      "ID": 1036,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_FireStunResist",
       "EJHOFPCAEIE": 10000,
@@ -841,7 +841,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1026,
+      "ID": 1026,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_HPHealRatio",
       "EJHOFPCAEIE": 10000,
@@ -856,7 +856,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1017,
+      "ID": 1017,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_IceDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -871,7 +871,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1037,
+      "ID": 1037,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_IceStunResist",
       "EJHOFPCAEIE": 10000,
@@ -886,7 +886,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1088,
+      "ID": 1088,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_IndividualFeverGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -901,7 +901,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1002,
+      "ID": 1002,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_MaxHPDelta",
       "EJHOFPCAEIE": 1,
@@ -916,7 +916,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1001,
+      "ID": 1001,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_MaxHPRatio",
       "EJHOFPCAEIE": 10000,
@@ -931,7 +931,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1048,
+      "ID": 1048,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_MonsterOwnerDamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -946,7 +946,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1047,
+      "ID": 1047,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_MonsterPartDamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -961,7 +961,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1053,
+      "ID": 1053,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_NoDamage",
       "EJHOFPCAEIE": 10000,
@@ -976,7 +976,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1051,
+      "ID": 1051,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_NoElementAccumulation",
       "EJHOFPCAEIE": 10000,
@@ -991,7 +991,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1052,
+      "ID": 1052,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_NoStun",
       "EJHOFPCAEIE": 10000,
@@ -1006,7 +1006,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1025,
+      "ID": 1025,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_PenDelta",
       "EJHOFPCAEIE": 1,
@@ -1021,7 +1021,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1024,
+      "ID": 1024,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_PenRatio",
       "EJHOFPCAEIE": 10000,
@@ -1036,7 +1036,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1021,
+      "ID": 1021,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_PhysicsDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1051,7 +1051,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1015,
+      "ID": 1015,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_PierceDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1066,7 +1066,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1035,
+      "ID": 1035,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_PierceStunResist",
       "EJHOFPCAEIE": 10000,
@@ -1081,7 +1081,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1014,
+      "ID": 1014,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_PunchDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1096,7 +1096,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1034,
+      "ID": 1034,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_PunchStunResist",
       "EJHOFPCAEIE": 10000,
@@ -1111,7 +1111,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1086,
+      "ID": 1086,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_ReceiveHpShieldGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -1126,7 +1126,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1041,
+      "ID": 1041,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_SPGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -1141,7 +1141,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1046,
+      "ID": 1046,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_SpRecoverDelta",
       "EJHOFPCAEIE": 1,
@@ -1156,7 +1156,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1045,
+      "ID": 1045,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_SpRecoverRatio",
       "EJHOFPCAEIE": 10000,
@@ -1171,7 +1171,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1023,
+      "ID": 1023,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunDamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -1186,7 +1186,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1040,
+      "ID": 1040,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunDestroyRecoverRate_Ratio",
       "EJHOFPCAEIE": 10000,
@@ -1201,7 +1201,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1056,
+      "ID": 1056,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunMaxDelta",
       "EJHOFPCAEIE": 1,
@@ -1216,7 +1216,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1055,
+      "ID": 1055,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunMaxRatio",
       "EJHOFPCAEIE": 10000,
@@ -1231,7 +1231,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1083,
+      "ID": 1083,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunResist_All",
       "EJHOFPCAEIE": 10000,
@@ -1246,7 +1246,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1081,
+      "ID": 1081,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunResist_Elec",
       "EJHOFPCAEIE": 10000,
@@ -1261,7 +1261,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1082,
+      "ID": 1082,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunResist_Ether",
       "EJHOFPCAEIE": 10000,
@@ -1276,7 +1276,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1079,
+      "ID": 1079,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunResist_Fire",
       "EJHOFPCAEIE": 10000,
@@ -1291,7 +1291,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1080,
+      "ID": 1080,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunResist_Ice",
       "EJHOFPCAEIE": 10000,
@@ -1306,7 +1306,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1078,
+      "ID": 1078,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_StunResist_Physics",
       "EJHOFPCAEIE": 10000,
@@ -1321,7 +1321,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1019,
+      "ID": 1019,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "Actor_WindDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1336,7 +1336,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2080,
+      "ID": 2080,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AddedAttackDelta",
       "EJHOFPCAEIE": 1,
@@ -1351,7 +1351,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2115,
+      "ID": 2115,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AddedBreakStunRatio",
       "EJHOFPCAEIE": 10000,
@@ -1366,7 +1366,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2078,
+      "ID": 2078,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AddedDamageRatio",
       "EJHOFPCAEIE": 10000,
@@ -1381,7 +1381,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2121,
+      "ID": 2121,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AddedDamageRatio_Elec",
       "EJHOFPCAEIE": 10000,
@@ -1396,7 +1396,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2122,
+      "ID": 2122,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AddedDamageRatio_Ether",
       "EJHOFPCAEIE": 10000,
@@ -1411,7 +1411,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2119,
+      "ID": 2119,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AddedDamageRatio_Fire",
       "EJHOFPCAEIE": 10000,
@@ -1426,7 +1426,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2120,
+      "ID": 2120,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AddedDamageRatio_Ice",
       "EJHOFPCAEIE": 10000,
@@ -1441,7 +1441,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2118,
+      "ID": 2118,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AddedDamageRatio_Physics",
       "EJHOFPCAEIE": 10000,
@@ -1456,7 +1456,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2079,
+      "ID": 2079,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AddedDamageReplace",
       "EJHOFPCAEIE": 1,
@@ -1471,7 +1471,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2097,
+      "ID": 2097,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AllDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1486,7 +1486,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2111,
+      "ID": 2111,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_AllStunResist",
       "EJHOFPCAEIE": 10000,
@@ -1501,7 +1501,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2087,
+      "ID": 2087,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_BaseAttackDelta",
       "EJHOFPCAEIE": 1,
@@ -1516,7 +1516,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2086,
+      "ID": 2086,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_BaseAttackRatio",
       "EJHOFPCAEIE": 10000,
@@ -1531,7 +1531,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2102,
+      "ID": 2102,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_BreakStunDelta",
       "EJHOFPCAEIE": 1,
@@ -1546,7 +1546,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2101,
+      "ID": 2101,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_BreakStunRatio",
       "EJHOFPCAEIE": 10000,
@@ -1561,7 +1561,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2104,
+      "ID": 2104,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_BreakStunTakeDelta",
       "EJHOFPCAEIE": 1,
@@ -1576,7 +1576,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2103,
+      "ID": 2103,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_BreakStunTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -1591,7 +1591,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2130,
+      "ID": 2130,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_BuffCriticalDamageRatioDelta",
       "EJHOFPCAEIE": 10000,
@@ -1606,7 +1606,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2129,
+      "ID": 2129,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_BuffCriticalDelta",
       "EJHOFPCAEIE": 10000,
@@ -1621,7 +1621,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2085,
+      "ID": 2085,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_CriticalDamageRatioDelta",
       "EJHOFPCAEIE": 10000,
@@ -1636,7 +1636,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2084,
+      "ID": 2084,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_CriticalDelta",
       "EJHOFPCAEIE": 10000,
@@ -1651,7 +1651,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2088,
+      "ID": 2088,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_CutDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1666,7 +1666,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2105,
+      "ID": 2105,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_CutStunResist",
       "EJHOFPCAEIE": 10000,
@@ -1681,7 +1681,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2083,
+      "ID": 2083,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_DamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -1696,7 +1696,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2082,
+      "ID": 2082,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_DefenceDelta",
       "EJHOFPCAEIE": 1,
@@ -1711,7 +1711,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2081,
+      "ID": 2081,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_DefenceRatio",
       "EJHOFPCAEIE": 10000,
@@ -1726,7 +1726,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2133,
+      "ID": 2133,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_DisorderDamageDelta",
       "EJHOFPCAEIE": 1,
@@ -1741,7 +1741,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2134,
+      "ID": 2134,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_DisorderDamagePercentage",
       "EJHOFPCAEIE": 10000,
@@ -1756,7 +1756,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2132,
+      "ID": 2132,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_DisorderDamageRatio",
       "EJHOFPCAEIE": 10000,
@@ -1771,7 +1771,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2093,
+      "ID": 2093,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_ElecDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1786,7 +1786,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2110,
+      "ID": 2110,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_ElecStunResist",
       "EJHOFPCAEIE": 10000,
@@ -1801,7 +1801,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2117,
+      "ID": 2117,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_ElementAbnormalPowerDelta",
       "EJHOFPCAEIE": 1,
@@ -1816,7 +1816,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2116,
+      "ID": 2116,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_ElementAbnormalPowerRatio",
       "EJHOFPCAEIE": 10000,
@@ -1831,7 +1831,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2095,
+      "ID": 2095,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_EtherDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1846,7 +1846,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2091,
+      "ID": 2091,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_FireDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1861,7 +1861,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2108,
+      "ID": 2108,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_FireStunResist",
       "EJHOFPCAEIE": 10000,
@@ -1876,7 +1876,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2092,
+      "ID": 2092,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_IceDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1891,7 +1891,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2109,
+      "ID": 2109,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_IceStunResist",
       "EJHOFPCAEIE": 10000,
@@ -1906,7 +1906,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2131,
+      "ID": 2131,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_IndividualFeverGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -1921,7 +1921,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2114,
+      "ID": 2114,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_MonsterOwnerDamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -1936,7 +1936,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2113,
+      "ID": 2113,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_MonsterPartDamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -1951,7 +1951,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2100,
+      "ID": 2100,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_PenDelta",
       "EJHOFPCAEIE": 1,
@@ -1966,7 +1966,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2099,
+      "ID": 2099,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_PenRatio",
       "EJHOFPCAEIE": 10000,
@@ -1981,7 +1981,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2096,
+      "ID": 2096,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_PhysicsDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -1996,7 +1996,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2090,
+      "ID": 2090,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_PierceDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -2011,7 +2011,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2107,
+      "ID": 2107,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_PierceStunResist",
       "EJHOFPCAEIE": 10000,
@@ -2026,7 +2026,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2089,
+      "ID": 2089,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_PunchDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -2041,7 +2041,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2106,
+      "ID": 2106,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_PunchStunResist",
       "EJHOFPCAEIE": 10000,
@@ -2056,7 +2056,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2112,
+      "ID": 2112,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_SPGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -2071,7 +2071,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2098,
+      "ID": 2098,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_StunDamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -2086,7 +2086,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2128,
+      "ID": 2128,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_StunResist_All",
       "EJHOFPCAEIE": 10000,
@@ -2101,7 +2101,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2126,
+      "ID": 2126,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_StunResist_Elec",
       "EJHOFPCAEIE": 10000,
@@ -2116,7 +2116,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2127,
+      "ID": 2127,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_StunResist_Ether",
       "EJHOFPCAEIE": 10000,
@@ -2131,7 +2131,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2124,
+      "ID": 2124,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_StunResist_Fire",
       "EJHOFPCAEIE": 10000,
@@ -2146,7 +2146,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2125,
+      "ID": 2125,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_StunResist_Ice",
       "EJHOFPCAEIE": 10000,
@@ -2161,7 +2161,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2123,
+      "ID": 2123,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_StunResist_Physics",
       "EJHOFPCAEIE": 10000,
@@ -2176,7 +2176,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 2094,
+      "ID": 2094,
       "CFKDFIJIFBB": 2,
       "DLNOFDLPJIF": "AttackData_Actor_WindDamageResist",
       "EJHOFPCAEIE": 10000,
@@ -2191,7 +2191,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1032,
+      "ID": 1032,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "AutoRecoverRate_Delta",
       "EJHOFPCAEIE": 1,
@@ -2206,7 +2206,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 1031,
+      "ID": 1031,
       "CFKDFIJIFBB": 1,
       "DLNOFDLPJIF": "AutoRecoverRate_Ratio",
       "EJHOFPCAEIE": 10000,
@@ -2221,7 +2221,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3126,
+      "ID": 3126,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_AR",
       "EJHOFPCAEIE": 10000,
@@ -2236,7 +2236,7 @@
       "EBCGFOIGMIK": 1
     },
     {
-      "GKNMDKNIMHP": 3128,
+      "ID": 3128,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_AddedDamageRatio",
       "EJHOFPCAEIE": 10000,
@@ -2251,7 +2251,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3123,
+      "ID": 3123,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_Attack",
       "EJHOFPCAEIE": 1,
@@ -2266,7 +2266,7 @@
       "EBCGFOIGMIK": 1
     },
     {
-      "GKNMDKNIMHP": 3137,
+      "ID": 3137,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_BuffCriticalDamage",
       "EJHOFPCAEIE": 10000,
@@ -2281,7 +2281,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3124,
+      "ID": 3124,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_BuffResist",
       "EJHOFPCAEIE": 10000,
@@ -2296,7 +2296,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3127,
+      "ID": 3127,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_CritDamage",
       "EJHOFPCAEIE": 10000,
@@ -2311,7 +2311,7 @@
       "EBCGFOIGMIK": 10000
     },
     {
-      "GKNMDKNIMHP": 3130,
+      "ID": 3130,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_DamageResist",
       "EJHOFPCAEIE": 10000,
@@ -2326,7 +2326,7 @@
       "EBCGFOIGMIK": 2000
     },
     {
-      "GKNMDKNIMHP": 3129,
+      "ID": 3129,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_DamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -2341,7 +2341,7 @@
       "EBCGFOIGMIK": 2000
     },
     {
-      "GKNMDKNIMHP": 3150,
+      "ID": 3150,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_DisorderDamage",
       "EJHOFPCAEIE": 1,
@@ -2356,7 +2356,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3149,
+      "ID": 3149,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_DisorderDamageRatio",
       "EJHOFPCAEIE": 10000,
@@ -2371,7 +2371,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3134,
+      "ID": 3134,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_Distance",
       "EJHOFPCAEIE": 10000,
@@ -2386,7 +2386,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3125,
+      "ID": 3125,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_ElementMystery",
       "EJHOFPCAEIE": 10000,
@@ -2401,7 +2401,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3132,
+      "ID": 3132,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_FinalPenRatio",
       "EJHOFPCAEIE": 10000,
@@ -2416,7 +2416,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3136,
+      "ID": 3136,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_MonsterOwnerDamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -2431,7 +2431,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3135,
+      "ID": 3135,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_MonsterPartDamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -2446,7 +2446,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3133,
+      "ID": 3133,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_Pen",
       "EJHOFPCAEIE": 1,
@@ -2461,7 +2461,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3131,
+      "ID": 3131,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "DamageCal_StunDamageTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -2476,7 +2476,7 @@
       "EBCGFOIGMIK": 2000
     },
     {
-      "GKNMDKNIMHP": 3147,
+      "ID": 3147,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "ElementAbnormalCal_ElementAbnormalRatio",
       "EJHOFPCAEIE": 10000,
@@ -2491,7 +2491,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3145,
+      "ID": 3145,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "FeverCal_FeverGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -2506,7 +2506,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3148,
+      "ID": 3148,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "FeverCal_IndividualFeverGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -2521,7 +2521,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3146,
+      "ID": 3146,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "HPCal_HPHealRatio",
       "EJHOFPCAEIE": 10000,
@@ -2536,7 +2536,7 @@
       "EBCGFOIGMIK": 1
     },
     {
-      "GKNMDKNIMHP": 3144,
+      "ID": 3144,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "SPCal_SPGetRatio",
       "EJHOFPCAEIE": 10000,
@@ -2551,7 +2551,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3142,
+      "ID": 3142,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "StunCal_AddedBreakStunRatio",
       "EJHOFPCAEIE": 10000,
@@ -2566,7 +2566,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3141,
+      "ID": 3141,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "StunCal_AllStunResist",
       "EJHOFPCAEIE": 10000,
@@ -2581,7 +2581,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3139,
+      "ID": 3139,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "StunCal_BreakStunRatio",
       "EJHOFPCAEIE": 10000,
@@ -2596,7 +2596,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3140,
+      "ID": 3140,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "StunCal_BreakStunTakeRatio",
       "EJHOFPCAEIE": 10000,
@@ -2611,7 +2611,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3143,
+      "ID": 3143,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "StunCal_FinalAddStun",
       "EJHOFPCAEIE": 1,
@@ -2626,7 +2626,7 @@
       "EBCGFOIGMIK": 0
     },
     {
-      "GKNMDKNIMHP": 3138,
+      "ID": 3138,
       "CFKDFIJIFBB": 3,
       "DLNOFDLPJIF": "StunCal_FinalBreakStun",
       "EJHOFPCAEIE": 1,

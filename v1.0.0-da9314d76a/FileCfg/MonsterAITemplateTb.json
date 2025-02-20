@@ -1,7 +1,7 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
-      "HBKDOIKGNDE": 100001,
+      "ID": 100001,
       "JHDOPEMCMCC": "测试_AI_通用",
       "FPJIBKOJCDF": [
         "Tag_AI_A",
@@ -12,7 +12,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 100002,
+      "ID": 100002,
       "JHDOPEMCMCC": "测试_AI_技能测试",
       "FPJIBKOJCDF": [
         "Tag_AI_A",
@@ -23,7 +23,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 100003,
+      "ID": 100003,
       "JHDOPEMCMCC": "测试_AI_移动测试",
       "FPJIBKOJCDF": [
         "Tag_AI_A",
@@ -34,7 +34,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 100004,
+      "ID": 100004,
       "JHDOPEMCMCC": "测试_AI_Anchor测试",
       "FPJIBKOJCDF": [
         "Tag_AI_A",
@@ -45,7 +45,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 100006,
+      "ID": 100006,
       "JHDOPEMCMCC": "测试_AI_动画测试",
       "FPJIBKOJCDF": [
         "Tag_AI_A",
@@ -56,7 +56,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 100007,
+      "ID": 100007,
       "JHDOPEMCMCC": "测试_AI_逃跑测试",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -64,7 +64,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 100011,
+      "ID": 100011,
       "JHDOPEMCMCC": "棍兵_AI_仇恨转移测试",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 100012,
+      "ID": 100012,
       "JHDOPEMCMCC": "测试_触发Ability",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -104,7 +104,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 110101,
+      "ID": 110101,
       "JHDOPEMCMCC": "棍兵_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110111,
+      "ID": 110111,
       "JHDOPEMCMCC": "棍兵_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110201,
+      "ID": 110201,
       "JHDOPEMCMCC": "枪兵_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110202,
+      "ID": 110202,
       "JHDOPEMCMCC": "枪兵_AI_友方单位",
       "FPJIBKOJCDF": [
         "Allied"
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110203,
+      "ID": 110203,
       "JHDOPEMCMCC": "枪兵_AI_友方_NedfSoldier纯战斗版",
       "FPJIBKOJCDF": [
         "Allied"
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110208,
+      "ID": 110208,
       "JHDOPEMCMCC": "枪兵_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110209,
+      "ID": 110209,
       "JHDOPEMCMCC": "枪兵_AI_索敌",
       "FPJIBKOJCDF": [
         "SelectTargetOnly"
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110211,
+      "ID": 110211,
       "JHDOPEMCMCC": "枪兵_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110301,
+      "ID": 110301,
       "JHDOPEMCMCC": "盾兵_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110311,
+      "ID": 110311,
       "JHDOPEMCMCC": "盾兵_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -432,7 +432,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110401,
+      "ID": 110401,
       "JHDOPEMCMCC": "长臂机甲_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -464,7 +464,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110402,
+      "ID": 110402,
       "JHDOPEMCMCC": "长臂机甲_AI_近战倾向",
       "FPJIBKOJCDF": [
         "CloseRange"
@@ -498,7 +498,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110403,
+      "ID": 110403,
       "JHDOPEMCMCC": "长臂机甲_AI_远程倾向",
       "FPJIBKOJCDF": [
         "LongRange"
@@ -532,7 +532,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110410,
+      "ID": 110410,
       "JHDOPEMCMCC": "长臂机甲_AI_巡逻",
       "FPJIBKOJCDF": [
         "Patrol"
@@ -542,7 +542,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 110411,
+      "ID": 110411,
       "JHDOPEMCMCC": "长臂机甲_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110501,
+      "ID": 110501,
       "JHDOPEMCMCC": "大型机甲_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -606,7 +606,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110502,
+      "ID": 110502,
       "JHDOPEMCMCC": "大型机甲_AI_近战倾向",
       "FPJIBKOJCDF": [
         "CloseRange"
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110503,
+      "ID": 110503,
       "JHDOPEMCMCC": "大型机甲_AI_远程倾向",
       "FPJIBKOJCDF": [
         "LongRange"
@@ -674,7 +674,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110504,
+      "ID": 110504,
       "JHDOPEMCMCC": "大型机甲_AI_屏蔽机枪",
       "FPJIBKOJCDF": [
         "Monster_Guardian_ForbidMachineGun"
@@ -708,7 +708,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110511,
+      "ID": 110511,
       "JHDOPEMCMCC": "大型机甲_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -740,7 +740,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110601,
+      "ID": 110601,
       "JHDOPEMCMCC": "机甲猩猩_AI_默认（Boss模板）",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -748,7 +748,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 110701,
+      "ID": 110701,
       "JHDOPEMCMCC": "巡逻车_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -780,7 +780,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110711,
+      "ID": 110711,
       "JHDOPEMCMCC": "巡逻车_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -812,7 +812,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110801,
+      "ID": 110801,
       "JHDOPEMCMCC": "自爆蜘蛛_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -820,7 +820,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 110901,
+      "ID": 110901,
       "JHDOPEMCMCC": "低阶以太剑_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -852,7 +852,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110902,
+      "ID": 110902,
       "JHDOPEMCMCC": "低阶以太剑_AI_教学",
       "FPJIBKOJCDF": [
         "Tutorial"
@@ -886,7 +886,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110903,
+      "ID": 110903,
       "JHDOPEMCMCC": "低阶以太剑_AI_屏蔽攻击",
       "FPJIBKOJCDF": [
         "Disarm"
@@ -920,7 +920,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110908,
+      "ID": 110908,
       "JHDOPEMCMCC": "低阶以太剑_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -954,7 +954,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 110911,
+      "ID": 110911,
       "JHDOPEMCMCC": "低阶以太剑_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -986,7 +986,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111001,
+      "ID": 111001,
       "JHDOPEMCMCC": "低阶以太粘液_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1018,7 +1018,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111008,
+      "ID": 111008,
       "JHDOPEMCMCC": "低阶以太粘液_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -1052,7 +1052,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111009,
+      "ID": 111009,
       "JHDOPEMCMCC": "低阶以太粘液_AI_辅攻，无视攻权，高频，不run",
       "FPJIBKOJCDF": [
         "Aid",
@@ -1089,7 +1089,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111010,
+      "ID": 111010,
       "JHDOPEMCMCC": "低阶以太粘液_AI_巡逻（巡逻模板）",
       "FPJIBKOJCDF": [
         "Patrol"
@@ -1099,7 +1099,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 111011,
+      "ID": 111011,
       "JHDOPEMCMCC": "低阶以太粘液_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1131,7 +1131,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111101,
+      "ID": 111101,
       "JHDOPEMCMCC": "以太巨兽_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1163,7 +1163,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111102,
+      "ID": 111102,
       "JHDOPEMCMCC": "以太巨兽_AI_辅攻",
       "FPJIBKOJCDF": [
         "Aide"
@@ -1197,7 +1197,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111103,
+      "ID": 111103,
       "JHDOPEMCMCC": "以太巨兽_AI_教学",
       "FPJIBKOJCDF": [
         "Tutorial"
@@ -1231,7 +1231,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111104,
+      "ID": 111104,
       "JHDOPEMCMCC": "以太巨兽_AI_破坏物",
       "FPJIBKOJCDF": [
         "Destruct"
@@ -1265,7 +1265,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111105,
+      "ID": 111105,
       "JHDOPEMCMCC": "以太巨兽_AI_破坏物_辅攻",
       "FPJIBKOJCDF": [
         "DestructAide"
@@ -1299,7 +1299,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111111,
+      "ID": 111111,
       "JHDOPEMCMCC": "以太巨兽_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1331,7 +1331,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111201,
+      "ID": 111201,
       "JHDOPEMCMCC": "以太巡兽_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1363,7 +1363,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111202,
+      "ID": 111202,
       "JHDOPEMCMCC": "以太巡兽_AI_辅攻",
       "FPJIBKOJCDF": [
         "Aide"
@@ -1397,7 +1397,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111203,
+      "ID": 111203,
       "JHDOPEMCMCC": "以太巡兽_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation",
@@ -1432,7 +1432,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111204,
+      "ID": 111204,
       "JHDOPEMCMCC": "以太巡兽_AI_Boss",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1440,7 +1440,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 111211,
+      "ID": 111211,
       "JHDOPEMCMCC": "以太巡兽_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1472,7 +1472,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111301,
+      "ID": 111301,
       "JHDOPEMCMCC": "以太爆弹_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1480,7 +1480,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 111401,
+      "ID": 111401,
       "JHDOPEMCMCC": "以太信号斧_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1512,7 +1512,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111408,
+      "ID": 111408,
       "JHDOPEMCMCC": "以太信号斧_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -1546,7 +1546,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111411,
+      "ID": 111411,
       "JHDOPEMCMCC": "以太信号斧_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1578,7 +1578,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111501,
+      "ID": 111501,
       "JHDOPEMCMCC": "以太剑盾_AI_默认（Boss模板）（中途转阶段）",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1586,7 +1586,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 111502,
+      "ID": 111502,
       "JHDOPEMCMCC": "以太剑盾_AI_序章（Boss模板）（没有二阶段）",
       "FPJIBKOJCDF": [
         "MuteTransform"
@@ -1596,7 +1596,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 111503,
+      "ID": 111503,
       "JHDOPEMCMCC": "以太剑盾_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1628,7 +1628,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111504,
+      "ID": 111504,
       "JHDOPEMCMCC": "以太剑盾_AI_序章（Boss模板）（直接二阶段）",
       "FPJIBKOJCDF": [
         "BornTransform"
@@ -1638,7 +1638,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 111509,
+      "ID": 111509,
       "JHDOPEMCMCC": "以太剑盾_AI_小BOSS指挥者",
       "FPJIBKOJCDF": [
         "DurahanLeader"
@@ -1672,7 +1672,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111511,
+      "ID": 111511,
       "JHDOPEMCMCC": "以太剑盾_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1704,7 +1704,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111601,
+      "ID": 111601,
       "JHDOPEMCMCC": "掠袭猎兵_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1736,7 +1736,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111608,
+      "ID": 111608,
       "JHDOPEMCMCC": "掠袭猎兵_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -1770,7 +1770,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111609,
+      "ID": 111609,
       "JHDOPEMCMCC": "掠袭猎兵_AI_友方单位",
       "FPJIBKOJCDF": [
         "Allied"
@@ -1804,7 +1804,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111611,
+      "ID": 111611,
       "JHDOPEMCMCC": "掠袭猎兵_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1836,7 +1836,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111801,
+      "ID": 111801,
       "JHDOPEMCMCC": "以太死神XIII_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1868,7 +1868,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111802,
+      "ID": 111802,
       "JHDOPEMCMCC": "以太死神XIII_AI_辅攻",
       "FPJIBKOJCDF": [
         "Aide"
@@ -1902,7 +1902,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111803,
+      "ID": 111803,
       "JHDOPEMCMCC": "以太死神XIII_AI_BOSS",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1910,7 +1910,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 111804,
+      "ID": 111804,
       "JHDOPEMCMCC": "以太死神XIII_AI_BOSS_削弱",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1921,7 +1921,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111809,
+      "ID": 111809,
       "JHDOPEMCMCC": "以太死神XIII_AI_关卡传送",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1929,7 +1929,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 111810,
+      "ID": 111810,
       "JHDOPEMCMCC": "以太死神XIII_AI_关卡测试",
       "FPJIBKOJCDF": [
         "LevelTest"
@@ -1963,7 +1963,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111811,
+      "ID": 111811,
       "JHDOPEMCMCC": "以太死神XIII_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -1995,7 +1995,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111901,
+      "ID": 111901,
       "JHDOPEMCMCC": "以太巡兽_装甲版_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2027,7 +2027,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 111902,
+      "ID": 111902,
       "JHDOPEMCMCC": "以太巡兽_装甲版_AI_BOSS",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2035,7 +2035,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 111911,
+      "ID": 111911,
       "JHDOPEMCMCC": "以太巡兽_装甲版_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2067,7 +2067,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112001,
+      "ID": 112001,
       "JHDOPEMCMCC": "以太壁垒_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2099,7 +2099,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112002,
+      "ID": 112002,
       "JHDOPEMCMCC": "以太壁垒_AI_占点只进圈防御",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -2133,7 +2133,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112003,
+      "ID": 112003,
       "JHDOPEMCMCC": "以太壁垒_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -2167,7 +2167,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112011,
+      "ID": 112011,
       "JHDOPEMCMCC": "以太壁垒_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2199,7 +2199,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112101,
+      "ID": 112101,
       "JHDOPEMCMCC": "以太魔花_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2231,7 +2231,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112102,
+      "ID": 112102,
       "JHDOPEMCMCC": "以太魔花_AI_辅攻",
       "FPJIBKOJCDF": [
         "Aide"
@@ -2265,7 +2265,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112103,
+      "ID": 112103,
       "JHDOPEMCMCC": "以太魔花_AI_教学",
       "FPJIBKOJCDF": [
         "Tutorial"
@@ -2299,7 +2299,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112111,
+      "ID": 112111,
       "JHDOPEMCMCC": "以太魔花_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2331,7 +2331,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112201,
+      "ID": 112201,
       "JHDOPEMCMCC": "以太双斧_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2363,7 +2363,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112202,
+      "ID": 112202,
       "JHDOPEMCMCC": "以太双斧_AI_辅攻",
       "FPJIBKOJCDF": [
         "Aide"
@@ -2397,7 +2397,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112208,
+      "ID": 112208,
       "JHDOPEMCMCC": "以太双斧_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -2431,7 +2431,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112211,
+      "ID": 112211,
       "JHDOPEMCMCC": "以太双斧_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2463,7 +2463,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112212,
+      "ID": 112212,
       "JHDOPEMCMCC": "以太双斧_AI_升阶指挥者",
       "FPJIBKOJCDF": [
         "GoblinLeader"
@@ -2497,7 +2497,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112301,
+      "ID": 112301,
       "JHDOPEMCMCC": "死路巨人_P1阶段_AI_默认（Boss模板）",
       "FPJIBKOJCDF": [
         "Boss"
@@ -2507,7 +2507,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 112302,
+      "ID": 112302,
       "JHDOPEMCMCC": "死路巨人_P2阶段_AI_默认（Boss模板）",
       "FPJIBKOJCDF": [
         "Boss"
@@ -2517,7 +2517,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 112303,
+      "ID": 112303,
       "JHDOPEMCMCC": "死路巨人_P1阶段_AI_精英（Boss模板）(弃用）",
       "FPJIBKOJCDF": [
         "Elite"
@@ -2527,7 +2527,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 112304,
+      "ID": 112304,
       "JHDOPEMCMCC": "死路巨人_P1阶段_AI_高难（Boss模板）",
       "FPJIBKOJCDF": [
         "Boss",
@@ -2538,7 +2538,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 112305,
+      "ID": 112305,
       "JHDOPEMCMCC": "死路巨人_P2阶段_AI_高难（Boss模板）",
       "FPJIBKOJCDF": [
         "Boss",
@@ -2549,7 +2549,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 112306,
+      "ID": 112306,
       "JHDOPEMCMCC": "死路巨人_P1阶段_AI_默认_出场播片（Boss模板）",
       "FPJIBKOJCDF": [
         "Boss",
@@ -2560,7 +2560,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 112307,
+      "ID": 112307,
       "JHDOPEMCMCC": "死路巨人_P1阶段_AI_高难_出场播片（Boss模板）",
       "FPJIBKOJCDF": [
         "Boss",
@@ -2572,7 +2572,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 112401,
+      "ID": 112401,
       "JHDOPEMCMCC": "摇钱布_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2604,7 +2604,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112410,
+      "ID": 112410,
       "JHDOPEMCMCC": "摇钱布_AI_巡逻",
       "FPJIBKOJCDF": [
         "Patrol"
@@ -2614,7 +2614,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 112501,
+      "ID": 112501,
       "JHDOPEMCMCC": "轻装猎兵_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2646,7 +2646,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112502,
+      "ID": 112502,
       "JHDOPEMCMCC": "轻装猎兵_AI_友方单位",
       "FPJIBKOJCDF": [
         "Allied"
@@ -2680,7 +2680,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112503,
+      "ID": 112503,
       "JHDOPEMCMCC": "轻装猎兵_AI_友方_NedfSoldier纯战斗版",
       "FPJIBKOJCDF": [
         "Allied"
@@ -2714,7 +2714,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112508,
+      "ID": 112508,
       "JHDOPEMCMCC": "轻装猎兵_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -2748,7 +2748,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112509,
+      "ID": 112509,
       "JHDOPEMCMCC": "轻装猎兵_AI_索敌",
       "FPJIBKOJCDF": [
         "SelectTargetOnly"
@@ -2782,7 +2782,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112511,
+      "ID": 112511,
       "JHDOPEMCMCC": "轻装猎兵_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2814,7 +2814,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112601,
+      "ID": 112601,
       "JHDOPEMCMCC": "重装炮手_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2846,7 +2846,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112608,
+      "ID": 112608,
       "JHDOPEMCMCC": "重装炮手_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -2880,7 +2880,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112611,
+      "ID": 112611,
       "JHDOPEMCMCC": "重装炮手_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2912,7 +2912,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112701,
+      "ID": 112701,
       "JHDOPEMCMCC": "近战猎兵_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -2944,7 +2944,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112708,
+      "ID": 112708,
       "JHDOPEMCMCC": "近战猎兵_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -2978,7 +2978,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112711,
+      "ID": 112711,
       "JHDOPEMCMCC": "近战猎兵_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3010,7 +3010,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 112901,
+      "ID": 112901,
       "JHDOPEMCMCC": "以太核心曼陀罗_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3018,7 +3018,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 113001,
+      "ID": 113001,
       "JHDOPEMCMCC": "工地机械_破拆机_AI_默认（Boss模板）",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3026,7 +3026,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 113101,
+      "ID": 113101,
       "JHDOPEMCMCC": "混混电棍兵_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3058,7 +3058,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113108,
+      "ID": 113108,
       "JHDOPEMCMCC": "混混电棍兵_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -3092,7 +3092,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113110,
+      "ID": 113110,
       "JHDOPEMCMCC": "混混电棍兵_巡逻",
       "FPJIBKOJCDF": [
         "Patrol"
@@ -3102,7 +3102,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 113111,
+      "ID": 113111,
       "JHDOPEMCMCC": "混混电棍兵_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3134,7 +3134,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113201,
+      "ID": 113201,
       "JHDOPEMCMCC": "混混弩机兵_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3166,7 +3166,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113208,
+      "ID": 113208,
       "JHDOPEMCMCC": "混混弩机兵_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -3200,7 +3200,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113209,
+      "ID": 113209,
       "JHDOPEMCMCC": "混混弩机兵_索敌",
       "FPJIBKOJCDF": [
         "SelectTargetOnly"
@@ -3210,7 +3210,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 113211,
+      "ID": 113211,
       "JHDOPEMCMCC": "混混弩机兵_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3242,7 +3242,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113301,
+      "ID": 113301,
       "JHDOPEMCMCC": "混混纵火犯_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3274,7 +3274,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113308,
+      "ID": 113308,
       "JHDOPEMCMCC": "混混纵火犯_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -3308,7 +3308,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113311,
+      "ID": 113311,
       "JHDOPEMCMCC": "混混纵火犯_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3340,7 +3340,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113401,
+      "ID": 113401,
       "JHDOPEMCMCC": "混混鱼叉兵_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3372,7 +3372,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113408,
+      "ID": 113408,
       "JHDOPEMCMCC": "混混鱼叉兵_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -3406,7 +3406,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113411,
+      "ID": 113411,
       "JHDOPEMCMCC": "混混鱼叉兵_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3438,7 +3438,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113501,
+      "ID": 113501,
       "JHDOPEMCMCC": "混混拳击手_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3470,7 +3470,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113508,
+      "ID": 113508,
       "JHDOPEMCMCC": "混混拳击手_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -3504,7 +3504,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113511,
+      "ID": 113511,
       "JHDOPEMCMCC": "混混拳击手_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3536,7 +3536,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113521,
+      "ID": 113521,
       "JHDOPEMCMCC": "混混拳击手_Boss",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3568,7 +3568,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113601,
+      "ID": 113601,
       "JHDOPEMCMCC": "混混霰弹枪_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3600,7 +3600,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113608,
+      "ID": 113608,
       "JHDOPEMCMCC": "混混霰弹枪_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -3634,7 +3634,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113611,
+      "ID": 113611,
       "JHDOPEMCMCC": "混混霰弹枪_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3666,7 +3666,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113701,
+      "ID": 113701,
       "JHDOPEMCMCC": "眼魔引擎_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3698,7 +3698,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113702,
+      "ID": 113702,
       "JHDOPEMCMCC": "眼魔引擎_特殊滚动版",
       "FPJIBKOJCDF": [
         "BeholderEngineRoll"
@@ -3732,7 +3732,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113703,
+      "ID": 113703,
       "JHDOPEMCMCC": "眼魔引擎_协同攻击版",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3764,7 +3764,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113708,
+      "ID": 113708,
       "JHDOPEMCMCC": "眼魔引擎_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -3798,7 +3798,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113711,
+      "ID": 113711,
       "JHDOPEMCMCC": "眼魔引擎_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3830,7 +3830,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113801,
+      "ID": 113801,
       "JHDOPEMCMCC": "泰拉斯奎祸车_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3862,7 +3862,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113808,
+      "ID": 113808,
       "JHDOPEMCMCC": "泰拉斯奎祸车_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -3896,7 +3896,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113811,
+      "ID": 113811,
       "JHDOPEMCMCC": "泰拉斯奎祸车_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3928,7 +3928,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113812,
+      "ID": 113812,
       "JHDOPEMCMCC": "泰拉斯奎祸车_升阶指挥者",
       "FPJIBKOJCDF": [
         "TarasqueMixerLeader"
@@ -3962,7 +3962,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 113901,
+      "ID": 113901,
       "JHDOPEMCMCC": "工地机械_打桩机_AI_默认（Boss模板）",
       "FPJIBKOJCDF": [
         "Eazy"
@@ -3972,7 +3972,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 113902,
+      "ID": 113902,
       "JHDOPEMCMCC": "工地机械_打桩机_AI_默认（Boss模板）",
       "FPJIBKOJCDF": [
         "Hard"
@@ -3982,7 +3982,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114001,
+      "ID": 114001,
       "JHDOPEMCMCC": "工地机械_挖掘机_AI_默认（Boss模板）",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3990,7 +3990,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114002,
+      "ID": 114002,
       "JHDOPEMCMCC": "工地机械_挖掘机_AI_投石专精_01（Boss模板）",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -3998,7 +3998,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114003,
+      "ID": 114003,
       "JHDOPEMCMCC": "工地机械_挖掘机_AI_特殊Idle（Boss模板）",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4006,7 +4006,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114004,
+      "ID": 114004,
       "JHDOPEMCMCC": "工地机械_挖掘机_AI_投石专精_02（Boss模板）",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4014,7 +4014,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114101,
+      "ID": 114101,
       "JHDOPEMCMCC": "工地Boss_复合侵蚀体_AI_默认（Boss模板）",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4022,7 +4022,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114201,
+      "ID": 114201,
       "JHDOPEMCMCC": "双子舞者_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4030,7 +4030,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114202,
+      "ID": 114202,
       "JHDOPEMCMCC": "双子舞者_组合_AI_高难度",
       "FPJIBKOJCDF": [
         "Hard"
@@ -4040,7 +4040,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114203,
+      "ID": 114203,
       "JHDOPEMCMCC": "双子舞者_组合_AI_低难度",
       "FPJIBKOJCDF": [
         "Eazy"
@@ -4050,7 +4050,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114401,
+      "ID": 114401,
       "JHDOPEMCMCC": "捷足巡游者_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4082,7 +4082,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114411,
+      "ID": 114411,
       "JHDOPEMCMCC": "捷足巡游者_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4114,7 +4114,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114501,
+      "ID": 114501,
       "JHDOPEMCMCC": "重装侵袭者_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4146,7 +4146,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114511,
+      "ID": 114511,
       "JHDOPEMCMCC": "重装侵袭者_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4178,7 +4178,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114521,
+      "ID": 114521,
       "JHDOPEMCMCC": "重装侵袭者_AI_Boss",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4186,7 +4186,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 114601,
+      "ID": 114601,
       "JHDOPEMCMCC": "恶灵_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4218,7 +4218,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114611,
+      "ID": 114611,
       "JHDOPEMCMCC": "恶灵_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4250,7 +4250,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114701,
+      "ID": 114701,
       "JHDOPEMCMCC": "游魂_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4282,7 +4282,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114711,
+      "ID": 114711,
       "JHDOPEMCMCC": "游魂_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4314,7 +4314,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114801,
+      "ID": 114801,
       "JHDOPEMCMCC": "恶毒打手_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4346,7 +4346,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114808,
+      "ID": 114808,
       "JHDOPEMCMCC": "恶毒打手_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -4380,7 +4380,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114811,
+      "ID": 114811,
       "JHDOPEMCMCC": "恶毒打手_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4412,7 +4412,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114901,
+      "ID": 114901,
       "JHDOPEMCMCC": "贪婪射手_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4444,7 +4444,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114908,
+      "ID": 114908,
       "JHDOPEMCMCC": "贪婪射手_AI_占点",
       "FPJIBKOJCDF": [
         "Occupation"
@@ -4478,7 +4478,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 114911,
+      "ID": 114911,
       "JHDOPEMCMCC": "贪婪射手_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4510,7 +4510,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 115001,
+      "ID": 115001,
       "JHDOPEMCMCC": "狂乱暴徒_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4542,7 +4542,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 115011,
+      "ID": 115011,
       "JHDOPEMCMCC": "狂乱暴徒_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4574,7 +4574,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 115101,
+      "ID": 115101,
       "JHDOPEMCMCC": "盛怒恶霸_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4606,7 +4606,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 115111,
+      "ID": 115111,
       "JHDOPEMCMCC": "盛怒恶霸_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4638,7 +4638,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 115201,
+      "ID": 115201,
       "JHDOPEMCMCC": "凶心疯汉_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4670,7 +4670,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 115211,
+      "ID": 115211,
       "JHDOPEMCMCC": "凶心疯汉_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4702,7 +4702,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 115301,
+      "ID": 115301,
       "JHDOPEMCMCC": "尼尼微_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4710,7 +4710,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 115302,
+      "ID": 115302,
       "JHDOPEMCMCC": "尼尼微_AI_召唤屏障",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4718,7 +4718,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 115303,
+      "ID": 115303,
       "JHDOPEMCMCC": "尼尼微_AI_召唤屏障_可破坏物碰撞测试",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4726,7 +4726,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 115601,
+      "ID": 115601,
       "JHDOPEMCMCC": "尼尼微僚机_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4758,7 +4758,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 115602,
+      "ID": 115602,
       "JHDOPEMCMCC": "尼尼微僚机_AI_普通关卡用",
       "FPJIBKOJCDF": [
         "WithNineveh"
@@ -4792,7 +4792,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 115801,
+      "ID": 115801,
       "JHDOPEMCMCC": "重机素体_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4800,7 +4800,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 116501,
+      "ID": 116501,
       "JHDOPEMCMCC": "尼尼微藤曼触手_AI",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4832,7 +4832,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 117601,
+      "ID": 117601,
       "JHDOPEMCMCC": "重装猎兵_火箭筒_AI",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4864,7 +4864,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 117701,
+      "ID": 117701,
       "JHDOPEMCMCC": "能量体近战_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4896,7 +4896,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 117702,
+      "ID": 117702,
       "JHDOPEMCMCC": "能量体近战_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4928,7 +4928,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 117801,
+      "ID": 117801,
       "JHDOPEMCMCC": "能量体远程_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4960,7 +4960,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 117802,
+      "ID": 117802,
       "JHDOPEMCMCC": "能量体远程_AI_升阶",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -4992,7 +4992,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 120121,
+      "ID": 120121,
       "JHDOPEMCMCC": "军方_加特林机枪塔_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5000,7 +5000,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 120211,
+      "ID": 120211,
       "JHDOPEMCMCC": "军方_激光镭射装置_完好_单发射击_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5008,7 +5008,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 120221,
+      "ID": 120221,
       "JHDOPEMCMCC": "军方_激光镭射装置_单头损坏_单发射击_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5016,7 +5016,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 120231,
+      "ID": 120231,
       "JHDOPEMCMCC": "军方_激光镭射装置_长时间射击_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5024,7 +5024,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 120232,
+      "ID": 120232,
       "JHDOPEMCMCC": "军方_激光镭射装置_长时间射击_AI_低速版",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5032,7 +5032,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 120302,
+      "ID": 120302,
       "JHDOPEMCMCC": "导弹井_AI_长关卡测试_目标为中心落点",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5040,7 +5040,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 120303,
+      "ID": 120303,
       "JHDOPEMCMCC": "垂直导弹发射器_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5048,7 +5048,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 120304,
+      "ID": 120304,
       "JHDOPEMCMCC": "追踪导弹发射器_AI_30半径战场",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5056,7 +5056,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 120305,
+      "ID": 120305,
       "JHDOPEMCMCC": "追踪导弹发射器_AI_20半径战场",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5064,7 +5064,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 120521,
+      "ID": 120521,
       "JHDOPEMCMCC": "陷阱_弯管道_AI",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5072,7 +5072,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 121501,
+      "ID": 121501,
       "JHDOPEMCMCC": "军方_激光屏障_AI_默认_间歇射击",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5080,7 +5080,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 121601,
+      "ID": 121601,
       "JHDOPEMCMCC": "军方_子母雷_空爆型",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5088,7 +5088,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 121611,
+      "ID": 121611,
       "JHDOPEMCMCC": "军方_子母雷_地爆型",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5096,7 +5096,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 121701,
+      "ID": 121701,
       "JHDOPEMCMCC": "军方_激光镭射装置_单头损坏_长时间射击_AI_固定定时射击",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5104,7 +5104,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 121801,
+      "ID": 121801,
       "JHDOPEMCMCC": "军方_垂直导弹发射器_AI_固定落点",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5112,7 +5112,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 130811,
+      "ID": 130811,
       "JHDOPEMCMCC": "军方_攻击型围栏_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5120,7 +5120,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 131301,
+      "ID": 131301,
       "JHDOPEMCMCC": "军方_地雷_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5128,7 +5128,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 140601,
+      "ID": 140601,
       "JHDOPEMCMCC": "丽娜_杜拉西_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5136,7 +5136,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 140701,
+      "ID": 140701,
       "JHDOPEMCMCC": "丽娜_安娜塔莎_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5144,7 +5144,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 190541,
+      "ID": 190541,
       "JHDOPEMCMCC": "智能货柜_AI_默认",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5152,7 +5152,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211021,
+      "ID": 211021,
       "JHDOPEMCMCC": "关卡测试_AI_跟随玩家_枪兵AI（纯测试关卡用）",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5160,7 +5160,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211022,
+      "ID": 211022,
       "JHDOPEMCMCC": "关卡测试_AI_按照路径寻路",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5168,7 +5168,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211023,
+      "ID": 211023,
       "JHDOPEMCMCC": "关卡测试_AI_直接战斗_近战",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5176,7 +5176,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211024,
+      "ID": 211024,
       "JHDOPEMCMCC": "关卡测试_AI_直接战斗_远程",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5184,7 +5184,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211025,
+      "ID": 211025,
       "JHDOPEMCMCC": "关卡测试_AI_遁入空门",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5192,7 +5192,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211026,
+      "ID": 211026,
       "JHDOPEMCMCC": "关卡测试_AI_按照路径寻路_慢走",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5200,7 +5200,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211027,
+      "ID": 211027,
       "JHDOPEMCMCC": "关卡测试_AI_怪物技能专精",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5208,7 +5208,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211028,
+      "ID": 211028,
       "JHDOPEMCMCC": "关卡测试_AI_安全邦布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5216,7 +5216,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211029,
+      "ID": 211029,
       "JHDOPEMCMCC": "关卡测试_AI_家政邦布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5224,7 +5224,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211030,
+      "ID": 211030,
       "JHDOPEMCMCC": "关卡测试_AI_跟随邦布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5232,7 +5232,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211031,
+      "ID": 211031,
       "JHDOPEMCMCC": "关卡测试_AI_长流程邦布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5240,7 +5240,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211032,
+      "ID": 211032,
       "JHDOPEMCMCC": "关卡测试_AI_招财邦布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5248,7 +5248,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211033,
+      "ID": 211033,
       "JHDOPEMCMCC": "关卡测试_AI_鲨鱼邦布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5256,7 +5256,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211034,
+      "ID": 211034,
       "JHDOPEMCMCC": "关卡测试_AI_相扑邦布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5264,7 +5264,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211035,
+      "ID": 211035,
       "JHDOPEMCMCC": "关卡测试_AI_探险邦布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5272,7 +5272,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211036,
+      "ID": 211036,
       "JHDOPEMCMCC": "关卡测试_AI_按照路径寻路_玩家远离停止",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5280,7 +5280,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211037,
+      "ID": 211037,
       "JHDOPEMCMCC": "关卡测试_宝石结晶虫AI",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5288,7 +5288,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211038,
+      "ID": 211038,
       "JHDOPEMCMCC": "关卡测试_AI_自定义场景Tag节点AI测试",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5296,7 +5296,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211039,
+      "ID": 211039,
       "JHDOPEMCMCC": "关卡测试_AI_纸壳布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5304,7 +5304,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211040,
+      "ID": 211040,
       "JHDOPEMCMCC": "关卡测试_AI_纸袋布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5312,7 +5312,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211041,
+      "ID": 211041,
       "JHDOPEMCMCC": "关卡测试_AI_泪眼布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5320,7 +5320,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211042,
+      "ID": 211042,
       "JHDOPEMCMCC": "关卡测试_AI_飚速布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5328,7 +5328,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211043,
+      "ID": 211043,
       "JHDOPEMCMCC": "关卡测试_AI_艾米丽安_诺查邦布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5336,7 +5336,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211044,
+      "ID": 211044,
       "JHDOPEMCMCC": "关卡测试_AI_果核布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5344,7 +5344,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211045,
+      "ID": 211045,
       "JHDOPEMCMCC": "关卡测试_AI_飞靶布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5352,7 +5352,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211046,
+      "ID": 211046,
       "JHDOPEMCMCC": "关卡测试_AI_气压布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5360,7 +5360,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211047,
+      "ID": 211047,
       "JHDOPEMCMCC": "关卡测试_AI_电击布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5368,7 +5368,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211048,
+      "ID": 211048,
       "JHDOPEMCMCC": "关卡测试_AI_磁力布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5376,7 +5376,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211049,
+      "ID": 211049,
       "JHDOPEMCMCC": "关卡测试_AI_企鹅布",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",
@@ -5384,7 +5384,7 @@
       "FECPMJOGFCO": []
     },
     {
-      "HBKDOIKGNDE": 211051,
+      "ID": 211051,
       "JHDOPEMCMCC": "关卡测试_AI_阿崔巡查",
       "FPJIBKOJCDF": [],
       "MOBKCHGPFCA": "",

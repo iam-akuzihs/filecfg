@@ -1,7 +1,7 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1,
+      "ID": 1,
       "KPGMIAGJEMA": "Easy",
       "LEIJFDNEDBJ": 1,
       "NJBHLCMNJIJ": "HpMax:0|Attack:0|StunMax:0",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 51,
+      "ID": 51,
       "KPGMIAGJEMA": "Normal",
       "LEIJFDNEDBJ": 1,
       "NJBHLCMNJIJ": "HpMax:0|Attack:0|StunMax:0",
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101,
+      "ID": 101,
       "KPGMIAGJEMA": "Hard",
       "LEIJFDNEDBJ": 1,
       "NJBHLCMNJIJ": "HpMax:0|Attack:0|StunMax:0",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 111,
+      "ID": 111,
       "KPGMIAGJEMA": "Zero20",
       "LEIJFDNEDBJ": 1,
       "NJBHLCMNJIJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 112,
+      "ID": 112,
       "KPGMIAGJEMA": "Zero20",
       "LEIJFDNEDBJ": 2,
       "NJBHLCMNJIJ": "HpMax:-0.23|Attack:-0.07|StunMax:-0.1",
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 113,
+      "ID": 113,
       "KPGMIAGJEMA": "Zero20",
       "LEIJFDNEDBJ": 3,
       "NJBHLCMNJIJ": "HpMax:-0.26|Attack:-0.15|StunMax:-0.17",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 114,
+      "ID": 114,
       "KPGMIAGJEMA": "Zero20",
       "LEIJFDNEDBJ": 4,
       "NJBHLCMNJIJ": "HpMax:-0.17|Attack:-0.22|StunMax:-0.24",
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 115,
+      "ID": 115,
       "KPGMIAGJEMA": "Zero20",
       "LEIJFDNEDBJ": 5,
       "NJBHLCMNJIJ": "HpMax:-0.12|Attack:-0.24|StunMax:-0.25",
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 121,
+      "ID": 121,
       "KPGMIAGJEMA": "Zero30",
       "LEIJFDNEDBJ": 1,
       "NJBHLCMNJIJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 122,
+      "ID": 122,
       "KPGMIAGJEMA": "Zero30",
       "LEIJFDNEDBJ": 2,
       "NJBHLCMNJIJ": "HpMax:-0.2|Attack:-0.03|StunMax:-0.1",
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 123,
+      "ID": 123,
       "KPGMIAGJEMA": "Zero30",
       "LEIJFDNEDBJ": 3,
       "NJBHLCMNJIJ": "HpMax:-0.24|Attack:-0.11|StunMax:-0.18",
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 124,
+      "ID": 124,
       "KPGMIAGJEMA": "Zero30",
       "LEIJFDNEDBJ": 4,
       "NJBHLCMNJIJ": "HpMax:-0.14|Attack:-0.19|StunMax:-0.26",
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 125,
+      "ID": 125,
       "KPGMIAGJEMA": "Zero30",
       "LEIJFDNEDBJ": 5,
       "NJBHLCMNJIJ": "HpMax:-0.09|Attack:-0.21|StunMax:-0.27",
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 131,
+      "ID": 131,
       "KPGMIAGJEMA": "Zero40",
       "LEIJFDNEDBJ": 1,
       "NJBHLCMNJIJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -447,7 +447,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 132,
+      "ID": 132,
       "KPGMIAGJEMA": "Zero40",
       "LEIJFDNEDBJ": 2,
       "NJBHLCMNJIJ": "HpMax:-0.22|Attack:0.02|StunMax:-0.1",
@@ -480,7 +480,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 133,
+      "ID": 133,
       "KPGMIAGJEMA": "Zero40",
       "LEIJFDNEDBJ": 3,
       "NJBHLCMNJIJ": "HpMax:-0.28|Attack:-0.08|StunMax:-0.19",
@@ -513,7 +513,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 134,
+      "ID": 134,
       "KPGMIAGJEMA": "Zero40",
       "LEIJFDNEDBJ": 4,
       "NJBHLCMNJIJ": "HpMax:-0.21|Attack:-0.16|StunMax:-0.26",
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 135,
+      "ID": 135,
       "KPGMIAGJEMA": "Zero40",
       "LEIJFDNEDBJ": 5,
       "NJBHLCMNJIJ": "HpMax:-0.17|Attack:-0.18|StunMax:-0.27",
@@ -579,7 +579,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 141,
+      "ID": 141,
       "KPGMIAGJEMA": "Zero50",
       "LEIJFDNEDBJ": 1,
       "NJBHLCMNJIJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -612,7 +612,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 142,
+      "ID": 142,
       "KPGMIAGJEMA": "Zero50",
       "LEIJFDNEDBJ": 2,
       "NJBHLCMNJIJ": "HpMax:-0.23|Attack:0.06|StunMax:-0.11",
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 143,
+      "ID": 143,
       "KPGMIAGJEMA": "Zero50",
       "LEIJFDNEDBJ": 3,
       "NJBHLCMNJIJ": "HpMax:-0.29|Attack:-0.04|StunMax:-0.19",
@@ -678,7 +678,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 144,
+      "ID": 144,
       "KPGMIAGJEMA": "Zero50",
       "LEIJFDNEDBJ": 4,
       "NJBHLCMNJIJ": "HpMax:-0.24|Attack:-0.13|StunMax:-0.27",
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 145,
+      "ID": 145,
       "KPGMIAGJEMA": "Zero50",
       "LEIJFDNEDBJ": 5,
       "NJBHLCMNJIJ": "HpMax:-0.22|Attack:-0.15|StunMax:-0.28",
@@ -744,7 +744,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 151,
+      "ID": 151,
       "KPGMIAGJEMA": "Zero60",
       "LEIJFDNEDBJ": 1,
       "NJBHLCMNJIJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -777,7 +777,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 152,
+      "ID": 152,
       "KPGMIAGJEMA": "Zero60",
       "LEIJFDNEDBJ": 2,
       "NJBHLCMNJIJ": "HpMax:-0.23|Attack:0.06|StunMax:-0.11",
@@ -810,7 +810,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 153,
+      "ID": 153,
       "KPGMIAGJEMA": "Zero60",
       "LEIJFDNEDBJ": 3,
       "NJBHLCMNJIJ": "HpMax:-0.29|Attack:-0.04|StunMax:-0.19",
@@ -843,7 +843,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 154,
+      "ID": 154,
       "KPGMIAGJEMA": "Zero60",
       "LEIJFDNEDBJ": 4,
       "NJBHLCMNJIJ": "HpMax:-0.24|Attack:-0.13|StunMax:-0.27",
@@ -876,7 +876,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 155,
+      "ID": 155,
       "KPGMIAGJEMA": "Zero60",
       "LEIJFDNEDBJ": 5,
       "NJBHLCMNJIJ": "HpMax:-0.22|Attack:-0.15|StunMax:-0.28",

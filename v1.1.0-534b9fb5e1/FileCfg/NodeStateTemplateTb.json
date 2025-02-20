@@ -1,7 +1,7 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 1,
+      "ID": 1,
       "AJLLFDOHEEP": "Locked",
       "IFOFAIDDNLB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -9,7 +9,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 2,
+      "ID": 2,
       "AJLLFDOHEEP": "Unlocked",
       "IFOFAIDDNLB": [
         "FLAG_UNLOCKED",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 3,
+      "ID": 3,
       "AJLLFDOHEEP": "Finished",
       "IFOFAIDDNLB": [
         "FLAG_FINISHED",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 4,
+      "ID": 4,
       "AJLLFDOHEEP": "ShowEvent",
       "IFOFAIDDNLB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 6,
+      "ID": 6,
       "AJLLFDOHEEP": "Brighten",
       "IFOFAIDDNLB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 7,
+      "ID": 7,
       "AJLLFDOHEEP": "Guide",
       "IFOFAIDDNLB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 8,
+      "ID": 8,
       "AJLLFDOHEEP": "Target",
       "IFOFAIDDNLB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 9,
+      "ID": 9,
       "AJLLFDOHEEP": "BrightenOnlyVisible",
       "IFOFAIDDNLB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 10,
+      "ID": 10,
       "AJLLFDOHEEP": "Unstable",
       "IFOFAIDDNLB": [
         "FLAG_UNSTABLE",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 11,
+      "ID": 11,
       "AJLLFDOHEEP": "Empty",
       "IFOFAIDDNLB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 12,
+      "ID": 12,
       "AJLLFDOHEEP": "All",
       "IFOFAIDDNLB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 13,
+      "ID": 13,
       "AJLLFDOHEEP": "",
       "IFOFAIDDNLB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 14,
+      "ID": 14,
       "AJLLFDOHEEP": "LockedWithStamina",
       "IFOFAIDDNLB": []
     },
     {
-      "NGPCCDGBLLK": 15,
+      "ID": 15,
       "AJLLFDOHEEP": "UnEmpty",
       "IFOFAIDDNLB": [
         "FLAG_UNLOCKED",

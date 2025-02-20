@@ -1,7 +1,7 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
-      "HBKDOIKGNDE": 1,
+      "ID": 1,
       "JCMLCCCNEMP": "Frozen_System",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 3,
@@ -32,7 +32,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 2,
+      "ID": 2,
       "JCMLCCCNEMP": "Burn_System",
       "HNDDBKDMEKM": "Burn_System_Debuff_Des",
       "DDEPKNDAEOM": 6,
@@ -63,7 +63,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3,
+      "ID": 3,
       "JCMLCCCNEMP": "Electric_System",
       "HNDDBKDMEKM": "Electric_System_Debuff_Des",
       "DDEPKNDAEOM": 27,
@@ -94,7 +94,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 4,
+      "ID": 4,
       "JCMLCCCNEMP": "Phisc_System",
       "HNDDBKDMEKM": "Phisc_System_Debuff_Des",
       "DDEPKNDAEOM": 35,
@@ -125,7 +125,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 5,
+      "ID": 5,
       "JCMLCCCNEMP": "Ether_System",
       "HNDDBKDMEKM": "Ether_System_Debuff_Des",
       "DDEPKNDAEOM": 33,
@@ -156,7 +156,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 6,
+      "ID": 6,
       "JCMLCCCNEMP": "Frost_System",
       "HNDDBKDMEKM": "Frost_System_Debuff_Des",
       "DDEPKNDAEOM": 37,
@@ -187,7 +187,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 7,
+      "ID": 7,
       "JCMLCCCNEMP": "Disorder_System",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 38,
@@ -218,7 +218,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 12,
+      "ID": 12,
       "JCMLCCCNEMP": "Ignite_System",
       "HNDDBKDMEKM": "Ignite_System_Debuff_Des",
       "DDEPKNDAEOM": 30,
@@ -249,7 +249,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 13,
+      "ID": 13,
       "JCMLCCCNEMP": "Overload_System",
       "HNDDBKDMEKM": "Overload_System_Debuff_Des",
       "DDEPKNDAEOM": 31,
@@ -280,7 +280,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 15,
+      "ID": 15,
       "JCMLCCCNEMP": "Chaos_System",
       "HNDDBKDMEKM": "Chaos_System_Debuff_Des",
       "DDEPKNDAEOM": 34,
@@ -311,7 +311,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 16,
+      "ID": 16,
       "JCMLCCCNEMP": "Frostbite_System",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 36,
@@ -342,7 +342,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 101,
+      "ID": 101,
       "JCMLCCCNEMP": "Burn_Card",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 6,
@@ -373,7 +373,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 101001,
+      "ID": 101001,
       "JCMLCCCNEMP": "Stun",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 1,
@@ -404,7 +404,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 101002,
+      "ID": 101002,
       "JCMLCCCNEMP": "Stun_OnBreak",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 1,
@@ -435,7 +435,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 102001,
+      "ID": 102001,
       "JCMLCCCNEMP": "Tied",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 2,
@@ -466,7 +466,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 103001,
+      "ID": 103001,
       "JCMLCCCNEMP": "Frozen",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 3,
@@ -497,7 +497,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 104001,
+      "ID": 104001,
       "JCMLCCCNEMP": "Sleep",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 4,
@@ -528,7 +528,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 105001,
+      "ID": 105001,
       "JCMLCCCNEMP": "Slience",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 5,
@@ -559,7 +559,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 106001,
+      "ID": 106001,
       "JCMLCCCNEMP": "BurnLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 6,
@@ -590,7 +590,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 106002,
+      "ID": 106002,
       "JCMLCCCNEMP": "BurnLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 6,
@@ -621,7 +621,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 106003,
+      "ID": 106003,
       "JCMLCCCNEMP": "BurnLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 6,
@@ -652,7 +652,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 106004,
+      "ID": 106004,
       "JCMLCCCNEMP": "BurnLv4",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 6,
@@ -683,7 +683,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 106005,
+      "ID": 106005,
       "JCMLCCCNEMP": "BurnLv5",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 6,
@@ -714,7 +714,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 107001,
+      "ID": 107001,
       "JCMLCCCNEMP": "PoisonLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 7,
@@ -745,7 +745,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 107002,
+      "ID": 107002,
       "JCMLCCCNEMP": "PoisonLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 7,
@@ -776,7 +776,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 107003,
+      "ID": 107003,
       "JCMLCCCNEMP": "PoisonLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 7,
@@ -807,7 +807,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 107004,
+      "ID": 107004,
       "JCMLCCCNEMP": "PoisonLv4",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 7,
@@ -838,7 +838,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 107005,
+      "ID": 107005,
       "JCMLCCCNEMP": "PoisonLv5",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 7,
@@ -869,7 +869,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 108001,
+      "ID": 108001,
       "JCMLCCCNEMP": "BleedLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 8,
@@ -900,7 +900,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 108002,
+      "ID": 108002,
       "JCMLCCCNEMP": "BleedLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 8,
@@ -931,7 +931,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 108003,
+      "ID": 108003,
       "JCMLCCCNEMP": "BleedLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 8,
@@ -962,7 +962,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 108004,
+      "ID": 108004,
       "JCMLCCCNEMP": "BleedLv4",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 8,
@@ -993,7 +993,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 108005,
+      "ID": 108005,
       "JCMLCCCNEMP": "BleedLv5",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 8,
@@ -1024,7 +1024,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 108006,
+      "ID": 108006,
       "JCMLCCCNEMP": "Bleed_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 8,
@@ -1055,7 +1055,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 109001,
+      "ID": 109001,
       "JCMLCCCNEMP": "AttackUpLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -1086,7 +1086,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 109002,
+      "ID": 109002,
       "JCMLCCCNEMP": "AttackUpLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -1117,7 +1117,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 109003,
+      "ID": 109003,
       "JCMLCCCNEMP": "AttackUpLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -1148,7 +1148,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 110001,
+      "ID": 110001,
       "JCMLCCCNEMP": "AttackDownLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 10,
@@ -1179,7 +1179,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 110002,
+      "ID": 110002,
       "JCMLCCCNEMP": "AttackDownLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 10,
@@ -1210,7 +1210,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 110003,
+      "ID": 110003,
       "JCMLCCCNEMP": "AttackDownLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 10,
@@ -1241,7 +1241,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 111001,
+      "ID": 111001,
       "JCMLCCCNEMP": "CritUpLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 11,
@@ -1272,7 +1272,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 111002,
+      "ID": 111002,
       "JCMLCCCNEMP": "CritUpLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 11,
@@ -1303,7 +1303,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 111003,
+      "ID": 111003,
       "JCMLCCCNEMP": "CritUpLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 11,
@@ -1334,7 +1334,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 112001,
+      "ID": 112001,
       "JCMLCCCNEMP": "CritDownLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 12,
@@ -1365,7 +1365,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 112002,
+      "ID": 112002,
       "JCMLCCCNEMP": "CritDownLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 12,
@@ -1396,7 +1396,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 112003,
+      "ID": 112003,
       "JCMLCCCNEMP": "CritDownLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 12,
@@ -1427,7 +1427,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 113001,
+      "ID": 113001,
       "JCMLCCCNEMP": "CritDamageUpLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 13,
@@ -1458,7 +1458,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 113002,
+      "ID": 113002,
       "JCMLCCCNEMP": "CritDamageUpLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 13,
@@ -1489,7 +1489,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 113003,
+      "ID": 113003,
       "JCMLCCCNEMP": "CritDamageUpLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 13,
@@ -1520,7 +1520,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 114001,
+      "ID": 114001,
       "JCMLCCCNEMP": "CritDamageDownLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 14,
@@ -1551,7 +1551,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 114002,
+      "ID": 114002,
       "JCMLCCCNEMP": "CritDamageDownLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 14,
@@ -1582,7 +1582,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 114003,
+      "ID": 114003,
       "JCMLCCCNEMP": "CritDamageDownLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 14,
@@ -1613,7 +1613,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 115000,
+      "ID": 115000,
       "JCMLCCCNEMP": "DefenceUpLv0",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 15,
@@ -1644,7 +1644,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 115001,
+      "ID": 115001,
       "JCMLCCCNEMP": "DefenceUpLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 15,
@@ -1675,7 +1675,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 115002,
+      "ID": 115002,
       "JCMLCCCNEMP": "DefenceUpLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 15,
@@ -1706,7 +1706,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 115003,
+      "ID": 115003,
       "JCMLCCCNEMP": "DefenceUpLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 15,
@@ -1737,7 +1737,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 116001,
+      "ID": 116001,
       "JCMLCCCNEMP": "DefenceDownLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 16,
@@ -1768,7 +1768,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 116002,
+      "ID": 116002,
       "JCMLCCCNEMP": "DefenceDownLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 16,
@@ -1799,7 +1799,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 116003,
+      "ID": 116003,
       "JCMLCCCNEMP": "DefenceDownLv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 16,
@@ -1830,7 +1830,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 116004,
+      "ID": 116004,
       "JCMLCCCNEMP": "DefenceDown_OnBreak",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 16,
@@ -1861,7 +1861,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 117001,
+      "ID": 117001,
       "JCMLCCCNEMP": "MoveSpeedUpLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 17,
@@ -1892,7 +1892,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 117002,
+      "ID": 117002,
       "JCMLCCCNEMP": "MoveSpeedUpLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 17,
@@ -1923,7 +1923,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 118001,
+      "ID": 118001,
       "JCMLCCCNEMP": "MoveSpeedDownLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 18,
@@ -1954,7 +1954,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 118002,
+      "ID": 118002,
       "JCMLCCCNEMP": "MoveSpeedDownLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 18,
@@ -1985,7 +1985,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 119001,
+      "ID": 119001,
       "JCMLCCCNEMP": "AttackSpeedUpLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 19,
@@ -2016,7 +2016,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 119002,
+      "ID": 119002,
       "JCMLCCCNEMP": "AttackSpeedUpLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 19,
@@ -2047,7 +2047,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 120001,
+      "ID": 120001,
       "JCMLCCCNEMP": "AttackSpeedDownLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 20,
@@ -2078,7 +2078,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 120002,
+      "ID": 120002,
       "JCMLCCCNEMP": "AttackSpeedDownLv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 20,
@@ -2109,7 +2109,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 121001,
+      "ID": 121001,
       "JCMLCCCNEMP": "Invincible",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 21,
@@ -2140,7 +2140,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 122001,
+      "ID": 122001,
       "JCMLCCCNEMP": "Unbreakable",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 22,
@@ -2171,7 +2171,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 123001,
+      "ID": 123001,
       "JCMLCCCNEMP": "Weak",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 23,
@@ -2202,7 +2202,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 123002,
+      "ID": 123002,
       "JCMLCCCNEMP": "Weak_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 23,
@@ -2233,7 +2233,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 123003,
+      "ID": 123003,
       "JCMLCCCNEMP": "Vulnerable",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 24,
@@ -2264,7 +2264,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 129001,
+      "ID": 129001,
       "JCMLCCCNEMP": "BlockState",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 29,
@@ -2295,7 +2295,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 500001,
+      "ID": 500001,
       "JCMLCCCNEMP": "Tsubaki_Skill_01",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -2326,7 +2326,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 500002,
+      "ID": 500002,
       "JCMLCCCNEMP": "Tsubaki_Skill_02",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -2357,7 +2357,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 500003,
+      "ID": 500003,
       "JCMLCCCNEMP": "Arcana_Shield_Death",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 15,
@@ -2388,7 +2388,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 999001,
+      "ID": 999001,
       "JCMLCCCNEMP": "DodgeATK_Lv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -2419,7 +2419,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 999002,
+      "ID": 999002,
       "JCMLCCCNEMP": "DodgeATK_Lv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -2450,7 +2450,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 999003,
+      "ID": 999003,
       "JCMLCCCNEMP": "DodgeATK_Lv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -2481,7 +2481,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 999004,
+      "ID": 999004,
       "JCMLCCCNEMP": "HitDefence_Lv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 15,
@@ -2512,7 +2512,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 999005,
+      "ID": 999005,
       "JCMLCCCNEMP": "HitDefence_Lv2",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 15,
@@ -2543,7 +2543,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 999006,
+      "ID": 999006,
       "JCMLCCCNEMP": "HitDefence_Lv3",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 15,
@@ -2574,7 +2574,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000001,
+      "ID": 1000001,
       "JCMLCCCNEMP": "Bug_Test_01",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -2605,7 +2605,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000002,
+      "ID": 1000002,
       "JCMLCCCNEMP": "Bug_Test_02",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -2636,7 +2636,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000003,
+      "ID": 1000003,
       "JCMLCCCNEMP": "TimeSlow_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 26,
@@ -2667,7 +2667,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000004,
+      "ID": 1000004,
       "JCMLCCCNEMP": "Electric_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 27,
@@ -2698,7 +2698,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000005,
+      "ID": 1000005,
       "JCMLCCCNEMP": "Frozen_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 3,
@@ -2729,7 +2729,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000006,
+      "ID": 1000006,
       "JCMLCCCNEMP": "FrozenAvatar_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 28,
@@ -2760,7 +2760,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000007,
+      "ID": 1000007,
       "JCMLCCCNEMP": "Electric_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 27,
@@ -2791,7 +2791,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000008,
+      "ID": 1000008,
       "JCMLCCCNEMP": "Electric_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 27,
@@ -2822,7 +2822,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000009,
+      "ID": 1000009,
       "JCMLCCCNEMP": "Burn_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 6,
@@ -2853,7 +2853,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 1000010,
+      "ID": 1000010,
       "JCMLCCCNEMP": "Burn_Test",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 6,
@@ -2884,7 +2884,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 2000001,
+      "ID": 2000001,
       "JCMLCCCNEMP": "WitchTimeWithoutCD",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -2915,7 +2915,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 2000002,
+      "ID": 2000002,
       "JCMLCCCNEMP": "AttackUpLv1",
       "HNDDBKDMEKM": "",
       "DDEPKNDAEOM": 9,
@@ -2946,7 +2946,7 @@
       "DFPMNFKMMKP": false
     },
     {
-      "HBKDOIKGNDE": 3000001,
+      "ID": 3000001,
       "JCMLCCCNEMP": "Avatar_Test_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_Test_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -2977,7 +2977,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000002,
+      "ID": 3000002,
       "JCMLCCCNEMP": "Avatar_Test_Debuff_01_Title",
       "HNDDBKDMEKM": "Avatar_Test_Debuff_01_Des",
       "DDEPKNDAEOM": 10,
@@ -3008,7 +3008,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000011,
+      "ID": 3000011,
       "JCMLCCCNEMP": "Avatar_Nostradamus_Debuff_01_Title",
       "HNDDBKDMEKM": "Avatar_Nostradamus_Debuff_01_Des",
       "DDEPKNDAEOM": 10,
@@ -3039,7 +3039,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000012,
+      "ID": 3000012,
       "JCMLCCCNEMP": "Avatar_Nostradamus_Debuff_02_Title",
       "HNDDBKDMEKM": "Avatar_Nostradamus_Debuff_02_Des",
       "DDEPKNDAEOM": 10,
@@ -3070,7 +3070,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000021,
+      "ID": 3000021,
       "JCMLCCCNEMP": "Avatar_Aokaku_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_Aokaku_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3101,7 +3101,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000022,
+      "ID": 3000022,
       "JCMLCCCNEMP": "Avatar_Aokaku_Buff_02_Title",
       "HNDDBKDMEKM": "Avatar_Aokaku_Buff_02_Des",
       "DDEPKNDAEOM": 9,
@@ -3132,7 +3132,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000031,
+      "ID": 3000031,
       "JCMLCCCNEMP": "Avatar_Rina_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_Rina_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3163,7 +3163,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000041,
+      "ID": 3000041,
       "JCMLCCCNEMP": "Avatar_Lucy_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_Lucy_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3194,7 +3194,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000051,
+      "ID": 3000051,
       "JCMLCCCNEMP": "Avatar_Clara_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_Clara_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3225,7 +3225,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000052,
+      "ID": 3000052,
       "JCMLCCCNEMP": "Avatar_Clara_Buff_02_Title",
       "HNDDBKDMEKM": "Avatar_Clara_Buff_02_Des",
       "DDEPKNDAEOM": 9,
@@ -3256,7 +3256,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000053,
+      "ID": 3000053,
       "JCMLCCCNEMP": "Avatar_Clara_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_Clara_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3287,7 +3287,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000061,
+      "ID": 3000061,
       "JCMLCCCNEMP": "Avatar_OokumaMari_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_OokumaMari_Buff_01_Des",
       "DDEPKNDAEOM": 10,
@@ -3318,7 +3318,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000071,
+      "ID": 3000071,
       "JCMLCCCNEMP": "Avatar_Lycaon_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_Lycaon_Buff_01_Des",
       "DDEPKNDAEOM": 10,
@@ -3349,7 +3349,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000081,
+      "ID": 3000081,
       "JCMLCCCNEMP": "Avatar_Lisa_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_Lisa_Buff_01_Des",
       "DDEPKNDAEOM": 10,
@@ -3380,7 +3380,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3000091,
+      "ID": 3000091,
       "JCMLCCCNEMP": "Avatar_Ben_Buff_01_Title",
       "HNDDBKDMEKM": "Avatar_Ben_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3411,7 +3411,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100001,
+      "ID": 3100001,
       "JCMLCCCNEMP": "TarotCard_Test_Buff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Test_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3442,7 +3442,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100002,
+      "ID": 3100002,
       "JCMLCCCNEMP": "TarotCard_Test_Debuff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Test_Debuff_01_Des",
       "DDEPKNDAEOM": 10,
@@ -3473,7 +3473,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100011,
+      "ID": 3100011,
       "JCMLCCCNEMP": "TarotCard_Ashes_2000100_Buff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Ashes_2000100_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3504,7 +3504,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100021,
+      "ID": 3100021,
       "JCMLCCCNEMP": "TarotCard_Gun_2000300_Buff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Gun_2000300_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3535,7 +3535,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100022,
+      "ID": 3100022,
       "JCMLCCCNEMP": "TarotCard_Gun_2000300_Buff_02_Title",
       "HNDDBKDMEKM": "TarotCard_Gun_2000300_Buff_02_Des",
       "DDEPKNDAEOM": 9,
@@ -3566,7 +3566,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100031,
+      "ID": 3100031,
       "JCMLCCCNEMP": "TarotCard_Blunt_2000700_Buff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Blunt_2000700_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3597,7 +3597,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100032,
+      "ID": 3100032,
       "JCMLCCCNEMP": "TarotCard_Blunt_2000700_Buff_02_Title",
       "HNDDBKDMEKM": "TarotCard_Blunt_2000700_Buff_02_Des",
       "DDEPKNDAEOM": 9,
@@ -3628,7 +3628,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100033,
+      "ID": 3100033,
       "JCMLCCCNEMP": "TarotCard_Blunt_2000700_Buff_03_Title",
       "HNDDBKDMEKM": "TarotCard_Blunt_2000700_Buff_03_Des",
       "DDEPKNDAEOM": 9,
@@ -3659,7 +3659,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100034,
+      "ID": 3100034,
       "JCMLCCCNEMP": "TarotCard_Blunt_2000700_Buff_04_Title",
       "HNDDBKDMEKM": "TarotCard_Blunt_2000700_Buff_04_Des",
       "DDEPKNDAEOM": 9,
@@ -3690,7 +3690,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100041,
+      "ID": 3100041,
       "JCMLCCCNEMP": "TarotCard_Electro_2000500_Buff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Electro_2000500_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3721,7 +3721,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100042,
+      "ID": 3100042,
       "JCMLCCCNEMP": "TarotCard_Electro_2000500_Buff_02_Title",
       "HNDDBKDMEKM": "TarotCard_Electro_2000500_Buff_02_Des",
       "DDEPKNDAEOM": 9,
@@ -3752,7 +3752,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100051,
+      "ID": 3100051,
       "JCMLCCCNEMP": "TarotCard_Froze_2001100_Buff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Froze_2001100_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3783,7 +3783,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100052,
+      "ID": 3100052,
       "JCMLCCCNEMP": "TarotCard_Froze_2001100_Buff_02_Title",
       "HNDDBKDMEKM": "TarotCard_Froze_2001100_Buff_02_Des",
       "DDEPKNDAEOM": 9,
@@ -3814,7 +3814,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100061,
+      "ID": 3100061,
       "JCMLCCCNEMP": "TarotCard_Ether_2001900_Buff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Ether_2001900_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3845,7 +3845,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100071,
+      "ID": 3100071,
       "JCMLCCCNEMP": "TarotCard_Sports_2000800_Buff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Sports_2000800_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -3876,7 +3876,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100072,
+      "ID": 3100072,
       "JCMLCCCNEMP": "TarotCard_Sports_2000800_Buff_02_Title",
       "HNDDBKDMEKM": "TarotCard_Sports_2000800_Buff_02_Des",
       "DDEPKNDAEOM": 9,
@@ -3907,7 +3907,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100073,
+      "ID": 3100073,
       "JCMLCCCNEMP": "TarotCard_Sports_2000800_Buff_03_Title",
       "HNDDBKDMEKM": "TarotCard_Sports_2000800_Buff_03_Des",
       "DDEPKNDAEOM": 9,
@@ -3938,7 +3938,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100074,
+      "ID": 3100074,
       "JCMLCCCNEMP": "TarotCard_Sports_2000800_Buff_04_Title",
       "HNDDBKDMEKM": "TarotCard_Sports_2000800_Buff_04_Des",
       "DDEPKNDAEOM": 9,
@@ -3969,7 +3969,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100075,
+      "ID": 3100075,
       "JCMLCCCNEMP": "TarotCard_Sports_2000800_Buff_05_Title",
       "HNDDBKDMEKM": "TarotCard_Sports_2000800_Buff_05_Des",
       "DDEPKNDAEOM": 9,
@@ -4000,7 +4000,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3100081,
+      "ID": 3100081,
       "JCMLCCCNEMP": "TarotCard_Exchange_2001600_Buff_01_Title",
       "HNDDBKDMEKM": "TarotCard_Exchange_2001600_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -4031,7 +4031,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3200001,
+      "ID": 3200001,
       "JCMLCCCNEMP": "Level_Test_Buff_01_Title",
       "HNDDBKDMEKM": "Level_Test_Buff_01_Des",
       "DDEPKNDAEOM": 9,
@@ -4062,7 +4062,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3200002,
+      "ID": 3200002,
       "JCMLCCCNEMP": "Level_Test_Debuff_01_Title",
       "HNDDBKDMEKM": "Level_Test_Debuff_01_Des",
       "DDEPKNDAEOM": 10,
@@ -4093,7 +4093,7 @@
       "DFPMNFKMMKP": true
     },
     {
-      "HBKDOIKGNDE": 3200011,
+      "ID": 3200011,
       "JCMLCCCNEMP": "Level_Abyss_FixedLayerBuff_06_buff_01_Title",
       "HNDDBKDMEKM": "Level_Abyss_FixedLayerBuff_06_buff_01_Des",
       "DDEPKNDAEOM": 9,

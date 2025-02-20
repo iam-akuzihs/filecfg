@@ -1,700 +1,700 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 500000101,
+      "ID": 500000101,
       "DLAEMMCABJA": 5000001,
       "CPDOFMEMFCJ": "IsArea1Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000102,
+      "ID": 500000102,
       "DLAEMMCABJA": 5000001,
       "CPDOFMEMFCJ": "IsArea2Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000103,
+      "ID": 500000103,
       "DLAEMMCABJA": 5000001,
       "CPDOFMEMFCJ": "IsArea3Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000104,
+      "ID": 500000104,
       "DLAEMMCABJA": 5000001,
       "CPDOFMEMFCJ": "IsArea4Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000105,
+      "ID": 500000105,
       "DLAEMMCABJA": 5000001,
       "CPDOFMEMFCJ": "IsArea5Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000106,
+      "ID": 500000106,
       "DLAEMMCABJA": 5000001,
       "CPDOFMEMFCJ": "IsArea6Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000107,
+      "ID": 500000107,
       "DLAEMMCABJA": 5000001,
       "CPDOFMEMFCJ": "SideQuest",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000108,
+      "ID": 500000108,
       "DLAEMMCABJA": 5000001,
       "CPDOFMEMFCJ": "SecondSideQuest",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000109,
+      "ID": 500000109,
       "DLAEMMCABJA": 5000001,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 500000201,
+      "ID": 500000201,
       "DLAEMMCABJA": 5000002,
       "CPDOFMEMFCJ": "whichAreaIn",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 500000202,
+      "ID": 500000202,
       "DLAEMMCABJA": 5000002,
       "CPDOFMEMFCJ": "IsArea2Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000203,
+      "ID": 500000203,
       "DLAEMMCABJA": 5000002,
       "CPDOFMEMFCJ": "IsArea3Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000204,
+      "ID": 500000204,
       "DLAEMMCABJA": 5000002,
       "CPDOFMEMFCJ": "IsArea4Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000205,
+      "ID": 500000205,
       "DLAEMMCABJA": 5000002,
       "CPDOFMEMFCJ": "IsArea5Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 500000206,
+      "ID": 500000206,
       "DLAEMMCABJA": 5000002,
       "CPDOFMEMFCJ": "SecretMission",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 500000207,
+      "ID": 500000207,
       "DLAEMMCABJA": 5000002,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 500000301,
+      "ID": 500000301,
       "DLAEMMCABJA": 5000003,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 500000401,
+      "ID": 500000401,
       "DLAEMMCABJA": 5000004,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 501010100,
+      "ID": 501010100,
       "DLAEMMCABJA": 5010101,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 501010101,
+      "ID": 501010101,
       "DLAEMMCABJA": 5010101,
       "CPDOFMEMFCJ": "SideQuest",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501010102,
+      "ID": 501010102,
       "DLAEMMCABJA": 5010101,
       "CPDOFMEMFCJ": "IsSideQuestFinsih",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501010103,
+      "ID": 501010103,
       "DLAEMMCABJA": 5010101,
       "CPDOFMEMFCJ": "RevivedTime",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501010104,
+      "ID": 501010104,
       "DLAEMMCABJA": 5010101,
       "CPDOFMEMFCJ": "IsSideQuestRestart",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501011101,
+      "ID": 501011101,
       "DLAEMMCABJA": 5010111,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 501011102,
+      "ID": 501011102,
       "DLAEMMCABJA": 5010111,
       "CPDOFMEMFCJ": "SideQuest",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501011103,
+      "ID": 501011103,
       "DLAEMMCABJA": 5010111,
       "CPDOFMEMFCJ": "IsSideQuestFinsih",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501011104,
+      "ID": 501011104,
       "DLAEMMCABJA": 5010111,
       "CPDOFMEMFCJ": "RevivedTime",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501011105,
+      "ID": 501011105,
       "DLAEMMCABJA": 5010111,
       "CPDOFMEMFCJ": "GroundSideQuest",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501011106,
+      "ID": 501011106,
       "DLAEMMCABJA": 5010111,
       "CPDOFMEMFCJ": "IsSideQuestRestart",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 501012101,
+      "ID": 501012101,
       "DLAEMMCABJA": 5010121,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "4"
     },
     {
-      "NGPCCDGBLLK": 501012102,
+      "ID": 501012102,
       "DLAEMMCABJA": 5010121,
       "CPDOFMEMFCJ": "RevivedTime",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501020200,
+      "ID": 501020200,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsEnterTeachLevel",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020201,
+      "ID": 501020201,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsArea1Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020202,
+      "ID": 501020202,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsArea2Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020203,
+      "ID": 501020203,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsArea3Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020204,
+      "ID": 501020204,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsArea4Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020205,
+      "ID": 501020205,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsArea5Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020206,
+      "ID": 501020206,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsArea6Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020207,
+      "ID": 501020207,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsArea7Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020208,
+      "ID": 501020208,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "SideQuest",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020209,
+      "ID": 501020209,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsArea8Finish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020210,
+      "ID": 501020210,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "SecondSideQuest",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020211,
+      "ID": 501020211,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "StartSecondPhase",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020212,
+      "ID": 501020212,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 501020213,
+      "ID": 501020213,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsSideQuestRestart",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020214,
+      "ID": 501020214,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "IsSideQuestFinsih",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501020215,
+      "ID": 501020215,
       "DLAEMMCABJA": 5010201,
       "CPDOFMEMFCJ": "RevivedTime",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501021101,
+      "ID": 501021101,
       "DLAEMMCABJA": 5010211,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 501021102,
+      "ID": 501021102,
       "DLAEMMCABJA": 5010211,
       "CPDOFMEMFCJ": "IsSideQuestRestart",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501021103,
+      "ID": 501021103,
       "DLAEMMCABJA": 5010211,
       "CPDOFMEMFCJ": "IsSideQuestFinsih",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501021104,
+      "ID": 501021104,
       "DLAEMMCABJA": 5010211,
       "CPDOFMEMFCJ": "RevivedTime",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501021105,
+      "ID": 501021105,
       "DLAEMMCABJA": 5010211,
       "CPDOFMEMFCJ": "BossHealth",
       "ELNHFDHFCNL": "float",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 501021106,
+      "ID": 501021106,
       "DLAEMMCABJA": 5010211,
       "CPDOFMEMFCJ": "CargoCartStopped",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 501021107,
+      "ID": 501021107,
       "DLAEMMCABJA": 5010211,
       "CPDOFMEMFCJ": "IsLastAreaFinish",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501021301,
+      "ID": 501021301,
       "DLAEMMCABJA": 5010213,
       "CPDOFMEMFCJ": "whichAreaIn",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 501022101,
+      "ID": 501022101,
       "DLAEMMCABJA": 5010221,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "4"
     },
     {
-      "NGPCCDGBLLK": 501022102,
+      "ID": 501022102,
       "DLAEMMCABJA": 5010221,
       "CPDOFMEMFCJ": "RevivedTime",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501030101,
+      "ID": 501030101,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 501030102,
+      "ID": 501030102,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "IsSideQuestFinsih",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501030103,
+      "ID": 501030103,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "RevivedTime",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501030104,
+      "ID": 501030104,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "DoorStatus1",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501030105,
+      "ID": 501030105,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "DoorStatus2",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501030106,
+      "ID": 501030106,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "DoorStatus3",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501030107,
+      "ID": 501030107,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "DoorStatus4",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501030108,
+      "ID": 501030108,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "DoorStatus5",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501030109,
+      "ID": 501030109,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "IsSideQuestRestart",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 501030110,
+      "ID": 501030110,
       "DLAEMMCABJA": 5010301,
       "CPDOFMEMFCJ": "IsTrickFinish",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501031101,
+      "ID": 501031101,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 501031102,
+      "ID": 501031102,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "IsSideQuestFinsih",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "false"
     },
     {
-      "NGPCCDGBLLK": 501031103,
+      "ID": 501031103,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "RevivedTime",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501031104,
+      "ID": 501031104,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "IsAllyRescued",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 501031105,
+      "ID": 501031105,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "IsShortcutOpened",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 501031106,
+      "ID": 501031106,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "IsGuardDefeated",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 501031107,
+      "ID": 501031107,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "DoorStatus1",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501031108,
+      "ID": 501031108,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "DoorStatus2",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501031109,
+      "ID": 501031109,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "DoorStatus3",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501031110,
+      "ID": 501031110,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "DoorStatus4",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501031111,
+      "ID": 501031111,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "DoorStatus5",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 501031112,
+      "ID": 501031112,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "IsAllyImposterCatched",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 501031113,
+      "ID": 501031113,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "IsSideQuestRestart",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 501031114,
+      "ID": 501031114,
       "DLAEMMCABJA": 5010311,
       "CPDOFMEMFCJ": "LifeCoinGet",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 501032101,
+      "ID": 501032101,
       "DLAEMMCABJA": 5010321,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "4"
     },
     {
-      "NGPCCDGBLLK": 501032102,
+      "ID": 501032102,
       "DLAEMMCABJA": 5010321,
       "CPDOFMEMFCJ": "RevivedTime",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 503010101,
+      "ID": 503010101,
       "DLAEMMCABJA": 5030101,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503011101,
+      "ID": 503011101,
       "DLAEMMCABJA": 5030111,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503012101,
+      "ID": 503012101,
       "DLAEMMCABJA": 5030121,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503013101,
+      "ID": 503013101,
       "DLAEMMCABJA": 5030131,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503020101,
+      "ID": 503020101,
       "DLAEMMCABJA": 5030201,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503020102,
+      "ID": 503020102,
       "DLAEMMCABJA": 5030201,
       "CPDOFMEMFCJ": "IsTresureCarBorn",
       "ELNHFDHFCNL": "bool",
       "BDKIIOEAMKB": "FALSE"
     },
     {
-      "NGPCCDGBLLK": 503021101,
+      "ID": 503021101,
       "DLAEMMCABJA": 5030211,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503030101,
+      "ID": 503030101,
       "DLAEMMCABJA": 5030301,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503031101,
+      "ID": 503031101,
       "DLAEMMCABJA": 5030311,
       "CPDOFMEMFCJ": "AreaSelect",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503031103,
+      "ID": 503031103,
       "DLAEMMCABJA": 5030311,
       "CPDOFMEMFCJ": "BossRush_LevelCountdown_Timer_Key",
       "ELNHFDHFCNL": "string",
       "BDKIIOEAMKB": "Nineveh_BossRush_LevelCountdown"
     },
     {
-      "NGPCCDGBLLK": 503031104,
+      "ID": 503031104,
       "DLAEMMCABJA": 5030311,
       "CPDOFMEMFCJ": "BossRush_BerserkPhase_Current",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503031105,
+      "ID": 503031105,
       "DLAEMMCABJA": 5030311,
       "CPDOFMEMFCJ": "BossRush_BerserkPhase_Total",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "4"
     },
     {
-      "NGPCCDGBLLK": 503031106,
+      "ID": 503031106,
       "DLAEMMCABJA": 5030311,
       "CPDOFMEMFCJ": "BossRush_SwitchPhaseValue",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "1"
     },
     {
-      "NGPCCDGBLLK": 503031107,
+      "ID": 503031107,
       "DLAEMMCABJA": 5030311,
       "CPDOFMEMFCJ": "BossRush_TargetEntityID",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 503031108,
+      "ID": 503031108,
       "DLAEMMCABJA": 5030311,
       "CPDOFMEMFCJ": "BossRush_TotalBossDefeats",
       "ELNHFDHFCNL": "int",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 503031109,
+      "ID": 503031109,
       "DLAEMMCABJA": 5030311,
       "CPDOFMEMFCJ": "BossRush_SessionTimeIncrement",
       "ELNHFDHFCNL": "float",
       "BDKIIOEAMKB": "0"
     },
     {
-      "NGPCCDGBLLK": 503031110,
+      "ID": 503031110,
       "DLAEMMCABJA": 5030311,
       "CPDOFMEMFCJ": "BossRush_BerserkPhase_DamageTakeRatio",
       "ELNHFDHFCNL": "float",

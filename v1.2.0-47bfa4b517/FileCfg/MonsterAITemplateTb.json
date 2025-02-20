@@ -1,7 +1,7 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 100001,
+      "ID": 100001,
       "DBFBACILFBJ": "测试_AI_通用",
       "MEFLNJICNOM": [
         "Tag_AI_A",
@@ -12,7 +12,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 100002,
+      "ID": 100002,
       "DBFBACILFBJ": "测试_AI_技能测试",
       "MEFLNJICNOM": [
         "Tag_AI_A",
@@ -23,7 +23,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 100003,
+      "ID": 100003,
       "DBFBACILFBJ": "测试_AI_移动测试",
       "MEFLNJICNOM": [
         "Tag_AI_A",
@@ -34,7 +34,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 100004,
+      "ID": 100004,
       "DBFBACILFBJ": "测试_AI_Anchor测试",
       "MEFLNJICNOM": [
         "Tag_AI_A",
@@ -45,7 +45,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 100006,
+      "ID": 100006,
       "DBFBACILFBJ": "测试_AI_动画测试",
       "MEFLNJICNOM": [
         "Tag_AI_A",
@@ -56,7 +56,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 100007,
+      "ID": 100007,
       "DBFBACILFBJ": "测试_AI_逃跑测试",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -64,7 +64,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 100011,
+      "ID": 100011,
       "DBFBACILFBJ": "棍兵_AI_仇恨转移测试",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 100012,
+      "ID": 100012,
       "DBFBACILFBJ": "测试_触发Ability",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -104,7 +104,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 110101,
+      "ID": 110101,
       "DBFBACILFBJ": "棍兵_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110111,
+      "ID": 110111,
       "DBFBACILFBJ": "棍兵_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110201,
+      "ID": 110201,
       "DBFBACILFBJ": "枪兵_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110202,
+      "ID": 110202,
       "DBFBACILFBJ": "枪兵_AI_友方单位",
       "MEFLNJICNOM": [
         "Allied"
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110203,
+      "ID": 110203,
       "DBFBACILFBJ": "枪兵_AI_友方_NedfSoldier纯战斗版",
       "MEFLNJICNOM": [
         "Allied"
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110208,
+      "ID": 110208,
       "DBFBACILFBJ": "枪兵_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110209,
+      "ID": 110209,
       "DBFBACILFBJ": "枪兵_AI_索敌",
       "MEFLNJICNOM": [
         "SelectTargetOnly"
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110211,
+      "ID": 110211,
       "DBFBACILFBJ": "枪兵_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110301,
+      "ID": 110301,
       "DBFBACILFBJ": "盾兵_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110311,
+      "ID": 110311,
       "DBFBACILFBJ": "盾兵_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -432,7 +432,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110401,
+      "ID": 110401,
       "DBFBACILFBJ": "长臂机甲_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -464,7 +464,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110402,
+      "ID": 110402,
       "DBFBACILFBJ": "长臂机甲_AI_近战倾向",
       "MEFLNJICNOM": [
         "CloseRange"
@@ -498,7 +498,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110403,
+      "ID": 110403,
       "DBFBACILFBJ": "长臂机甲_AI_远程倾向",
       "MEFLNJICNOM": [
         "LongRange"
@@ -532,7 +532,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110410,
+      "ID": 110410,
       "DBFBACILFBJ": "长臂机甲_AI_巡逻",
       "MEFLNJICNOM": [
         "Patrol"
@@ -542,7 +542,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 110411,
+      "ID": 110411,
       "DBFBACILFBJ": "长臂机甲_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110501,
+      "ID": 110501,
       "DBFBACILFBJ": "大型机甲_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -606,7 +606,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110502,
+      "ID": 110502,
       "DBFBACILFBJ": "大型机甲_AI_近战倾向",
       "MEFLNJICNOM": [
         "CloseRange"
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110503,
+      "ID": 110503,
       "DBFBACILFBJ": "大型机甲_AI_远程倾向",
       "MEFLNJICNOM": [
         "LongRange"
@@ -674,7 +674,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110504,
+      "ID": 110504,
       "DBFBACILFBJ": "大型机甲_AI_屏蔽机枪",
       "MEFLNJICNOM": [
         "Monster_Guardian_ForbidMachineGun"
@@ -708,7 +708,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110511,
+      "ID": 110511,
       "DBFBACILFBJ": "大型机甲_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -740,7 +740,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110601,
+      "ID": 110601,
       "DBFBACILFBJ": "机甲猩猩_AI_默认（Boss模板）",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -748,7 +748,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 110701,
+      "ID": 110701,
       "DBFBACILFBJ": "巡逻车_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -780,7 +780,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110711,
+      "ID": 110711,
       "DBFBACILFBJ": "巡逻车_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -812,7 +812,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110801,
+      "ID": 110801,
       "DBFBACILFBJ": "自爆蜘蛛_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -820,7 +820,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 110901,
+      "ID": 110901,
       "DBFBACILFBJ": "低阶以太剑_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -852,7 +852,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110902,
+      "ID": 110902,
       "DBFBACILFBJ": "低阶以太剑_AI_教学",
       "MEFLNJICNOM": [
         "Tutorial"
@@ -886,7 +886,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110903,
+      "ID": 110903,
       "DBFBACILFBJ": "低阶以太剑_AI_屏蔽攻击",
       "MEFLNJICNOM": [
         "Disarm"
@@ -920,7 +920,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110908,
+      "ID": 110908,
       "DBFBACILFBJ": "低阶以太剑_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -954,7 +954,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 110911,
+      "ID": 110911,
       "DBFBACILFBJ": "低阶以太剑_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -986,7 +986,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111001,
+      "ID": 111001,
       "DBFBACILFBJ": "低阶以太粘液_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1018,7 +1018,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111008,
+      "ID": 111008,
       "DBFBACILFBJ": "低阶以太粘液_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -1052,7 +1052,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111009,
+      "ID": 111009,
       "DBFBACILFBJ": "低阶以太粘液_AI_辅攻，无视攻权，高频，不run",
       "MEFLNJICNOM": [
         "Aid",
@@ -1089,7 +1089,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111010,
+      "ID": 111010,
       "DBFBACILFBJ": "低阶以太粘液_AI_巡逻（巡逻模板）",
       "MEFLNJICNOM": [
         "Patrol"
@@ -1099,7 +1099,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111011,
+      "ID": 111011,
       "DBFBACILFBJ": "低阶以太粘液_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1131,7 +1131,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111101,
+      "ID": 111101,
       "DBFBACILFBJ": "以太巨兽_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1163,7 +1163,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111102,
+      "ID": 111102,
       "DBFBACILFBJ": "以太巨兽_AI_辅攻",
       "MEFLNJICNOM": [
         "Aide"
@@ -1197,7 +1197,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111103,
+      "ID": 111103,
       "DBFBACILFBJ": "以太巨兽_AI_教学",
       "MEFLNJICNOM": [
         "Tutorial"
@@ -1231,7 +1231,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111104,
+      "ID": 111104,
       "DBFBACILFBJ": "以太巨兽_AI_破坏物",
       "MEFLNJICNOM": [
         "Destruct"
@@ -1265,7 +1265,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111105,
+      "ID": 111105,
       "DBFBACILFBJ": "以太巨兽_AI_破坏物_辅攻",
       "MEFLNJICNOM": [
         "DestructAide"
@@ -1299,7 +1299,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111106,
+      "ID": 111106,
       "DBFBACILFBJ": "以太巨兽_AI_嘲讽活动测试",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1331,7 +1331,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111111,
+      "ID": 111111,
       "DBFBACILFBJ": "以太巨兽_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1363,7 +1363,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111201,
+      "ID": 111201,
       "DBFBACILFBJ": "以太巡兽_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1395,7 +1395,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111202,
+      "ID": 111202,
       "DBFBACILFBJ": "以太巡兽_AI_辅攻",
       "MEFLNJICNOM": [
         "Aide"
@@ -1429,7 +1429,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111203,
+      "ID": 111203,
       "DBFBACILFBJ": "以太巡兽_AI_占点",
       "MEFLNJICNOM": [
         "Occupation",
@@ -1464,7 +1464,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111204,
+      "ID": 111204,
       "DBFBACILFBJ": "以太巡兽_AI_Boss",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1472,7 +1472,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111205,
+      "ID": 111205,
       "DBFBACILFBJ": "以太巡兽_AI_Boss_红色",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1480,7 +1480,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111211,
+      "ID": 111211,
       "DBFBACILFBJ": "以太巡兽_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1512,7 +1512,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111301,
+      "ID": 111301,
       "DBFBACILFBJ": "以太爆弹_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1520,7 +1520,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111401,
+      "ID": 111401,
       "DBFBACILFBJ": "以太信号斧_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1552,7 +1552,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111408,
+      "ID": 111408,
       "DBFBACILFBJ": "以太信号斧_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -1586,7 +1586,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111411,
+      "ID": 111411,
       "DBFBACILFBJ": "以太信号斧_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1618,7 +1618,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111501,
+      "ID": 111501,
       "DBFBACILFBJ": "以太剑盾_AI_默认（Boss模板）（中途转阶段）",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1626,7 +1626,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111502,
+      "ID": 111502,
       "DBFBACILFBJ": "以太剑盾_AI_序章（Boss模板）（没有二阶段）",
       "MEFLNJICNOM": [
         "MuteTransform"
@@ -1636,7 +1636,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111503,
+      "ID": 111503,
       "DBFBACILFBJ": "以太剑盾_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1668,7 +1668,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111504,
+      "ID": 111504,
       "DBFBACILFBJ": "以太剑盾_AI_序章（Boss模板）（直接二阶段）",
       "MEFLNJICNOM": [
         "BornTransform"
@@ -1678,7 +1678,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111509,
+      "ID": 111509,
       "DBFBACILFBJ": "以太剑盾_AI_小BOSS指挥者",
       "MEFLNJICNOM": [
         "DurahanLeader"
@@ -1712,7 +1712,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111511,
+      "ID": 111511,
       "DBFBACILFBJ": "以太剑盾_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1744,7 +1744,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111601,
+      "ID": 111601,
       "DBFBACILFBJ": "掠袭猎兵_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1776,7 +1776,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111608,
+      "ID": 111608,
       "DBFBACILFBJ": "掠袭猎兵_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -1810,7 +1810,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111609,
+      "ID": 111609,
       "DBFBACILFBJ": "掠袭猎兵_AI_友方单位",
       "MEFLNJICNOM": [
         "Allied"
@@ -1844,7 +1844,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111611,
+      "ID": 111611,
       "DBFBACILFBJ": "掠袭猎兵_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1876,7 +1876,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111801,
+      "ID": 111801,
       "DBFBACILFBJ": "以太死神XIII_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1908,7 +1908,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111802,
+      "ID": 111802,
       "DBFBACILFBJ": "以太死神XIII_AI_辅攻",
       "MEFLNJICNOM": [
         "Aide"
@@ -1942,7 +1942,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111803,
+      "ID": 111803,
       "DBFBACILFBJ": "以太死神XIII_AI_BOSS",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1950,7 +1950,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111804,
+      "ID": 111804,
       "DBFBACILFBJ": "以太死神XIII_AI_BOSS_削弱",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1961,7 +1961,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111809,
+      "ID": 111809,
       "DBFBACILFBJ": "以太死神XIII_AI_关卡传送",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -1969,7 +1969,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111810,
+      "ID": 111810,
       "DBFBACILFBJ": "以太死神XIII_AI_关卡测试",
       "MEFLNJICNOM": [
         "LevelTest"
@@ -2003,7 +2003,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111811,
+      "ID": 111811,
       "DBFBACILFBJ": "以太死神XIII_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2035,7 +2035,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111901,
+      "ID": 111901,
       "DBFBACILFBJ": "以太巡兽_装甲版_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2067,7 +2067,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 111902,
+      "ID": 111902,
       "DBFBACILFBJ": "以太巡兽_装甲版_AI_BOSS",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2075,7 +2075,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 111911,
+      "ID": 111911,
       "DBFBACILFBJ": "以太巡兽_装甲版_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2107,7 +2107,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112001,
+      "ID": 112001,
       "DBFBACILFBJ": "以太壁垒_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2139,7 +2139,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112002,
+      "ID": 112002,
       "DBFBACILFBJ": "以太壁垒_AI_占点只进圈防御",
       "MEFLNJICNOM": [
         "Occupation"
@@ -2173,7 +2173,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112003,
+      "ID": 112003,
       "DBFBACILFBJ": "以太壁垒_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -2207,7 +2207,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112004,
+      "ID": 112004,
       "DBFBACILFBJ": "以太壁垒_AI_嘲讽活动测试",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2239,7 +2239,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112011,
+      "ID": 112011,
       "DBFBACILFBJ": "以太壁垒_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2271,7 +2271,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112101,
+      "ID": 112101,
       "DBFBACILFBJ": "以太魔花_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2303,7 +2303,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112102,
+      "ID": 112102,
       "DBFBACILFBJ": "以太魔花_AI_辅攻",
       "MEFLNJICNOM": [
         "Aide"
@@ -2337,7 +2337,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112103,
+      "ID": 112103,
       "DBFBACILFBJ": "以太魔花_AI_教学",
       "MEFLNJICNOM": [
         "Tutorial"
@@ -2371,7 +2371,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112111,
+      "ID": 112111,
       "DBFBACILFBJ": "以太魔花_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2403,7 +2403,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112201,
+      "ID": 112201,
       "DBFBACILFBJ": "以太双斧_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2435,7 +2435,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112202,
+      "ID": 112202,
       "DBFBACILFBJ": "以太双斧_AI_辅攻",
       "MEFLNJICNOM": [
         "Aide"
@@ -2469,7 +2469,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112208,
+      "ID": 112208,
       "DBFBACILFBJ": "以太双斧_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -2503,7 +2503,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112211,
+      "ID": 112211,
       "DBFBACILFBJ": "以太双斧_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2535,7 +2535,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112212,
+      "ID": 112212,
       "DBFBACILFBJ": "以太双斧_AI_升阶指挥者",
       "MEFLNJICNOM": [
         "GoblinLeader"
@@ -2569,7 +2569,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112301,
+      "ID": 112301,
       "DBFBACILFBJ": "死路巨人_P1阶段_AI_默认（Boss模板）",
       "MEFLNJICNOM": [
         "Boss"
@@ -2579,7 +2579,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 112302,
+      "ID": 112302,
       "DBFBACILFBJ": "死路巨人_P2阶段_AI_默认（Boss模板）",
       "MEFLNJICNOM": [
         "Boss"
@@ -2589,7 +2589,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 112303,
+      "ID": 112303,
       "DBFBACILFBJ": "死路巨人_P1阶段_AI_精英（Boss模板）(弃用）",
       "MEFLNJICNOM": [
         "Elite"
@@ -2599,7 +2599,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 112304,
+      "ID": 112304,
       "DBFBACILFBJ": "死路巨人_P1阶段_AI_高难（Boss模板）",
       "MEFLNJICNOM": [
         "Boss",
@@ -2610,7 +2610,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 112305,
+      "ID": 112305,
       "DBFBACILFBJ": "死路巨人_P2阶段_AI_高难（Boss模板）",
       "MEFLNJICNOM": [
         "Boss",
@@ -2621,7 +2621,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 112306,
+      "ID": 112306,
       "DBFBACILFBJ": "死路巨人_P1阶段_AI_默认_出场播片（Boss模板）",
       "MEFLNJICNOM": [
         "Boss",
@@ -2632,7 +2632,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 112307,
+      "ID": 112307,
       "DBFBACILFBJ": "死路巨人_P1阶段_AI_高难_出场播片（Boss模板）",
       "MEFLNJICNOM": [
         "Boss",
@@ -2644,7 +2644,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 112401,
+      "ID": 112401,
       "DBFBACILFBJ": "摇钱布_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2676,7 +2676,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112410,
+      "ID": 112410,
       "DBFBACILFBJ": "摇钱布_AI_巡逻",
       "MEFLNJICNOM": [
         "Patrol"
@@ -2686,7 +2686,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 112501,
+      "ID": 112501,
       "DBFBACILFBJ": "轻装猎兵_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2718,7 +2718,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112502,
+      "ID": 112502,
       "DBFBACILFBJ": "轻装猎兵_AI_友方单位",
       "MEFLNJICNOM": [
         "Allied"
@@ -2752,7 +2752,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112503,
+      "ID": 112503,
       "DBFBACILFBJ": "轻装猎兵_AI_友方_NedfSoldier纯战斗版",
       "MEFLNJICNOM": [
         "Allied"
@@ -2786,7 +2786,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112508,
+      "ID": 112508,
       "DBFBACILFBJ": "轻装猎兵_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -2820,7 +2820,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112509,
+      "ID": 112509,
       "DBFBACILFBJ": "轻装猎兵_AI_索敌",
       "MEFLNJICNOM": [
         "SelectTargetOnly"
@@ -2854,7 +2854,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112511,
+      "ID": 112511,
       "DBFBACILFBJ": "轻装猎兵_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2886,7 +2886,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112601,
+      "ID": 112601,
       "DBFBACILFBJ": "重装炮手_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -2918,7 +2918,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112602,
+      "ID": 112602,
       "DBFBACILFBJ": "重装炮手_AI_辅攻",
       "MEFLNJICNOM": [
         "Aide"
@@ -2952,7 +2952,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112608,
+      "ID": 112608,
       "DBFBACILFBJ": "重装炮手_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -2986,7 +2986,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112611,
+      "ID": 112611,
       "DBFBACILFBJ": "重装炮手_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3018,7 +3018,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112701,
+      "ID": 112701,
       "DBFBACILFBJ": "近战猎兵_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3050,7 +3050,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112708,
+      "ID": 112708,
       "DBFBACILFBJ": "近战猎兵_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -3084,7 +3084,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112711,
+      "ID": 112711,
       "DBFBACILFBJ": "近战猎兵_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3116,7 +3116,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 112901,
+      "ID": 112901,
       "DBFBACILFBJ": "以太核心曼陀罗_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3124,7 +3124,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 113001,
+      "ID": 113001,
       "DBFBACILFBJ": "工地机械_破拆机_AI_默认（Boss模板）",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3132,7 +3132,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 113101,
+      "ID": 113101,
       "DBFBACILFBJ": "混混电棍兵_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3164,7 +3164,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113108,
+      "ID": 113108,
       "DBFBACILFBJ": "混混电棍兵_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -3198,7 +3198,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113110,
+      "ID": 113110,
       "DBFBACILFBJ": "混混电棍兵_巡逻",
       "MEFLNJICNOM": [
         "Patrol"
@@ -3208,7 +3208,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 113111,
+      "ID": 113111,
       "DBFBACILFBJ": "混混电棍兵_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3240,7 +3240,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113201,
+      "ID": 113201,
       "DBFBACILFBJ": "混混弩机兵_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3272,7 +3272,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113208,
+      "ID": 113208,
       "DBFBACILFBJ": "混混弩机兵_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -3306,7 +3306,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113209,
+      "ID": 113209,
       "DBFBACILFBJ": "混混弩机兵_索敌",
       "MEFLNJICNOM": [
         "SelectTargetOnly"
@@ -3316,7 +3316,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 113211,
+      "ID": 113211,
       "DBFBACILFBJ": "混混弩机兵_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3348,7 +3348,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113301,
+      "ID": 113301,
       "DBFBACILFBJ": "混混纵火犯_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3380,7 +3380,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113308,
+      "ID": 113308,
       "DBFBACILFBJ": "混混纵火犯_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -3414,7 +3414,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113311,
+      "ID": 113311,
       "DBFBACILFBJ": "混混纵火犯_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3446,7 +3446,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113401,
+      "ID": 113401,
       "DBFBACILFBJ": "混混鱼叉兵_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3478,7 +3478,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113408,
+      "ID": 113408,
       "DBFBACILFBJ": "混混鱼叉兵_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -3512,7 +3512,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113411,
+      "ID": 113411,
       "DBFBACILFBJ": "混混鱼叉兵_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3544,7 +3544,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113501,
+      "ID": 113501,
       "DBFBACILFBJ": "混混拳击手_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3576,7 +3576,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113508,
+      "ID": 113508,
       "DBFBACILFBJ": "混混拳击手_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -3610,7 +3610,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113511,
+      "ID": 113511,
       "DBFBACILFBJ": "混混拳击手_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3642,7 +3642,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113521,
+      "ID": 113521,
       "DBFBACILFBJ": "混混拳击手_Boss",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3674,7 +3674,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113601,
+      "ID": 113601,
       "DBFBACILFBJ": "混混霰弹枪_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3706,7 +3706,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113608,
+      "ID": 113608,
       "DBFBACILFBJ": "混混霰弹枪_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -3740,7 +3740,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113611,
+      "ID": 113611,
       "DBFBACILFBJ": "混混霰弹枪_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3772,7 +3772,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113701,
+      "ID": 113701,
       "DBFBACILFBJ": "眼魔引擎_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3804,7 +3804,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113702,
+      "ID": 113702,
       "DBFBACILFBJ": "眼魔引擎_特殊滚动版",
       "MEFLNJICNOM": [
         "BeholderEngineRoll"
@@ -3838,7 +3838,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113703,
+      "ID": 113703,
       "DBFBACILFBJ": "眼魔引擎_协同攻击版",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3870,7 +3870,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113708,
+      "ID": 113708,
       "DBFBACILFBJ": "眼魔引擎_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -3904,7 +3904,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113711,
+      "ID": 113711,
       "DBFBACILFBJ": "眼魔引擎_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3936,7 +3936,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113801,
+      "ID": 113801,
       "DBFBACILFBJ": "泰拉斯奎祸车_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -3968,7 +3968,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113808,
+      "ID": 113808,
       "DBFBACILFBJ": "泰拉斯奎祸车_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -4002,7 +4002,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113811,
+      "ID": 113811,
       "DBFBACILFBJ": "泰拉斯奎祸车_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4034,7 +4034,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113812,
+      "ID": 113812,
       "DBFBACILFBJ": "泰拉斯奎祸车_升阶指挥者",
       "MEFLNJICNOM": [
         "TarasqueMixerLeader"
@@ -4068,7 +4068,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 113901,
+      "ID": 113901,
       "DBFBACILFBJ": "工地机械_打桩机_AI_默认（Boss模板）",
       "MEFLNJICNOM": [
         "Eazy"
@@ -4078,7 +4078,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 113902,
+      "ID": 113902,
       "DBFBACILFBJ": "工地机械_打桩机_AI_默认（Boss模板）",
       "MEFLNJICNOM": [
         "Hard"
@@ -4088,7 +4088,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114001,
+      "ID": 114001,
       "DBFBACILFBJ": "工地机械_挖掘机_AI_默认（Boss模板）",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4096,7 +4096,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114002,
+      "ID": 114002,
       "DBFBACILFBJ": "工地机械_挖掘机_AI_投石专精_01（Boss模板）",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4104,7 +4104,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114003,
+      "ID": 114003,
       "DBFBACILFBJ": "工地机械_挖掘机_AI_特殊Idle（Boss模板）",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4112,7 +4112,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114004,
+      "ID": 114004,
       "DBFBACILFBJ": "工地机械_挖掘机_AI_投石专精_02（Boss模板）",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4120,7 +4120,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114101,
+      "ID": 114101,
       "DBFBACILFBJ": "工地Boss_复合侵蚀体_AI_默认（Boss模板）",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4128,7 +4128,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114201,
+      "ID": 114201,
       "DBFBACILFBJ": "双子舞者_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4136,7 +4136,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114202,
+      "ID": 114202,
       "DBFBACILFBJ": "双子舞者_组合_AI_高难度",
       "MEFLNJICNOM": [
         "Hard"
@@ -4146,7 +4146,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114203,
+      "ID": 114203,
       "DBFBACILFBJ": "双子舞者_组合_AI_低难度",
       "MEFLNJICNOM": [
         "Eazy"
@@ -4156,7 +4156,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114401,
+      "ID": 114401,
       "DBFBACILFBJ": "捷足巡游者_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4188,7 +4188,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114411,
+      "ID": 114411,
       "DBFBACILFBJ": "捷足巡游者_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4220,7 +4220,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114501,
+      "ID": 114501,
       "DBFBACILFBJ": "重装侵袭者_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4252,7 +4252,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114511,
+      "ID": 114511,
       "DBFBACILFBJ": "重装侵袭者_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4284,7 +4284,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114521,
+      "ID": 114521,
       "DBFBACILFBJ": "重装侵袭者_AI_Boss",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4292,7 +4292,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 114601,
+      "ID": 114601,
       "DBFBACILFBJ": "恶灵_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4324,7 +4324,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114611,
+      "ID": 114611,
       "DBFBACILFBJ": "恶灵_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4356,7 +4356,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114701,
+      "ID": 114701,
       "DBFBACILFBJ": "游魂_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4388,7 +4388,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114711,
+      "ID": 114711,
       "DBFBACILFBJ": "游魂_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4420,7 +4420,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114801,
+      "ID": 114801,
       "DBFBACILFBJ": "恶毒打手_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4452,7 +4452,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114808,
+      "ID": 114808,
       "DBFBACILFBJ": "恶毒打手_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -4486,7 +4486,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114811,
+      "ID": 114811,
       "DBFBACILFBJ": "恶毒打手_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4518,7 +4518,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114901,
+      "ID": 114901,
       "DBFBACILFBJ": "贪婪射手_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4550,7 +4550,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114908,
+      "ID": 114908,
       "DBFBACILFBJ": "贪婪射手_AI_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -4584,7 +4584,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 114911,
+      "ID": 114911,
       "DBFBACILFBJ": "贪婪射手_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4616,7 +4616,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115001,
+      "ID": 115001,
       "DBFBACILFBJ": "狂乱暴徒_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4648,7 +4648,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115011,
+      "ID": 115011,
       "DBFBACILFBJ": "狂乱暴徒_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4680,7 +4680,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115101,
+      "ID": 115101,
       "DBFBACILFBJ": "盛怒恶霸_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4712,7 +4712,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115102,
+      "ID": 115102,
       "DBFBACILFBJ": "盛怒恶霸_AI_辅攻",
       "MEFLNJICNOM": [
         "Aide"
@@ -4746,7 +4746,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115111,
+      "ID": 115111,
       "DBFBACILFBJ": "盛怒恶霸_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4778,7 +4778,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115201,
+      "ID": 115201,
       "DBFBACILFBJ": "凶心疯汉_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4810,7 +4810,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115211,
+      "ID": 115211,
       "DBFBACILFBJ": "凶心疯汉_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4842,7 +4842,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115301,
+      "ID": 115301,
       "DBFBACILFBJ": "尼尼微_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4850,7 +4850,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 115302,
+      "ID": 115302,
       "DBFBACILFBJ": "尼尼微_AI_召唤屏障",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4858,7 +4858,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 115303,
+      "ID": 115303,
       "DBFBACILFBJ": "尼尼微_AI_召唤屏障_可破坏物碰撞测试",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4866,7 +4866,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 115304,
+      "ID": 115304,
       "DBFBACILFBJ": "尼尼微_AI_BossRush",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4874,7 +4874,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 115601,
+      "ID": 115601,
       "DBFBACILFBJ": "尼尼微僚机_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4906,7 +4906,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115602,
+      "ID": 115602,
       "DBFBACILFBJ": "尼尼微僚机_AI_普通关卡用",
       "MEFLNJICNOM": [
         "WithNineveh"
@@ -4940,7 +4940,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 115801,
+      "ID": 115801,
       "DBFBACILFBJ": "重机素体_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4948,7 +4948,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 116001,
+      "ID": 116001,
       "DBFBACILFBJ": "莫尔斯_AI",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -4980,7 +4980,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 116101,
+      "ID": 116101,
       "DBFBACILFBJ": "巴罗姆_AI",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5012,7 +5012,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 116201,
+      "ID": 116201,
       "DBFBACILFBJ": "波可娜_AI",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5044,7 +5044,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 116401,
+      "ID": 116401,
       "DBFBACILFBJ": "简Boss_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5052,7 +5052,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 116501,
+      "ID": 116501,
       "DBFBACILFBJ": "尼尼微藤曼触手_AI",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5084,7 +5084,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 116701,
+      "ID": 116701,
       "DBFBACILFBJ": "盗洞暴徒·蛮横力士",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5092,7 +5092,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 116801,
+      "ID": 116801,
       "DBFBACILFBJ": "弗瑟尔",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5124,7 +5124,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 116802,
+      "ID": 116802,
       "DBFBACILFBJ": "弗瑟尔_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -5158,7 +5158,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 116811,
+      "ID": 116811,
       "DBFBACILFBJ": "弗瑟尔_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5190,7 +5190,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 116901,
+      "ID": 116901,
       "DBFBACILFBJ": "索迪代斯",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5222,7 +5222,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 116902,
+      "ID": 116902,
       "DBFBACILFBJ": "索迪代斯_占点",
       "MEFLNJICNOM": [
         "Occupation"
@@ -5256,7 +5256,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 116911,
+      "ID": 116911,
       "DBFBACILFBJ": "索迪代斯_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5288,7 +5288,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 117001,
+      "ID": 117001,
       "DBFBACILFBJ": "霸主庞培_AI_默认P1",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5296,7 +5296,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 117002,
+      "ID": 117002,
       "DBFBACILFBJ": "霸主庞培_AI_P2",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5304,7 +5304,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 117003,
+      "ID": 117003,
       "DBFBACILFBJ": "霸主庞培_P1阶段_AI_默认_出场播片（Boss模板）",
       "MEFLNJICNOM": [
         "Boss",
@@ -5315,7 +5315,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 117011,
+      "ID": 117011,
       "DBFBACILFBJ": "霸主庞培_AI_P1_简单",
       "MEFLNJICNOM": [
         "Weak"
@@ -5325,7 +5325,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 117012,
+      "ID": 117012,
       "DBFBACILFBJ": "霸主庞培_AI_P2_简单",
       "MEFLNJICNOM": [
         "Weak"
@@ -5339,7 +5339,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 117101,
+      "ID": 117101,
       "DBFBACILFBJ": "色雷斯人_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5347,7 +5347,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 117601,
+      "ID": 117601,
       "DBFBACILFBJ": "重装猎兵_火箭筒_AI",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5379,7 +5379,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 117701,
+      "ID": 117701,
       "DBFBACILFBJ": "能量体近战_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5411,7 +5411,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 117702,
+      "ID": 117702,
       "DBFBACILFBJ": "能量体近战_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5443,7 +5443,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 117801,
+      "ID": 117801,
       "DBFBACILFBJ": "能量体远程_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5475,7 +5475,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 117802,
+      "ID": 117802,
       "DBFBACILFBJ": "能量体远程_AI_升阶",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5507,7 +5507,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 120121,
+      "ID": 120121,
       "DBFBACILFBJ": "军方_加特林机枪塔_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5515,7 +5515,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 120211,
+      "ID": 120211,
       "DBFBACILFBJ": "军方_激光镭射装置_完好_单发射击_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5523,7 +5523,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 120221,
+      "ID": 120221,
       "DBFBACILFBJ": "军方_激光镭射装置_单头损坏_单发射击_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5531,7 +5531,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 120231,
+      "ID": 120231,
       "DBFBACILFBJ": "军方_激光镭射装置_长时间射击_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5539,7 +5539,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 120232,
+      "ID": 120232,
       "DBFBACILFBJ": "军方_激光镭射装置_长时间射击_AI_低速版",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5547,7 +5547,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 120302,
+      "ID": 120302,
       "DBFBACILFBJ": "导弹井_AI_长关卡测试_目标为中心落点",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5555,7 +5555,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 120303,
+      "ID": 120303,
       "DBFBACILFBJ": "垂直导弹发射器_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5563,7 +5563,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 120304,
+      "ID": 120304,
       "DBFBACILFBJ": "追踪导弹发射器_AI_30半径战场",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5571,7 +5571,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 120305,
+      "ID": 120305,
       "DBFBACILFBJ": "追踪导弹发射器_AI_20半径战场",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5579,7 +5579,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 120521,
+      "ID": 120521,
       "DBFBACILFBJ": "陷阱_弯管道_AI",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5587,7 +5587,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 121111,
+      "ID": 121111,
       "DBFBACILFBJ": "军方_攻击型围栏_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5595,7 +5595,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 121201,
+      "ID": 121201,
       "DBFBACILFBJ": "军方_地雷_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5603,7 +5603,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 121501,
+      "ID": 121501,
       "DBFBACILFBJ": "军方_激光屏障_AI_默认_间歇射击",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5611,7 +5611,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 121601,
+      "ID": 121601,
       "DBFBACILFBJ": "军方_子母雷_空爆型",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5619,7 +5619,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 121611,
+      "ID": 121611,
       "DBFBACILFBJ": "军方_子母雷_地爆型",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5627,7 +5627,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 121701,
+      "ID": 121701,
       "DBFBACILFBJ": "军方_激光镭射装置_单头损坏_长时间射击_AI_固定定时射击",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5635,7 +5635,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 121801,
+      "ID": 121801,
       "DBFBACILFBJ": "军方_垂直导弹发射器_AI_固定落点",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5643,7 +5643,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 122001,
+      "ID": 122001,
       "DBFBACILFBJ": "军方_追踪激光_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5651,7 +5651,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 122201,
+      "ID": 122201,
       "DBFBACILFBJ": "军方_泰瑟枪_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5659,7 +5659,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 122301,
+      "ID": 122301,
       "DBFBACILFBJ": "以太流发射器_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5667,7 +5667,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 122302,
+      "ID": 122302,
       "DBFBACILFBJ": "以太流发射器_AI_竞速",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5675,7 +5675,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 130811,
+      "ID": 130811,
       "DBFBACILFBJ": "军方_攻击型围栏_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5683,7 +5683,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 131301,
+      "ID": 131301,
       "DBFBACILFBJ": "军方_地雷_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5691,7 +5691,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 140601,
+      "ID": 140601,
       "DBFBACILFBJ": "丽娜_杜拉西_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5699,7 +5699,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 140701,
+      "ID": 140701,
       "DBFBACILFBJ": "丽娜_安娜塔莎_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5707,7 +5707,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 190541,
+      "ID": 190541,
       "DBFBACILFBJ": "智能货柜_AI_默认",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5715,7 +5715,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211021,
+      "ID": 211021,
       "DBFBACILFBJ": "关卡测试_AI_跟随玩家_枪兵AI（纯测试关卡用）",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5723,7 +5723,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211022,
+      "ID": 211022,
       "DBFBACILFBJ": "关卡测试_AI_按照路径寻路",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5731,7 +5731,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211023,
+      "ID": 211023,
       "DBFBACILFBJ": "关卡测试_AI_直接战斗_近战",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5739,7 +5739,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211024,
+      "ID": 211024,
       "DBFBACILFBJ": "关卡测试_AI_直接战斗_远程",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5747,7 +5747,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211025,
+      "ID": 211025,
       "DBFBACILFBJ": "关卡测试_AI_遁入空门",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5755,7 +5755,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211026,
+      "ID": 211026,
       "DBFBACILFBJ": "关卡测试_AI_按照路径寻路_慢走",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5763,7 +5763,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211027,
+      "ID": 211027,
       "DBFBACILFBJ": "关卡测试_AI_怪物技能专精",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5771,7 +5771,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211028,
+      "ID": 211028,
       "DBFBACILFBJ": "关卡测试_AI_安全邦布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5779,7 +5779,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211029,
+      "ID": 211029,
       "DBFBACILFBJ": "关卡测试_AI_家政邦布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5787,7 +5787,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211030,
+      "ID": 211030,
       "DBFBACILFBJ": "关卡测试_AI_跟随邦布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5795,7 +5795,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211031,
+      "ID": 211031,
       "DBFBACILFBJ": "关卡测试_AI_长流程邦布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5803,7 +5803,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211032,
+      "ID": 211032,
       "DBFBACILFBJ": "关卡测试_AI_招财邦布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5811,7 +5811,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211033,
+      "ID": 211033,
       "DBFBACILFBJ": "关卡测试_AI_鲨鱼邦布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5819,7 +5819,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211034,
+      "ID": 211034,
       "DBFBACILFBJ": "关卡测试_AI_相扑邦布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5827,7 +5827,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211035,
+      "ID": 211035,
       "DBFBACILFBJ": "关卡测试_AI_探险邦布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5835,7 +5835,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211036,
+      "ID": 211036,
       "DBFBACILFBJ": "关卡测试_AI_按照路径寻路_玩家远离停止",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5843,7 +5843,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211037,
+      "ID": 211037,
       "DBFBACILFBJ": "关卡测试_宝石结晶虫AI",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5851,7 +5851,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211038,
+      "ID": 211038,
       "DBFBACILFBJ": "关卡测试_AI_自定义场景Tag节点AI测试",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5859,7 +5859,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211039,
+      "ID": 211039,
       "DBFBACILFBJ": "关卡测试_AI_纸壳布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5867,7 +5867,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211040,
+      "ID": 211040,
       "DBFBACILFBJ": "关卡测试_AI_纸袋布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5875,7 +5875,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211041,
+      "ID": 211041,
       "DBFBACILFBJ": "关卡测试_AI_泪眼布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5883,7 +5883,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211042,
+      "ID": 211042,
       "DBFBACILFBJ": "关卡测试_AI_飚速布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5891,7 +5891,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211043,
+      "ID": 211043,
       "DBFBACILFBJ": "关卡测试_AI_艾米丽安_诺查邦布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5899,7 +5899,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211044,
+      "ID": 211044,
       "DBFBACILFBJ": "关卡测试_AI_果核布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5907,7 +5907,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211045,
+      "ID": 211045,
       "DBFBACILFBJ": "关卡测试_AI_飞靶布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5915,7 +5915,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211046,
+      "ID": 211046,
       "DBFBACILFBJ": "关卡测试_AI_气压布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5923,7 +5923,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211047,
+      "ID": 211047,
       "DBFBACILFBJ": "关卡测试_AI_电击布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5931,7 +5931,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211048,
+      "ID": 211048,
       "DBFBACILFBJ": "关卡测试_AI_磁力布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5939,7 +5939,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211049,
+      "ID": 211049,
       "DBFBACILFBJ": "关卡测试_AI_企鹅布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5947,7 +5947,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211051,
+      "ID": 211051,
       "DBFBACILFBJ": "关卡测试_AI_阿崔巡查",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5955,7 +5955,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211054,
+      "ID": 211054,
       "DBFBACILFBJ": "关卡测试_AI_左轮布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5963,7 +5963,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211055,
+      "ID": 211055,
       "DBFBACILFBJ": "关卡测试_AI_不良布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5971,7 +5971,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211056,
+      "ID": 211056,
       "DBFBACILFBJ": "关卡测试_AI_伊埃斯",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5979,7 +5979,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211057,
+      "ID": 211057,
       "DBFBACILFBJ": "关卡_护送用_AI_寻宝布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5987,7 +5987,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211058,
+      "ID": 211058,
       "DBFBACILFBJ": "关卡_护送用_AI_飙速布",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",
@@ -5995,7 +5995,7 @@
       "GIKJBFLINPM": []
     },
     {
-      "DKDDFEIAMIF": 211059,
+      "ID": 211059,
       "DBFBACILFBJ": "关卡_护送用_AI_赤红莫库斯",
       "MEFLNJICNOM": [],
       "HJBMEGBNBBB": "",

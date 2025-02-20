@@ -1,94 +1,94 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DEPJKIPACJK": "ActorMaxCurHP",
+      "Name": "ActorMaxCurHP",
       "PPINBGPFKAA": 4,
-      "ECLEFPLCFCM": 10000
+      "Value": 10000
     },
     {
-      "DEPJKIPACJK": "EnableCardFusion",
+      "Name": "EnableCardFusion",
       "PPINBGPFKAA": 3,
-      "ECLEFPLCFCM": 1
+      "Value": 1
     },
     {
-      "DEPJKIPACJK": "EnableCardRefresh",
+      "Name": "EnableCardRefresh",
       "PPINBGPFKAA": 4,
-      "ECLEFPLCFCM": 1
+      "Value": 1
     },
     {
-      "DEPJKIPACJK": "EnableCardUpgrade",
+      "Name": "EnableCardUpgrade",
       "PPINBGPFKAA": 4,
-      "ECLEFPLCFCM": 1
+      "Value": 1
     },
     {
-      "DEPJKIPACJK": "EnableHpBuy",
+      "Name": "EnableHpBuy",
       "PPINBGPFKAA": 5,
-      "ECLEFPLCFCM": 0
+      "Value": 0
     },
     {
-      "DEPJKIPACJK": "EnableHpOverflowToCoin",
+      "Name": "EnableHpOverflowToCoin",
       "PPINBGPFKAA": 5,
-      "ECLEFPLCFCM": 0
+      "Value": 0
     },
     {
-      "DEPJKIPACJK": "Gold_Delta",
+      "Name": "Gold_Delta",
       "PPINBGPFKAA": 2,
-      "ECLEFPLCFCM": 0
+      "Value": 0
     },
     {
-      "DEPJKIPACJK": "Gold_Ratio",
+      "Name": "Gold_Ratio",
       "PPINBGPFKAA": 2,
-      "ECLEFPLCFCM": 0
+      "Value": 0
     },
     {
-      "DEPJKIPACJK": "HollowRetryTutorial",
+      "Name": "HollowRetryTutorial",
       "PPINBGPFKAA": 7,
-      "ECLEFPLCFCM": 20017
+      "Value": 20017
     },
     {
-      "DEPJKIPACJK": "HollowZeroCoinMaxNum",
+      "Name": "HollowZeroCoinMaxNum",
       "PPINBGPFKAA": 2,
-      "ECLEFPLCFCM": 50000
+      "Value": 50000
     },
     {
-      "DEPJKIPACJK": "Player_View",
+      "Name": "Player_View",
       "PPINBGPFKAA": 4,
-      "ECLEFPLCFCM": 1
+      "Value": 1
     },
     {
-      "DEPJKIPACJK": "Shop_Price",
+      "Name": "Shop_Price",
       "PPINBGPFKAA": 8,
-      "ECLEFPLCFCM": 10000
+      "Value": 10000
     },
     {
-      "DEPJKIPACJK": "Stamina",
+      "Name": "Stamina",
       "PPINBGPFKAA": 1,
-      "ECLEFPLCFCM": 0
+      "Value": 0
     },
     {
-      "DEPJKIPACJK": "Stamina_Delta",
+      "Name": "Stamina_Delta",
       "PPINBGPFKAA": 1,
-      "ECLEFPLCFCM": 0
+      "Value": 0
     },
     {
-      "DEPJKIPACJK": "Stamina_Increase",
+      "Name": "Stamina_Increase",
       "PPINBGPFKAA": 1,
-      "ECLEFPLCFCM": 10
+      "Value": 10
     },
     {
-      "DEPJKIPACJK": "Stamina_Max",
+      "Name": "Stamina_Max",
       "PPINBGPFKAA": 1,
-      "ECLEFPLCFCM": 100
+      "Value": 100
     },
     {
-      "DEPJKIPACJK": "Stamina_Ratio",
+      "Name": "Stamina_Ratio",
       "PPINBGPFKAA": 1,
-      "ECLEFPLCFCM": 0
+      "Value": 0
     },
     {
-      "DEPJKIPACJK": "Weather",
+      "Name": "Weather",
       "PPINBGPFKAA": 7,
-      "ECLEFPLCFCM": 0
+      "Value": 0
     }
   ]
 }

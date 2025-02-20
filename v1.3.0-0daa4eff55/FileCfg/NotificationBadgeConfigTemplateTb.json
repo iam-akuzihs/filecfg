@@ -1,8 +1,8 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 1,
-      "FJECNNMMDGH": "MainCityMenu",
+      "ID": 1,
+      "Name": "MainCityMenu",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -22,8 +22,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2,
-      "FJECNNMMDGH": "MainCityClockMenu",
+      "ID": 2,
+      "Name": "MainCityClockMenu",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -34,8 +34,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3,
-      "FJECNNMMDGH": "MainCityAvatarChange",
+      "ID": 3,
+      "Name": "MainCityAvatarChange",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -44,8 +44,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 5,
-      "FJECNNMMDGH": "MainCityMiniMenu",
+      "ID": 5,
+      "Name": "MainCityMiniMenu",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -61,8 +61,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 11,
-      "FJECNNMMDGH": "Depository",
+      "ID": 11,
+      "Name": "Depository",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -71,8 +71,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 12,
-      "FJECNNMMDGH": "DepositoryTab1",
+      "ID": 12,
+      "Name": "DepositoryTab1",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -81,8 +81,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 13,
-      "FJECNNMMDGH": "DepositoryTab2",
+      "ID": 13,
+      "Name": "DepositoryTab2",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -91,8 +91,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 14,
-      "FJECNNMMDGH": "DepositoryTab3",
+      "ID": 14,
+      "Name": "DepositoryTab3",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -101,8 +101,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 15,
-      "FJECNNMMDGH": "DepositoryTab4",
+      "ID": 15,
+      "Name": "DepositoryTab4",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -111,8 +111,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 30,
-      "FJECNNMMDGH": "TeleportRoot",
+      "ID": 30,
+      "Name": "TeleportRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -123,8 +123,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 31,
-      "FJECNNMMDGH": "TeleportBlock",
+      "ID": 31,
+      "Name": "TeleportBlock",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -133,8 +133,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 100,
-      "FJECNNMMDGH": "Knot",
+      "ID": 100,
+      "Name": "Knot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -148,8 +148,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 200,
-      "FJECNNMMDGH": "Quest",
+      "ID": 200,
+      "Name": "Quest",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -158,8 +158,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 300,
-      "FJECNNMMDGH": "Knowledge",
+      "ID": 300,
+      "Name": "Knowledge",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -168,8 +168,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 400,
-      "FJECNNMMDGH": "Avatar",
+      "ID": 400,
+      "Name": "Avatar",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -181,8 +181,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 500,
-      "FJECNNMMDGH": "PrivateMessage_All",
+      "ID": 500,
+      "Name": "PrivateMessage_All",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -194,8 +194,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 501,
-      "FJECNNMMDGH": "PrivateMessage_Personal",
+      "ID": 501,
+      "Name": "PrivateMessage_Personal",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -204,8 +204,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 502,
-      "FJECNNMMDGH": "PrivateMessage_Group",
+      "ID": 502,
+      "Name": "PrivateMessage_Group",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -214,8 +214,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 503,
-      "FJECNNMMDGH": "PrivateMessage_Contact",
+      "ID": 503,
+      "Name": "PrivateMessage_Contact",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -224,8 +224,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 504,
-      "FJECNNMMDGH": "PrivateMessage_Partners_Reward",
+      "ID": 504,
+      "Name": "PrivateMessage_Partners_Reward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -236,8 +236,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 505,
-      "FJECNNMMDGH": "PrivateMessage_SinglePartner_Reward",
+      "ID": 505,
+      "Name": "PrivateMessage_SinglePartner_Reward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -246,8 +246,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 510,
-      "FJECNNMMDGH": "PrivateMessage_Personal_Tab",
+      "ID": 510,
+      "Name": "PrivateMessage_Personal_Tab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -256,8 +256,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 600,
-      "FJECNNMMDGH": "AvatarNew",
+      "ID": 600,
+      "Name": "AvatarNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -266,8 +266,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 601,
-      "FJECNNMMDGH": "AvatarThumbnail",
+      "ID": 601,
+      "Name": "AvatarThumbnail",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -278,8 +278,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 602,
-      "FJECNNMMDGH": "AvatarBreakReward",
+      "ID": 602,
+      "Name": "AvatarBreakReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -288,8 +288,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 603,
-      "FJECNNMMDGH": "AvatarRoleItemRow",
+      "ID": 603,
+      "Name": "AvatarRoleItemRow",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -301,8 +301,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 700,
-      "FJECNNMMDGH": "AvatarSkill",
+      "ID": 700,
+      "Name": "AvatarSkill",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -316,8 +316,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 701,
-      "FJECNNMMDGH": "AvatarSkill_Talent",
+      "ID": 701,
+      "Name": "AvatarSkill_Talent",
       "CFKDFIJIFBB": 10,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -326,8 +326,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 702,
-      "FJECNNMMDGH": "AvatarSkill_Skill",
+      "ID": 702,
+      "Name": "AvatarSkill_Skill",
       "CFKDFIJIFBB": 10,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -336,8 +336,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 703,
-      "FJECNNMMDGH": "AvatarHasBreakThroughReward",
+      "ID": 703,
+      "Name": "AvatarHasBreakThroughReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -346,8 +346,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 704,
-      "FJECNNMMDGH": "AvatarSkill_PassiveSkill",
+      "ID": 704,
+      "Name": "AvatarSkill_PassiveSkill",
       "CFKDFIJIFBB": 10,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -356,8 +356,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 705,
-      "FJECNNMMDGH": "AvatarSkill_PassiveSkill_IgnoreMat",
+      "ID": 705,
+      "Name": "AvatarSkill_PassiveSkill_IgnoreMat",
       "CFKDFIJIFBB": 10,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -366,8 +366,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 706,
-      "FJECNNMMDGH": "AvatarSkill_Skill_IgnoreMat",
+      "ID": 706,
+      "Name": "AvatarSkill_Skill_IgnoreMat",
       "CFKDFIJIFBB": 10,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -376,8 +376,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 800,
-      "FJECNNMMDGH": "Mail",
+      "ID": 800,
+      "Name": "Mail",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -386,8 +386,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 900,
-      "FJECNNMMDGH": "Notice",
+      "ID": 900,
+      "Name": "Notice",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -396,8 +396,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1000,
-      "FJECNNMMDGH": "ActiveProps",
+      "ID": 1000,
+      "Name": "ActiveProps",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -406,8 +406,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1100,
-      "FJECNNMMDGH": "Interactive",
+      "ID": 1100,
+      "Name": "Interactive",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -418,8 +418,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1200,
-      "FJECNNMMDGH": "InterKnotPost",
+      "ID": 1200,
+      "Name": "InterKnotPost",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -428,8 +428,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1201,
-      "FJECNNMMDGH": "NewInterKnotPost",
+      "ID": 1201,
+      "Name": "NewInterKnotPost",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -438,8 +438,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1300,
-      "FJECNNMMDGH": "NewsReward",
+      "ID": 1300,
+      "Name": "NewsReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -448,8 +448,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1301,
-      "FJECNNMMDGH": "NewsStandTip",
+      "ID": 1301,
+      "Name": "NewsStandTip",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -458,8 +458,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1400,
-      "FJECNNMMDGH": "Manual",
+      "ID": 1400,
+      "Name": "Manual",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -468,8 +468,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1401,
-      "FJECNNMMDGH": "ManualMorning",
+      "ID": 1401,
+      "Name": "ManualMorning",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -478,8 +478,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1402,
-      "FJECNNMMDGH": "ManualNoon",
+      "ID": 1402,
+      "Name": "ManualNoon",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -488,8 +488,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1403,
-      "FJECNNMMDGH": "ManualMidnight",
+      "ID": 1403,
+      "Name": "ManualMidnight",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -498,8 +498,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1404,
-      "FJECNNMMDGH": "ManualNight",
+      "ID": 1404,
+      "Name": "ManualNight",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -508,8 +508,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1500,
-      "FJECNNMMDGH": "ActivityChain",
+      "ID": 1500,
+      "Name": "ActivityChain",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -521,8 +521,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1501,
-      "FJECNNMMDGH": "ActivityChainTab",
+      "ID": 1501,
+      "Name": "ActivityChainTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -535,8 +535,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1502,
-      "FJECNNMMDGH": "ActivityChainTabNew",
+      "ID": 1502,
+      "Name": "ActivityChainTabNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -545,8 +545,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1503,
-      "FJECNNMMDGH": "ActivityChainTaskNew",
+      "ID": 1503,
+      "Name": "ActivityChainTaskNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -555,8 +555,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1504,
-      "FJECNNMMDGH": "ActivityChainTaskGetReward",
+      "ID": 1504,
+      "Name": "ActivityChainTaskGetReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -565,8 +565,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1505,
-      "FJECNNMMDGH": "ActivityChainExchange",
+      "ID": 1505,
+      "Name": "ActivityChainExchange",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -578,8 +578,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1506,
-      "FJECNNMMDGH": "ActivityChainExchangeNew",
+      "ID": 1506,
+      "Name": "ActivityChainExchangeNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -588,8 +588,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1507,
-      "FJECNNMMDGH": "ActivityChainExchangeBuy",
+      "ID": 1507,
+      "Name": "ActivityChainExchangeBuy",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -598,8 +598,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1601,
-      "FJECNNMMDGH": "ActivityTab",
+      "ID": 1601,
+      "Name": "ActivityTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -617,8 +617,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1602,
-      "FJECNNMMDGH": "Activity",
+      "ID": 1602,
+      "Name": "Activity",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -629,8 +629,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1603,
-      "FJECNNMMDGH": "ActivityLambTask",
+      "ID": 1603,
+      "Name": "ActivityLambTask",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -639,8 +639,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1604,
-      "FJECNNMMDGH": "ActivityNew",
+      "ID": 1604,
+      "Name": "ActivityNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -649,8 +649,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1605,
-      "FJECNNMMDGH": "ActivityTabTask",
+      "ID": 1605,
+      "Name": "ActivityTabTask",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -659,8 +659,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1606,
-      "FJECNNMMDGH": "ActivityTabRecord",
+      "ID": 1606,
+      "Name": "ActivityTabRecord",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -669,8 +669,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1607,
-      "FJECNNMMDGH": "ActivityConsoleReward",
+      "ID": 1607,
+      "Name": "ActivityConsoleReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -679,8 +679,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1608,
-      "FJECNNMMDGH": "ActivityUnlockRedDot",
+      "ID": 1608,
+      "Name": "ActivityUnlockRedDot",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -689,8 +689,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1609,
-      "FJECNNMMDGH": "ActivityQuestRedDot",
+      "ID": 1609,
+      "Name": "ActivityQuestRedDot",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -699,8 +699,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1610,
-      "FJECNNMMDGH": "ActivityCommonMission",
+      "ID": 1610,
+      "Name": "ActivityCommonMission",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -709,8 +709,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1611,
-      "FJECNNMMDGH": "ActivityCommonMissionNew",
+      "ID": 1611,
+      "Name": "ActivityCommonMissionNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -719,8 +719,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1612,
-      "FJECNNMMDGH": "ActivityGroceryTask",
+      "ID": 1612,
+      "Name": "ActivityGroceryTask",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -729,8 +729,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1613,
-      "FJECNNMMDGH": "ActivityGroceryGuide",
+      "ID": 1613,
+      "Name": "ActivityGroceryGuide",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -739,8 +739,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1614,
-      "FJECNNMMDGH": "ActivityGroceryTaskNew",
+      "ID": 1614,
+      "Name": "ActivityGroceryTaskNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -749,8 +749,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1615,
-      "FJECNNMMDGH": "ActivityMiniGameNew",
+      "ID": 1615,
+      "Name": "ActivityMiniGameNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -759,8 +759,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1616,
-      "FJECNNMMDGH": "ActivityTapGroup",
+      "ID": 1616,
+      "Name": "ActivityTapGroup",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -769,8 +769,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1617,
-      "FJECNNMMDGH": "ActivityGuideGo",
+      "ID": 1617,
+      "Name": "ActivityGuideGo",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -779,8 +779,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1701,
-      "FJECNNMMDGH": "Arcade",
+      "ID": 1701,
+      "Name": "Arcade",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -792,8 +792,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1702,
-      "FJECNNMMDGH": "ArcadeAchievement",
+      "ID": 1702,
+      "Name": "ArcadeAchievement",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -804,8 +804,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1703,
-      "FJECNNMMDGH": "ArcadeAchievementGroup",
+      "ID": 1703,
+      "Name": "ArcadeAchievementGroup",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -814,8 +814,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1704,
-      "FJECNNMMDGH": "ArcadeActivity",
+      "ID": 1704,
+      "Name": "ArcadeActivity",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -824,8 +824,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1705,
-      "FJECNNMMDGH": "ArcadeAchievementGroupTitle",
+      "ID": 1705,
+      "Name": "ArcadeAchievementGroupTitle",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -834,8 +834,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1706,
-      "FJECNNMMDGH": "ArcadeAchievementBtn",
+      "ID": 1706,
+      "Name": "ArcadeAchievementBtn",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -847,8 +847,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1800,
-      "FJECNNMMDGH": "BangbooThumbnail",
+      "ID": 1800,
+      "Name": "BangbooThumbnail",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -861,8 +861,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1801,
-      "FJECNNMMDGH": "BangbooRankUp",
+      "ID": 1801,
+      "Name": "BangbooRankUp",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -871,8 +871,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1802,
-      "FJECNNMMDGH": "BangbooStarUp",
+      "ID": 1802,
+      "Name": "BangbooStarUp",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -881,8 +881,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1803,
-      "FJECNNMMDGH": "BangbooNewGet",
+      "ID": 1803,
+      "Name": "BangbooNewGet",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -891,8 +891,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1804,
-      "FJECNNMMDGH": "BangbooBreakReward",
+      "ID": 1804,
+      "Name": "BangbooBreakReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -901,8 +901,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1805,
-      "FJECNNMMDGH": "BangbooItemHint",
+      "ID": 1805,
+      "Name": "BangbooItemHint",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -915,8 +915,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1900,
-      "FJECNNMMDGH": "Gacha",
+      "ID": 1900,
+      "Name": "Gacha",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -927,8 +927,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1901,
-      "FJECNNMMDGH": "GachaTab",
+      "ID": 1901,
+      "Name": "GachaTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -937,8 +937,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1902,
-      "FJECNNMMDGH": "GachaFate",
+      "ID": 1902,
+      "Name": "GachaFate",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -947,8 +947,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1903,
-      "FJECNNMMDGH": "GachaNewbieChooseAvatar",
+      "ID": 1903,
+      "Name": "GachaNewbieChooseAvatar",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -957,8 +957,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1904,
-      "FJECNNMMDGH": "GachaOptionalUpItem",
+      "ID": 1904,
+      "Name": "GachaOptionalUpItem",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -967,8 +967,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 1905,
-      "FJECNNMMDGH": "GachaBangbooFullStar",
+      "ID": 1905,
+      "Name": "GachaBangbooFullStar",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -977,8 +977,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2000,
-      "FJECNNMMDGH": "MainStoryRewardForVhs",
+      "ID": 2000,
+      "Name": "MainStoryRewardForVhs",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -987,8 +987,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2001,
-      "FJECNNMMDGH": "MainStoryRewardForArchiveType",
+      "ID": 2001,
+      "Name": "MainStoryRewardForArchiveType",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -997,8 +997,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2002,
-      "FJECNNMMDGH": "MainStoryRewardForRewardBtn",
+      "ID": 2002,
+      "Name": "MainStoryRewardForRewardBtn",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1007,8 +1007,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2003,
-      "FJECNNMMDGH": "MainStoryTeleport",
+      "ID": 2003,
+      "Name": "MainStoryTeleport",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1017,8 +1017,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2100,
-      "FJECNNMMDGH": "Option",
+      "ID": 2100,
+      "Name": "Option",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1035,8 +1035,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2101,
-      "FJECNNMMDGH": "OptionWebLink",
+      "ID": 2101,
+      "Name": "OptionWebLink",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1045,8 +1045,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2102,
-      "FJECNNMMDGH": "OptionSocialEntrance",
+      "ID": 2102,
+      "Name": "OptionSocialEntrance",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1055,8 +1055,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2103,
-      "FJECNNMMDGH": "OptionFeedBack",
+      "ID": 2103,
+      "Name": "OptionFeedBack",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1065,8 +1065,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2104,
-      "FJECNNMMDGH": "OptionPostGirl",
+      "ID": 2104,
+      "Name": "OptionPostGirl",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1075,8 +1075,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2105,
-      "FJECNNMMDGH": "OptionPGC",
+      "ID": 2105,
+      "Name": "OptionPGC",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1085,8 +1085,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2106,
-      "FJECNNMMDGH": "OptionInterKnotTool",
+      "ID": 2106,
+      "Name": "OptionInterKnotTool",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1095,8 +1095,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2200,
-      "FJECNNMMDGH": "InterKnotReward",
+      "ID": 2200,
+      "Name": "InterKnotReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1107,8 +1107,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2201,
-      "FJECNNMMDGH": "InterKnotLevelReward",
+      "ID": 2201,
+      "Name": "InterKnotLevelReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1117,8 +1117,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2202,
-      "FJECNNMMDGH": "InterKnotMilestoneReward",
+      "ID": 2202,
+      "Name": "InterKnotMilestoneReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1127,8 +1127,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2300,
-      "FJECNNMMDGH": "BattlePass",
+      "ID": 2300,
+      "Name": "BattlePass",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1141,8 +1141,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2301,
-      "FJECNNMMDGH": "BattlePassLevelReward",
+      "ID": 2301,
+      "Name": "BattlePassLevelReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1153,8 +1153,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2302,
-      "FJECNNMMDGH": "BattlePassTask",
+      "ID": 2302,
+      "Name": "BattlePassTask",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1165,8 +1165,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2303,
-      "FJECNNMMDGH": "BattlePassCoreReward",
+      "ID": 2303,
+      "Name": "BattlePassCoreReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1177,8 +1177,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2304,
-      "FJECNNMMDGH": "BattlePassLevelRewardItem",
+      "ID": 2304,
+      "Name": "BattlePassLevelRewardItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1187,8 +1187,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2305,
-      "FJECNNMMDGH": "BattlePassTaskTypeButton",
+      "ID": 2305,
+      "Name": "BattlePassTaskTypeButton",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1200,8 +1200,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2306,
-      "FJECNNMMDGH": "BattlePassTaksItem",
+      "ID": 2306,
+      "Name": "BattlePassTaksItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1210,8 +1210,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2307,
-      "FJECNNMMDGH": "BattlePassCoreRewardItem",
+      "ID": 2307,
+      "Name": "BattlePassCoreRewardItem",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1220,8 +1220,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2308,
-      "FJECNNMMDGH": "BattlePassTaskActivityNew",
+      "ID": 2308,
+      "Name": "BattlePassTaskActivityNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1230,8 +1230,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2309,
-      "FJECNNMMDGH": "BattlePassLevelRewardConsole",
+      "ID": 2309,
+      "Name": "BattlePassLevelRewardConsole",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1240,8 +1240,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2400,
-      "FJECNNMMDGH": "DailyQuest",
+      "ID": 2400,
+      "Name": "DailyQuest",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1250,8 +1250,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2401,
-      "FJECNNMMDGH": "DailyQuestPlan",
+      "ID": 2401,
+      "Name": "DailyQuestPlan",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1260,8 +1260,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2500,
-      "FJECNNMMDGH": "AbyssRewardScroll",
+      "ID": 2500,
+      "Name": "AbyssRewardScroll",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1270,8 +1270,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2501,
-      "FJECNNMMDGH": "AbyssTaskEntrance",
+      "ID": 2501,
+      "Name": "AbyssTaskEntrance",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1283,8 +1283,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2502,
-      "FJECNNMMDGH": "AbyssTaskReward",
+      "ID": 2502,
+      "Name": "AbyssTaskReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1293,8 +1293,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2503,
-      "FJECNNMMDGH": "AbyssTaskList",
+      "ID": 2503,
+      "Name": "AbyssTaskList",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1303,8 +1303,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2504,
-      "FJECNNMMDGH": "AbyssRewardTimeLineRedPoint",
+      "ID": 2504,
+      "Name": "AbyssRewardTimeLineRedPoint",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1316,8 +1316,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2505,
-      "FJECNNMMDGH": "AbyssTalentEntrance",
+      "ID": 2505,
+      "Name": "AbyssTalentEntrance",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1326,8 +1326,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2506,
-      "FJECNNMMDGH": "AbyssEntrance",
+      "ID": 2506,
+      "Name": "AbyssEntrance",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1340,8 +1340,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2507,
-      "FJECNNMMDGH": "AbyssHazalHDDEntrance",
+      "ID": 2507,
+      "Name": "AbyssHazalHDDEntrance",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1353,8 +1353,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2508,
-      "FJECNNMMDGH": "HazalEntrance",
+      "ID": 2508,
+      "Name": "HazalEntrance",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1365,8 +1365,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2509,
-      "FJECNNMMDGH": "HazalEntrance_Reward",
+      "ID": 2509,
+      "Name": "HazalEntrance_Reward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1375,8 +1375,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2510,
-      "FJECNNMMDGH": "HazalEntrance_ZoneItemEntrance",
+      "ID": 2510,
+      "Name": "HazalEntrance_ZoneItemEntrance",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1385,8 +1385,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2511,
-      "FJECNNMMDGH": "AbyssNewTask",
+      "ID": 2511,
+      "Name": "AbyssNewTask",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1395,8 +1395,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2512,
-      "FJECNNMMDGH": "AbyssRewardTimeLineNew",
+      "ID": 2512,
+      "Name": "AbyssRewardTimeLineNew",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1407,8 +1407,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2513,
-      "FJECNNMMDGH": "AbyssBossRushReward",
+      "ID": 2513,
+      "Name": "AbyssBossRushReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1417,8 +1417,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2514,
-      "FJECNNMMDGH": "AbyssBossRushRewardEntry",
+      "ID": 2514,
+      "Name": "AbyssBossRushRewardEntry",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1429,8 +1429,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2550,
-      "FJECNNMMDGH": "ArpeggioReward",
+      "ID": 2550,
+      "Name": "ArpeggioReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1439,8 +1439,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2551,
-      "FJECNNMMDGH": "ArpeggioChapterNew",
+      "ID": 2551,
+      "Name": "ArpeggioChapterNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1449,8 +1449,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2552,
-      "FJECNNMMDGH": "ArpeggioChapterRoot",
+      "ID": 2552,
+      "Name": "ArpeggioChapterRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1461,8 +1461,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2553,
-      "FJECNNMMDGH": "ArpeggioEntranceRoot",
+      "ID": 2553,
+      "Name": "ArpeggioEntranceRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1471,8 +1471,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2700,
-      "FJECNNMMDGH": "Workbench",
+      "ID": 2700,
+      "Name": "Workbench",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1487,8 +1487,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2701,
-      "FJECNNMMDGH": "Workbench_TrustDegree",
+      "ID": 2701,
+      "Name": "Workbench_TrustDegree",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1499,8 +1499,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2702,
-      "FJECNNMMDGH": "Workbench_Information_BigGroup",
+      "ID": 2702,
+      "Name": "Workbench_Information_BigGroup",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1511,8 +1511,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2703,
-      "FJECNNMMDGH": "Workbench_InterknotNote",
+      "ID": 2703,
+      "Name": "Workbench_InterknotNote",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1521,8 +1521,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2704,
-      "FJECNNMMDGH": "Workbench_ActiveProps_BigGroup",
+      "ID": 2704,
+      "Name": "Workbench_ActiveProps_BigGroup",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1531,8 +1531,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2705,
-      "FJECNNMMDGH": "Workbench_VRBossIllustratedBook",
+      "ID": 2705,
+      "Name": "Workbench_VRBossIllustratedBook",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1541,8 +1541,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2706,
-      "FJECNNMMDGH": "Workbench_TrustDegree_Partner",
+      "ID": 2706,
+      "Name": "Workbench_TrustDegree_Partner",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1554,8 +1554,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2707,
-      "FJECNNMMDGH": "Workbench_Information_SmallGroup",
+      "ID": 2707,
+      "Name": "Workbench_Information_SmallGroup",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1566,8 +1566,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2708,
-      "FJECNNMMDGH": "Workbench_Information_Real",
+      "ID": 2708,
+      "Name": "Workbench_Information_Real",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1576,8 +1576,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2709,
-      "FJECNNMMDGH": "Workbench_ActiveProps_SmallGroup",
+      "ID": 2709,
+      "Name": "Workbench_ActiveProps_SmallGroup",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1588,8 +1588,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2710,
-      "FJECNNMMDGH": "Workbench_ActiveProps_Item",
+      "ID": 2710,
+      "Name": "Workbench_ActiveProps_Item",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1598,8 +1598,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2711,
-      "FJECNNMMDGH": "Workbench_TrustDegree_PartnerMemoryGroup",
+      "ID": 2711,
+      "Name": "Workbench_TrustDegree_PartnerMemoryGroup",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1610,8 +1610,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2712,
-      "FJECNNMMDGH": "Workbench_TrustDegree_PartnerMemory",
+      "ID": 2712,
+      "Name": "Workbench_TrustDegree_PartnerMemory",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1620,8 +1620,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2713,
-      "FJECNNMMDGH": "Workbench_TrustDegree_CampType",
+      "ID": 2713,
+      "Name": "Workbench_TrustDegree_CampType",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1632,8 +1632,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2714,
-      "FJECNNMMDGH": "Workbench_TrustDegree_Camp",
+      "ID": 2714,
+      "Name": "Workbench_TrustDegree_Camp",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1644,8 +1644,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2715,
-      "FJECNNMMDGH": "Workbench_TrustDegree_PartnerTrustReward",
+      "ID": 2715,
+      "Name": "Workbench_TrustDegree_PartnerTrustReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1656,8 +1656,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2716,
-      "FJECNNMMDGH": "Workbench_TrustDegree_PartnerTrustRewardItem",
+      "ID": 2716,
+      "Name": "Workbench_TrustDegree_PartnerTrustRewardItem",
       "CFKDFIJIFBB": 2,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1666,8 +1666,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2717,
-      "FJECNNMMDGH": "Workbench_TrustDegree_PartnerDetail",
+      "ID": 2717,
+      "Name": "Workbench_TrustDegree_PartnerDetail",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1676,8 +1676,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2718,
-      "FJECNNMMDGH": "Workbench_TrustDegree_PartnerNew",
+      "ID": 2718,
+      "Name": "Workbench_TrustDegree_PartnerNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1686,8 +1686,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2720,
-      "FJECNNMMDGH": "Workbench_TrustDegree_Info",
+      "ID": 2720,
+      "Name": "Workbench_TrustDegree_Info",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1696,8 +1696,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2800,
-      "FJECNNMMDGH": "HollowExitReport",
+      "ID": 2800,
+      "Name": "HollowExitReport",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1706,8 +1706,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2901,
-      "FJECNNMMDGH": "HollowPauseWidget",
+      "ID": 2901,
+      "Name": "HollowPauseWidget",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1719,8 +1719,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2902,
-      "FJECNNMMDGH": "HollowEventCollect",
+      "ID": 2902,
+      "Name": "HollowEventCollect",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1729,8 +1729,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2903,
-      "FJECNNMMDGH": "HollowPopUpWindow",
+      "ID": 2903,
+      "Name": "HollowPopUpWindow",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1739,8 +1739,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 2904,
-      "FJECNNMMDGH": "HollowMainPageExitBtn",
+      "ID": 2904,
+      "Name": "HollowMainPageExitBtn",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1749,8 +1749,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3000,
-      "FJECNNMMDGH": "GeneralTutorial",
+      "ID": 3000,
+      "Name": "GeneralTutorial",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1759,8 +1759,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3100,
-      "FJECNNMMDGH": "HeadPortrait",
+      "ID": 3100,
+      "Name": "HeadPortrait",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1771,8 +1771,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3101,
-      "FJECNNMMDGH": "HeadPortraitItem",
+      "ID": 3101,
+      "Name": "HeadPortraitItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1781,8 +1781,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3200,
-      "FJECNNMMDGH": "Test",
+      "ID": 3200,
+      "Name": "Test",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1791,8 +1791,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3300,
-      "FJECNNMMDGH": "RallyQuestEntrance",
+      "ID": 3300,
+      "Name": "RallyQuestEntrance",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1801,8 +1801,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3400,
-      "FJECNNMMDGH": "Workbench_NewMonsterCard",
+      "ID": 3400,
+      "Name": "Workbench_NewMonsterCard",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1813,8 +1813,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3401,
-      "FJECNNMMDGH": "NewMosnterCard_Tab",
+      "ID": 3401,
+      "Name": "NewMosnterCard_Tab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1823,8 +1823,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3402,
-      "FJECNNMMDGH": "NewMosnterCard_OriginCard",
+      "ID": 3402,
+      "Name": "NewMosnterCard_OriginCard",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1833,8 +1833,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3500,
-      "FJECNNMMDGH": "Training_Reward",
+      "ID": 3500,
+      "Name": "Training_Reward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1843,8 +1843,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3600,
-      "FJECNNMMDGH": "ShoppingMall_Menu",
+      "ID": 3600,
+      "Name": "ShoppingMall_Menu",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1857,8 +1857,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3601,
-      "FJECNNMMDGH": "ShoppingMall_Menu_Click",
+      "ID": 3601,
+      "Name": "ShoppingMall_Menu_Click",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1867,8 +1867,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3602,
-      "FJECNNMMDGH": "ShoppingMall_tabGroup",
+      "ID": 3602,
+      "Name": "ShoppingMall_tabGroup",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1880,8 +1880,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3603,
-      "FJECNNMMDGH": "ShoppingMall_tab",
+      "ID": 3603,
+      "Name": "ShoppingMall_tab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1892,8 +1892,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3604,
-      "FJECNNMMDGH": "ShoppingMall_shelft",
+      "ID": 3604,
+      "Name": "ShoppingMall_shelft",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1902,8 +1902,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3605,
-      "FJECNNMMDGH": "ShoppingMall_recommend",
+      "ID": 3605,
+      "Name": "ShoppingMall_recommend",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1912,8 +1912,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3606,
-      "FJECNNMMDGH": "ShoppingMall_notify",
+      "ID": 3606,
+      "Name": "ShoppingMall_notify",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1922,8 +1922,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3700,
-      "FJECNNMMDGH": "AchievementRoot",
+      "ID": 3700,
+      "Name": "AchievementRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1934,8 +1934,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3701,
-      "FJECNNMMDGH": "AchievementFirstTab",
+      "ID": 3701,
+      "Name": "AchievementFirstTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1944,8 +1944,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3702,
-      "FJECNNMMDGH": "AchievementSecondTab",
+      "ID": 3702,
+      "Name": "AchievementSecondTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1954,8 +1954,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3703,
-      "FJECNNMMDGH": "AchievementItem",
+      "ID": 3703,
+      "Name": "AchievementItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1964,8 +1964,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3800,
-      "FJECNNMMDGH": "HandBook",
+      "ID": 3800,
+      "Name": "HandBook",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -1979,8 +1979,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3801,
-      "FJECNNMMDGH": "HandBook_Tab",
+      "ID": 3801,
+      "Name": "HandBook_Tab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1989,8 +1989,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3802,
-      "FJECNNMMDGH": "HandBook_SubTab",
+      "ID": 3802,
+      "Name": "HandBook_SubTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -1999,8 +1999,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3803,
-      "FJECNNMMDGH": "HandBook_TopTab",
+      "ID": 3803,
+      "Name": "HandBook_TopTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2012,8 +2012,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3900,
-      "FJECNNMMDGH": "FriendSystem",
+      "ID": 3900,
+      "Name": "FriendSystem",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2025,8 +2025,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3901,
-      "FJECNNMMDGH": "Friend_PersonalInfo",
+      "ID": 3901,
+      "Name": "Friend_PersonalInfo",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2037,8 +2037,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3902,
-      "FJECNNMMDGH": "Friend_FriendInfo",
+      "ID": 3902,
+      "Name": "Friend_FriendInfo",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2049,8 +2049,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3903,
-      "FJECNNMMDGH": "Friend_AddFriend",
+      "ID": 3903,
+      "Name": "Friend_AddFriend",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2059,8 +2059,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3904,
-      "FJECNNMMDGH": "Friend_RecentPlayer",
+      "ID": 3904,
+      "Name": "Friend_RecentPlayer",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2069,8 +2069,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3905,
-      "FJECNNMMDGH": "Friend_PersonalInfoEditBtn",
+      "ID": 3905,
+      "Name": "Friend_PersonalInfoEditBtn",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2082,8 +2082,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3906,
-      "FJECNNMMDGH": "Friend_PersonalInfoEditItem",
+      "ID": 3906,
+      "Name": "Friend_PersonalInfoEditItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2092,8 +2092,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3907,
-      "FJECNNMMDGH": "Friend_BusinessCard",
+      "ID": 3907,
+      "Name": "Friend_BusinessCard",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2102,8 +2102,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3908,
-      "FJECNNMMDGH": "Friend_NewChatMsg",
+      "ID": 3908,
+      "Name": "Friend_NewChatMsg",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2112,8 +2112,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 3909,
-      "FJECNNMMDGH": "Friend_NewHeadPortrait",
+      "ID": 3909,
+      "Name": "Friend_NewHeadPortrait",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2124,8 +2124,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3910,
-      "FJECNNMMDGH": "FriendSystem_FriendTab",
+      "ID": 3910,
+      "Name": "FriendSystem_FriendTab",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2139,8 +2139,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3911,
-      "FJECNNMMDGH": "FriendSystem_RopeMakerTab",
+      "ID": 3911,
+      "Name": "FriendSystem_RopeMakerTab",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2151,8 +2151,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3912,
-      "FJECNNMMDGH": "Friend_Title",
+      "ID": 3912,
+      "Name": "Friend_Title",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2161,8 +2161,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4000,
-      "FJECNNMMDGH": "NyakichiRoot",
+      "ID": 4000,
+      "Name": "NyakichiRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2173,8 +2173,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4001,
-      "FJECNNMMDGH": "NyakichiRegion",
+      "ID": 4001,
+      "Name": "NyakichiRegion",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2185,8 +2185,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4002,
-      "FJECNNMMDGH": "NyakichiGroup",
+      "ID": 4002,
+      "Name": "NyakichiGroup",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2195,8 +2195,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4003,
-      "FJECNNMMDGH": "NyakichiQuestItem",
+      "ID": 4003,
+      "Name": "NyakichiQuestItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2205,8 +2205,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4004,
-      "FJECNNMMDGH": "NyakichiRegionNew",
+      "ID": 4004,
+      "Name": "NyakichiRegionNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2215,8 +2215,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4100,
-      "FJECNNMMDGH": "HollowCollect_RewardEntry",
+      "ID": 4100,
+      "Name": "HollowCollect_RewardEntry",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2228,8 +2228,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4101,
-      "FJECNNMMDGH": "HollowCollect_RewardEntry_Single",
+      "ID": 4101,
+      "Name": "HollowCollect_RewardEntry_Single",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2238,8 +2238,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4102,
-      "FJECNNMMDGH": "HollowCollect_RewardEntry_Accum",
+      "ID": 4102,
+      "Name": "HollowCollect_RewardEntry_Accum",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2248,8 +2248,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4103,
-      "FJECNNMMDGH": "HollowCollect_ClueGetQuest",
+      "ID": 4103,
+      "Name": "HollowCollect_ClueGetQuest",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2258,8 +2258,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4200,
-      "FJECNNMMDGH": "VideoShop_Store_SuitIcon_Click",
+      "ID": 4200,
+      "Name": "VideoShop_Store_SuitIcon_Click",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -2268,8 +2268,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4300,
-      "FJECNNMMDGH": "TrendyStoreWeaponPreview",
+      "ID": 4300,
+      "Name": "TrendyStoreWeaponPreview",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -2278,8 +2278,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4400,
-      "FJECNNMMDGH": "DailyChallenge_VIP",
+      "ID": 4400,
+      "Name": "DailyChallenge_VIP",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2288,8 +2288,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4401,
-      "FJECNNMMDGH": "DailyChallenge_Level_Root",
+      "ID": 4401,
+      "Name": "DailyChallenge_Level_Root",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2300,8 +2300,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4402,
-      "FJECNNMMDGH": "DailyChallenge_Level",
+      "ID": 4402,
+      "Name": "DailyChallenge_Level",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2310,8 +2310,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4403,
-      "FJECNNMMDGH": "DailyChallenge_MonsterCard",
+      "ID": 4403,
+      "Name": "DailyChallenge_MonsterCard",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2320,8 +2320,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4404,
-      "FJECNNMMDGH": "DailyChallenge_Suit",
+      "ID": 4404,
+      "Name": "DailyChallenge_Suit",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2330,8 +2330,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4405,
-      "FJECNNMMDGH": "DailyChallenge_Entrence",
+      "ID": 4405,
+      "Name": "DailyChallenge_Entrence",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2340,8 +2340,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4406,
-      "FJECNNMMDGH": "DailyChallenge_Entrence_Root",
+      "ID": 4406,
+      "Name": "DailyChallenge_Entrence_Root",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2352,8 +2352,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4410,
-      "FJECNNMMDGH": "LittleBossDifficute",
+      "ID": 4410,
+      "Name": "LittleBossDifficute",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2362,8 +2362,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4411,
-      "FJECNNMMDGH": "BossDifficute",
+      "ID": 4411,
+      "Name": "BossDifficute",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2372,8 +2372,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4412,
-      "FJECNNMMDGH": "DoubleEleDifficute",
+      "ID": 4412,
+      "Name": "DoubleEleDifficute",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2382,8 +2382,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4413,
-      "FJECNNMMDGH": "LittleBossDifficuteRoot",
+      "ID": 4413,
+      "Name": "LittleBossDifficuteRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2394,8 +2394,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4414,
-      "FJECNNMMDGH": "BossDifficuteRoot",
+      "ID": 4414,
+      "Name": "BossDifficuteRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2406,8 +2406,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4415,
-      "FJECNNMMDGH": "DoubleEleDifficuteRoot",
+      "ID": 4415,
+      "Name": "DoubleEleDifficuteRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2418,8 +2418,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4416,
-      "FJECNNMMDGH": "LittleBossUnlock",
+      "ID": 4416,
+      "Name": "LittleBossUnlock",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2428,8 +2428,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4417,
-      "FJECNNMMDGH": "LittleBossUnlockRoot",
+      "ID": 4417,
+      "Name": "LittleBossUnlockRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2440,8 +2440,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4418,
-      "FJECNNMMDGH": "BossUnlock",
+      "ID": 4418,
+      "Name": "BossUnlock",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2450,8 +2450,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4419,
-      "FJECNNMMDGH": "BossUnlockRoot",
+      "ID": 4419,
+      "Name": "BossUnlockRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2462,8 +2462,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4500,
-      "FJECNNMMDGH": "BossChallengeReward",
+      "ID": 4500,
+      "Name": "BossChallengeReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2472,8 +2472,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4600,
-      "FJECNNMMDGH": "ActivityCameraRoot",
+      "ID": 4600,
+      "Name": "ActivityCameraRoot",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2484,8 +2484,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4601,
-      "FJECNNMMDGH": "ActivityCameraTab",
+      "ID": 4601,
+      "Name": "ActivityCameraTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2496,8 +2496,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4602,
-      "FJECNNMMDGH": "ActivityCameraQuestUnlock",
+      "ID": 4602,
+      "Name": "ActivityCameraQuestUnlock",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -2506,8 +2506,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4701,
-      "FJECNNMMDGH": "OverlordFeastGameEntry",
+      "ID": 4701,
+      "Name": "OverlordFeastGameEntry",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2516,8 +2516,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4702,
-      "FJECNNMMDGH": "OverlordFeastGameLevel",
+      "ID": 4702,
+      "Name": "OverlordFeastGameLevel",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2526,8 +2526,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4703,
-      "FJECNNMMDGH": "OverlordFeastGame",
+      "ID": 4703,
+      "Name": "OverlordFeastGame",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2536,8 +2536,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4711,
-      "FJECNNMMDGH": "OverlordFeastTodo",
+      "ID": 4711,
+      "Name": "OverlordFeastTodo",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2546,8 +2546,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4712,
-      "FJECNNMMDGH": "OverlordFeastLevelTodo",
+      "ID": 4712,
+      "Name": "OverlordFeastLevelTodo",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2556,8 +2556,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4713,
-      "FJECNNMMDGH": "OverlordFeastLevelTodoItem",
+      "ID": 4713,
+      "Name": "OverlordFeastLevelTodoItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2566,8 +2566,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4720,
-      "FJECNNMMDGH": "OverlordFeastTaskReward",
+      "ID": 4720,
+      "Name": "OverlordFeastTaskReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2576,8 +2576,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4730,
-      "FJECNNMMDGH": "OverlordFeastDev",
+      "ID": 4730,
+      "Name": "OverlordFeastDev",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2586,8 +2586,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4731,
-      "FJECNNMMDGH": "OverlordFeastDevItem",
+      "ID": 4731,
+      "Name": "OverlordFeastDevItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2596,8 +2596,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4800,
-      "FJECNNMMDGH": "CampIdleNPC",
+      "ID": 4800,
+      "Name": "CampIdleNPC",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2610,8 +2610,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4801,
-      "FJECNNMMDGH": "CampIdleReward",
+      "ID": 4801,
+      "Name": "CampIdleReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2620,8 +2620,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4802,
-      "FJECNNMMDGH": "CampIdleNodeReward",
+      "ID": 4802,
+      "Name": "CampIdleNodeReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2630,8 +2630,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4803,
-      "FJECNNMMDGH": "CampIdleDispatchStop",
+      "ID": 4803,
+      "Name": "CampIdleDispatchStop",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2640,8 +2640,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4901,
-      "FJECNNMMDGH": "ActivityQuestListActivityID",
+      "ID": 4901,
+      "Name": "ActivityQuestListActivityID",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2650,8 +2650,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4902,
-      "FJECNNMMDGH": "ActivityQuestListTab",
+      "ID": 4902,
+      "Name": "ActivityQuestListTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -2660,8 +2660,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4910,
-      "FJECNNMMDGH": "BackFlowModel",
+      "ID": 4910,
+      "Name": "BackFlowModel",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2670,8 +2670,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4911,
-      "FJECNNMMDGH": "BacfFlowSubEntrance",
+      "ID": 4911,
+      "Name": "BacfFlowSubEntrance",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2680,8 +2680,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4912,
-      "FJECNNMMDGH": "BacfFlowSubEntranceNew",
+      "ID": 4912,
+      "Name": "BacfFlowSubEntranceNew",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2690,8 +2690,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4913,
-      "FJECNNMMDGH": "BacfFlowTask",
+      "ID": 4913,
+      "Name": "BacfFlowTask",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2700,8 +2700,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4914,
-      "FJECNNMMDGH": "BacfFlowTaskTab",
+      "ID": 4914,
+      "Name": "BacfFlowTaskTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2710,8 +2710,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4915,
-      "FJECNNMMDGH": "TeleportStore",
+      "ID": 4915,
+      "Name": "TeleportStore",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2720,8 +2720,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4916,
-      "FJECNNMMDGH": "BacfFlowCoreReward",
+      "ID": 4916,
+      "Name": "BacfFlowCoreReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2730,8 +2730,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4917,
-      "FJECNNMMDGH": "BacfFlowAxleReward",
+      "ID": 4917,
+      "Name": "BacfFlowAxleReward",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2740,8 +2740,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4951,
-      "FJECNNMMDGH": "DisplayCaseManualTopTab",
+      "ID": 4951,
+      "Name": "DisplayCaseManualTopTab",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2750,8 +2750,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 4952,
-      "FJECNNMMDGH": "DisplayCaseManualItem",
+      "ID": 4952,
+      "Name": "DisplayCaseManualItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -2760,8 +2760,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 5001,
-      "FJECNNMMDGH": "MainCityGameLevelUnlock",
+      "ID": 5001,
+      "Name": "MainCityGameLevelUnlock",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 1,
       "EJJAALJMNIC": 0,
@@ -2770,8 +2770,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 5101,
-      "FJECNNMMDGH": "FashionStore",
+      "ID": 5101,
+      "Name": "FashionStore",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2782,8 +2782,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 5102,
-      "FJECNNMMDGH": "FashionStoreSellPage",
+      "ID": 5102,
+      "Name": "FashionStoreSellPage",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2794,8 +2794,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 5103,
-      "FJECNNMMDGH": "FashionStoreSellItem",
+      "ID": 5103,
+      "Name": "FashionStoreSellItem",
       "CFKDFIJIFBB": 1,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2804,8 +2804,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 5200,
-      "FJECNNMMDGH": "WeeklyBingo",
+      "ID": 5200,
+      "Name": "WeeklyBingo",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2818,8 +2818,8 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 5201,
-      "FJECNNMMDGH": "WeeklyBingoSpecialReward",
+      "ID": 5201,
+      "Name": "WeeklyBingoSpecialReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2828,8 +2828,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 5202,
-      "FJECNNMMDGH": "WeeklyBingoScoreReward",
+      "ID": 5202,
+      "Name": "WeeklyBingoScoreReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2838,8 +2838,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 5203,
-      "FJECNNMMDGH": "WeeklyBingoGridScore",
+      "ID": 5203,
+      "Name": "WeeklyBingoGridScore",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,
@@ -2848,8 +2848,8 @@
       "NALAOPHDKIL": []
     },
     {
-      "GKNMDKNIMHP": 5301,
-      "FJECNNMMDGH": "BabelTowerReward",
+      "ID": 5301,
+      "Name": "BabelTowerReward",
       "CFKDFIJIFBB": 0,
       "CFGFLOLONIH": 0,
       "EJJAALJMNIC": 0,

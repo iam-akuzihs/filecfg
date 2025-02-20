@@ -1,7 +1,7 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 1,
+      "ID": 1,
       "BADHBABBFNN": "Frozen_System",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 3,
@@ -35,7 +35,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 2,
+      "ID": 2,
       "BADHBABBFNN": "Burn_System",
       "HMHKHPPOIJG": "Burn_System_Debuff_Des",
       "APHPPOMPOCO": 6,
@@ -69,7 +69,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3,
+      "ID": 3,
       "BADHBABBFNN": "Electric_System",
       "HMHKHPPOIJG": "Electric_System_Debuff_Des",
       "APHPPOMPOCO": 27,
@@ -103,7 +103,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 4,
+      "ID": 4,
       "BADHBABBFNN": "Phisc_System",
       "HMHKHPPOIJG": "Phisc_System_Debuff_Des",
       "APHPPOMPOCO": 35,
@@ -137,7 +137,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 5,
+      "ID": 5,
       "BADHBABBFNN": "Ether_System",
       "HMHKHPPOIJG": "Ether_System_Debuff_Des",
       "APHPPOMPOCO": 33,
@@ -171,7 +171,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 6,
+      "ID": 6,
       "BADHBABBFNN": "Frost_System",
       "HMHKHPPOIJG": "Frost_System_Debuff_Des",
       "APHPPOMPOCO": 37,
@@ -205,7 +205,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 7,
+      "ID": 7,
       "BADHBABBFNN": "Disorder_System",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 38,
@@ -239,7 +239,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 12,
+      "ID": 12,
       "BADHBABBFNN": "Ignite_System",
       "HMHKHPPOIJG": "Ignite_System_Debuff_Des",
       "APHPPOMPOCO": 30,
@@ -273,7 +273,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 13,
+      "ID": 13,
       "BADHBABBFNN": "Overload_System",
       "HMHKHPPOIJG": "Overload_System_Debuff_Des",
       "APHPPOMPOCO": 31,
@@ -307,7 +307,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 15,
+      "ID": 15,
       "BADHBABBFNN": "Chaos_System",
       "HMHKHPPOIJG": "Chaos_System_Debuff_Des",
       "APHPPOMPOCO": 34,
@@ -341,7 +341,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 16,
+      "ID": 16,
       "BADHBABBFNN": "Frostbite_System",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 36,
@@ -375,7 +375,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 101,
+      "ID": 101,
       "BADHBABBFNN": "Burn_Card",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 6,
@@ -409,7 +409,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 101001,
+      "ID": 101001,
       "BADHBABBFNN": "Stun",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 1,
@@ -443,7 +443,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 101002,
+      "ID": 101002,
       "BADHBABBFNN": "Stun_OnBreak",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 1,
@@ -477,7 +477,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 102001,
+      "ID": 102001,
       "BADHBABBFNN": "Tied",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 2,
@@ -511,7 +511,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 103001,
+      "ID": 103001,
       "BADHBABBFNN": "Frozen",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 3,
@@ -545,7 +545,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 104001,
+      "ID": 104001,
       "BADHBABBFNN": "Sleep",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 4,
@@ -579,7 +579,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 105001,
+      "ID": 105001,
       "BADHBABBFNN": "Slience",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 5,
@@ -613,7 +613,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 106001,
+      "ID": 106001,
       "BADHBABBFNN": "BurnLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 6,
@@ -647,7 +647,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 106002,
+      "ID": 106002,
       "BADHBABBFNN": "BurnLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 6,
@@ -681,7 +681,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 106003,
+      "ID": 106003,
       "BADHBABBFNN": "BurnLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 6,
@@ -715,7 +715,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 106004,
+      "ID": 106004,
       "BADHBABBFNN": "BurnLv4",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 6,
@@ -749,7 +749,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 106005,
+      "ID": 106005,
       "BADHBABBFNN": "BurnLv5",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 6,
@@ -783,7 +783,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 107001,
+      "ID": 107001,
       "BADHBABBFNN": "PoisonLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 7,
@@ -817,7 +817,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 107002,
+      "ID": 107002,
       "BADHBABBFNN": "PoisonLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 7,
@@ -851,7 +851,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 107003,
+      "ID": 107003,
       "BADHBABBFNN": "PoisonLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 7,
@@ -885,7 +885,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 107004,
+      "ID": 107004,
       "BADHBABBFNN": "PoisonLv4",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 7,
@@ -919,7 +919,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 107005,
+      "ID": 107005,
       "BADHBABBFNN": "PoisonLv5",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 7,
@@ -953,7 +953,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 108001,
+      "ID": 108001,
       "BADHBABBFNN": "BleedLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 8,
@@ -987,7 +987,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 108002,
+      "ID": 108002,
       "BADHBABBFNN": "BleedLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 8,
@@ -1021,7 +1021,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 108003,
+      "ID": 108003,
       "BADHBABBFNN": "BleedLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 8,
@@ -1055,7 +1055,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 108004,
+      "ID": 108004,
       "BADHBABBFNN": "BleedLv4",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 8,
@@ -1089,7 +1089,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 108005,
+      "ID": 108005,
       "BADHBABBFNN": "BleedLv5",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 8,
@@ -1123,7 +1123,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 108006,
+      "ID": 108006,
       "BADHBABBFNN": "Bleed_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 8,
@@ -1157,7 +1157,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 109001,
+      "ID": 109001,
       "BADHBABBFNN": "AttackUpLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -1191,7 +1191,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 109002,
+      "ID": 109002,
       "BADHBABBFNN": "AttackUpLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -1225,7 +1225,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 109003,
+      "ID": 109003,
       "BADHBABBFNN": "AttackUpLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -1259,7 +1259,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 110001,
+      "ID": 110001,
       "BADHBABBFNN": "AttackDownLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 10,
@@ -1293,7 +1293,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 110002,
+      "ID": 110002,
       "BADHBABBFNN": "AttackDownLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 10,
@@ -1327,7 +1327,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 110003,
+      "ID": 110003,
       "BADHBABBFNN": "AttackDownLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 10,
@@ -1361,7 +1361,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 111001,
+      "ID": 111001,
       "BADHBABBFNN": "CritUpLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 11,
@@ -1395,7 +1395,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 111002,
+      "ID": 111002,
       "BADHBABBFNN": "CritUpLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 11,
@@ -1429,7 +1429,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 111003,
+      "ID": 111003,
       "BADHBABBFNN": "CritUpLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 11,
@@ -1463,7 +1463,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 112001,
+      "ID": 112001,
       "BADHBABBFNN": "CritDownLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 12,
@@ -1497,7 +1497,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 112002,
+      "ID": 112002,
       "BADHBABBFNN": "CritDownLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 12,
@@ -1531,7 +1531,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 112003,
+      "ID": 112003,
       "BADHBABBFNN": "CritDownLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 12,
@@ -1565,7 +1565,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 113001,
+      "ID": 113001,
       "BADHBABBFNN": "CritDamageUpLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 13,
@@ -1599,7 +1599,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 113002,
+      "ID": 113002,
       "BADHBABBFNN": "CritDamageUpLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 13,
@@ -1633,7 +1633,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 113003,
+      "ID": 113003,
       "BADHBABBFNN": "CritDamageUpLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 13,
@@ -1667,7 +1667,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 114001,
+      "ID": 114001,
       "BADHBABBFNN": "CritDamageDownLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 14,
@@ -1701,7 +1701,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 114002,
+      "ID": 114002,
       "BADHBABBFNN": "CritDamageDownLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 14,
@@ -1735,7 +1735,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 114003,
+      "ID": 114003,
       "BADHBABBFNN": "CritDamageDownLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 14,
@@ -1769,7 +1769,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 115000,
+      "ID": 115000,
       "BADHBABBFNN": "DefenceUpLv0",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 15,
@@ -1803,7 +1803,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 115001,
+      "ID": 115001,
       "BADHBABBFNN": "DefenceUpLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 15,
@@ -1837,7 +1837,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 115002,
+      "ID": 115002,
       "BADHBABBFNN": "DefenceUpLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 15,
@@ -1871,7 +1871,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 115003,
+      "ID": 115003,
       "BADHBABBFNN": "DefenceUpLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 15,
@@ -1905,7 +1905,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 116001,
+      "ID": 116001,
       "BADHBABBFNN": "DefenceDownLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 16,
@@ -1939,7 +1939,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 116002,
+      "ID": 116002,
       "BADHBABBFNN": "DefenceDownLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 16,
@@ -1973,7 +1973,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 116003,
+      "ID": 116003,
       "BADHBABBFNN": "DefenceDownLv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 16,
@@ -2007,7 +2007,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 116004,
+      "ID": 116004,
       "BADHBABBFNN": "DefenceDown_OnBreak",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 16,
@@ -2041,7 +2041,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 117001,
+      "ID": 117001,
       "BADHBABBFNN": "MoveSpeedUpLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 17,
@@ -2075,7 +2075,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 117002,
+      "ID": 117002,
       "BADHBABBFNN": "MoveSpeedUpLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 17,
@@ -2109,7 +2109,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 118001,
+      "ID": 118001,
       "BADHBABBFNN": "MoveSpeedDownLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 18,
@@ -2143,7 +2143,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 118002,
+      "ID": 118002,
       "BADHBABBFNN": "MoveSpeedDownLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 18,
@@ -2177,7 +2177,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 119001,
+      "ID": 119001,
       "BADHBABBFNN": "AttackSpeedUpLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 19,
@@ -2211,7 +2211,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 119002,
+      "ID": 119002,
       "BADHBABBFNN": "AttackSpeedUpLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 19,
@@ -2245,7 +2245,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 120001,
+      "ID": 120001,
       "BADHBABBFNN": "AttackSpeedDownLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 20,
@@ -2279,7 +2279,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 120002,
+      "ID": 120002,
       "BADHBABBFNN": "AttackSpeedDownLv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 20,
@@ -2313,7 +2313,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 121001,
+      "ID": 121001,
       "BADHBABBFNN": "Invincible",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 21,
@@ -2347,7 +2347,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 122001,
+      "ID": 122001,
       "BADHBABBFNN": "Unbreakable",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 22,
@@ -2381,7 +2381,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 123001,
+      "ID": 123001,
       "BADHBABBFNN": "Weak",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 23,
@@ -2415,7 +2415,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 123002,
+      "ID": 123002,
       "BADHBABBFNN": "Weak_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 23,
@@ -2449,7 +2449,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 123003,
+      "ID": 123003,
       "BADHBABBFNN": "Vulnerable",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 24,
@@ -2483,7 +2483,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 129001,
+      "ID": 129001,
       "BADHBABBFNN": "BlockState",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 29,
@@ -2517,7 +2517,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 500001,
+      "ID": 500001,
       "BADHBABBFNN": "Tsubaki_Skill_01",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -2551,7 +2551,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 500002,
+      "ID": 500002,
       "BADHBABBFNN": "Tsubaki_Skill_02",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -2585,7 +2585,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 500003,
+      "ID": 500003,
       "BADHBABBFNN": "Arcana_Shield_Death",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 15,
@@ -2619,7 +2619,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 999001,
+      "ID": 999001,
       "BADHBABBFNN": "DodgeATK_Lv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -2653,7 +2653,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 999002,
+      "ID": 999002,
       "BADHBABBFNN": "DodgeATK_Lv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -2687,7 +2687,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 999003,
+      "ID": 999003,
       "BADHBABBFNN": "DodgeATK_Lv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -2721,7 +2721,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 999004,
+      "ID": 999004,
       "BADHBABBFNN": "HitDefence_Lv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 15,
@@ -2755,7 +2755,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 999005,
+      "ID": 999005,
       "BADHBABBFNN": "HitDefence_Lv2",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 15,
@@ -2789,7 +2789,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 999006,
+      "ID": 999006,
       "BADHBABBFNN": "HitDefence_Lv3",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 15,
@@ -2823,7 +2823,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000001,
+      "ID": 1000001,
       "BADHBABBFNN": "Bug_Test_01",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -2857,7 +2857,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000002,
+      "ID": 1000002,
       "BADHBABBFNN": "Bug_Test_02",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -2891,7 +2891,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000003,
+      "ID": 1000003,
       "BADHBABBFNN": "TimeSlow_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 26,
@@ -2925,7 +2925,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000004,
+      "ID": 1000004,
       "BADHBABBFNN": "Electric_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 27,
@@ -2959,7 +2959,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000005,
+      "ID": 1000005,
       "BADHBABBFNN": "Frozen_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 3,
@@ -2993,7 +2993,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000006,
+      "ID": 1000006,
       "BADHBABBFNN": "FrozenAvatar_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 28,
@@ -3027,7 +3027,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000007,
+      "ID": 1000007,
       "BADHBABBFNN": "Electric_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 27,
@@ -3061,7 +3061,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000008,
+      "ID": 1000008,
       "BADHBABBFNN": "Electric_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 27,
@@ -3095,7 +3095,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000009,
+      "ID": 1000009,
       "BADHBABBFNN": "Burn_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 6,
@@ -3129,7 +3129,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 1000010,
+      "ID": 1000010,
       "BADHBABBFNN": "Burn_Test",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 6,
@@ -3163,7 +3163,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 2000001,
+      "ID": 2000001,
       "BADHBABBFNN": "WitchTimeWithoutCD",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -3197,7 +3197,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 2000002,
+      "ID": 2000002,
       "BADHBABBFNN": "AttackUpLv1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 9,
@@ -3231,7 +3231,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000001,
+      "ID": 3000001,
       "BADHBABBFNN": "Avatar_Test_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Test_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -3265,7 +3265,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000002,
+      "ID": 3000002,
       "BADHBABBFNN": "Avatar_Test_Debuff_01_Title",
       "HMHKHPPOIJG": "Avatar_Test_Debuff_01_Des",
       "APHPPOMPOCO": 10,
@@ -3299,7 +3299,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000011,
+      "ID": 3000011,
       "BADHBABBFNN": "Avatar_Nostradamus_Debuff_01_Title",
       "HMHKHPPOIJG": "Avatar_Nostradamus_Debuff_01_Des",
       "APHPPOMPOCO": 10,
@@ -3333,7 +3333,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000012,
+      "ID": 3000012,
       "BADHBABBFNN": "Avatar_Nostradamus_Debuff_02_Title",
       "HMHKHPPOIJG": "Avatar_Nostradamus_Debuff_02_Des",
       "APHPPOMPOCO": 10,
@@ -3367,7 +3367,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000021,
+      "ID": 3000021,
       "BADHBABBFNN": "Avatar_Aokaku_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Aokaku_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -3401,7 +3401,7 @@
       "AAGAFJPDPMC": 1
     },
     {
-      "NGPCCDGBLLK": 3000022,
+      "ID": 3000022,
       "BADHBABBFNN": "Avatar_Aokaku_Buff_02_Title",
       "HMHKHPPOIJG": "Avatar_Aokaku_Buff_02_Des",
       "APHPPOMPOCO": 9,
@@ -3435,7 +3435,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000023,
+      "ID": 3000023,
       "BADHBABBFNN": "Avatar_Aokaku_Buff_03_Title",
       "HMHKHPPOIJG": "Avatar_Aokaku_Buff_03_Des",
       "APHPPOMPOCO": 9,
@@ -3469,7 +3469,7 @@
       "AAGAFJPDPMC": 2
     },
     {
-      "NGPCCDGBLLK": 3000031,
+      "ID": 3000031,
       "BADHBABBFNN": "Avatar_Rina_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Rina_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -3503,7 +3503,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000041,
+      "ID": 3000041,
       "BADHBABBFNN": "Avatar_Lucy_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Lucy_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -3537,7 +3537,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000051,
+      "ID": 3000051,
       "BADHBABBFNN": "Avatar_Clara_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Clara_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -3571,7 +3571,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000052,
+      "ID": 3000052,
       "BADHBABBFNN": "Avatar_Clara_Buff_02_Title",
       "HMHKHPPOIJG": "Avatar_Clara_Buff_02_Des",
       "APHPPOMPOCO": 9,
@@ -3605,7 +3605,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000053,
+      "ID": 3000053,
       "BADHBABBFNN": "Avatar_Clara_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Clara_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -3639,7 +3639,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000061,
+      "ID": 3000061,
       "BADHBABBFNN": "Avatar_OokumaMari_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_OokumaMari_Buff_01_Des",
       "APHPPOMPOCO": 10,
@@ -3673,7 +3673,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000071,
+      "ID": 3000071,
       "BADHBABBFNN": "Avatar_Lycaon_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Lycaon_Buff_01_Des",
       "APHPPOMPOCO": 10,
@@ -3707,7 +3707,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000081,
+      "ID": 3000081,
       "BADHBABBFNN": "Avatar_Lisa_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Lisa_Buff_01_Des",
       "APHPPOMPOCO": 10,
@@ -3741,7 +3741,7 @@
       "AAGAFJPDPMC": 2
     },
     {
-      "NGPCCDGBLLK": 3000082,
+      "ID": 3000082,
       "BADHBABBFNN": "Avatar_Lisa_Buff_02_Title",
       "HMHKHPPOIJG": "Avatar_Lisa_Buff_02_Des",
       "APHPPOMPOCO": 10,
@@ -3775,7 +3775,7 @@
       "AAGAFJPDPMC": 1
     },
     {
-      "NGPCCDGBLLK": 3000091,
+      "ID": 3000091,
       "BADHBABBFNN": "Avatar_Ben_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Ben_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -3809,7 +3809,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000101,
+      "ID": 3000101,
       "BADHBABBFNN": "Avatar_Seth_Buff_01_Title",
       "HMHKHPPOIJG": "Avatar_Seth_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -3843,7 +3843,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000102,
+      "ID": 3000102,
       "BADHBABBFNN": "Avatar_Seth_Debuff_01_Title",
       "HMHKHPPOIJG": "Avatar_Seth_Debuff_01_Des",
       "APHPPOMPOCO": 10,
@@ -3877,7 +3877,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000111,
+      "ID": 3000111,
       "BADHBABBFNN": "Avatar_QingYi_Debuff_01_Title",
       "HMHKHPPOIJG": "Avatar_QingYi_Debuff_01_Des",
       "APHPPOMPOCO": 10,
@@ -3911,7 +3911,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000112,
+      "ID": 3000112,
       "BADHBABBFNN": "Avatar_QingYi_Debuff_02_Title",
       "HMHKHPPOIJG": "Avatar_QingYi_Debuff_02_Des",
       "APHPPOMPOCO": 10,
@@ -3945,7 +3945,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3000121,
+      "ID": 3000121,
       "BADHBABBFNN": "Avatar_JaneDoe_Debuff_01_Title",
       "HMHKHPPOIJG": "Avatar_JaneDoe_Debuff_01_Des",
       "APHPPOMPOCO": 10,
@@ -3979,7 +3979,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100001,
+      "ID": 3100001,
       "BADHBABBFNN": "TarotCard_Test_Buff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Test_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4013,7 +4013,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100002,
+      "ID": 3100002,
       "BADHBABBFNN": "TarotCard_Test_Debuff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Test_Debuff_01_Des",
       "APHPPOMPOCO": 10,
@@ -4047,7 +4047,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100011,
+      "ID": 3100011,
       "BADHBABBFNN": "TarotCard_Ashes_2000100_Buff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Ashes_2000100_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4081,7 +4081,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100021,
+      "ID": 3100021,
       "BADHBABBFNN": "TarotCard_Gun_2000300_Buff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Gun_2000300_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4115,7 +4115,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100022,
+      "ID": 3100022,
       "BADHBABBFNN": "TarotCard_Gun_2000300_Buff_02_Title",
       "HMHKHPPOIJG": "TarotCard_Gun_2000300_Buff_02_Des",
       "APHPPOMPOCO": 9,
@@ -4149,7 +4149,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100031,
+      "ID": 3100031,
       "BADHBABBFNN": "TarotCard_Blunt_2000700_Buff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Blunt_2000700_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4183,7 +4183,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100032,
+      "ID": 3100032,
       "BADHBABBFNN": "TarotCard_Blunt_2000700_Buff_02_Title",
       "HMHKHPPOIJG": "TarotCard_Blunt_2000700_Buff_02_Des",
       "APHPPOMPOCO": 9,
@@ -4217,7 +4217,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100033,
+      "ID": 3100033,
       "BADHBABBFNN": "TarotCard_Blunt_2000700_Buff_03_Title",
       "HMHKHPPOIJG": "TarotCard_Blunt_2000700_Buff_03_Des",
       "APHPPOMPOCO": 9,
@@ -4251,7 +4251,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100034,
+      "ID": 3100034,
       "BADHBABBFNN": "TarotCard_Blunt_2000700_Buff_04_Title",
       "HMHKHPPOIJG": "TarotCard_Blunt_2000700_Buff_04_Des",
       "APHPPOMPOCO": 9,
@@ -4285,7 +4285,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100041,
+      "ID": 3100041,
       "BADHBABBFNN": "TarotCard_Electro_2000500_Buff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Electro_2000500_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4319,7 +4319,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100042,
+      "ID": 3100042,
       "BADHBABBFNN": "TarotCard_Electro_2000500_Buff_02_Title",
       "HMHKHPPOIJG": "TarotCard_Electro_2000500_Buff_02_Des",
       "APHPPOMPOCO": 9,
@@ -4353,7 +4353,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100051,
+      "ID": 3100051,
       "BADHBABBFNN": "TarotCard_Froze_2001100_Buff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Froze_2001100_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4387,7 +4387,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100052,
+      "ID": 3100052,
       "BADHBABBFNN": "TarotCard_Froze_2001100_Buff_02_Title",
       "HMHKHPPOIJG": "TarotCard_Froze_2001100_Buff_02_Des",
       "APHPPOMPOCO": 9,
@@ -4421,7 +4421,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100061,
+      "ID": 3100061,
       "BADHBABBFNN": "TarotCard_Ether_2001900_Buff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Ether_2001900_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4455,7 +4455,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100071,
+      "ID": 3100071,
       "BADHBABBFNN": "TarotCard_Sports_2000800_Buff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Sports_2000800_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4489,7 +4489,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100072,
+      "ID": 3100072,
       "BADHBABBFNN": "TarotCard_Sports_2000800_Buff_02_Title",
       "HMHKHPPOIJG": "TarotCard_Sports_2000800_Buff_02_Des",
       "APHPPOMPOCO": 9,
@@ -4523,7 +4523,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100073,
+      "ID": 3100073,
       "BADHBABBFNN": "TarotCard_Sports_2000800_Buff_03_Title",
       "HMHKHPPOIJG": "TarotCard_Sports_2000800_Buff_03_Des",
       "APHPPOMPOCO": 9,
@@ -4557,7 +4557,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100074,
+      "ID": 3100074,
       "BADHBABBFNN": "TarotCard_Sports_2000800_Buff_04_Title",
       "HMHKHPPOIJG": "TarotCard_Sports_2000800_Buff_04_Des",
       "APHPPOMPOCO": 9,
@@ -4591,7 +4591,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100075,
+      "ID": 3100075,
       "BADHBABBFNN": "TarotCard_Sports_2000800_Buff_05_Title",
       "HMHKHPPOIJG": "TarotCard_Sports_2000800_Buff_05_Des",
       "APHPPOMPOCO": 9,
@@ -4625,7 +4625,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3100081,
+      "ID": 3100081,
       "BADHBABBFNN": "TarotCard_Exchange_2001600_Buff_01_Title",
       "HMHKHPPOIJG": "TarotCard_Exchange_2001600_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4659,7 +4659,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3200001,
+      "ID": 3200001,
       "BADHBABBFNN": "Level_Test_Buff_01_Title",
       "HMHKHPPOIJG": "Level_Test_Buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4693,7 +4693,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3200002,
+      "ID": 3200002,
       "BADHBABBFNN": "Level_Test_Debuff_01_Title",
       "HMHKHPPOIJG": "Level_Test_Debuff_01_Des",
       "APHPPOMPOCO": 10,
@@ -4727,7 +4727,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3200011,
+      "ID": 3200011,
       "BADHBABBFNN": "Level_Abyss_FixedLayerBuff_06_buff_01_Title",
       "HMHKHPPOIJG": "Level_Abyss_FixedLayerBuff_06_buff_01_Des",
       "APHPPOMPOCO": 9,
@@ -4761,7 +4761,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3200012,
+      "ID": 3200012,
       "BADHBABBFNN": "Level_Abyss_PeriodicLayerBuff_04_02_Title",
       "HMHKHPPOIJG": "Level_Abyss_PeriodicLayerBuff_04_02_Des",
       "APHPPOMPOCO": 9,
@@ -4795,7 +4795,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 3300001,
+      "ID": 3300001,
       "BADHBABBFNN": "Electric_System",
       "HMHKHPPOIJG": "Electric_System_Debuff_Des",
       "APHPPOMPOCO": 27,
@@ -4829,7 +4829,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 9000001,
+      "ID": 9000001,
       "BADHBABBFNN": "ActivityBattle_Sign_1.1",
       "HMHKHPPOIJG": "",
       "APHPPOMPOCO": 99,
@@ -4863,7 +4863,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 9000011,
+      "ID": 9000011,
       "BADHBABBFNN": "ActivityLevelAbility_Name_2001",
       "HMHKHPPOIJG": "ActivityLevelAbility_BuffDesc_2001",
       "APHPPOMPOCO": 9,
@@ -4897,7 +4897,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 9000012,
+      "ID": 9000012,
       "BADHBABBFNN": "ActivityLevelAbility_Name_2002",
       "HMHKHPPOIJG": "ActivityLevelAbility_BuffDesc_2002",
       "APHPPOMPOCO": 9,
@@ -4931,7 +4931,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 9000013,
+      "ID": 9000013,
       "BADHBABBFNN": "ActivityLevelAbility_Name_2003",
       "HMHKHPPOIJG": "ActivityLevelAbility_BuffDesc_2003",
       "APHPPOMPOCO": 9,
@@ -4965,7 +4965,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 9000014,
+      "ID": 9000014,
       "BADHBABBFNN": "ActivityLevelAbility_Name_2004",
       "HMHKHPPOIJG": "ActivityLevelAbility_BuffDesc_2004",
       "APHPPOMPOCO": 9,
@@ -4999,7 +4999,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 9000015,
+      "ID": 9000015,
       "BADHBABBFNN": "ActivityLevelAbility_Name_2005",
       "HMHKHPPOIJG": "ActivityLevelAbility_BuffDesc_2005",
       "APHPPOMPOCO": 9,
@@ -5033,7 +5033,7 @@
       "AAGAFJPDPMC": 0
     },
     {
-      "NGPCCDGBLLK": 9000016,
+      "ID": 9000016,
       "BADHBABBFNN": "ActivityLevelAbility_Name_2006",
       "HMHKHPPOIJG": "ActivityLevelAbility_BuffDesc_2006",
       "APHPPOMPOCO": 9,

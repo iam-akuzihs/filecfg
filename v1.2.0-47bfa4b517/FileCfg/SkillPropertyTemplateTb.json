@@ -1,22 +1,22 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1001,
-      "DEPJKIPACJK": "SkillDamageRate",
+      "ID": 1001,
+      "Name": "SkillDamageRate",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.#%}",
       "IBAHFNJFBLA": 3
     },
     {
-      "DKDDFEIAMIF": 1002,
-      "DEPJKIPACJK": "SkillStunRatio",
+      "ID": 1002,
+      "Name": "SkillStunRatio",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.#%}",
       "IBAHFNJFBLA": 3
     },
     {
-      "DKDDFEIAMIF": 1003,
-      "DEPJKIPACJK": "SkillSpRecovery",
+      "ID": 1003,
+      "Name": "SkillSpRecovery",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0}",
       "IBAHFNJFBLA": 3

@@ -1,8 +1,8 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 1,
-      "EAAFCGPDFAA": "MainCityMenu",
+      "ID": 1,
+      "Name": "MainCityMenu",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -22,8 +22,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 5,
-      "EAAFCGPDFAA": "MainCityMiniMenu",
+      "ID": 5,
+      "Name": "MainCityMiniMenu",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -39,8 +39,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 11,
-      "EAAFCGPDFAA": "Depository",
+      "ID": 11,
+      "Name": "Depository",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -49,8 +49,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 12,
-      "EAAFCGPDFAA": "DepositoryTab1",
+      "ID": 12,
+      "Name": "DepositoryTab1",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -59,8 +59,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 13,
-      "EAAFCGPDFAA": "DepositoryTab2",
+      "ID": 13,
+      "Name": "DepositoryTab2",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -69,8 +69,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 14,
-      "EAAFCGPDFAA": "DepositoryTab3",
+      "ID": 14,
+      "Name": "DepositoryTab3",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -79,8 +79,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 15,
-      "EAAFCGPDFAA": "DepositoryTab4",
+      "ID": 15,
+      "Name": "DepositoryTab4",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -89,8 +89,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 30,
-      "EAAFCGPDFAA": "TeleportRoot",
+      "ID": 30,
+      "Name": "TeleportRoot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -101,8 +101,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 31,
-      "EAAFCGPDFAA": "TeleportBlock",
+      "ID": 31,
+      "Name": "TeleportBlock",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -111,8 +111,8 @@
       "JJHHPIFEHLN": 1
     },
     {
-      "NGPCCDGBLLK": 100,
-      "EAAFCGPDFAA": "Knot",
+      "ID": 100,
+      "Name": "Knot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -127,8 +127,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 200,
-      "EAAFCGPDFAA": "Quest",
+      "ID": 200,
+      "Name": "Quest",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -137,8 +137,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 300,
-      "EAAFCGPDFAA": "Knowledge",
+      "ID": 300,
+      "Name": "Knowledge",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -147,8 +147,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 400,
-      "EAAFCGPDFAA": "Avatar",
+      "ID": 400,
+      "Name": "Avatar",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -160,8 +160,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 500,
-      "EAAFCGPDFAA": "PrivateMessage_All",
+      "ID": 500,
+      "Name": "PrivateMessage_All",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -173,8 +173,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 501,
-      "EAAFCGPDFAA": "PrivateMessage_Personal",
+      "ID": 501,
+      "Name": "PrivateMessage_Personal",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -183,8 +183,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 502,
-      "EAAFCGPDFAA": "PrivateMessage_Group",
+      "ID": 502,
+      "Name": "PrivateMessage_Group",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -193,8 +193,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 503,
-      "EAAFCGPDFAA": "PrivateMessage_Contact",
+      "ID": 503,
+      "Name": "PrivateMessage_Contact",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -203,8 +203,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 504,
-      "EAAFCGPDFAA": "PrivateMessage_Partners_Reward",
+      "ID": 504,
+      "Name": "PrivateMessage_Partners_Reward",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -215,8 +215,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 505,
-      "EAAFCGPDFAA": "PrivateMessage_SinglePartner_Reward",
+      "ID": 505,
+      "Name": "PrivateMessage_SinglePartner_Reward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -225,8 +225,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 600,
-      "EAAFCGPDFAA": "AvatarNew",
+      "ID": 600,
+      "Name": "AvatarNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -235,8 +235,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 601,
-      "EAAFCGPDFAA": "AvatarThumbnail",
+      "ID": 601,
+      "Name": "AvatarThumbnail",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -247,8 +247,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 602,
-      "EAAFCGPDFAA": "AvatarBreakReward",
+      "ID": 602,
+      "Name": "AvatarBreakReward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -257,8 +257,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 603,
-      "EAAFCGPDFAA": "AvatarRoleItemRow",
+      "ID": 603,
+      "Name": "AvatarRoleItemRow",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -270,8 +270,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 700,
-      "EAAFCGPDFAA": "AvatarSkill",
+      "ID": 700,
+      "Name": "AvatarSkill",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -285,8 +285,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 701,
-      "EAAFCGPDFAA": "AvatarSkill_Talent",
+      "ID": 701,
+      "Name": "AvatarSkill_Talent",
       "JJHBNDNOBIE": 10,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -295,8 +295,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 702,
-      "EAAFCGPDFAA": "AvatarSkill_Skill",
+      "ID": 702,
+      "Name": "AvatarSkill_Skill",
       "JJHBNDNOBIE": 10,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -305,8 +305,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 703,
-      "EAAFCGPDFAA": "AvatarHasBreakThroughReward",
+      "ID": 703,
+      "Name": "AvatarHasBreakThroughReward",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -315,8 +315,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 704,
-      "EAAFCGPDFAA": "AvatarSkill_PassiveSkill",
+      "ID": 704,
+      "Name": "AvatarSkill_PassiveSkill",
       "JJHBNDNOBIE": 10,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -325,8 +325,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 705,
-      "EAAFCGPDFAA": "AvatarSkill_PassiveSkill_IgnoreMat",
+      "ID": 705,
+      "Name": "AvatarSkill_PassiveSkill_IgnoreMat",
       "JJHBNDNOBIE": 10,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -335,8 +335,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 706,
-      "EAAFCGPDFAA": "AvatarSkill_Skill_IgnoreMat",
+      "ID": 706,
+      "Name": "AvatarSkill_Skill_IgnoreMat",
       "JJHBNDNOBIE": 10,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -345,8 +345,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 800,
-      "EAAFCGPDFAA": "Mail",
+      "ID": 800,
+      "Name": "Mail",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -355,8 +355,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 900,
-      "EAAFCGPDFAA": "Notice",
+      "ID": 900,
+      "Name": "Notice",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -365,8 +365,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1000,
-      "EAAFCGPDFAA": "ActiveProps",
+      "ID": 1000,
+      "Name": "ActiveProps",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -375,8 +375,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1100,
-      "EAAFCGPDFAA": "Interactive",
+      "ID": 1100,
+      "Name": "Interactive",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -387,8 +387,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1200,
-      "EAAFCGPDFAA": "InterKnotPost",
+      "ID": 1200,
+      "Name": "InterKnotPost",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -397,8 +397,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1201,
-      "EAAFCGPDFAA": "NewInterKnotPost",
+      "ID": 1201,
+      "Name": "NewInterKnotPost",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -407,8 +407,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1300,
-      "EAAFCGPDFAA": "NewsReward",
+      "ID": 1300,
+      "Name": "NewsReward",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -417,8 +417,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1301,
-      "EAAFCGPDFAA": "NewsStandTip",
+      "ID": 1301,
+      "Name": "NewsStandTip",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -427,8 +427,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1400,
-      "EAAFCGPDFAA": "Manual",
+      "ID": 1400,
+      "Name": "Manual",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -437,8 +437,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1401,
-      "EAAFCGPDFAA": "ManualMorning",
+      "ID": 1401,
+      "Name": "ManualMorning",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -447,8 +447,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1402,
-      "EAAFCGPDFAA": "ManualNoon",
+      "ID": 1402,
+      "Name": "ManualNoon",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -457,8 +457,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1403,
-      "EAAFCGPDFAA": "ManualMidnight",
+      "ID": 1403,
+      "Name": "ManualMidnight",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -467,8 +467,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1404,
-      "EAAFCGPDFAA": "ManualNight",
+      "ID": 1404,
+      "Name": "ManualNight",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -477,8 +477,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1500,
-      "EAAFCGPDFAA": "ActivityChain",
+      "ID": 1500,
+      "Name": "ActivityChain",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -490,8 +490,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1501,
-      "EAAFCGPDFAA": "ActivityChainTab",
+      "ID": 1501,
+      "Name": "ActivityChainTab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -504,8 +504,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1502,
-      "EAAFCGPDFAA": "ActivityChainTabNew",
+      "ID": 1502,
+      "Name": "ActivityChainTabNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -514,8 +514,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1503,
-      "EAAFCGPDFAA": "ActivityChainTaskNew",
+      "ID": 1503,
+      "Name": "ActivityChainTaskNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -524,8 +524,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1504,
-      "EAAFCGPDFAA": "ActivityChainTaskGetReward",
+      "ID": 1504,
+      "Name": "ActivityChainTaskGetReward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -534,8 +534,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1505,
-      "EAAFCGPDFAA": "ActivityChainExchange",
+      "ID": 1505,
+      "Name": "ActivityChainExchange",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -547,8 +547,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1506,
-      "EAAFCGPDFAA": "ActivityChainExchangeNew",
+      "ID": 1506,
+      "Name": "ActivityChainExchangeNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -557,8 +557,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1507,
-      "EAAFCGPDFAA": "ActivityChainExchangeBuy",
+      "ID": 1507,
+      "Name": "ActivityChainExchangeBuy",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -567,8 +567,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1601,
-      "EAAFCGPDFAA": "ActivityTab",
+      "ID": 1601,
+      "Name": "ActivityTab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -586,8 +586,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1602,
-      "EAAFCGPDFAA": "Activity",
+      "ID": 1602,
+      "Name": "Activity",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -598,8 +598,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1603,
-      "EAAFCGPDFAA": "ActivityLambTask",
+      "ID": 1603,
+      "Name": "ActivityLambTask",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -608,8 +608,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1604,
-      "EAAFCGPDFAA": "ActivityNew",
+      "ID": 1604,
+      "Name": "ActivityNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -618,8 +618,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1605,
-      "EAAFCGPDFAA": "ActivityTabTask",
+      "ID": 1605,
+      "Name": "ActivityTabTask",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -628,8 +628,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1606,
-      "EAAFCGPDFAA": "ActivityTabRecord",
+      "ID": 1606,
+      "Name": "ActivityTabRecord",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -638,8 +638,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1607,
-      "EAAFCGPDFAA": "ActivityConsoleReward",
+      "ID": 1607,
+      "Name": "ActivityConsoleReward",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -648,8 +648,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1608,
-      "EAAFCGPDFAA": "ActivityUnlockRedDot",
+      "ID": 1608,
+      "Name": "ActivityUnlockRedDot",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -658,8 +658,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1609,
-      "EAAFCGPDFAA": "ActivityQuestRedDot",
+      "ID": 1609,
+      "Name": "ActivityQuestRedDot",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -668,8 +668,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1610,
-      "EAAFCGPDFAA": "ActivityCommonMission",
+      "ID": 1610,
+      "Name": "ActivityCommonMission",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -678,8 +678,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1611,
-      "EAAFCGPDFAA": "ActivityCommonMissionNew",
+      "ID": 1611,
+      "Name": "ActivityCommonMissionNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -688,8 +688,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1612,
-      "EAAFCGPDFAA": "ActivityGroceryTask",
+      "ID": 1612,
+      "Name": "ActivityGroceryTask",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -698,8 +698,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1613,
-      "EAAFCGPDFAA": "ActivityGroceryGuide",
+      "ID": 1613,
+      "Name": "ActivityGroceryGuide",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -708,8 +708,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1614,
-      "EAAFCGPDFAA": "ActivityGroceryTaskNew",
+      "ID": 1614,
+      "Name": "ActivityGroceryTaskNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -718,8 +718,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1615,
-      "EAAFCGPDFAA": "ActivityMiniGameNew",
+      "ID": 1615,
+      "Name": "ActivityMiniGameNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -728,8 +728,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1701,
-      "EAAFCGPDFAA": "Arcade",
+      "ID": 1701,
+      "Name": "Arcade",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -741,8 +741,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1702,
-      "EAAFCGPDFAA": "ArcadeAchievement",
+      "ID": 1702,
+      "Name": "ArcadeAchievement",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -753,8 +753,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1703,
-      "EAAFCGPDFAA": "ArcadeAchievementGroup",
+      "ID": 1703,
+      "Name": "ArcadeAchievementGroup",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -763,8 +763,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1704,
-      "EAAFCGPDFAA": "ArcadeActivity",
+      "ID": 1704,
+      "Name": "ArcadeActivity",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -773,8 +773,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1800,
-      "EAAFCGPDFAA": "BangbooThumbnail",
+      "ID": 1800,
+      "Name": "BangbooThumbnail",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -787,8 +787,8 @@
       "JJHHPIFEHLN": 1
     },
     {
-      "NGPCCDGBLLK": 1801,
-      "EAAFCGPDFAA": "BangbooRankUp",
+      "ID": 1801,
+      "Name": "BangbooRankUp",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -797,8 +797,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1802,
-      "EAAFCGPDFAA": "BangbooStarUp",
+      "ID": 1802,
+      "Name": "BangbooStarUp",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -807,8 +807,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1803,
-      "EAAFCGPDFAA": "BangbooNewGet",
+      "ID": 1803,
+      "Name": "BangbooNewGet",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -817,8 +817,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1804,
-      "EAAFCGPDFAA": "BangbooBreakReward",
+      "ID": 1804,
+      "Name": "BangbooBreakReward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -827,8 +827,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1805,
-      "EAAFCGPDFAA": "BangbooItemHint",
+      "ID": 1805,
+      "Name": "BangbooItemHint",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -841,8 +841,8 @@
       "JJHHPIFEHLN": 1
     },
     {
-      "NGPCCDGBLLK": 1900,
-      "EAAFCGPDFAA": "Gacha",
+      "ID": 1900,
+      "Name": "Gacha",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -853,8 +853,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1901,
-      "EAAFCGPDFAA": "GachaTab",
+      "ID": 1901,
+      "Name": "GachaTab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -863,8 +863,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1902,
-      "EAAFCGPDFAA": "GachaFate",
+      "ID": 1902,
+      "Name": "GachaFate",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -873,8 +873,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1903,
-      "EAAFCGPDFAA": "GachaNewbieChooseAvatar",
+      "ID": 1903,
+      "Name": "GachaNewbieChooseAvatar",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -883,8 +883,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1904,
-      "EAAFCGPDFAA": "GachaOptionalUpItem",
+      "ID": 1904,
+      "Name": "GachaOptionalUpItem",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -893,8 +893,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 1905,
-      "EAAFCGPDFAA": "GachaBangbooFullStar",
+      "ID": 1905,
+      "Name": "GachaBangbooFullStar",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -903,8 +903,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2000,
-      "EAAFCGPDFAA": "MainStoryRewardForVhs",
+      "ID": 2000,
+      "Name": "MainStoryRewardForVhs",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -913,8 +913,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2001,
-      "EAAFCGPDFAA": "MainStoryRewardForArchiveType",
+      "ID": 2001,
+      "Name": "MainStoryRewardForArchiveType",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -923,8 +923,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2002,
-      "EAAFCGPDFAA": "MainStoryRewardForRewardBtn",
+      "ID": 2002,
+      "Name": "MainStoryRewardForRewardBtn",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -933,8 +933,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2003,
-      "EAAFCGPDFAA": "MainStoryTeleport",
+      "ID": 2003,
+      "Name": "MainStoryTeleport",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -943,8 +943,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2100,
-      "EAAFCGPDFAA": "Option",
+      "ID": 2100,
+      "Name": "Option",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -961,8 +961,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2101,
-      "EAAFCGPDFAA": "OptionWebLink",
+      "ID": 2101,
+      "Name": "OptionWebLink",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -971,8 +971,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2102,
-      "EAAFCGPDFAA": "OptionSocialEntrance",
+      "ID": 2102,
+      "Name": "OptionSocialEntrance",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -981,8 +981,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2103,
-      "EAAFCGPDFAA": "OptionFeedBack",
+      "ID": 2103,
+      "Name": "OptionFeedBack",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -991,8 +991,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2104,
-      "EAAFCGPDFAA": "OptionPostGirl",
+      "ID": 2104,
+      "Name": "OptionPostGirl",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1001,8 +1001,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2105,
-      "EAAFCGPDFAA": "OptionPGC",
+      "ID": 2105,
+      "Name": "OptionPGC",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -1011,8 +1011,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2106,
-      "EAAFCGPDFAA": "OptionInterKnotTool",
+      "ID": 2106,
+      "Name": "OptionInterKnotTool",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -1021,8 +1021,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2200,
-      "EAAFCGPDFAA": "InterKnotReward",
+      "ID": 2200,
+      "Name": "InterKnotReward",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1033,8 +1033,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2201,
-      "EAAFCGPDFAA": "InterKnotLevelReward",
+      "ID": 2201,
+      "Name": "InterKnotLevelReward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1043,8 +1043,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2202,
-      "EAAFCGPDFAA": "InterKnotMilestoneReward",
+      "ID": 2202,
+      "Name": "InterKnotMilestoneReward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1053,8 +1053,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2300,
-      "EAAFCGPDFAA": "BattlePass",
+      "ID": 2300,
+      "Name": "BattlePass",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1067,8 +1067,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2301,
-      "EAAFCGPDFAA": "BattlePassLevelReward",
+      "ID": 2301,
+      "Name": "BattlePassLevelReward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1079,8 +1079,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2302,
-      "EAAFCGPDFAA": "BattlePassTask",
+      "ID": 2302,
+      "Name": "BattlePassTask",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1091,8 +1091,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2303,
-      "EAAFCGPDFAA": "BattlePassCoreReward",
+      "ID": 2303,
+      "Name": "BattlePassCoreReward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1103,8 +1103,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2304,
-      "EAAFCGPDFAA": "BattlePassLevelRewardItem",
+      "ID": 2304,
+      "Name": "BattlePassLevelRewardItem",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1113,8 +1113,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2305,
-      "EAAFCGPDFAA": "BattlePassTaskTypeButton",
+      "ID": 2305,
+      "Name": "BattlePassTaskTypeButton",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1126,8 +1126,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2306,
-      "EAAFCGPDFAA": "BattlePassTaksItem",
+      "ID": 2306,
+      "Name": "BattlePassTaksItem",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1136,8 +1136,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2307,
-      "EAAFCGPDFAA": "BattlePassCoreRewardItem",
+      "ID": 2307,
+      "Name": "BattlePassCoreRewardItem",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1146,8 +1146,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2308,
-      "EAAFCGPDFAA": "BattlePassTaskActivityNew",
+      "ID": 2308,
+      "Name": "BattlePassTaskActivityNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -1156,8 +1156,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2309,
-      "EAAFCGPDFAA": "BattlePassLevelRewardConsole",
+      "ID": 2309,
+      "Name": "BattlePassLevelRewardConsole",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1166,8 +1166,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2400,
-      "EAAFCGPDFAA": "DailyQuest",
+      "ID": 2400,
+      "Name": "DailyQuest",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1176,8 +1176,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2401,
-      "EAAFCGPDFAA": "DailyQuestPlan",
+      "ID": 2401,
+      "Name": "DailyQuestPlan",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1186,8 +1186,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2500,
-      "EAAFCGPDFAA": "AbyssRewardScroll",
+      "ID": 2500,
+      "Name": "AbyssRewardScroll",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1196,8 +1196,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2501,
-      "EAAFCGPDFAA": "AbyssTaskEntrance",
+      "ID": 2501,
+      "Name": "AbyssTaskEntrance",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1209,8 +1209,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2502,
-      "EAAFCGPDFAA": "AbyssTaskReward",
+      "ID": 2502,
+      "Name": "AbyssTaskReward",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1219,8 +1219,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2503,
-      "EAAFCGPDFAA": "AbyssTaskList",
+      "ID": 2503,
+      "Name": "AbyssTaskList",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1229,8 +1229,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2504,
-      "EAAFCGPDFAA": "AbyssRewardTimeLineRedPoint",
+      "ID": 2504,
+      "Name": "AbyssRewardTimeLineRedPoint",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1242,8 +1242,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2505,
-      "EAAFCGPDFAA": "AbyssTalentEntrance",
+      "ID": 2505,
+      "Name": "AbyssTalentEntrance",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1252,8 +1252,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2506,
-      "EAAFCGPDFAA": "AbyssEntrance",
+      "ID": 2506,
+      "Name": "AbyssEntrance",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1266,8 +1266,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2507,
-      "EAAFCGPDFAA": "AbyssHazalHDDEntrance",
+      "ID": 2507,
+      "Name": "AbyssHazalHDDEntrance",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1279,8 +1279,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2508,
-      "EAAFCGPDFAA": "HazalEntrance",
+      "ID": 2508,
+      "Name": "HazalEntrance",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1291,8 +1291,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2509,
-      "EAAFCGPDFAA": "HazalEntrance_Reward",
+      "ID": 2509,
+      "Name": "HazalEntrance_Reward",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1301,8 +1301,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2510,
-      "EAAFCGPDFAA": "HazalEntrance_ZoneItemEntrance",
+      "ID": 2510,
+      "Name": "HazalEntrance_ZoneItemEntrance",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1311,8 +1311,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2511,
-      "EAAFCGPDFAA": "AbyssNewTask",
+      "ID": 2511,
+      "Name": "AbyssNewTask",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1321,8 +1321,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2512,
-      "EAAFCGPDFAA": "AbyssRewardTimeLineNew",
+      "ID": 2512,
+      "Name": "AbyssRewardTimeLineNew",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1333,8 +1333,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2513,
-      "EAAFCGPDFAA": "AbyssBossRushReward",
+      "ID": 2513,
+      "Name": "AbyssBossRushReward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1343,8 +1343,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2514,
-      "EAAFCGPDFAA": "AbyssBossRushRewardEntry",
+      "ID": 2514,
+      "Name": "AbyssBossRushRewardEntry",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1355,8 +1355,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2700,
-      "EAAFCGPDFAA": "Workbench",
+      "ID": 2700,
+      "Name": "Workbench",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1371,8 +1371,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2701,
-      "EAAFCGPDFAA": "Workbench_TrustDegree",
+      "ID": 2701,
+      "Name": "Workbench_TrustDegree",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1383,8 +1383,8 @@
       "JJHHPIFEHLN": 2
     },
     {
-      "NGPCCDGBLLK": 2702,
-      "EAAFCGPDFAA": "Workbench_Information_BigGroup",
+      "ID": 2702,
+      "Name": "Workbench_Information_BigGroup",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1395,8 +1395,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2703,
-      "EAAFCGPDFAA": "Workbench_InterknotNote",
+      "ID": 2703,
+      "Name": "Workbench_InterknotNote",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1405,8 +1405,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2704,
-      "EAAFCGPDFAA": "Workbench_ActiveProps_BigGroup",
+      "ID": 2704,
+      "Name": "Workbench_ActiveProps_BigGroup",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1415,8 +1415,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2705,
-      "EAAFCGPDFAA": "Workbench_VRBossIllustratedBook",
+      "ID": 2705,
+      "Name": "Workbench_VRBossIllustratedBook",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1425,8 +1425,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2706,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_Partner",
+      "ID": 2706,
+      "Name": "Workbench_TrustDegree_Partner",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1438,8 +1438,8 @@
       "JJHHPIFEHLN": 2
     },
     {
-      "NGPCCDGBLLK": 2707,
-      "EAAFCGPDFAA": "Workbench_Information_SmallGroup",
+      "ID": 2707,
+      "Name": "Workbench_Information_SmallGroup",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1450,8 +1450,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2708,
-      "EAAFCGPDFAA": "Workbench_Information_Real",
+      "ID": 2708,
+      "Name": "Workbench_Information_Real",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1460,8 +1460,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2709,
-      "EAAFCGPDFAA": "Workbench_ActiveProps_SmallGroup",
+      "ID": 2709,
+      "Name": "Workbench_ActiveProps_SmallGroup",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1472,8 +1472,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2710,
-      "EAAFCGPDFAA": "Workbench_ActiveProps_Item",
+      "ID": 2710,
+      "Name": "Workbench_ActiveProps_Item",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1482,8 +1482,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2711,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_PartnerMemoryGroup",
+      "ID": 2711,
+      "Name": "Workbench_TrustDegree_PartnerMemoryGroup",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1494,8 +1494,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2712,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_PartnerMemory",
+      "ID": 2712,
+      "Name": "Workbench_TrustDegree_PartnerMemory",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1504,8 +1504,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2713,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_CampType",
+      "ID": 2713,
+      "Name": "Workbench_TrustDegree_CampType",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1516,8 +1516,8 @@
       "JJHHPIFEHLN": 2
     },
     {
-      "NGPCCDGBLLK": 2714,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_Camp",
+      "ID": 2714,
+      "Name": "Workbench_TrustDegree_Camp",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1528,8 +1528,8 @@
       "JJHHPIFEHLN": 2
     },
     {
-      "NGPCCDGBLLK": 2715,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_PartnerTrustReward",
+      "ID": 2715,
+      "Name": "Workbench_TrustDegree_PartnerTrustReward",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1540,8 +1540,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2716,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_PartnerTrustRewardItem",
+      "ID": 2716,
+      "Name": "Workbench_TrustDegree_PartnerTrustRewardItem",
       "JJHBNDNOBIE": 2,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1550,8 +1550,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2717,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_PartnerDetail",
+      "ID": 2717,
+      "Name": "Workbench_TrustDegree_PartnerDetail",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1560,8 +1560,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2718,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_PartnerNew",
+      "ID": 2718,
+      "Name": "Workbench_TrustDegree_PartnerNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1570,8 +1570,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2720,
-      "EAAFCGPDFAA": "Workbench_TrustDegree_Info",
+      "ID": 2720,
+      "Name": "Workbench_TrustDegree_Info",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1580,8 +1580,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2800,
-      "EAAFCGPDFAA": "HollowExitReport",
+      "ID": 2800,
+      "Name": "HollowExitReport",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1590,8 +1590,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2901,
-      "EAAFCGPDFAA": "HollowPauseWidget",
+      "ID": 2901,
+      "Name": "HollowPauseWidget",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1603,8 +1603,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2902,
-      "EAAFCGPDFAA": "HollowEventCollect",
+      "ID": 2902,
+      "Name": "HollowEventCollect",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1613,8 +1613,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2903,
-      "EAAFCGPDFAA": "HollowPopUpWindow",
+      "ID": 2903,
+      "Name": "HollowPopUpWindow",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1623,8 +1623,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 2904,
-      "EAAFCGPDFAA": "HollowMainPageExitBtn",
+      "ID": 2904,
+      "Name": "HollowMainPageExitBtn",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1633,8 +1633,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3000,
-      "EAAFCGPDFAA": "GeneralTutorial",
+      "ID": 3000,
+      "Name": "GeneralTutorial",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1643,8 +1643,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3100,
-      "EAAFCGPDFAA": "HeadPortrait",
+      "ID": 3100,
+      "Name": "HeadPortrait",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1655,8 +1655,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3101,
-      "EAAFCGPDFAA": "HeadPortraitItem",
+      "ID": 3101,
+      "Name": "HeadPortraitItem",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1665,8 +1665,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3200,
-      "EAAFCGPDFAA": "Test",
+      "ID": 3200,
+      "Name": "Test",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1675,8 +1675,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3300,
-      "EAAFCGPDFAA": "RallyQuestEntrance",
+      "ID": 3300,
+      "Name": "RallyQuestEntrance",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1685,8 +1685,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3400,
-      "EAAFCGPDFAA": "Workbench_NewMonsterCard",
+      "ID": 3400,
+      "Name": "Workbench_NewMonsterCard",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1697,8 +1697,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3401,
-      "EAAFCGPDFAA": "NewMosnterCard_Tab",
+      "ID": 3401,
+      "Name": "NewMosnterCard_Tab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1707,8 +1707,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3402,
-      "EAAFCGPDFAA": "NewMosnterCard_OriginCard",
+      "ID": 3402,
+      "Name": "NewMosnterCard_OriginCard",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1717,8 +1717,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3500,
-      "EAAFCGPDFAA": "Training_Reward",
+      "ID": 3500,
+      "Name": "Training_Reward",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1727,8 +1727,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3600,
-      "EAAFCGPDFAA": "ShoppingMall_Menu",
+      "ID": 3600,
+      "Name": "ShoppingMall_Menu",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1741,8 +1741,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3601,
-      "EAAFCGPDFAA": "ShoppingMall_Menu_Click",
+      "ID": 3601,
+      "Name": "ShoppingMall_Menu_Click",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -1751,8 +1751,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3602,
-      "EAAFCGPDFAA": "ShoppingMall_tabGroup",
+      "ID": 3602,
+      "Name": "ShoppingMall_tabGroup",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1764,8 +1764,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3603,
-      "EAAFCGPDFAA": "ShoppingMall_tab",
+      "ID": 3603,
+      "Name": "ShoppingMall_tab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1776,8 +1776,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3604,
-      "EAAFCGPDFAA": "ShoppingMall_shelft",
+      "ID": 3604,
+      "Name": "ShoppingMall_shelft",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1786,8 +1786,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3605,
-      "EAAFCGPDFAA": "ShoppingMall_recommend",
+      "ID": 3605,
+      "Name": "ShoppingMall_recommend",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -1796,8 +1796,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3606,
-      "EAAFCGPDFAA": "ShoppingMall_notify",
+      "ID": 3606,
+      "Name": "ShoppingMall_notify",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1806,8 +1806,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3700,
-      "EAAFCGPDFAA": "AchievementRoot",
+      "ID": 3700,
+      "Name": "AchievementRoot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1818,8 +1818,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3701,
-      "EAAFCGPDFAA": "AchievementFirstTab",
+      "ID": 3701,
+      "Name": "AchievementFirstTab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1828,8 +1828,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3702,
-      "EAAFCGPDFAA": "AchievementSecondTab",
+      "ID": 3702,
+      "Name": "AchievementSecondTab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1838,8 +1838,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3703,
-      "EAAFCGPDFAA": "AchievementItem",
+      "ID": 3703,
+      "Name": "AchievementItem",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1848,8 +1848,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3800,
-      "EAAFCGPDFAA": "HandBook",
+      "ID": 3800,
+      "Name": "HandBook",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1862,8 +1862,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3801,
-      "EAAFCGPDFAA": "HandBook_Tab",
+      "ID": 3801,
+      "Name": "HandBook_Tab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -1872,8 +1872,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3802,
-      "EAAFCGPDFAA": "HandBook_SubTab",
+      "ID": 3802,
+      "Name": "HandBook_SubTab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -1882,8 +1882,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3803,
-      "EAAFCGPDFAA": "HandBook_TopTab",
+      "ID": 3803,
+      "Name": "HandBook_TopTab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1895,8 +1895,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3900,
-      "EAAFCGPDFAA": "FriendSystem",
+      "ID": 3900,
+      "Name": "FriendSystem",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1908,8 +1908,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3901,
-      "EAAFCGPDFAA": "Friend_PersonalInfo",
+      "ID": 3901,
+      "Name": "Friend_PersonalInfo",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1920,8 +1920,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3902,
-      "EAAFCGPDFAA": "Friend_FriendInfo",
+      "ID": 3902,
+      "Name": "Friend_FriendInfo",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1932,8 +1932,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3903,
-      "EAAFCGPDFAA": "Friend_AddFriend",
+      "ID": 3903,
+      "Name": "Friend_AddFriend",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1942,8 +1942,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3904,
-      "EAAFCGPDFAA": "Friend_RecentPlayer",
+      "ID": 3904,
+      "Name": "Friend_RecentPlayer",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1952,8 +1952,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3905,
-      "EAAFCGPDFAA": "Friend_PersonalInfoEditBtn",
+      "ID": 3905,
+      "Name": "Friend_PersonalInfoEditBtn",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1965,8 +1965,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3906,
-      "EAAFCGPDFAA": "Friend_PersonalInfoEditItem",
+      "ID": 3906,
+      "Name": "Friend_PersonalInfoEditItem",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1975,8 +1975,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3907,
-      "EAAFCGPDFAA": "Friend_BusinessCard",
+      "ID": 3907,
+      "Name": "Friend_BusinessCard",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1985,8 +1985,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3908,
-      "EAAFCGPDFAA": "Friend_NewChatMsg",
+      "ID": 3908,
+      "Name": "Friend_NewChatMsg",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -1995,8 +1995,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3909,
-      "EAAFCGPDFAA": "Friend_NewHeadPortrait",
+      "ID": 3909,
+      "Name": "Friend_NewHeadPortrait",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2007,8 +2007,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3910,
-      "EAAFCGPDFAA": "FriendSystem_FriendTab",
+      "ID": 3910,
+      "Name": "FriendSystem_FriendTab",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2022,8 +2022,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 3911,
-      "EAAFCGPDFAA": "FriendSystem_RopeMakerTab",
+      "ID": 3911,
+      "Name": "FriendSystem_RopeMakerTab",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2034,8 +2034,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4000,
-      "EAAFCGPDFAA": "NyakichiRoot",
+      "ID": 4000,
+      "Name": "NyakichiRoot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2046,8 +2046,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4001,
-      "EAAFCGPDFAA": "NyakichiRegion",
+      "ID": 4001,
+      "Name": "NyakichiRegion",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2058,8 +2058,8 @@
       "JJHHPIFEHLN": 1
     },
     {
-      "NGPCCDGBLLK": 4002,
-      "EAAFCGPDFAA": "NyakichiGroup",
+      "ID": 4002,
+      "Name": "NyakichiGroup",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2068,8 +2068,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4003,
-      "EAAFCGPDFAA": "NyakichiQuestItem",
+      "ID": 4003,
+      "Name": "NyakichiQuestItem",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2078,8 +2078,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4004,
-      "EAAFCGPDFAA": "NyakichiRegionNew",
+      "ID": 4004,
+      "Name": "NyakichiRegionNew",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2088,8 +2088,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4100,
-      "EAAFCGPDFAA": "HollowCollect_RewardEntry",
+      "ID": 4100,
+      "Name": "HollowCollect_RewardEntry",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2101,8 +2101,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4101,
-      "EAAFCGPDFAA": "HollowCollect_RewardEntry_Single",
+      "ID": 4101,
+      "Name": "HollowCollect_RewardEntry_Single",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2111,8 +2111,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4102,
-      "EAAFCGPDFAA": "HollowCollect_RewardEntry_Accum",
+      "ID": 4102,
+      "Name": "HollowCollect_RewardEntry_Accum",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2121,8 +2121,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4103,
-      "EAAFCGPDFAA": "HollowCollect_ClueGetQuest",
+      "ID": 4103,
+      "Name": "HollowCollect_ClueGetQuest",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2131,8 +2131,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4200,
-      "EAAFCGPDFAA": "VideoShop_Store_SuitIcon_Click",
+      "ID": 4200,
+      "Name": "VideoShop_Store_SuitIcon_Click",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -2141,8 +2141,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4300,
-      "EAAFCGPDFAA": "TrendyStoreWeaponPreview",
+      "ID": 4300,
+      "Name": "TrendyStoreWeaponPreview",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,
@@ -2151,8 +2151,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4400,
-      "EAAFCGPDFAA": "DailyChallenge_VIP",
+      "ID": 4400,
+      "Name": "DailyChallenge_VIP",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2161,8 +2161,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4401,
-      "EAAFCGPDFAA": "DailyChallenge_Level_Root",
+      "ID": 4401,
+      "Name": "DailyChallenge_Level_Root",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2173,8 +2173,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4402,
-      "EAAFCGPDFAA": "DailyChallenge_Level",
+      "ID": 4402,
+      "Name": "DailyChallenge_Level",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2183,8 +2183,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4403,
-      "EAAFCGPDFAA": "DailyChallenge_MonsterCard",
+      "ID": 4403,
+      "Name": "DailyChallenge_MonsterCard",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2193,8 +2193,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4404,
-      "EAAFCGPDFAA": "DailyChallenge_Suit",
+      "ID": 4404,
+      "Name": "DailyChallenge_Suit",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2203,8 +2203,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4405,
-      "EAAFCGPDFAA": "DailyChallenge_Entrence",
+      "ID": 4405,
+      "Name": "DailyChallenge_Entrence",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2213,8 +2213,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4406,
-      "EAAFCGPDFAA": "DailyChallenge_Entrence_Root",
+      "ID": 4406,
+      "Name": "DailyChallenge_Entrence_Root",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2225,8 +2225,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4410,
-      "EAAFCGPDFAA": "LittleBossDifficute",
+      "ID": 4410,
+      "Name": "LittleBossDifficute",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2235,8 +2235,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4411,
-      "EAAFCGPDFAA": "BossDifficute",
+      "ID": 4411,
+      "Name": "BossDifficute",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2245,8 +2245,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4412,
-      "EAAFCGPDFAA": "DoubleEleDifficute",
+      "ID": 4412,
+      "Name": "DoubleEleDifficute",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2255,8 +2255,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4413,
-      "EAAFCGPDFAA": "LittleBossDifficuteRoot",
+      "ID": 4413,
+      "Name": "LittleBossDifficuteRoot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2267,8 +2267,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4414,
-      "EAAFCGPDFAA": "BossDifficuteRoot",
+      "ID": 4414,
+      "Name": "BossDifficuteRoot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2279,8 +2279,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4415,
-      "EAAFCGPDFAA": "DoubleEleDifficuteRoot",
+      "ID": 4415,
+      "Name": "DoubleEleDifficuteRoot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2291,8 +2291,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4416,
-      "EAAFCGPDFAA": "LittleBossUnlock",
+      "ID": 4416,
+      "Name": "LittleBossUnlock",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2301,8 +2301,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4417,
-      "EAAFCGPDFAA": "LittleBossUnlockRoot",
+      "ID": 4417,
+      "Name": "LittleBossUnlockRoot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2313,8 +2313,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4418,
-      "EAAFCGPDFAA": "BossUnlock",
+      "ID": 4418,
+      "Name": "BossUnlock",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2323,8 +2323,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4419,
-      "EAAFCGPDFAA": "BossUnlockRoot",
+      "ID": 4419,
+      "Name": "BossUnlockRoot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2335,8 +2335,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4500,
-      "EAAFCGPDFAA": "BossChallengeReward",
+      "ID": 4500,
+      "Name": "BossChallengeReward",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2345,8 +2345,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4600,
-      "EAAFCGPDFAA": "ActivityCameraRoot",
+      "ID": 4600,
+      "Name": "ActivityCameraRoot",
       "JJHBNDNOBIE": 0,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2357,8 +2357,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4601,
-      "EAAFCGPDFAA": "ActivityCameraTab",
+      "ID": 4601,
+      "Name": "ActivityCameraTab",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 0,
       "FGNFEOONINO": 0,
@@ -2369,8 +2369,8 @@
       "JJHHPIFEHLN": 0
     },
     {
-      "NGPCCDGBLLK": 4602,
-      "EAAFCGPDFAA": "ActivityCameraQuestUnlock",
+      "ID": 4602,
+      "Name": "ActivityCameraQuestUnlock",
       "JJHBNDNOBIE": 1,
       "EAKKDLFKEOH": 1,
       "FGNFEOONINO": 0,

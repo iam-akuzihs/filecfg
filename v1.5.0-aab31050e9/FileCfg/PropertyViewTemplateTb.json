@@ -1,7 +1,7 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1,
+      "ID": 1,
       "ACOKOKIIBKD": "HpMax",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png",
       "ELHGBPOKHNE": "",
@@ -16,7 +16,7 @@
       "CLDMLHCICOI": 1
     },
     {
-      "PDJOCPDOOAA": 2,
+      "ID": 2,
       "ACOKOKIIBKD": "Atk",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png",
       "ELHGBPOKHNE": "",
@@ -31,7 +31,7 @@
       "CLDMLHCICOI": 2
     },
     {
-      "PDJOCPDOOAA": 3,
+      "ID": 3,
       "ACOKOKIIBKD": "Def",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconDef.png",
       "ELHGBPOKHNE": "",
@@ -46,7 +46,7 @@
       "CLDMLHCICOI": 3
     },
     {
-      "PDJOCPDOOAA": 4,
+      "ID": 4,
       "ACOKOKIIBKD": "BreakStun",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconBreakStun.png",
       "ELHGBPOKHNE": "PropertyView_BreakStun",
@@ -61,7 +61,7 @@
       "CLDMLHCICOI": 4
     },
     {
-      "PDJOCPDOOAA": 5,
+      "ID": 5,
       "ACOKOKIIBKD": "Crit",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png",
       "ELHGBPOKHNE": "",
@@ -76,7 +76,7 @@
       "CLDMLHCICOI": 5
     },
     {
-      "PDJOCPDOOAA": 6,
+      "ID": 6,
       "ACOKOKIIBKD": "CritDmg",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png",
       "ELHGBPOKHNE": "",
@@ -91,7 +91,7 @@
       "CLDMLHCICOI": 6
     },
     {
-      "PDJOCPDOOAA": 7,
+      "ID": 7,
       "ACOKOKIIBKD": "ElementAbnormalPower",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementAbnormalPower.png",
       "ELHGBPOKHNE": "PropertyView_ElementAbnormalPower",
@@ -106,7 +106,7 @@
       "CLDMLHCICOI": 7
     },
     {
-      "PDJOCPDOOAA": 8,
+      "ID": 8,
       "ACOKOKIIBKD": "ElementMystery",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementMystery.png",
       "ELHGBPOKHNE": "PropertyView_ElementMystery",
@@ -121,7 +121,7 @@
       "CLDMLHCICOI": 8
     },
     {
-      "PDJOCPDOOAA": 9,
+      "ID": 9,
       "ACOKOKIIBKD": "PenRatio",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconPenRatio.png",
       "ELHGBPOKHNE": "PropertyView_PenRatio",
@@ -136,7 +136,7 @@
       "CLDMLHCICOI": 9
     },
     {
-      "PDJOCPDOOAA": 10,
+      "ID": 10,
       "ACOKOKIIBKD": "PenDelta",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconPenValue.png",
       "ELHGBPOKHNE": "PropertyView_PenDelta",
@@ -151,7 +151,7 @@
       "CLDMLHCICOI": 0
     },
     {
-      "PDJOCPDOOAA": 11,
+      "ID": 11,
       "ACOKOKIIBKD": "SpRecover",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png",
       "ELHGBPOKHNE": "PropertyView_SpRecover",
@@ -166,7 +166,7 @@
       "CLDMLHCICOI": 11
     },
     {
-      "PDJOCPDOOAA": 12,
+      "ID": 12,
       "ACOKOKIIBKD": "SpGetRatio",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpGetRatio.png",
       "ELHGBPOKHNE": "PropertyView_SpGetRatio",
@@ -181,7 +181,7 @@
       "CLDMLHCICOI": 0
     },
     {
-      "PDJOCPDOOAA": 13,
+      "ID": 13,
       "ACOKOKIIBKD": "SpMax",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpMax.png",
       "ELHGBPOKHNE": "",
@@ -196,7 +196,7 @@
       "CLDMLHCICOI": 0
     },
     {
-      "PDJOCPDOOAA": 14,
+      "ID": 14,
       "ACOKOKIIBKD": "AddedDamageRatio_Physics",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
       "ELHGBPOKHNE": "",
@@ -211,7 +211,7 @@
       "CLDMLHCICOI": 0
     },
     {
-      "PDJOCPDOOAA": 15,
+      "ID": 15,
       "ACOKOKIIBKD": "AddedDamageRatio_Fire",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png",
       "ELHGBPOKHNE": "",
@@ -226,7 +226,7 @@
       "CLDMLHCICOI": 0
     },
     {
-      "PDJOCPDOOAA": 16,
+      "ID": 16,
       "ACOKOKIIBKD": "AddedDamageRatio_Ice",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconIce.png",
       "ELHGBPOKHNE": "",
@@ -241,7 +241,7 @@
       "CLDMLHCICOI": 0
     },
     {
-      "PDJOCPDOOAA": 17,
+      "ID": 17,
       "ACOKOKIIBKD": "AddedDamageRatio_Elec",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png",
       "ELHGBPOKHNE": "",
@@ -256,7 +256,7 @@
       "CLDMLHCICOI": 0
     },
     {
-      "PDJOCPDOOAA": 18,
+      "ID": 18,
       "ACOKOKIIBKD": "AddedDamageRatio_Ether",
       "EKLCBJANDCL": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png",
       "ELHGBPOKHNE": "",

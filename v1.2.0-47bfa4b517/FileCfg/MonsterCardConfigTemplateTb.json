@@ -1,7 +1,7 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 10000,
+      "ID": 10000,
       "NAIOIGJBMHH": "OfficialName_Monster_ClaymoreGrey",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -56,7 +56,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10000"
     },
     {
-      "DKDDFEIAMIF": 10001,
+      "ID": 10001,
       "NAIOIGJBMHH": "OfficialName_Monster_CyclopsGrey",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -111,7 +111,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10001"
     },
     {
-      "DKDDFEIAMIF": 10002,
+      "ID": 10002,
       "NAIOIGJBMHH": "OfficialName_Monster_Satyrus",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -166,7 +166,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10002"
     },
     {
-      "DKDDFEIAMIF": 10003,
+      "ID": 10003,
       "NAIOIGJBMHH": "OfficialName_Monster_GolemGrey",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -221,7 +221,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10003"
     },
     {
-      "DKDDFEIAMIF": 10004,
+      "ID": 10004,
       "NAIOIGJBMHH": "OfficialName_Monster_SpiderGrey",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -277,7 +277,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10004"
     },
     {
-      "DKDDFEIAMIF": 10005,
+      "ID": 10005,
       "NAIOIGJBMHH": "OfficialName_Monster_StrikeJaegerCam",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -333,7 +333,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10005"
     },
     {
-      "DKDDFEIAMIF": 10006,
+      "ID": 10006,
       "NAIOIGJBMHH": "OfficialName_Monster_LightJaegerCam",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -389,7 +389,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10006"
     },
     {
-      "DKDDFEIAMIF": 10007,
+      "ID": 10007,
       "NAIOIGJBMHH": "OfficialName_Monster_MeleeJaegerCam",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -445,7 +445,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10007"
     },
     {
-      "DKDDFEIAMIF": 10008,
+      "ID": 10008,
       "NAIOIGJBMHH": "OfficialName_Monster_HeavyJaegerCam",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -501,7 +501,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10008"
     },
     {
-      "DKDDFEIAMIF": 10010,
+      "ID": 10010,
       "NAIOIGJBMHH": "OfficialName_Monster_HeavySoldier",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -557,7 +557,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10010"
     },
     {
-      "DKDDFEIAMIF": 10011,
+      "ID": 10011,
       "NAIOIGJBMHH": "OfficialName_Monster_MeleeSoldier",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -613,7 +613,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10011"
     },
     {
-      "DKDDFEIAMIF": 10012,
+      "ID": 10012,
       "NAIOIGJBMHH": "OfficialName_Monster_MeleeSoldier",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -669,7 +669,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10012"
     },
     {
-      "DKDDFEIAMIF": 10013,
+      "ID": 10013,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -725,7 +725,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10013"
     },
     {
-      "DKDDFEIAMIF": 10014,
+      "ID": 10014,
       "NAIOIGJBMHH": "OfficialName_Monster_Mandrake",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -781,7 +781,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10014"
     },
     {
-      "DKDDFEIAMIF": 10015,
+      "ID": 10015,
       "NAIOIGJBMHH": "BriefName_Monster_ThugRaiderVest",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -837,7 +837,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10015"
     },
     {
-      "DKDDFEIAMIF": 10016,
+      "ID": 10016,
       "NAIOIGJBMHH": "BriefName_Monster_ThugPyromaniacVest",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -893,7 +893,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10016"
     },
     {
-      "DKDDFEIAMIF": 10018,
+      "ID": 10018,
       "NAIOIGJBMHH": "BriefName_Monster_ThugPoacherVest",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -949,7 +949,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10018"
     },
     {
-      "DKDDFEIAMIF": 10019,
+      "ID": 10019,
       "NAIOIGJBMHH": "BriefName_Monster_ThugAssaulterVest",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -1005,7 +1005,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10019"
     },
     {
-      "DKDDFEIAMIF": 10020,
+      "ID": 10020,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -1059,7 +1059,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10020"
     },
     {
-      "DKDDFEIAMIF": 10021,
+      "ID": 10021,
       "NAIOIGJBMHH": "OfficialName_Monster_UVARaven",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -1115,7 +1115,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10021"
     },
     {
-      "DKDDFEIAMIF": 10023,
+      "ID": 10023,
       "NAIOIGJBMHH": "OfficialName_Monster_GoldenBomb",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -1171,7 +1171,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10023"
     },
     {
-      "DKDDFEIAMIF": 10025,
+      "ID": 10025,
       "NAIOIGJBMHH": "OfficialName_Monster_Ahriman",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -1227,7 +1227,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10025"
     },
     {
-      "DKDDFEIAMIF": 10026,
+      "ID": 10026,
       "NAIOIGJBMHH": "OfficialName_Monster_Specter",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -1283,7 +1283,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10026"
     },
     {
-      "DKDDFEIAMIF": 10027,
+      "ID": 10027,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -1337,7 +1337,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10027"
     },
     {
-      "DKDDFEIAMIF": 10028,
+      "ID": 10028,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -1391,7 +1391,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10028"
     },
     {
-      "DKDDFEIAMIF": 10029,
+      "ID": 10029,
       "NAIOIGJBMHH": "OfficialName_Monster_BeholderEngine",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -1445,7 +1445,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10029"
     },
     {
-      "DKDDFEIAMIF": 10030,
+      "ID": 10030,
       "NAIOIGJBMHH": "OfficialName_Monster_Fossor",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -1501,7 +1501,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10030"
     },
     {
-      "DKDDFEIAMIF": 10031,
+      "ID": 10031,
       "NAIOIGJBMHH": "OfficialName_Monster_Sordidus",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -1557,7 +1557,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_10031"
     },
     {
-      "DKDDFEIAMIF": 20000,
+      "ID": 20000,
       "NAIOIGJBMHH": "OfficialName_Monster_GiantGrey",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -1614,7 +1614,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20000"
     },
     {
-      "DKDDFEIAMIF": 20001,
+      "ID": 20001,
       "NAIOIGJBMHH": "OfficialName_Monster_HatiGrey",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -1672,7 +1672,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20001"
     },
     {
-      "DKDDFEIAMIF": 20002,
+      "ID": 20002,
       "NAIOIGJBMHH": "OfficialName_Monster_GoblinGrey",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -1728,7 +1728,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20002"
     },
     {
-      "DKDDFEIAMIF": 20003,
+      "ID": 20003,
       "NAIOIGJBMHH": "OfficialName_Monster_HatiArmoredGrey",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -1785,7 +1785,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20003"
     },
     {
-      "DKDDFEIAMIF": 20004,
+      "ID": 20004,
       "NAIOIGJBMHH": "OfficialName_Monster_GoblinMetro",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -1841,7 +1841,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20004"
     },
     {
-      "DKDDFEIAMIF": 20005,
+      "ID": 20005,
       "NAIOIGJBMHH": "OfficialName_Monster_ArlauneGrey",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -1897,7 +1897,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20005"
     },
     {
-      "DKDDFEIAMIF": 20006,
+      "ID": 20006,
       "NAIOIGJBMHH": "OfficialName_20006",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -1951,7 +1951,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20006"
     },
     {
-      "DKDDFEIAMIF": 20007,
+      "ID": 20007,
       "NAIOIGJBMHH": "BriefName_Monster_HeavyStrikerCam",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2008,7 +2008,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20007"
     },
     {
-      "DKDDFEIAMIF": 20008,
+      "ID": 20008,
       "NAIOIGJBMHH": "BriefName_Monster_LightfootRoverCam",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2064,7 +2064,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20008"
     },
     {
-      "DKDDFEIAMIF": 20009,
+      "ID": 20009,
       "NAIOIGJBMHH": "OfficialName_Monster_HeavyFirePowerCam",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2120,7 +2120,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20009"
     },
     {
-      "DKDDFEIAMIF": 20010,
+      "ID": 20010,
       "NAIOIGJBMHH": "OfficialName_Monster_TarasqueMixer",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2174,7 +2174,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20010"
     },
     {
-      "DKDDFEIAMIF": 20012,
+      "ID": 20012,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -2228,7 +2228,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20012"
     },
     {
-      "DKDDFEIAMIF": 20013,
+      "ID": 20013,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -2282,7 +2282,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20013"
     },
     {
-      "DKDDFEIAMIF": 20014,
+      "ID": 20014,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -2336,7 +2336,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20014"
     },
     {
-      "DKDDFEIAMIF": 20015,
+      "ID": 20015,
       "NAIOIGJBMHH": "BriefName_Monster_ThugBulkyAbuserVest",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2392,7 +2392,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20015"
     },
     {
-      "DKDDFEIAMIF": 20017,
+      "ID": 20017,
       "NAIOIGJBMHH": "BriefName_Monster_ThugBulkyEnforcerVest",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2449,7 +2449,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20017"
     },
     {
-      "DKDDFEIAMIF": 20020,
+      "ID": 20020,
       "NAIOIGJBMHH": "BriefName_Monster_RagingGuy",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2503,7 +2503,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20020"
     },
     {
-      "DKDDFEIAMIF": 20022,
+      "ID": 20022,
       "NAIOIGJBMHH": "OfficialName_Monster_NinevehBee",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -2557,7 +2557,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20022"
     },
     {
-      "DKDDFEIAMIF": 20023,
+      "ID": 20023,
       "NAIOIGJBMHH": "OfficialName_Monster_Mors",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2613,7 +2613,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20023"
     },
     {
-      "DKDDFEIAMIF": 20024,
+      "ID": 20024,
       "NAIOIGJBMHH": "OfficialName_Monster_Pulchra",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2669,7 +2669,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20024"
     },
     {
-      "DKDDFEIAMIF": 20025,
+      "ID": 20025,
       "NAIOIGJBMHH": "OfficialName_Monster_Bellum",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2725,7 +2725,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_20025"
     },
     {
-      "DKDDFEIAMIF": 30000,
+      "ID": 30000,
       "NAIOIGJBMHH": "OfficialName_Monster_DurahanGrey",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2784,7 +2784,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30000"
     },
     {
-      "DKDDFEIAMIF": 30001,
+      "ID": 30001,
       "NAIOIGJBMHH": "OfficialName_Monster_DeathXIIIGrey",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2842,7 +2842,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30001"
     },
     {
-      "DKDDFEIAMIF": 30002,
+      "ID": 30002,
       "NAIOIGJBMHH": "BriefName_Monster_GuardianCam",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -2899,7 +2899,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30002"
     },
     {
-      "DKDDFEIAMIF": 30004,
+      "ID": 30004,
       "NAIOIGJBMHH": "OfficialName_Monster_BoringMachine",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -2956,7 +2956,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30004"
     },
     {
-      "DKDDFEIAMIF": 30005,
+      "ID": 30005,
       "NAIOIGJBMHH": "OfficialName_Monster_MaterialHandler",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -3013,7 +3013,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30005"
     },
     {
-      "DKDDFEIAMIF": 30006,
+      "ID": 30006,
       "NAIOIGJBMHH": "OfficialName_Monster_PileDriver",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -3070,7 +3070,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30006"
     },
     {
-      "DKDDFEIAMIF": 30007,
+      "ID": 30007,
       "NAIOIGJBMHH": "OfficialName_Monster_CottusGrey",
       "KFMAFHDOFBH": 4,
       "OPBHJKPLIPE": true,
@@ -3126,7 +3126,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30007"
     },
     {
-      "DKDDFEIAMIF": 30008,
+      "ID": 30008,
       "NAIOIGJBMHH": "BriefName_Monster_MetalGorillaCam",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -3182,7 +3182,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30008"
     },
     {
-      "DKDDFEIAMIF": 30009,
+      "ID": 30009,
       "NAIOIGJBMHH": "OfficialName_Monster_ComplexCorrupted",
       "KFMAFHDOFBH": 4,
       "OPBHJKPLIPE": true,
@@ -3236,7 +3236,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30009"
     },
     {
-      "DKDDFEIAMIF": 30010,
+      "ID": 30010,
       "NAIOIGJBMHH": "OfficialName_Monster_LampasBlackVeil",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -3290,7 +3290,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30010"
     },
     {
-      "DKDDFEIAMIF": 30011,
+      "ID": 30011,
       "NAIOIGJBMHH": "OfficialName_Monster_LampasGreyVeil",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -3344,7 +3344,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30011"
     },
     {
-      "DKDDFEIAMIF": 30012,
+      "ID": 30012,
       "NAIOIGJBMHH": "OfficialName_Monster_Marionette_Twins",
       "KFMAFHDOFBH": 4,
       "OPBHJKPLIPE": false,
@@ -3401,7 +3401,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30012"
     },
     {
-      "DKDDFEIAMIF": 30017,
+      "ID": 30017,
       "NAIOIGJBMHH": "OfficialName_Monster_Cyrtoidea",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -3455,7 +3455,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30017"
     },
     {
-      "DKDDFEIAMIF": 30018,
+      "ID": 30018,
       "NAIOIGJBMHH": "OfficialName_Monster_Nassellaria",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -3509,7 +3509,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30018"
     },
     {
-      "DKDDFEIAMIF": 30019,
+      "ID": 30019,
       "NAIOIGJBMHH": "BriefName_Monster_DubiousHero",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -3563,7 +3563,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30019"
     },
     {
-      "DKDDFEIAMIF": 30020,
+      "ID": 30020,
       "NAIOIGJBMHH": "BriefName_Monster_JaneDoeSlime",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -3617,7 +3617,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30020"
     },
     {
-      "DKDDFEIAMIF": 30021,
+      "ID": 30021,
       "NAIOIGJBMHH": "OfficialName_Monster_TyrantPompey",
       "KFMAFHDOFBH": 4,
       "OPBHJKPLIPE": true,
@@ -3671,7 +3671,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30021"
     },
     {
-      "DKDDFEIAMIF": 30022,
+      "ID": 30022,
       "NAIOIGJBMHH": "OfficialName_Monster_JaneDoe",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -3727,7 +3727,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_30022"
     },
     {
-      "DKDDFEIAMIF": 35001,
+      "ID": 35001,
       "NAIOIGJBMHH": "BriefName_Monster_Nineveh",
       "KFMAFHDOFBH": 4,
       "OPBHJKPLIPE": true,
@@ -3781,7 +3781,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_35001"
     },
     {
-      "DKDDFEIAMIF": 100001,
+      "ID": 100001,
       "NAIOIGJBMHH": "OfficialName_Monster_ClaymoreRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -3834,7 +3834,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100001"
     },
     {
-      "DKDDFEIAMIF": 100002,
+      "ID": 100002,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -3887,7 +3887,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100002"
     },
     {
-      "DKDDFEIAMIF": 100003,
+      "ID": 100003,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -3940,7 +3940,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100003"
     },
     {
-      "DKDDFEIAMIF": 100011,
+      "ID": 100011,
       "NAIOIGJBMHH": "OfficialName_Monster_CyclopsRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -3993,7 +3993,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100011"
     },
     {
-      "DKDDFEIAMIF": 100012,
+      "ID": 100012,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4046,7 +4046,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100012"
     },
     {
-      "DKDDFEIAMIF": 100013,
+      "ID": 100013,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4099,7 +4099,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100013"
     },
     {
-      "DKDDFEIAMIF": 100021,
+      "ID": 100021,
       "NAIOIGJBMHH": "OfficialName_Monster_SatyrusRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -4152,7 +4152,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100021"
     },
     {
-      "DKDDFEIAMIF": 100031,
+      "ID": 100031,
       "NAIOIGJBMHH": "OfficialName_Monster_GolemRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -4205,7 +4205,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100031"
     },
     {
-      "DKDDFEIAMIF": 100032,
+      "ID": 100032,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4258,7 +4258,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100032"
     },
     {
-      "DKDDFEIAMIF": 100033,
+      "ID": 100033,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4311,7 +4311,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100033"
     },
     {
-      "DKDDFEIAMIF": 100041,
+      "ID": 100041,
       "NAIOIGJBMHH": "OfficialName_Monster_SpiderRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -4365,7 +4365,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100041"
     },
     {
-      "DKDDFEIAMIF": 100042,
+      "ID": 100042,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4419,7 +4419,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100042"
     },
     {
-      "DKDDFEIAMIF": 100043,
+      "ID": 100043,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4473,7 +4473,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100043"
     },
     {
-      "DKDDFEIAMIF": 100051,
+      "ID": 100051,
       "NAIOIGJBMHH": "OfficialName_Monster_StrikeJaeger",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -4527,7 +4527,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100051"
     },
     {
-      "DKDDFEIAMIF": 100061,
+      "ID": 100061,
       "NAIOIGJBMHH": "OfficialName_Monster_LightJaeger",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -4581,7 +4581,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100061"
     },
     {
-      "DKDDFEIAMIF": 100071,
+      "ID": 100071,
       "NAIOIGJBMHH": "OfficialName_Monster_MeleeJaeger",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -4635,7 +4635,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100071"
     },
     {
-      "DKDDFEIAMIF": 100081,
+      "ID": 100081,
       "NAIOIGJBMHH": "OfficialName_Monster_HeavyJaeger",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -4689,7 +4689,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100081"
     },
     {
-      "DKDDFEIAMIF": 100101,
+      "ID": 100101,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4743,7 +4743,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100101"
     },
     {
-      "DKDDFEIAMIF": 100111,
+      "ID": 100111,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4797,7 +4797,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100111"
     },
     {
-      "DKDDFEIAMIF": 100121,
+      "ID": 100121,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4851,7 +4851,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100121"
     },
     {
-      "DKDDFEIAMIF": 100131,
+      "ID": 100131,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -4905,7 +4905,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100131"
     },
     {
-      "DKDDFEIAMIF": 100141,
+      "ID": 100141,
       "NAIOIGJBMHH": "OfficialName_Monster_MandrakeRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -4959,7 +4959,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100141"
     },
     {
-      "DKDDFEIAMIF": 100151,
+      "ID": 100151,
       "NAIOIGJBMHH": "BriefName_Monster_ThugRaider",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5013,7 +5013,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100151"
     },
     {
-      "DKDDFEIAMIF": 100161,
+      "ID": 100161,
       "NAIOIGJBMHH": "BriefName_Monster_ThugPyromaniac",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5067,7 +5067,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100161"
     },
     {
-      "DKDDFEIAMIF": 100181,
+      "ID": 100181,
       "NAIOIGJBMHH": "BriefName_Monster_ThugPoacher",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5121,7 +5121,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100181"
     },
     {
-      "DKDDFEIAMIF": 100191,
+      "ID": 100191,
       "NAIOIGJBMHH": "BriefName_Monster_ThugAssaulter",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5175,7 +5175,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100191"
     },
     {
-      "DKDDFEIAMIF": 100211,
+      "ID": 100211,
       "NAIOIGJBMHH": "OfficialName_Monster_UVARavenPro",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -5229,7 +5229,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100211"
     },
     {
-      "DKDDFEIAMIF": 100231,
+      "ID": 100231,
       "NAIOIGJBMHH": "OfficialName_Monster_PlatinumBangboo",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5283,7 +5283,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100231"
     },
     {
-      "DKDDFEIAMIF": 100251,
+      "ID": 100251,
       "NAIOIGJBMHH": "OfficialName_Monster_AhrimanRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5337,7 +5337,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100251"
     },
     {
-      "DKDDFEIAMIF": 100261,
+      "ID": 100261,
       "NAIOIGJBMHH": "OfficialName_Monster_SpecterRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5391,7 +5391,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100261"
     },
     {
-      "DKDDFEIAMIF": 100271,
+      "ID": 100271,
       "NAIOIGJBMHH": "BriefName_Monster_ViciousStriker",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5445,7 +5445,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100271"
     },
     {
-      "DKDDFEIAMIF": 100281,
+      "ID": 100281,
       "NAIOIGJBMHH": "BriefName_Monster_GreedyGunner",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5499,7 +5499,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100281"
     },
     {
-      "DKDDFEIAMIF": 100291,
+      "ID": 100291,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": false,
@@ -5553,7 +5553,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100291"
     },
     {
-      "DKDDFEIAMIF": 100301,
+      "ID": 100301,
       "NAIOIGJBMHH": "OfficialName_Monster_FossorRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5607,7 +5607,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100301"
     },
     {
-      "DKDDFEIAMIF": 100311,
+      "ID": 100311,
       "NAIOIGJBMHH": "OfficialName_Monster_SordidusRed",
       "KFMAFHDOFBH": 1,
       "OPBHJKPLIPE": true,
@@ -5661,7 +5661,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_100311"
     },
     {
-      "DKDDFEIAMIF": 200001,
+      "ID": 200001,
       "NAIOIGJBMHH": "OfficialName_Monster_GiantRed",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -5715,7 +5715,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200001"
     },
     {
-      "DKDDFEIAMIF": 200002,
+      "ID": 200002,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -5769,7 +5769,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200002"
     },
     {
-      "DKDDFEIAMIF": 200003,
+      "ID": 200003,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -5823,7 +5823,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200003"
     },
     {
-      "DKDDFEIAMIF": 200004,
+      "ID": 200004,
       "NAIOIGJBMHH": "OfficialName_Monster_GiantEnergy",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -5877,7 +5877,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200004"
     },
     {
-      "DKDDFEIAMIF": 200011,
+      "ID": 200011,
       "NAIOIGJBMHH": "OfficialName_Monster_HatiRed",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -5931,7 +5931,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200011"
     },
     {
-      "DKDDFEIAMIF": 200012,
+      "ID": 200012,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -5985,7 +5985,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200012"
     },
     {
-      "DKDDFEIAMIF": 200013,
+      "ID": 200013,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -6039,7 +6039,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200013"
     },
     {
-      "DKDDFEIAMIF": 200014,
+      "ID": 200014,
       "NAIOIGJBMHH": "OfficialName_Monster_HatiBoss",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -6093,7 +6093,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200014"
     },
     {
-      "DKDDFEIAMIF": 200015,
+      "ID": 200015,
       "NAIOIGJBMHH": "OfficialName_Monster_HatiRedBoss",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -6147,7 +6147,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200015"
     },
     {
-      "DKDDFEIAMIF": 200021,
+      "ID": 200021,
       "NAIOIGJBMHH": "OfficialName_Monster_GoblinRed",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -6201,7 +6201,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200021"
     },
     {
-      "DKDDFEIAMIF": 200022,
+      "ID": 200022,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -6255,7 +6255,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200022"
     },
     {
-      "DKDDFEIAMIF": 200023,
+      "ID": 200023,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -6309,7 +6309,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200023"
     },
     {
-      "DKDDFEIAMIF": 200031,
+      "ID": 200031,
       "NAIOIGJBMHH": "OfficialName_Monster_HatiArmoredRed",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -6363,7 +6363,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200031"
     },
     {
-      "DKDDFEIAMIF": 200032,
+      "ID": 200032,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -6417,7 +6417,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200032"
     },
     {
-      "DKDDFEIAMIF": 200033,
+      "ID": 200033,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -6471,7 +6471,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200033"
     },
     {
-      "DKDDFEIAMIF": 200034,
+      "ID": 200034,
       "NAIOIGJBMHH": "OfficialName_Monster_HatiArmoredBoss",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -6525,7 +6525,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200034"
     },
     {
-      "DKDDFEIAMIF": 200041,
+      "ID": 200041,
       "NAIOIGJBMHH": "OfficialName_Monster_GoblinMetroRed",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -6579,7 +6579,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200041"
     },
     {
-      "DKDDFEIAMIF": 200051,
+      "ID": 200051,
       "NAIOIGJBMHH": "OfficialName_Monster_ArlauneRed",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -6633,7 +6633,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200051"
     },
     {
-      "DKDDFEIAMIF": 200052,
+      "ID": 200052,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -6687,7 +6687,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200052"
     },
     {
-      "DKDDFEIAMIF": 200053,
+      "ID": 200053,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -6741,7 +6741,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200053"
     },
     {
-      "DKDDFEIAMIF": 200061,
+      "ID": 200061,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -6795,7 +6795,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200061"
     },
     {
-      "DKDDFEIAMIF": 200071,
+      "ID": 200071,
       "NAIOIGJBMHH": "BriefName_Monster_HeavyStriker",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -6849,7 +6849,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200071"
     },
     {
-      "DKDDFEIAMIF": 200072,
+      "ID": 200072,
       "NAIOIGJBMHH": "BriefName_Monster_HeavyStrikerBossCam",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -6903,7 +6903,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200072"
     },
     {
-      "DKDDFEIAMIF": 200081,
+      "ID": 200081,
       "NAIOIGJBMHH": "BriefName_Monster_LightfootRover",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -6957,7 +6957,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200081"
     },
     {
-      "DKDDFEIAMIF": 200091,
+      "ID": 200091,
       "NAIOIGJBMHH": "OfficialName_Monster_HeavyFirePower",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7011,7 +7011,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200091"
     },
     {
-      "DKDDFEIAMIF": 200101,
+      "ID": 200101,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -7065,7 +7065,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200101"
     },
     {
-      "DKDDFEIAMIF": 200121,
+      "ID": 200121,
       "NAIOIGJBMHH": "BriefName_Monster_FrenziedManiac",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7119,7 +7119,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200121"
     },
     {
-      "DKDDFEIAMIF": 200131,
+      "ID": 200131,
       "NAIOIGJBMHH": "BriefName_Monster_WickedWrath",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7173,7 +7173,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200131"
     },
     {
-      "DKDDFEIAMIF": 200141,
+      "ID": 200141,
       "NAIOIGJBMHH": "BriefName_Monster_RuthlessFiend",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7227,7 +7227,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200141"
     },
     {
-      "DKDDFEIAMIF": 200151,
+      "ID": 200151,
       "NAIOIGJBMHH": "BriefName_Monster_ThugBulkyAbuser",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7281,7 +7281,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200151"
     },
     {
-      "DKDDFEIAMIF": 200171,
+      "ID": 200171,
       "NAIOIGJBMHH": "BriefName_Monster_ThugBulkyEnforcer",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7335,7 +7335,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200171"
     },
     {
-      "DKDDFEIAMIF": 200172,
+      "ID": 200172,
       "NAIOIGJBMHH": "OfficialName_Monster_ThugBulkyEnforcerBoss",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -7389,7 +7389,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200172"
     },
     {
-      "DKDDFEIAMIF": 200231,
+      "ID": 200231,
       "NAIOIGJBMHH": "BriefName_Monster_MorsSlime",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7443,7 +7443,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200231"
     },
     {
-      "DKDDFEIAMIF": 200241,
+      "ID": 200241,
       "NAIOIGJBMHH": "BriefName_Monster_PulchraSlime",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7497,7 +7497,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200241"
     },
     {
-      "DKDDFEIAMIF": 200251,
+      "ID": 200251,
       "NAIOIGJBMHH": "BriefName_Monster_BellumSlime",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7551,7 +7551,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_200251"
     },
     {
-      "DKDDFEIAMIF": 300001,
+      "ID": 300001,
       "NAIOIGJBMHH": "OfficialName_Monster_DurahanRed",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7605,7 +7605,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300001"
     },
     {
-      "DKDDFEIAMIF": 300002,
+      "ID": 300002,
       "NAIOIGJBMHH": "OfficialName_Monster_DurahanBlackBoss",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7659,7 +7659,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300002"
     },
     {
-      "DKDDFEIAMIF": 300003,
+      "ID": 300003,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": false,
@@ -7713,7 +7713,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300003"
     },
     {
-      "DKDDFEIAMIF": 300004,
+      "ID": 300004,
       "NAIOIGJBMHH": "OfficialName_Monster_DurahanEnergy",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7767,7 +7767,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300004"
     },
     {
-      "DKDDFEIAMIF": 300005,
+      "ID": 300005,
       "NAIOIGJBMHH": "OfficialName_Monster_DurahanBoss",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -7821,7 +7821,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300005"
     },
     {
-      "DKDDFEIAMIF": 300011,
+      "ID": 300011,
       "NAIOIGJBMHH": "OfficialName_Monster_DeathXIIIRed",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -7875,7 +7875,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300011"
     },
     {
-      "DKDDFEIAMIF": 300012,
+      "ID": 300012,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": false,
@@ -7929,7 +7929,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300012"
     },
     {
-      "DKDDFEIAMIF": 300013,
+      "ID": 300013,
       "NAIOIGJBMHH": "OfficialName_",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": false,
@@ -7983,7 +7983,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300013"
     },
     {
-      "DKDDFEIAMIF": 300014,
+      "ID": 300014,
       "NAIOIGJBMHH": "OfficialName_Monster_DeathXIIIEnergy",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -8037,7 +8037,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300014"
     },
     {
-      "DKDDFEIAMIF": 300015,
+      "ID": 300015,
       "NAIOIGJBMHH": "OfficialName_Monster_DeathXIIIBoss",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -8091,7 +8091,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300015"
     },
     {
-      "DKDDFEIAMIF": 300021,
+      "ID": 300021,
       "NAIOIGJBMHH": "BriefName_Monster_Guardian",
       "KFMAFHDOFBH": 2,
       "OPBHJKPLIPE": true,
@@ -8145,7 +8145,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300021"
     },
     {
-      "DKDDFEIAMIF": 300022,
+      "ID": 300022,
       "NAIOIGJBMHH": "BriefName_Monster_GuardianMech",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -8199,7 +8199,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300022"
     },
     {
-      "DKDDFEIAMIF": 300041,
+      "ID": 300041,
       "NAIOIGJBMHH": "OfficialName_Monster_BoringMachineRed",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -8253,7 +8253,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300041"
     },
     {
-      "DKDDFEIAMIF": 300042,
+      "ID": 300042,
       "NAIOIGJBMHH": "OfficialName_Monster_BoringMachinePurple",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -8307,7 +8307,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300042"
     },
     {
-      "DKDDFEIAMIF": 300051,
+      "ID": 300051,
       "NAIOIGJBMHH": "OfficialName_Monster_MaterialHandlerRed",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -8361,7 +8361,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300051"
     },
     {
-      "DKDDFEIAMIF": 300052,
+      "ID": 300052,
       "NAIOIGJBMHH": "OfficialName_Monster_MaterialHandlerPurple",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -8415,7 +8415,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300052"
     },
     {
-      "DKDDFEIAMIF": 300061,
+      "ID": 300061,
       "NAIOIGJBMHH": "OfficialName_Monster_PileDriverRed",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -8469,7 +8469,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300061"
     },
     {
-      "DKDDFEIAMIF": 300062,
+      "ID": 300062,
       "NAIOIGJBMHH": "OfficialName_Monster_PileDriverPurple",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,
@@ -8523,7 +8523,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300062"
     },
     {
-      "DKDDFEIAMIF": 300071,
+      "ID": 300071,
       "NAIOIGJBMHH": "OfficialName_Monster_Cottus",
       "KFMAFHDOFBH": 4,
       "OPBHJKPLIPE": true,
@@ -8577,7 +8577,7 @@
       "MBNDFGNKGLM": "CardSkillDesc_300071"
     },
     {
-      "DKDDFEIAMIF": 300081,
+      "ID": 300081,
       "NAIOIGJBMHH": "BriefName_Monster_MetalGorilla",
       "KFMAFHDOFBH": 3,
       "OPBHJKPLIPE": true,

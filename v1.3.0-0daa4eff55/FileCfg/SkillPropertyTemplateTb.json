@@ -1,22 +1,22 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 1001,
-      "FJECNNMMDGH": "SkillDamageRate",
+      "ID": 1001,
+      "Name": "SkillDamageRate",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.#%}",
       "JLKJBNFNBFB": 3
     },
     {
-      "GKNMDKNIMHP": 1002,
-      "FJECNNMMDGH": "SkillStunRatio",
+      "ID": 1002,
+      "Name": "SkillStunRatio",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.#%}",
       "JLKJBNFNBFB": 3
     },
     {
-      "GKNMDKNIMHP": 1003,
-      "FJECNNMMDGH": "SkillSpRecovery",
+      "ID": 1003,
+      "Name": "SkillSpRecovery",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0}",
       "JLKJBNFNBFB": 3

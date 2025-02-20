@@ -1,7 +1,7 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1,
+      "ID": 1,
       "CPIFANBANFH": "Stun",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -26,7 +26,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 2,
+      "ID": 2,
       "CPIFANBANFH": "Tied",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -45,7 +45,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 3,
+      "ID": 3,
       "CPIFANBANFH": "Frozen",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 4,
+      "ID": 4,
       "CPIFANBANFH": "Sleep",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -91,7 +91,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 5,
+      "ID": 5,
       "CPIFANBANFH": "Slience",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -110,7 +110,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 6,
+      "ID": 6,
       "CPIFANBANFH": "Burn",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 7,
+      "ID": 7,
       "CPIFANBANFH": "Poison",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 4,
@@ -156,7 +156,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 8,
+      "ID": 8,
       "CPIFANBANFH": "Bleed",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 4,
@@ -175,7 +175,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 9,
+      "ID": 9,
       "CPIFANBANFH": "AttackUp",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 4,
@@ -194,7 +194,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 10,
+      "ID": 10,
       "CPIFANBANFH": "AttackDown",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 4,
@@ -213,7 +213,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 11,
+      "ID": 11,
       "CPIFANBANFH": "CritUp",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 4,
@@ -232,7 +232,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 12,
+      "ID": 12,
       "CPIFANBANFH": "CritDown",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 4,
@@ -251,7 +251,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 13,
+      "ID": 13,
       "CPIFANBANFH": "CritDamageUp",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 4,
@@ -270,7 +270,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 14,
+      "ID": 14,
       "CPIFANBANFH": "CritDamageDown",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 4,
@@ -289,7 +289,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 15,
+      "ID": 15,
       "CPIFANBANFH": "DefenceUp",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 4,
@@ -308,7 +308,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 16,
+      "ID": 16,
       "CPIFANBANFH": "DefenceDown",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 4,
@@ -327,7 +327,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 17,
+      "ID": 17,
       "CPIFANBANFH": "MoveSpeedUp",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 4,
@@ -346,7 +346,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 18,
+      "ID": 18,
       "CPIFANBANFH": "MoveSpeedDown",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 4,
@@ -365,7 +365,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 19,
+      "ID": 19,
       "CPIFANBANFH": "AttackSpeedUp",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 4,
@@ -384,7 +384,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 20,
+      "ID": 20,
       "CPIFANBANFH": "AttackSpeedDown",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 4,
@@ -403,7 +403,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 21,
+      "ID": 21,
       "CPIFANBANFH": "Invincible",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 9,
@@ -422,7 +422,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 22,
+      "ID": 22,
       "CPIFANBANFH": "Unbreakable",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 9,
@@ -441,7 +441,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 23,
+      "ID": 23,
       "CPIFANBANFH": "Weak",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -460,7 +460,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 24,
+      "ID": 24,
       "CPIFANBANFH": "Vulnerable",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -479,7 +479,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 26,
+      "ID": 26,
       "CPIFANBANFH": "TimeSlow",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 7,
@@ -498,7 +498,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 27,
+      "ID": 27,
       "CPIFANBANFH": "Electric",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -525,7 +525,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 28,
+      "ID": 28,
       "CPIFANBANFH": "FrozenAvatar",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -544,7 +544,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 29,
+      "ID": 29,
       "CPIFANBANFH": "Block",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 9,
@@ -563,7 +563,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 30,
+      "ID": 30,
       "CPIFANBANFH": "Ignite",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -590,7 +590,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 31,
+      "ID": 31,
       "CPIFANBANFH": "Overload",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -611,7 +611,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 33,
+      "ID": 33,
       "CPIFANBANFH": "Erosion",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -650,7 +650,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 34,
+      "ID": 34,
       "CPIFANBANFH": "Chaos",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -689,7 +689,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 35,
+      "ID": 35,
       "CPIFANBANFH": "Strike",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -728,7 +728,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 36,
+      "ID": 36,
       "CPIFANBANFH": "Frostbite",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -747,7 +747,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 37,
+      "ID": 37,
       "CPIFANBANFH": "Frost",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -772,7 +772,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 38,
+      "ID": 38,
       "CPIFANBANFH": "Disorder",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -791,7 +791,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 99,
+      "ID": 99,
       "CPIFANBANFH": "ActivityBattleSign",
       "CCEGBIMEPGD": 1,
       "FBJCEANDLLO": 4,
@@ -810,7 +810,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 1003,
+      "ID": 1003,
       "CPIFANBANFH": "Frozen",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -837,7 +837,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 1036,
+      "ID": 1036,
       "CPIFANBANFH": "Frostbite",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,
@@ -856,7 +856,7 @@
       "APJOFBJLMBH": []
     },
     {
-      "PDJOCPDOOAA": 1037,
+      "ID": 1037,
       "CPIFANBANFH": "Frost",
       "CCEGBIMEPGD": 2,
       "FBJCEANDLLO": 9,

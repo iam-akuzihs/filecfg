@@ -1,7 +1,7 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1001,
+      "ID": 1001,
       "GBHCMGMNBMG": 1,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "MainCityStreet_Street",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 2001,
+      "ID": 2001,
       "GBHCMGMNBMG": 2,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "Workshop_1F",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 2002,
+      "ID": 2002,
       "GBHCMGMNBMG": 2,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "Workshop_Stairs",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 2003,
+      "ID": 2003,
       "GBHCMGMNBMG": 2,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "Workshop_2F",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 3001,
+      "ID": 3001,
       "GBHCMGMNBMG": 3,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "MainCityStreet_Garage",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 4001,
+      "ID": 4001,
       "GBHCMGMNBMG": 4,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "ConstructionSite_1F",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 4002,
+      "ID": 4002,
       "GBHCMGMNBMG": 4,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "ConstructionSite_2F",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 4003,
+      "ID": 4003,
       "GBHCMGMNBMG": 4,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "ConstructionSite_Elevator1",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 4004,
+      "ID": 4004,
       "GBHCMGMNBMG": 4,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "ConstructionSite_Elevator2",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 4005,
+      "ID": 4005,
       "GBHCMGMNBMG": 4,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "ConstructionSite_Elevator3",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 4006,
+      "ID": 4006,
       "GBHCMGMNBMG": 4,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "ConstructionSite_Elevator4",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 5001,
+      "ID": 5001,
       "GBHCMGMNBMG": 5,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "SkyScraper_1F",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 5002,
+      "ID": 5002,
       "GBHCMGMNBMG": 5,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "SkyScraper_B1",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 5003,
+      "ID": 5003,
       "GBHCMGMNBMG": 5,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "SkyScraper_Stairs1",
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 5004,
+      "ID": 5004,
       "GBHCMGMNBMG": 5,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "SkyScraper_Stairs2",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 101001,
+      "ID": 101001,
       "GBHCMGMNBMG": 101,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "FortuneSquare_Maincity",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 101002,
+      "ID": 101002,
       "GBHCMGMNBMG": 101,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "Traffic_Green",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 101003,
+      "ID": 101003,
       "GBHCMGMNBMG": 101,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "Traffic_Red",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 101004,
+      "ID": 101004,
       "GBHCMGMNBMG": 101,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "Traffic_Red2",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 101005,
+      "ID": 101005,
       "GBHCMGMNBMG": 101,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "Traffic_Light01",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 101006,
+      "ID": 101006,
       "GBHCMGMNBMG": 101,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "Traffic_Light02",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 101007,
+      "ID": 101007,
       "GBHCMGMNBMG": 101,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "Traffic_Light03",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 101008,
+      "ID": 101008,
       "GBHCMGMNBMG": 101,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "Traffic_Light04",
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 101009,
+      "ID": 101009,
       "GBHCMGMNBMG": 101,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "Traffic_PlayerHoldon",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 102001,
+      "ID": 102001,
       "GBHCMGMNBMG": 102,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "MainCity_FortuneNEPS",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 103001,
+      "ID": 103001,
       "GBHCMGMNBMG": 103,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "MainCity_FortuneHIA",
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 104001,
+      "ID": 104001,
       "GBHCMGMNBMG": 104,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "Maincity_OuterRing_1F",
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 104002,
+      "ID": 104002,
       "GBHCMGMNBMG": 104,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "Maincity_OuterRing_2F",
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 104003,
+      "ID": 104003,
       "GBHCMGMNBMG": 104,
       "BGEBPFPLPNA": false,
       "HILFCOPDBGJ": "Maincity_OuterRing_Elevator",
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 151001,
+      "ID": 151001,
       "GBHCMGMNBMG": 151,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "Maincity_Zero",
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 152001,
+      "ID": 152001,
       "GBHCMGMNBMG": 152,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "Stage_SkyScraper_JaneOVA",
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 153001,
+      "ID": 153001,
       "GBHCMGMNBMG": 153,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "Maincity_Subway_Street",
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 154001,
+      "ID": 154001,
       "GBHCMGMNBMG": 154,
       "BGEBPFPLPNA": true,
       "HILFCOPDBGJ": "Maincity_Subway",

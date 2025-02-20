@@ -1,10 +1,10 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
-      "HBKDOIKGNDE": 1001,
+      "ID": 1001,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Stamina",
+      "Name": "Stamina",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 1002,
+      "ID": 1002,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Stamina_Max",
+      "Name": "Stamina_Max",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 1,
@@ -27,10 +27,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1003,
+      "ID": 1003,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Stamina_Ratio",
+      "Name": "Stamina_Ratio",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -39,10 +39,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1004,
+      "ID": 1004,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Stamina_Delta",
+      "Name": "Stamina_Delta",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -1000,
@@ -51,10 +51,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1005,
+      "ID": 1005,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Gold_Ratio",
+      "Name": "Gold_Ratio",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -63,10 +63,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1006,
+      "ID": 1006,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Gold_Delta",
+      "Name": "Gold_Delta",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -1000,
@@ -75,10 +75,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1007,
+      "ID": 1007,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Stamina_Ratio_Reduce",
+      "Name": "Stamina_Ratio_Reduce",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -87,10 +87,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1008,
+      "ID": 1008,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Stamina_Delta_Reduce",
+      "Name": "Stamina_Delta_Reduce",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -1000,
@@ -99,10 +99,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1018,
+      "ID": 1018,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Shop_Price",
+      "Name": "Shop_Price",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -111,10 +111,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1019,
+      "ID": 1019,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Stamina_Increase",
+      "Name": "Stamina_Increase",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -1000,
@@ -123,10 +123,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1025,
+      "ID": 1025,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Player_View",
+      "Name": "Player_View",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -135,10 +135,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1035,
+      "ID": 1035,
       "LKHGIFBNPNG": 1,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "ActorMaxCurHP",
+      "Name": "ActorMaxCurHP",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": 100,
@@ -147,10 +147,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1036,
+      "ID": 1036,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "ShopPriceDelta",
+      "Name": "ShopPriceDelta",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -10000,
@@ -159,10 +159,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1043,
+      "ID": 1043,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Weather",
+      "Name": "Weather",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -1,
@@ -171,10 +171,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1044,
+      "ID": 1044,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "TimePeriod",
+      "Name": "TimePeriod",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -183,10 +183,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1045,
+      "ID": 1045,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "AbyssPoint_Ratio",
+      "Name": "AbyssPoint_Ratio",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -195,10 +195,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1046,
+      "ID": 1046,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "AbyssPoint_Delta",
+      "Name": "AbyssPoint_Delta",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -1000,
@@ -207,10 +207,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1047,
+      "ID": 1047,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpRecover_Ratio",
+      "Name": "HollowHpRecover_Ratio",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -219,10 +219,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1048,
+      "ID": 1048,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpDecrease_Ratio",
+      "Name": "HollowHpDecrease_Ratio",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -231,10 +231,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1049,
+      "ID": 1049,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Card_B_Probability_Delta",
+      "Name": "Card_B_Probability_Delta",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -10000,
@@ -243,10 +243,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1050,
+      "ID": 1050,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Card_A_Probability_Delta",
+      "Name": "Card_A_Probability_Delta",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -10000,
@@ -255,10 +255,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1051,
+      "ID": 1051,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "Card_S_Probability_Delta",
+      "Name": "Card_S_Probability_Delta",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -10000,
@@ -267,10 +267,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1055,
+      "ID": 1055,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowItem_B_Probability_Delta",
+      "Name": "HollowItem_B_Probability_Delta",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -10000,
@@ -279,10 +279,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1056,
+      "ID": 1056,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowItem_A_Probability_Delta",
+      "Name": "HollowItem_A_Probability_Delta",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -10000,
@@ -291,10 +291,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1057,
+      "ID": 1057,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowItem_S_Probability_Delta",
+      "Name": "HollowItem_S_Probability_Delta",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": -10000,
@@ -303,10 +303,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1058,
+      "ID": 1058,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "EnableCardFusion",
+      "Name": "EnableCardFusion",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -315,10 +315,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1059,
+      "ID": 1059,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "EnableCardUpgrade",
+      "Name": "EnableCardUpgrade",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -327,10 +327,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1060,
+      "ID": 1060,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "EnableCardRefresh",
+      "Name": "EnableCardRefresh",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -339,10 +339,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1061,
+      "ID": 1061,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "EnableHpBuy",
+      "Name": "EnableHpBuy",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -351,10 +351,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1062,
+      "ID": 1062,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "EnableHpOverflowToCoin",
+      "Name": "EnableHpOverflowToCoin",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -363,10 +363,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1063,
+      "ID": 1063,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "RecoverableTipID",
+      "Name": "RecoverableTipID",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -375,10 +375,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1064,
+      "ID": 1064,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "RecoverableBottomTipID",
+      "Name": "RecoverableBottomTipID",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -387,10 +387,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1065,
+      "ID": 1065,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowDrillEnergy",
+      "Name": "HollowDrillEnergy",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -399,10 +399,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1066,
+      "ID": 1066,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowDrillLevel",
+      "Name": "HollowDrillLevel",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -411,10 +411,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1067,
+      "ID": 1067,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpRecover_Ratio_Slot1",
+      "Name": "HollowHpRecover_Ratio_Slot1",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -423,10 +423,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1068,
+      "ID": 1068,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpDecrease_Ratio_Slot1",
+      "Name": "HollowHpDecrease_Ratio_Slot1",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -435,10 +435,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1069,
+      "ID": 1069,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpRecover_Ratio_Slot2",
+      "Name": "HollowHpRecover_Ratio_Slot2",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -447,10 +447,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1070,
+      "ID": 1070,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpDecrease_Ratio_Slot2",
+      "Name": "HollowHpDecrease_Ratio_Slot2",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -459,10 +459,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1071,
+      "ID": 1071,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpRecover_Ratio_Slot3",
+      "Name": "HollowHpRecover_Ratio_Slot3",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -471,10 +471,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1072,
+      "ID": 1072,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpDecrease_Ratio_Slot3",
+      "Name": "HollowHpDecrease_Ratio_Slot3",
       "EJILBHBGAKB": 10000,
       "JNOANOGFKGG": "{0:0.##%}",
       "BIOKADJHPBM": -10000,
@@ -483,10 +483,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1073,
+      "ID": 1073,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowZeroCoinMaxNum",
+      "Name": "HollowZeroCoinMaxNum",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -495,10 +495,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1074,
+      "ID": 1074,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpRecover_Forbid",
+      "Name": "HollowHpRecover_Forbid",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -507,10 +507,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1075,
+      "ID": 1075,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowHpDecrease_Forbid",
+      "Name": "HollowHpDecrease_Forbid",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -519,10 +519,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1076,
+      "ID": 1076,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowLoadSupportAvatar_Forbid",
+      "Name": "HollowLoadSupportAvatar_Forbid",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,
@@ -531,10 +531,10 @@
       "KDDCOBAELGM": []
     },
     {
-      "HBKDOIKGNDE": 1077,
+      "ID": 1077,
       "LKHGIFBNPNG": 0,
       "EIIEJOIFAOG": "",
-      "DIIDBBGLDOL": "HollowRetryTutorial",
+      "Name": "HollowRetryTutorial",
       "EJILBHBGAKB": 1,
       "JNOANOGFKGG": "{0:0}",
       "BIOKADJHPBM": 0,

@@ -1,10 +1,10 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
-      "HBKDOIKGNDE": 10101001,
+      "ID": 10101001,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_1",
+      "Name": "AbyssText_TalentName_1_1",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Def.png",
       "PONBHLKJIGN": "Talent_10101_BaseDefenceDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_1",
@@ -30,10 +30,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101002,
+      "ID": 10101002,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_2",
+      "Name": "AbyssText_TalentName_1_2",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Atk.png",
       "PONBHLKJIGN": "Talent_10101_BaseAttackDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_2",
@@ -59,10 +59,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101003,
+      "ID": 10101003,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_3",
+      "Name": "AbyssText_TalentName_1_3",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Crit.png",
       "PONBHLKJIGN": "Talent_10101_CriticalDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_3",
@@ -88,10 +88,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101004,
+      "ID": 10101004,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_4",
+      "Name": "AbyssText_TalentName_1_4",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_HpMax.png",
       "PONBHLKJIGN": "Talent_10101_MaxHPDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_4",
@@ -117,10 +117,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101005,
+      "ID": 10101005,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_5",
+      "Name": "AbyssText_TalentName_1_5",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BeginCoin_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_BaseDefenceDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_5",
@@ -153,10 +153,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BeginCoin.png"
     },
     {
-      "HBKDOIKGNDE": 10101006,
+      "ID": 10101006,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_6",
+      "Name": "AbyssText_TalentName_1_6",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Damage.png",
       "PONBHLKJIGN": "Talent_10101_DamageTakeRatio01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_6",
@@ -187,10 +187,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101007,
+      "ID": 10101007,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_7",
+      "Name": "AbyssText_TalentName_1_7",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_ElementAccumulation.png",
       "PONBHLKJIGN": "Talent_10101_ElementMysteryDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_7",
@@ -221,10 +221,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101008,
+      "ID": 10101008,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_8",
+      "Name": "AbyssText_TalentName_1_8",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_UnlockCardRefresh_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_BaseAttackDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_8",
@@ -257,10 +257,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_UnlockCardRefresh.png"
     },
     {
-      "HBKDOIKGNDE": 10101009,
+      "ID": 10101009,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_9",
+      "Name": "AbyssText_TalentName_1_9",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_MonsterNormalDamage.png",
       "PONBHLKJIGN": "Talent_10101_MonsterNormalDamage01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_9",
@@ -291,10 +291,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101010,
+      "ID": 10101010,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_10",
+      "Name": "AbyssText_TalentName_1_10",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_MonsterEliteDamage.png",
       "PONBHLKJIGN": "Talent_10101_MonsterEliteDamage01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_10",
@@ -325,10 +325,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101011,
+      "ID": 10101011,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_11",
+      "Name": "AbyssText_TalentName_1_11",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_MonsterBossDamage.png",
       "PONBHLKJIGN": "Talent_10101_MonsterBossDamage01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_11",
@@ -358,10 +358,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101012,
+      "ID": 10101012,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_12",
+      "Name": "AbyssText_TalentName_1_12",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Atk.png",
       "PONBHLKJIGN": "Talent_10101_BaseAttackDelta02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_12",
@@ -392,10 +392,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101013,
+      "ID": 10101013,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_13",
+      "Name": "AbyssText_TalentName_1_13",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Def.png",
       "PONBHLKJIGN": "Talent_10101_BaseDefenceDelta02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_13",
@@ -426,10 +426,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101014,
+      "ID": 10101014,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_14",
+      "Name": "AbyssText_TalentName_1_14",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_HpMax.png",
       "PONBHLKJIGN": "Talent_10101_MaxHPDelta02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_14",
@@ -459,10 +459,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101015,
+      "ID": 10101015,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_15",
+      "Name": "AbyssText_TalentName_1_15",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Elec.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Elec01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_15",
@@ -492,10 +492,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101016,
+      "ID": 10101016,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_16",
+      "Name": "AbyssText_TalentName_1_16",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_UnlockCardNegative_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_MaxHPDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_16",
@@ -532,10 +532,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_UnlockCardNegative.png"
     },
     {
-      "HBKDOIKGNDE": 10101017,
+      "ID": 10101017,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_17",
+      "Name": "AbyssText_TalentName_1_17",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Ice.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Ice01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_17",
@@ -566,10 +566,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101018,
+      "ID": 10101018,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_18",
+      "Name": "AbyssText_TalentName_1_18",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Physics.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Physics01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_18",
@@ -599,10 +599,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101019,
+      "ID": 10101019,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_19",
+      "Name": "AbyssText_TalentName_1_19",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Ether.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Ether01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_19",
@@ -632,10 +632,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101020,
+      "ID": 10101020,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_20",
+      "Name": "AbyssText_TalentName_1_20",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Fire.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Fire01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_20",
@@ -666,10 +666,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101021,
+      "ID": 10101021,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_21",
+      "Name": "AbyssText_TalentName_1_21",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Atk.png",
       "PONBHLKJIGN": "Talent_10101_BaseAttackDelta03",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_21",
@@ -699,10 +699,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101022,
+      "ID": 10101022,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_22",
+      "Name": "AbyssText_TalentName_1_22",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BattleStamina.png",
       "PONBHLKJIGN": "",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_22",
@@ -732,10 +732,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101023,
+      "ID": 10101023,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_23",
+      "Name": "AbyssText_TalentName_1_23",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_CoinRaise.png",
       "PONBHLKJIGN": "",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_23",
@@ -766,10 +766,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101024,
+      "ID": 10101024,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_24",
+      "Name": "AbyssText_TalentName_1_24",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_HpMax.png",
       "PONBHLKJIGN": "Talent_10101_MaxHPDelta03",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_24",
@@ -800,10 +800,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101025,
+      "ID": 10101025,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_25",
+      "Name": "AbyssText_TalentName_1_25",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Def.png",
       "PONBHLKJIGN": "Talent_10101_BaseDefenceDelta03",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_25",
@@ -833,10 +833,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101026,
+      "ID": 10101026,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_26",
+      "Name": "AbyssText_TalentName_1_26",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_CureRaise.png",
       "PONBHLKJIGN": "",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_26",
@@ -866,10 +866,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101027,
+      "ID": 10101027,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_27",
+      "Name": "AbyssText_TalentName_1_27",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_CardRefreshAdd.png",
       "PONBHLKJIGN": "",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_27",
@@ -900,10 +900,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101028,
+      "ID": 10101028,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_28",
+      "Name": "AbyssText_TalentName_1_28",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BeginItemBomb_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_CriticalDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_28",
@@ -940,10 +940,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BeginItemBomb.png"
     },
     {
-      "HBKDOIKGNDE": 10101029,
+      "ID": 10101029,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_29",
+      "Name": "AbyssText_TalentName_1_29",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_MonsterNormalDamage.png",
       "PONBHLKJIGN": "Talent_10101_MonsterNormalDamage02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_29",
@@ -973,10 +973,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101030,
+      "ID": 10101030,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_30",
+      "Name": "AbyssText_TalentName_1_30",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Atk.png",
       "PONBHLKJIGN": "Talent_10101_BaseAttackDelta04",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_30",
@@ -1006,10 +1006,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101031,
+      "ID": 10101031,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_31",
+      "Name": "AbyssText_TalentName_1_31",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_MonsterBossDamage.png",
       "PONBHLKJIGN": "Talent_10101_MonsterBossDamage02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_31",
@@ -1040,10 +1040,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101032,
+      "ID": 10101032,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_32",
+      "Name": "AbyssText_TalentName_1_32",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_MonsterEliteDamage.png",
       "PONBHLKJIGN": "Talent_10101_MonsterEliteDamage02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_32",
@@ -1073,10 +1073,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101033,
+      "ID": 10101033,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_33",
+      "Name": "AbyssText_TalentName_1_33",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Def.png",
       "PONBHLKJIGN": "Talent_10101_BaseDefenceDelta04",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_33",
@@ -1106,10 +1106,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101034,
+      "ID": 10101034,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_34",
+      "Name": "AbyssText_TalentName_1_34",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_HpMax.png",
       "PONBHLKJIGN": "Talent_10101_MaxHPDelta04",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_34",
@@ -1140,10 +1140,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101035,
+      "ID": 10101035,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_35",
+      "Name": "AbyssText_TalentName_1_35",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Physics.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Physics02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_35",
@@ -1174,10 +1174,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101036,
+      "ID": 10101036,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_36",
+      "Name": "AbyssText_TalentName_1_36",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Ice.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Ice02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_36",
@@ -1207,10 +1207,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101037,
+      "ID": 10101037,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_37",
+      "Name": "AbyssText_TalentName_1_37",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_UnlockShopCurse_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_ElementMysteryDelta01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_37",
@@ -1243,10 +1243,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_UnlockShopCurse.png"
     },
     {
-      "HBKDOIKGNDE": 10101038,
+      "ID": 10101038,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_38",
+      "Name": "AbyssText_TalentName_1_38",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Ether.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Ether02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_38",
@@ -1277,10 +1277,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101039,
+      "ID": 10101039,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_39",
+      "Name": "AbyssText_TalentName_1_39",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Elec.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Elec02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_39",
@@ -1311,10 +1311,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101040,
+      "ID": 10101040,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_40",
+      "Name": "AbyssText_TalentName_1_40",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BattleCoinRaise_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_DamageTakeRatio01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_40",
@@ -1347,10 +1347,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BattleCoinRaise.png"
     },
     {
-      "HBKDOIKGNDE": 10101041,
+      "ID": 10101041,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_41",
+      "Name": "AbyssText_TalentName_1_41",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio_Fire.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio_Fire02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_41",
@@ -1381,10 +1381,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101042,
+      "ID": 10101042,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_42",
+      "Name": "AbyssText_TalentName_1_42",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Atk.png",
       "PONBHLKJIGN": "Talent_10101_BaseAttackDelta05",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_42",
@@ -1415,10 +1415,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101043,
+      "ID": 10101043,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_43",
+      "Name": "AbyssText_TalentName_1_43",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Crit.png",
       "PONBHLKJIGN": "Talent_10101_CriticalDelta02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_43",
@@ -1448,10 +1448,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101044,
+      "ID": 10101044,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_44",
+      "Name": "AbyssText_TalentName_1_44",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_CardRefreshAdd.png",
       "PONBHLKJIGN": "",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_44",
@@ -1482,10 +1482,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101045,
+      "ID": 10101045,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_45",
+      "Name": "AbyssText_TalentName_1_45",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_HpMax.png",
       "PONBHLKJIGN": "Talent_10101_MaxHPDelta05",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_45",
@@ -1516,10 +1516,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101046,
+      "ID": 10101046,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_46",
+      "Name": "AbyssText_TalentName_1_46",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Def.png",
       "PONBHLKJIGN": "Talent_10101_BaseDefenceDelta05",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_46",
@@ -1549,10 +1549,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101047,
+      "ID": 10101047,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_47",
+      "Name": "AbyssText_TalentName_1_47",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BeginItemCure_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_MonsterNormalDamage01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_47",
@@ -1585,10 +1585,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BeginItemCure.png"
     },
     {
-      "HBKDOIKGNDE": 10101048,
+      "ID": 10101048,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_48",
+      "Name": "AbyssText_TalentName_1_48",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Damage.png",
       "PONBHLKJIGN": "Talent_10101_DamageTakeRatio02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_48",
@@ -1619,10 +1619,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101049,
+      "ID": 10101049,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_49",
+      "Name": "AbyssText_TalentName_1_49",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_ElementAccumulation.png",
       "PONBHLKJIGN": "Talent_10101_ElementMysteryDelta02",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_49",
@@ -1653,10 +1653,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101050,
+      "ID": 10101050,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_50",
+      "Name": "AbyssText_TalentName_1_50",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BeginItemStamina_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_MonsterEliteDamage01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_50",
@@ -1689,10 +1689,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BeginItemStamina.png"
     },
     {
-      "HBKDOIKGNDE": 10101051,
+      "ID": 10101051,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_51",
+      "Name": "AbyssText_TalentName_1_51",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Def.png",
       "PONBHLKJIGN": "Talent_10101_BaseDefenceDelta06",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_51",
@@ -1723,10 +1723,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101052,
+      "ID": 10101052,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_52",
+      "Name": "AbyssText_TalentName_1_52",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_Atk.png",
       "PONBHLKJIGN": "Talent_10101_BaseAttackDelta06",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_52",
@@ -1757,10 +1757,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101053,
+      "ID": 10101053,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_53",
+      "Name": "AbyssText_TalentName_1_53",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_HpMax.png",
       "PONBHLKJIGN": "Talent_10101_MaxHPDelta06",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_53",
@@ -1790,10 +1790,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101054,
+      "ID": 10101054,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_54",
+      "Name": "AbyssText_TalentName_1_54",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_CoinRaise.png",
       "PONBHLKJIGN": "",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_54",
@@ -1824,10 +1824,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101055,
+      "ID": 10101055,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_55",
+      "Name": "AbyssText_TalentName_1_55",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_BattleStamina.png",
       "PONBHLKJIGN": "",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_55",
@@ -1858,10 +1858,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101056,
+      "ID": 10101056,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_56",
+      "Name": "AbyssText_TalentName_1_56",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_CureRaise.png",
       "PONBHLKJIGN": "",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_56",
@@ -1891,10 +1891,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101057,
+      "ID": 10101057,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_57",
+      "Name": "AbyssText_TalentName_1_57",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_MonsterEliteDamage.png",
       "PONBHLKJIGN": "Talent_10101_MonsterEliteDamage03",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_57",
@@ -1924,10 +1924,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101058,
+      "ID": 10101058,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_58",
+      "Name": "AbyssText_TalentName_1_58",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_ShopDiscountProb_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_MonsterBossDamage01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_58",
@@ -1958,10 +1958,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_ShopDiscountProb.png"
     },
     {
-      "HBKDOIKGNDE": 10101059,
+      "ID": 10101059,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 2,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_59",
+      "Name": "AbyssText_TalentName_1_59",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_StartOneMoreCard_Unactivated.png",
       "PONBHLKJIGN": "Talent_10101_BigPoint_AddedDamageRatio01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_59",
@@ -1992,10 +1992,10 @@
       "PCBJBLHHFLD": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_StartOneMoreCard.png"
     },
     {
-      "HBKDOIKGNDE": 10101060,
+      "ID": 10101060,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_60",
+      "Name": "AbyssText_TalentName_1_60",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_MonsterNormalDamage.png",
       "PONBHLKJIGN": "Talent_10101_MonsterNormalDamage03",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_60",
@@ -2025,10 +2025,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101061,
+      "ID": 10101061,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_61",
+      "Name": "AbyssText_TalentName_1_61",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_MonsterBossDamage.png",
       "PONBHLKJIGN": "Talent_10101_MonsterBossDamage03",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_61",
@@ -2057,10 +2057,10 @@
       "PCBJBLHHFLD": ""
     },
     {
-      "HBKDOIKGNDE": 10101062,
+      "ID": 10101062,
       "NMODECNAFAL": 10101,
       "LKHGIFBNPNG": 1,
-      "DIIDBBGLDOL": "AbyssText_TalentName_1_62",
+      "Name": "AbyssText_TalentName_1_62",
       "NHPFDMKIHIB": "UI/Sprite/A1DynamicLoad/IconTalent/UnPacker/IconTalent_AddedDamageRatio.png",
       "PONBHLKJIGN": "Talent_10101_AddedDamageRatio01",
       "MKBPIDHBCNE": "AbyssText_TalentEffect_1_62",

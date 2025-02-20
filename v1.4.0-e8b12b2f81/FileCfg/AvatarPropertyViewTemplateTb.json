@@ -1,103 +1,103 @@
 {
-  "LFPICNCBMIF": [
+  "__exp_FileCfg": [
     {
-      "FJKECLFEHOA": 1,
+      "ID": 1,
       "HPFPNOICMDN": "HpMax",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": 1,
       "PELPGNOEEHI": "propertyID(111)",
-      "EHBHELJNBLH": 111,
+      "__exp_PropertyID": 111,
       "PIEBOJBBNIP": 1
     },
     {
-      "FJKECLFEHOA": 2,
+      "ID": 2,
       "HPFPNOICMDN": "Atk",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(121)",
-      "EHBHELJNBLH": 121,
+      "__exp_PropertyID": 121,
       "PIEBOJBBNIP": 2
     },
     {
-      "FJKECLFEHOA": 3,
+      "ID": 3,
       "HPFPNOICMDN": "Def",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(131)",
-      "EHBHELJNBLH": 131,
+      "__exp_PropertyID": 131,
       "PIEBOJBBNIP": 3
     },
     {
-      "FJKECLFEHOA": 4,
+      "ID": 4,
       "HPFPNOICMDN": "BreakStun",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(122)",
-      "EHBHELJNBLH": 122,
+      "__exp_PropertyID": 122,
       "PIEBOJBBNIP": 4
     },
     {
-      "FJKECLFEHOA": 5,
+      "ID": 5,
       "HPFPNOICMDN": "Crit",
       "CJOMMFBKEPH": 1,
       "LFILIPGOFAP": 1,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(201)*100",
-      "EHBHELJNBLH": 201,
+      "__exp_PropertyID": 201,
       "PIEBOJBBNIP": 5
     },
     {
-      "FJKECLFEHOA": 6,
+      "ID": 6,
       "HPFPNOICMDN": "CritDmg",
       "CJOMMFBKEPH": 1,
       "LFILIPGOFAP": 1,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(211)*100",
-      "EHBHELJNBLH": 211,
+      "__exp_PropertyID": 211,
       "PIEBOJBBNIP": 6
     },
     {
-      "FJKECLFEHOA": 7,
+      "ID": 7,
       "HPFPNOICMDN": "ElementAbnormalPower",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(314)",
-      "EHBHELJNBLH": 314,
+      "__exp_PropertyID": 314,
       "PIEBOJBBNIP": 7
     },
     {
-      "FJKECLFEHOA": 8,
+      "ID": 8,
       "HPFPNOICMDN": "ElementMystery",
       "CJOMMFBKEPH": 0,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(312)",
-      "EHBHELJNBLH": 312,
+      "__exp_PropertyID": 312,
       "PIEBOJBBNIP": 8
     },
     {
-      "FJKECLFEHOA": 9,
+      "ID": 9,
       "HPFPNOICMDN": "PenRatio",
       "CJOMMFBKEPH": 1,
       "LFILIPGOFAP": 1,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(231)*100",
-      "EHBHELJNBLH": 231,
+      "__exp_PropertyID": 231,
       "PIEBOJBBNIP": 9
     },
     {
-      "FJKECLFEHOA": 11,
+      "ID": 11,
       "HPFPNOICMDN": "SpRecover",
       "CJOMMFBKEPH": 2,
       "LFILIPGOFAP": 0,
       "AFCGGGDHMNH": -1,
       "PELPGNOEEHI": "propertyID(305)",
-      "EHBHELJNBLH": 305,
+      "__exp_PropertyID": 305,
       "PIEBOJBBNIP": 11
     }
   ]

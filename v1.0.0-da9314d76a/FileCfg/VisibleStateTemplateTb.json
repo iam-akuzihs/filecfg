@@ -1,7 +1,7 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
-      "HBKDOIKGNDE": 1,
+      "ID": 1,
       "FBEHIJGDCLJ": "Visible",
       "PBDIMBMCKJB": [
         "FLAG_VISIBLE",
@@ -9,35 +9,35 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 2,
+      "ID": 2,
       "FBEHIJGDCLJ": "VisibleAtGridAround",
       "PBDIMBMCKJB": [
         "FLAG_VISIBLE_AT_GRID_AROUND"
       ]
     },
     {
-      "HBKDOIKGNDE": 3,
+      "ID": 3,
       "FBEHIJGDCLJ": "VisibleByTriggerEvent",
       "PBDIMBMCKJB": [
         "FLAG_VISIBLE_BY_TRIGGER_EVENT"
       ]
     },
     {
-      "HBKDOIKGNDE": 4,
+      "ID": 4,
       "FBEHIJGDCLJ": "TemporaryVisibleAtAround",
       "PBDIMBMCKJB": [
         "FLAG_TEMPORARY_VISIBLE_AT_AROUND"
       ]
     },
     {
-      "HBKDOIKGNDE": 5,
+      "ID": 5,
       "FBEHIJGDCLJ": "Blocked",
       "PBDIMBMCKJB": [
         "FLAG_VISIBLE"
       ]
     },
     {
-      "HBKDOIKGNDE": 6,
+      "ID": 6,
       "FBEHIJGDCLJ": "All",
       "PBDIMBMCKJB": [
         "FLAG_VISIBLE",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 7,
+      "ID": 7,
       "FBEHIJGDCLJ": "",
       "PBDIMBMCKJB": [
         "FLAG_VISIBLE",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 8,
+      "ID": 8,
       "FBEHIJGDCLJ": "VisibleWhenLightning",
       "PBDIMBMCKJB": [
         "FLAG_VISIBLE_WHEN_LIGHTNING"

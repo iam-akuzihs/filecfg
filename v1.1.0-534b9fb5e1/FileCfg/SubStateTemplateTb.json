@@ -1,12 +1,12 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 1,
+      "ID": 1,
       "AJLLFDOHEEP": "EmptySub",
       "IFOFAIDDNLB": []
     },
     {
-      "NGPCCDGBLLK": 2,
+      "ID": 2,
       "AJLLFDOHEEP": "Blocked_Down",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 3,
+      "ID": 3,
       "AJLLFDOHEEP": "Blocked_Left",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 4,
+      "ID": 4,
       "AJLLFDOHEEP": "Blocked_Right",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 5,
+      "ID": 5,
       "AJLLFDOHEEP": "Blocked_Up",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 6,
+      "ID": 6,
       "AJLLFDOHEEP": "Anchor",
       "IFOFAIDDNLB": [
         "FLAG_ANCHOR",
@@ -54,14 +54,14 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 7,
+      "ID": 7,
       "AJLLFDOHEEP": "Aim",
       "IFOFAIDDNLB": [
         "FLAG_AIM"
       ]
     },
     {
-      "NGPCCDGBLLK": 8,
+      "ID": 8,
       "AJLLFDOHEEP": "Block",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -71,14 +71,14 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 9,
+      "ID": 9,
       "AJLLFDOHEEP": "Anchor_Unlock",
       "IFOFAIDDNLB": [
         "FLAG_NO_STAMINA"
       ]
     },
     {
-      "NGPCCDGBLLK": 10,
+      "ID": 10,
       "AJLLFDOHEEP": "Aim_OverrideAll",
       "IFOFAIDDNLB": [
         "FLAG_OVERRIDE_PLAYER",
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 11,
+      "ID": 11,
       "AJLLFDOHEEP": "Aim_OverridePlayer",
       "IFOFAIDDNLB": [
         "FLAG_OVERRIDE_PLAYER",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 12,
+      "ID": 12,
       "AJLLFDOHEEP": "Aim_OverrideNPC",
       "IFOFAIDDNLB": [
         "FLAG_OVERRIDE_NPC",
@@ -102,35 +102,35 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 13,
+      "ID": 13,
       "AJLLFDOHEEP": "Inaccessible_Up",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP"
       ]
     },
     {
-      "NGPCCDGBLLK": 14,
+      "ID": 14,
       "AJLLFDOHEEP": "Inaccessible_Down",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_DOWN"
       ]
     },
     {
-      "NGPCCDGBLLK": 15,
+      "ID": 15,
       "AJLLFDOHEEP": "Inaccessible_Left",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_LEFT"
       ]
     },
     {
-      "NGPCCDGBLLK": 16,
+      "ID": 16,
       "AJLLFDOHEEP": "Inaccessible_Right",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_RIGHT"
       ]
     },
     {
-      "NGPCCDGBLLK": 17,
+      "ID": 17,
       "AJLLFDOHEEP": "Inaccessible_UpDown",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 18,
+      "ID": 18,
       "AJLLFDOHEEP": "Inaccessible_UpRight",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 19,
+      "ID": 19,
       "AJLLFDOHEEP": "Inaccessible_UpLeft",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 20,
+      "ID": 20,
       "AJLLFDOHEEP": "Inaccessible_DownRight",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_DOWN",
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 21,
+      "ID": 21,
       "AJLLFDOHEEP": "Inaccessible_DownLeft",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_DOWN",
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 22,
+      "ID": 22,
       "AJLLFDOHEEP": "Inaccessible_LeftRight",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_LEFT",
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 23,
+      "ID": 23,
       "AJLLFDOHEEP": "Accessible_Up",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_DOWN",
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 24,
+      "ID": 24,
       "AJLLFDOHEEP": "Accessible_Down",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 25,
+      "ID": 25,
       "AJLLFDOHEEP": "Accessible_Left",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 26,
+      "ID": 26,
       "AJLLFDOHEEP": "Accessible_Right",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 27,
+      "ID": 27,
       "AJLLFDOHEEP": "Blocked_Single",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 28,
+      "ID": 28,
       "AJLLFDOHEEP": "Affected_EMP",
       "IFOFAIDDNLB": [
         "FLAG_BLOCKED_UP",
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 29,
+      "ID": 29,
       "AJLLFDOHEEP": "Unavailable",
       "IFOFAIDDNLB": [
         "FLAG_ANCHOR",
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 30,
+      "ID": 30,
       "AJLLFDOHEEP": "Anchor_LockedShow",
       "IFOFAIDDNLB": [
         "FLAG_ANCHOR",

@@ -1,8 +1,8 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
       "JFGCIPNCBJB": 0,
-      "FJECNNMMDGH": "ElementType_None",
+      "Name": "ElementType_None",
       "BGJIEGOEMEB": "None",
       "EDIIBJFHEFP": "",
       "MJCFHKMKFGL": "",
@@ -13,7 +13,7 @@
     },
     {
       "JFGCIPNCBJB": 200,
-      "FJECNNMMDGH": "ElementType_Physics",
+      "Name": "ElementType_Physics",
       "BGJIEGOEMEB": "Physics",
       "EDIIBJFHEFP": "ElementIconTitle_Physics",
       "MJCFHKMKFGL": "ElementIconText_Physics",
@@ -24,7 +24,7 @@
     },
     {
       "JFGCIPNCBJB": 201,
-      "FJECNNMMDGH": "ElementType_Fire",
+      "Name": "ElementType_Fire",
       "BGJIEGOEMEB": "Fire",
       "EDIIBJFHEFP": "ElementIconTitle_Fire",
       "MJCFHKMKFGL": "ElementIconText_Fire",
@@ -35,7 +35,7 @@
     },
     {
       "JFGCIPNCBJB": 202,
-      "FJECNNMMDGH": "ElementType_Ice",
+      "Name": "ElementType_Ice",
       "BGJIEGOEMEB": "Ice",
       "EDIIBJFHEFP": "ElementIconTitle_Ice",
       "MJCFHKMKFGL": "ElementIconText_Ice",
@@ -46,7 +46,7 @@
     },
     {
       "JFGCIPNCBJB": 203,
-      "FJECNNMMDGH": "ElementType_Elec",
+      "Name": "ElementType_Elec",
       "BGJIEGOEMEB": "Elec",
       "EDIIBJFHEFP": "ElementIconTitle_Elec",
       "MJCFHKMKFGL": "ElementIconText_Elec",
@@ -57,7 +57,7 @@
     },
     {
       "JFGCIPNCBJB": 205,
-      "FJECNNMMDGH": "ElementType_Ether",
+      "Name": "ElementType_Ether",
       "BGJIEGOEMEB": "Ether",
       "EDIIBJFHEFP": "ElementIconTitle_Ether",
       "MJCFHKMKFGL": "ElementIconText_Ether",

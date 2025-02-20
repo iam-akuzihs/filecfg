@@ -1,94 +1,94 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
-      "DIIDBBGLDOL": "ActorMaxCurHP",
+      "Name": "ActorMaxCurHP",
       "LKHGIFBNPNG": 4,
-      "LPOMPMJAFLK": 10000
+      "Value": 10000
     },
     {
-      "DIIDBBGLDOL": "EnableCardFusion",
+      "Name": "EnableCardFusion",
       "LKHGIFBNPNG": 3,
-      "LPOMPMJAFLK": 1
+      "Value": 1
     },
     {
-      "DIIDBBGLDOL": "EnableCardRefresh",
+      "Name": "EnableCardRefresh",
       "LKHGIFBNPNG": 4,
-      "LPOMPMJAFLK": 1
+      "Value": 1
     },
     {
-      "DIIDBBGLDOL": "EnableCardUpgrade",
+      "Name": "EnableCardUpgrade",
       "LKHGIFBNPNG": 4,
-      "LPOMPMJAFLK": 1
+      "Value": 1
     },
     {
-      "DIIDBBGLDOL": "EnableHpBuy",
+      "Name": "EnableHpBuy",
       "LKHGIFBNPNG": 5,
-      "LPOMPMJAFLK": 0
+      "Value": 0
     },
     {
-      "DIIDBBGLDOL": "EnableHpOverflowToCoin",
+      "Name": "EnableHpOverflowToCoin",
       "LKHGIFBNPNG": 5,
-      "LPOMPMJAFLK": 0
+      "Value": 0
     },
     {
-      "DIIDBBGLDOL": "Gold_Delta",
+      "Name": "Gold_Delta",
       "LKHGIFBNPNG": 2,
-      "LPOMPMJAFLK": 0
+      "Value": 0
     },
     {
-      "DIIDBBGLDOL": "Gold_Ratio",
+      "Name": "Gold_Ratio",
       "LKHGIFBNPNG": 2,
-      "LPOMPMJAFLK": 0
+      "Value": 0
     },
     {
-      "DIIDBBGLDOL": "HollowRetryTutorial",
+      "Name": "HollowRetryTutorial",
       "LKHGIFBNPNG": 7,
-      "LPOMPMJAFLK": 20017
+      "Value": 20017
     },
     {
-      "DIIDBBGLDOL": "HollowZeroCoinMaxNum",
+      "Name": "HollowZeroCoinMaxNum",
       "LKHGIFBNPNG": 2,
-      "LPOMPMJAFLK": 50000
+      "Value": 50000
     },
     {
-      "DIIDBBGLDOL": "Player_View",
+      "Name": "Player_View",
       "LKHGIFBNPNG": 4,
-      "LPOMPMJAFLK": 1
+      "Value": 1
     },
     {
-      "DIIDBBGLDOL": "Shop_Price",
+      "Name": "Shop_Price",
       "LKHGIFBNPNG": 8,
-      "LPOMPMJAFLK": 10000
+      "Value": 10000
     },
     {
-      "DIIDBBGLDOL": "Stamina",
+      "Name": "Stamina",
       "LKHGIFBNPNG": 1,
-      "LPOMPMJAFLK": 0
+      "Value": 0
     },
     {
-      "DIIDBBGLDOL": "Stamina_Delta",
+      "Name": "Stamina_Delta",
       "LKHGIFBNPNG": 1,
-      "LPOMPMJAFLK": 0
+      "Value": 0
     },
     {
-      "DIIDBBGLDOL": "Stamina_Increase",
+      "Name": "Stamina_Increase",
       "LKHGIFBNPNG": 1,
-      "LPOMPMJAFLK": 10
+      "Value": 10
     },
     {
-      "DIIDBBGLDOL": "Stamina_Max",
+      "Name": "Stamina_Max",
       "LKHGIFBNPNG": 1,
-      "LPOMPMJAFLK": 100
+      "Value": 100
     },
     {
-      "DIIDBBGLDOL": "Stamina_Ratio",
+      "Name": "Stamina_Ratio",
       "LKHGIFBNPNG": 1,
-      "LPOMPMJAFLK": 0
+      "Value": 0
     },
     {
-      "DIIDBBGLDOL": "Weather",
+      "Name": "Weather",
       "LKHGIFBNPNG": 7,
-      "LPOMPMJAFLK": 0
+      "Value": 0
     }
   ]
 }

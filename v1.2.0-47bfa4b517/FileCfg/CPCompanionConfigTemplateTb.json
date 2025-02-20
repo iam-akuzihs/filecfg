@@ -1,12 +1,12 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 201,
+      "ID": 201,
       "LDHFIJABHPO": [
         1,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_201_name",
+      "Name": "Arcade_CP_Companion_201_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_201_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -56,7 +56,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 202,
+      "ID": 202,
       "LDHFIJABHPO": [
         1,
         13,
@@ -65,7 +65,7 @@
         1,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_202_name",
+      "Name": "Arcade_CP_Companion_202_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_202_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -115,7 +115,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 204,
+      "ID": 204,
       "LDHFIJABHPO": [
         102,
         1,
@@ -125,7 +125,7 @@
         1,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_204_name",
+      "Name": "Arcade_CP_Companion_204_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_204_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -173,7 +173,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 205,
+      "ID": 205,
       "LDHFIJABHPO": [
         23,
         1,
@@ -183,7 +183,7 @@
         1,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_205_name",
+      "Name": "Arcade_CP_Companion_205_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_205_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -231,7 +231,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 208,
+      "ID": 208,
       "LDHFIJABHPO": [
         23,
         1,
@@ -241,7 +241,7 @@
         1,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_208_name",
+      "Name": "Arcade_CP_Companion_208_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_208_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -289,7 +289,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 209,
+      "ID": 209,
       "LDHFIJABHPO": [
         23,
         1,
@@ -299,7 +299,7 @@
         1,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_209_name",
+      "Name": "Arcade_CP_Companion_209_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_209_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -347,7 +347,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 210,
+      "ID": 210,
       "LDHFIJABHPO": [
         101,
         1,
@@ -357,7 +357,7 @@
         1,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_210_name",
+      "Name": "Arcade_CP_Companion_210_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_210_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -405,11 +405,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 301,
+      "ID": 301,
       "LDHFIJABHPO": [
         9
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_301_name",
+      "Name": "Arcade_CP_Companion_301_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_301_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -458,13 +458,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 302,
+      "ID": 302,
       "LDHFIJABHPO": [
         9,
         9,
         9
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_302_name",
+      "Name": "Arcade_CP_Companion_302_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_302_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -513,14 +513,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 304,
+      "ID": 304,
       "LDHFIJABHPO": [
         102,
         9,
         9,
         9
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_304_name",
+      "Name": "Arcade_CP_Companion_304_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_304_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -567,14 +567,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 305,
+      "ID": 305,
       "LDHFIJABHPO": [
         23,
         9,
         9,
         9
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_305_name",
+      "Name": "Arcade_CP_Companion_305_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_305_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -621,14 +621,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 308,
+      "ID": 308,
       "LDHFIJABHPO": [
         23,
         9,
         9,
         9
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_308_name",
+      "Name": "Arcade_CP_Companion_308_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_308_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -675,14 +675,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 309,
+      "ID": 309,
       "LDHFIJABHPO": [
         23,
         9,
         9,
         9
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_309_name",
+      "Name": "Arcade_CP_Companion_309_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_309_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -729,14 +729,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 310,
+      "ID": 310,
       "LDHFIJABHPO": [
         101,
         9,
         9,
         9
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_310_name",
+      "Name": "Arcade_CP_Companion_310_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_310_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -783,11 +783,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 401,
+      "ID": 401,
       "LDHFIJABHPO": [
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_401_name",
+      "Name": "Arcade_CP_Companion_401_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_401_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -836,13 +836,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 402,
+      "ID": 402,
       "LDHFIJABHPO": [
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_402_name",
+      "Name": "Arcade_CP_Companion_402_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_402_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -891,14 +891,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 404,
+      "ID": 404,
       "LDHFIJABHPO": [
         102,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_404_name",
+      "Name": "Arcade_CP_Companion_404_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_404_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -945,14 +945,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 405,
+      "ID": 405,
       "LDHFIJABHPO": [
         23,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_405_name",
+      "Name": "Arcade_CP_Companion_405_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_405_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -999,14 +999,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 408,
+      "ID": 408,
       "LDHFIJABHPO": [
         23,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_408_name",
+      "Name": "Arcade_CP_Companion_408_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_408_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1053,14 +1053,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 409,
+      "ID": 409,
       "LDHFIJABHPO": [
         23,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_409_name",
+      "Name": "Arcade_CP_Companion_409_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_409_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1107,14 +1107,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 410,
+      "ID": 410,
       "LDHFIJABHPO": [
         101,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_410_name",
+      "Name": "Arcade_CP_Companion_410_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_410_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1161,12 +1161,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 501,
+      "ID": 501,
       "LDHFIJABHPO": [
         15,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_501_name",
+      "Name": "Arcade_CP_Companion_501_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_501_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -1216,7 +1216,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 502,
+      "ID": 502,
       "LDHFIJABHPO": [
         15,
         4,
@@ -1225,7 +1225,7 @@
         15,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_502_name",
+      "Name": "Arcade_CP_Companion_502_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_502_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -1275,7 +1275,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 504,
+      "ID": 504,
       "LDHFIJABHPO": [
         102,
         15,
@@ -1285,7 +1285,7 @@
         15,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_504_name",
+      "Name": "Arcade_CP_Companion_504_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_504_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1333,7 +1333,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 505,
+      "ID": 505,
       "LDHFIJABHPO": [
         23,
         15,
@@ -1343,7 +1343,7 @@
         15,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_505_name",
+      "Name": "Arcade_CP_Companion_505_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_505_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1391,7 +1391,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 508,
+      "ID": 508,
       "LDHFIJABHPO": [
         23,
         15,
@@ -1401,7 +1401,7 @@
         15,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_508_name",
+      "Name": "Arcade_CP_Companion_508_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_508_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1449,7 +1449,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 509,
+      "ID": 509,
       "LDHFIJABHPO": [
         23,
         15,
@@ -1459,7 +1459,7 @@
         15,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_509_name",
+      "Name": "Arcade_CP_Companion_509_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_509_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1507,7 +1507,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 510,
+      "ID": 510,
       "LDHFIJABHPO": [
         101,
         15,
@@ -1517,7 +1517,7 @@
         15,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_510_name",
+      "Name": "Arcade_CP_Companion_510_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_510_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1565,12 +1565,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 601,
+      "ID": 601,
       "LDHFIJABHPO": [
         21,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_601_name",
+      "Name": "Arcade_CP_Companion_601_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_601_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -1619,7 +1619,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 602,
+      "ID": 602,
       "LDHFIJABHPO": [
         21,
         13,
@@ -1628,7 +1628,7 @@
         21,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_602_name",
+      "Name": "Arcade_CP_Companion_602_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_602_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -1677,7 +1677,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 604,
+      "ID": 604,
       "LDHFIJABHPO": [
         102,
         21,
@@ -1687,7 +1687,7 @@
         21,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_604_name",
+      "Name": "Arcade_CP_Companion_604_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_604_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1734,7 +1734,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 605,
+      "ID": 605,
       "LDHFIJABHPO": [
         23,
         21,
@@ -1744,7 +1744,7 @@
         21,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_605_name",
+      "Name": "Arcade_CP_Companion_605_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_605_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1791,7 +1791,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 608,
+      "ID": 608,
       "LDHFIJABHPO": [
         23,
         21,
@@ -1801,7 +1801,7 @@
         21,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_608_name",
+      "Name": "Arcade_CP_Companion_608_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_608_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1848,7 +1848,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 609,
+      "ID": 609,
       "LDHFIJABHPO": [
         23,
         21,
@@ -1858,7 +1858,7 @@
         21,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_609_name",
+      "Name": "Arcade_CP_Companion_609_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_609_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1905,7 +1905,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 610,
+      "ID": 610,
       "LDHFIJABHPO": [
         101,
         21,
@@ -1915,7 +1915,7 @@
         21,
         13
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_610_name",
+      "Name": "Arcade_CP_Companion_610_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_610_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -1962,11 +1962,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 701,
+      "ID": 701,
       "LDHFIJABHPO": [
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_701_name",
+      "Name": "Arcade_CP_Companion_701_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_701_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -2017,13 +2017,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 702,
+      "ID": 702,
       "LDHFIJABHPO": [
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_702_name",
+      "Name": "Arcade_CP_Companion_702_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_702_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -2074,14 +2074,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 704,
+      "ID": 704,
       "LDHFIJABHPO": [
         102,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_704_name",
+      "Name": "Arcade_CP_Companion_704_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_704_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2130,14 +2130,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 705,
+      "ID": 705,
       "LDHFIJABHPO": [
         23,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_705_name",
+      "Name": "Arcade_CP_Companion_705_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_705_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2186,14 +2186,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 708,
+      "ID": 708,
       "LDHFIJABHPO": [
         23,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_708_name",
+      "Name": "Arcade_CP_Companion_708_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_708_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2242,14 +2242,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 709,
+      "ID": 709,
       "LDHFIJABHPO": [
         23,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_709_name",
+      "Name": "Arcade_CP_Companion_709_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_709_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2298,14 +2298,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 710,
+      "ID": 710,
       "LDHFIJABHPO": [
         101,
         11,
         11,
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_710_name",
+      "Name": "Arcade_CP_Companion_710_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_710_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2354,12 +2354,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 801,
+      "ID": 801,
       "LDHFIJABHPO": [
         2,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_801_name",
+      "Name": "Arcade_CP_Companion_801_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_801_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -2409,7 +2409,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 802,
+      "ID": 802,
       "LDHFIJABHPO": [
         2,
         3,
@@ -2418,7 +2418,7 @@
         2,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_802_name",
+      "Name": "Arcade_CP_Companion_802_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_802_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -2468,7 +2468,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 804,
+      "ID": 804,
       "LDHFIJABHPO": [
         102,
         2,
@@ -2478,7 +2478,7 @@
         2,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_804_name",
+      "Name": "Arcade_CP_Companion_804_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_804_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2526,7 +2526,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 805,
+      "ID": 805,
       "LDHFIJABHPO": [
         23,
         2,
@@ -2536,7 +2536,7 @@
         2,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_805_name",
+      "Name": "Arcade_CP_Companion_805_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_805_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2584,7 +2584,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 808,
+      "ID": 808,
       "LDHFIJABHPO": [
         23,
         2,
@@ -2594,7 +2594,7 @@
         2,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_808_name",
+      "Name": "Arcade_CP_Companion_808_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_808_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2642,7 +2642,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 809,
+      "ID": 809,
       "LDHFIJABHPO": [
         23,
         2,
@@ -2652,7 +2652,7 @@
         2,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_809_name",
+      "Name": "Arcade_CP_Companion_809_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_809_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2700,7 +2700,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 810,
+      "ID": 810,
       "LDHFIJABHPO": [
         101,
         2,
@@ -2710,7 +2710,7 @@
         2,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_810_name",
+      "Name": "Arcade_CP_Companion_810_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_810_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2758,12 +2758,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 901,
+      "ID": 901,
       "LDHFIJABHPO": [
         9,
         15
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_901_name",
+      "Name": "Arcade_CP_Companion_901_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_901_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -2813,7 +2813,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 902,
+      "ID": 902,
       "LDHFIJABHPO": [
         9,
         15,
@@ -2822,7 +2822,7 @@
         9,
         15
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_902_name",
+      "Name": "Arcade_CP_Companion_902_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_902_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -2872,7 +2872,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 904,
+      "ID": 904,
       "LDHFIJABHPO": [
         102,
         9,
@@ -2882,7 +2882,7 @@
         9,
         15
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_904_name",
+      "Name": "Arcade_CP_Companion_904_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_904_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2930,7 +2930,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 905,
+      "ID": 905,
       "LDHFIJABHPO": [
         23,
         9,
@@ -2940,7 +2940,7 @@
         9,
         15
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_905_name",
+      "Name": "Arcade_CP_Companion_905_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_905_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -2988,7 +2988,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 908,
+      "ID": 908,
       "LDHFIJABHPO": [
         23,
         9,
@@ -2998,7 +2998,7 @@
         9,
         15
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_908_name",
+      "Name": "Arcade_CP_Companion_908_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_908_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3046,7 +3046,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 909,
+      "ID": 909,
       "LDHFIJABHPO": [
         23,
         9,
@@ -3056,7 +3056,7 @@
         9,
         15
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_909_name",
+      "Name": "Arcade_CP_Companion_909_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_909_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3104,7 +3104,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 910,
+      "ID": 910,
       "LDHFIJABHPO": [
         101,
         9,
@@ -3114,7 +3114,7 @@
         9,
         15
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_910_name",
+      "Name": "Arcade_CP_Companion_910_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_910_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3162,12 +3162,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1001,
+      "ID": 1001,
       "LDHFIJABHPO": [
         1,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1001_name",
+      "Name": "Arcade_CP_Companion_1001_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1001_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -3216,7 +3216,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1002,
+      "ID": 1002,
       "LDHFIJABHPO": [
         1,
         4,
@@ -3225,7 +3225,7 @@
         1,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1002_name",
+      "Name": "Arcade_CP_Companion_1002_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1002_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -3274,7 +3274,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1004,
+      "ID": 1004,
       "LDHFIJABHPO": [
         102,
         1,
@@ -3284,7 +3284,7 @@
         1,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1004_name",
+      "Name": "Arcade_CP_Companion_1004_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1004_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3331,7 +3331,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1005,
+      "ID": 1005,
       "LDHFIJABHPO": [
         23,
         1,
@@ -3341,7 +3341,7 @@
         1,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1005_name",
+      "Name": "Arcade_CP_Companion_1005_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1005_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3388,7 +3388,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1008,
+      "ID": 1008,
       "LDHFIJABHPO": [
         23,
         1,
@@ -3398,7 +3398,7 @@
         1,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1008_name",
+      "Name": "Arcade_CP_Companion_1008_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1008_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3445,7 +3445,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1009,
+      "ID": 1009,
       "LDHFIJABHPO": [
         23,
         1,
@@ -3455,7 +3455,7 @@
         1,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1009_name",
+      "Name": "Arcade_CP_Companion_1009_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1009_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3502,7 +3502,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1010,
+      "ID": 1010,
       "LDHFIJABHPO": [
         101,
         1,
@@ -3512,7 +3512,7 @@
         1,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1010_name",
+      "Name": "Arcade_CP_Companion_1010_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1010_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3559,11 +3559,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1101,
+      "ID": 1101,
       "LDHFIJABHPO": [
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1101_name",
+      "Name": "Arcade_CP_Companion_1101_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1101_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -3613,13 +3613,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1102,
+      "ID": 1102,
       "LDHFIJABHPO": [
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1102_name",
+      "Name": "Arcade_CP_Companion_1102_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1102_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -3669,14 +3669,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1104,
+      "ID": 1104,
       "LDHFIJABHPO": [
         102,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1104_name",
+      "Name": "Arcade_CP_Companion_1104_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1104_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3724,14 +3724,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1105,
+      "ID": 1105,
       "LDHFIJABHPO": [
         23,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1105_name",
+      "Name": "Arcade_CP_Companion_1105_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1105_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3779,14 +3779,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1108,
+      "ID": 1108,
       "LDHFIJABHPO": [
         23,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1108_name",
+      "Name": "Arcade_CP_Companion_1108_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1108_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3834,14 +3834,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1109,
+      "ID": 1109,
       "LDHFIJABHPO": [
         23,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1109_name",
+      "Name": "Arcade_CP_Companion_1109_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1109_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3889,14 +3889,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1110,
+      "ID": 1110,
       "LDHFIJABHPO": [
         101,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1110_name",
+      "Name": "Arcade_CP_Companion_1110_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1110_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -3944,11 +3944,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1201,
+      "ID": 1201,
       "LDHFIJABHPO": [
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1201_name",
+      "Name": "Arcade_CP_Companion_1201_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1201_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -3998,13 +3998,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1202,
+      "ID": 1202,
       "LDHFIJABHPO": [
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1202_name",
+      "Name": "Arcade_CP_Companion_1202_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1202_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -4054,14 +4054,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1204,
+      "ID": 1204,
       "LDHFIJABHPO": [
         102,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1204_name",
+      "Name": "Arcade_CP_Companion_1204_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1204_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4109,14 +4109,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1205,
+      "ID": 1205,
       "LDHFIJABHPO": [
         23,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1205_name",
+      "Name": "Arcade_CP_Companion_1205_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1205_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4164,14 +4164,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1208,
+      "ID": 1208,
       "LDHFIJABHPO": [
         23,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1208_name",
+      "Name": "Arcade_CP_Companion_1208_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1208_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4219,14 +4219,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1209,
+      "ID": 1209,
       "LDHFIJABHPO": [
         23,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1209_name",
+      "Name": "Arcade_CP_Companion_1209_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1209_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4274,14 +4274,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1210,
+      "ID": 1210,
       "LDHFIJABHPO": [
         101,
         8,
         8,
         8
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1210_name",
+      "Name": "Arcade_CP_Companion_1210_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1210_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4329,12 +4329,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1301,
+      "ID": 1301,
       "LDHFIJABHPO": [
         11,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1301_name",
+      "Name": "Arcade_CP_Companion_1301_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1301_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -4384,7 +4384,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1302,
+      "ID": 1302,
       "LDHFIJABHPO": [
         11,
         2,
@@ -4393,7 +4393,7 @@
         11,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1302_name",
+      "Name": "Arcade_CP_Companion_1302_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1302_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -4443,7 +4443,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1304,
+      "ID": 1304,
       "LDHFIJABHPO": [
         102,
         11,
@@ -4453,7 +4453,7 @@
         11,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1304_name",
+      "Name": "Arcade_CP_Companion_1304_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1304_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4501,7 +4501,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1305,
+      "ID": 1305,
       "LDHFIJABHPO": [
         23,
         11,
@@ -4511,7 +4511,7 @@
         11,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1305_name",
+      "Name": "Arcade_CP_Companion_1305_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1305_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4559,7 +4559,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1308,
+      "ID": 1308,
       "LDHFIJABHPO": [
         23,
         11,
@@ -4569,7 +4569,7 @@
         11,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1308_name",
+      "Name": "Arcade_CP_Companion_1308_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1308_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4617,7 +4617,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1309,
+      "ID": 1309,
       "LDHFIJABHPO": [
         23,
         11,
@@ -4627,7 +4627,7 @@
         11,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1309_name",
+      "Name": "Arcade_CP_Companion_1309_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1309_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4675,7 +4675,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1310,
+      "ID": 1310,
       "LDHFIJABHPO": [
         101,
         11,
@@ -4685,7 +4685,7 @@
         11,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1310_name",
+      "Name": "Arcade_CP_Companion_1310_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1310_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4733,12 +4733,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1401,
+      "ID": 1401,
       "LDHFIJABHPO": [
         7,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1401_name",
+      "Name": "Arcade_CP_Companion_1401_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1401_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -4788,7 +4788,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1402,
+      "ID": 1402,
       "LDHFIJABHPO": [
         7,
         14,
@@ -4797,7 +4797,7 @@
         7,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1402_name",
+      "Name": "Arcade_CP_Companion_1402_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1402_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -4847,7 +4847,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1404,
+      "ID": 1404,
       "LDHFIJABHPO": [
         102,
         7,
@@ -4857,7 +4857,7 @@
         7,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1404_name",
+      "Name": "Arcade_CP_Companion_1404_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1404_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4905,7 +4905,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1405,
+      "ID": 1405,
       "LDHFIJABHPO": [
         23,
         7,
@@ -4915,7 +4915,7 @@
         7,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1405_name",
+      "Name": "Arcade_CP_Companion_1405_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1405_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -4963,7 +4963,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1408,
+      "ID": 1408,
       "LDHFIJABHPO": [
         23,
         7,
@@ -4973,7 +4973,7 @@
         7,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1408_name",
+      "Name": "Arcade_CP_Companion_1408_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1408_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5021,7 +5021,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1409,
+      "ID": 1409,
       "LDHFIJABHPO": [
         23,
         7,
@@ -5031,7 +5031,7 @@
         7,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1409_name",
+      "Name": "Arcade_CP_Companion_1409_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1409_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5079,7 +5079,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1410,
+      "ID": 1410,
       "LDHFIJABHPO": [
         101,
         7,
@@ -5089,7 +5089,7 @@
         7,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1410_name",
+      "Name": "Arcade_CP_Companion_1410_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1410_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5137,12 +5137,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1501,
+      "ID": 1501,
       "LDHFIJABHPO": [
         6,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1501_name",
+      "Name": "Arcade_CP_Companion_1501_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1501_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -5192,7 +5192,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1502,
+      "ID": 1502,
       "LDHFIJABHPO": [
         6,
         5,
@@ -5201,7 +5201,7 @@
         6,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1502_name",
+      "Name": "Arcade_CP_Companion_1502_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1502_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -5251,7 +5251,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1504,
+      "ID": 1504,
       "LDHFIJABHPO": [
         102,
         6,
@@ -5261,7 +5261,7 @@
         6,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1504_name",
+      "Name": "Arcade_CP_Companion_1504_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1504_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5309,7 +5309,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1505,
+      "ID": 1505,
       "LDHFIJABHPO": [
         23,
         6,
@@ -5319,7 +5319,7 @@
         6,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1505_name",
+      "Name": "Arcade_CP_Companion_1505_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1505_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5367,7 +5367,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1508,
+      "ID": 1508,
       "LDHFIJABHPO": [
         23,
         6,
@@ -5377,7 +5377,7 @@
         6,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1508_name",
+      "Name": "Arcade_CP_Companion_1508_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1508_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5425,7 +5425,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1509,
+      "ID": 1509,
       "LDHFIJABHPO": [
         23,
         6,
@@ -5435,7 +5435,7 @@
         6,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1509_name",
+      "Name": "Arcade_CP_Companion_1509_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1509_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5483,7 +5483,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1510,
+      "ID": 1510,
       "LDHFIJABHPO": [
         101,
         6,
@@ -5493,7 +5493,7 @@
         6,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1510_name",
+      "Name": "Arcade_CP_Companion_1510_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1510_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5541,12 +5541,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1601,
+      "ID": 1601,
       "LDHFIJABHPO": [
         15,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1601_name",
+      "Name": "Arcade_CP_Companion_1601_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1601_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -5596,7 +5596,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1602,
+      "ID": 1602,
       "LDHFIJABHPO": [
         15,
         16,
@@ -5605,7 +5605,7 @@
         15,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1602_name",
+      "Name": "Arcade_CP_Companion_1602_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1602_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -5655,7 +5655,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1604,
+      "ID": 1604,
       "LDHFIJABHPO": [
         102,
         15,
@@ -5665,7 +5665,7 @@
         15,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1604_name",
+      "Name": "Arcade_CP_Companion_1604_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1604_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5713,7 +5713,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1605,
+      "ID": 1605,
       "LDHFIJABHPO": [
         23,
         15,
@@ -5723,7 +5723,7 @@
         15,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1605_name",
+      "Name": "Arcade_CP_Companion_1605_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1605_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5771,7 +5771,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1608,
+      "ID": 1608,
       "LDHFIJABHPO": [
         23,
         15,
@@ -5781,7 +5781,7 @@
         15,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1608_name",
+      "Name": "Arcade_CP_Companion_1608_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1608_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5829,7 +5829,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1609,
+      "ID": 1609,
       "LDHFIJABHPO": [
         23,
         15,
@@ -5839,7 +5839,7 @@
         15,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1609_name",
+      "Name": "Arcade_CP_Companion_1609_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1609_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5887,7 +5887,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1610,
+      "ID": 1610,
       "LDHFIJABHPO": [
         101,
         15,
@@ -5897,7 +5897,7 @@
         15,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1610_name",
+      "Name": "Arcade_CP_Companion_1610_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1610_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -5945,11 +5945,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1701,
+      "ID": 1701,
       "LDHFIJABHPO": [
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1701_name",
+      "Name": "Arcade_CP_Companion_1701_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1701_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -5998,13 +5998,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1702,
+      "ID": 1702,
       "LDHFIJABHPO": [
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1702_name",
+      "Name": "Arcade_CP_Companion_1702_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1702_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -6053,14 +6053,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1704,
+      "ID": 1704,
       "LDHFIJABHPO": [
         102,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1704_name",
+      "Name": "Arcade_CP_Companion_1704_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1704_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6107,14 +6107,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1705,
+      "ID": 1705,
       "LDHFIJABHPO": [
         23,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1705_name",
+      "Name": "Arcade_CP_Companion_1705_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1705_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6161,14 +6161,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1708,
+      "ID": 1708,
       "LDHFIJABHPO": [
         23,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1708_name",
+      "Name": "Arcade_CP_Companion_1708_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1708_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6215,14 +6215,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1709,
+      "ID": 1709,
       "LDHFIJABHPO": [
         23,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1709_name",
+      "Name": "Arcade_CP_Companion_1709_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1709_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6269,14 +6269,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1710,
+      "ID": 1710,
       "LDHFIJABHPO": [
         101,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1710_name",
+      "Name": "Arcade_CP_Companion_1710_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1710_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6323,11 +6323,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1801,
+      "ID": 1801,
       "LDHFIJABHPO": [
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1801_name",
+      "Name": "Arcade_CP_Companion_1801_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1801_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -6377,13 +6377,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1802,
+      "ID": 1802,
       "LDHFIJABHPO": [
         3,
         3,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1802_name",
+      "Name": "Arcade_CP_Companion_1802_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1802_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -6433,14 +6433,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1804,
+      "ID": 1804,
       "LDHFIJABHPO": [
         102,
         3,
         3,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1804_name",
+      "Name": "Arcade_CP_Companion_1804_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1804_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6488,14 +6488,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1805,
+      "ID": 1805,
       "LDHFIJABHPO": [
         23,
         3,
         3,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1805_name",
+      "Name": "Arcade_CP_Companion_1805_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1805_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6543,14 +6543,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1808,
+      "ID": 1808,
       "LDHFIJABHPO": [
         23,
         3,
         3,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1808_name",
+      "Name": "Arcade_CP_Companion_1808_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1808_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6598,14 +6598,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1809,
+      "ID": 1809,
       "LDHFIJABHPO": [
         23,
         3,
         3,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1809_name",
+      "Name": "Arcade_CP_Companion_1809_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1809_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6653,14 +6653,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1810,
+      "ID": 1810,
       "LDHFIJABHPO": [
         101,
         3,
         3,
         3
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1810_name",
+      "Name": "Arcade_CP_Companion_1810_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1810_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6708,12 +6708,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1901,
+      "ID": 1901,
       "LDHFIJABHPO": [
         12,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1901_name",
+      "Name": "Arcade_CP_Companion_1901_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1901_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -6763,7 +6763,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 1902,
+      "ID": 1902,
       "LDHFIJABHPO": [
         12,
         14,
@@ -6772,7 +6772,7 @@
         12,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1902_name",
+      "Name": "Arcade_CP_Companion_1902_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1902_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -6822,7 +6822,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1904,
+      "ID": 1904,
       "LDHFIJABHPO": [
         102,
         12,
@@ -6832,7 +6832,7 @@
         12,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1904_name",
+      "Name": "Arcade_CP_Companion_1904_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1904_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6880,7 +6880,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1905,
+      "ID": 1905,
       "LDHFIJABHPO": [
         23,
         12,
@@ -6890,7 +6890,7 @@
         12,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1905_name",
+      "Name": "Arcade_CP_Companion_1905_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1905_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6938,7 +6938,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1908,
+      "ID": 1908,
       "LDHFIJABHPO": [
         23,
         12,
@@ -6948,7 +6948,7 @@
         12,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1908_name",
+      "Name": "Arcade_CP_Companion_1908_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1908_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -6996,7 +6996,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1909,
+      "ID": 1909,
       "LDHFIJABHPO": [
         23,
         12,
@@ -7006,7 +7006,7 @@
         12,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1909_name",
+      "Name": "Arcade_CP_Companion_1909_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1909_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7054,7 +7054,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 1910,
+      "ID": 1910,
       "LDHFIJABHPO": [
         101,
         12,
@@ -7064,7 +7064,7 @@
         12,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_1910_name",
+      "Name": "Arcade_CP_Companion_1910_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_1910_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7112,12 +7112,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2001,
+      "ID": 2001,
       "LDHFIJABHPO": [
         2,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2001_name",
+      "Name": "Arcade_CP_Companion_2001_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2001_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -7167,7 +7167,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2002,
+      "ID": 2002,
       "LDHFIJABHPO": [
         2,
         16,
@@ -7176,7 +7176,7 @@
         2,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2002_name",
+      "Name": "Arcade_CP_Companion_2002_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2002_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -7226,7 +7226,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2004,
+      "ID": 2004,
       "LDHFIJABHPO": [
         102,
         2,
@@ -7236,7 +7236,7 @@
         2,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2004_name",
+      "Name": "Arcade_CP_Companion_2004_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2004_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7284,7 +7284,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2005,
+      "ID": 2005,
       "LDHFIJABHPO": [
         23,
         2,
@@ -7294,7 +7294,7 @@
         2,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2005_name",
+      "Name": "Arcade_CP_Companion_2005_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2005_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7342,7 +7342,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2008,
+      "ID": 2008,
       "LDHFIJABHPO": [
         23,
         2,
@@ -7352,7 +7352,7 @@
         2,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2008_name",
+      "Name": "Arcade_CP_Companion_2008_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2008_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7400,7 +7400,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2009,
+      "ID": 2009,
       "LDHFIJABHPO": [
         23,
         2,
@@ -7410,7 +7410,7 @@
         2,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2009_name",
+      "Name": "Arcade_CP_Companion_2009_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2009_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7458,7 +7458,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2010,
+      "ID": 2010,
       "LDHFIJABHPO": [
         101,
         2,
@@ -7468,7 +7468,7 @@
         2,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2010_name",
+      "Name": "Arcade_CP_Companion_2010_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2010_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7516,12 +7516,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2101,
+      "ID": 2101,
       "LDHFIJABHPO": [
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2101_name",
+      "Name": "Arcade_CP_Companion_2101_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2101_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -7571,7 +7571,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2102,
+      "ID": 2102,
       "LDHFIJABHPO": [
         21,
         5,
@@ -7580,7 +7580,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2102_name",
+      "Name": "Arcade_CP_Companion_2102_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2102_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -7630,7 +7630,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2104,
+      "ID": 2104,
       "LDHFIJABHPO": [
         102,
         21,
@@ -7640,7 +7640,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2104_name",
+      "Name": "Arcade_CP_Companion_2104_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2104_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7688,7 +7688,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2105,
+      "ID": 2105,
       "LDHFIJABHPO": [
         23,
         21,
@@ -7698,7 +7698,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2105_name",
+      "Name": "Arcade_CP_Companion_2105_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2105_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7746,7 +7746,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2108,
+      "ID": 2108,
       "LDHFIJABHPO": [
         23,
         21,
@@ -7756,7 +7756,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2108_name",
+      "Name": "Arcade_CP_Companion_2108_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2108_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7804,7 +7804,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2109,
+      "ID": 2109,
       "LDHFIJABHPO": [
         23,
         21,
@@ -7814,7 +7814,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2109_name",
+      "Name": "Arcade_CP_Companion_2109_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2109_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7862,7 +7862,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2110,
+      "ID": 2110,
       "LDHFIJABHPO": [
         101,
         21,
@@ -7872,7 +7872,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2110_name",
+      "Name": "Arcade_CP_Companion_2110_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2110_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -7920,12 +7920,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2201,
+      "ID": 2201,
       "LDHFIJABHPO": [
         21,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2201_name",
+      "Name": "Arcade_CP_Companion_2201_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2201_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -7975,7 +7975,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2202,
+      "ID": 2202,
       "LDHFIJABHPO": [
         21,
         12,
@@ -7984,7 +7984,7 @@
         21,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2202_name",
+      "Name": "Arcade_CP_Companion_2202_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2202_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -8034,7 +8034,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2204,
+      "ID": 2204,
       "LDHFIJABHPO": [
         102,
         21,
@@ -8044,7 +8044,7 @@
         21,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2204_name",
+      "Name": "Arcade_CP_Companion_2204_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2204_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8092,7 +8092,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2205,
+      "ID": 2205,
       "LDHFIJABHPO": [
         23,
         21,
@@ -8102,7 +8102,7 @@
         21,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2205_name",
+      "Name": "Arcade_CP_Companion_2205_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2205_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8150,7 +8150,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2208,
+      "ID": 2208,
       "LDHFIJABHPO": [
         23,
         21,
@@ -8160,7 +8160,7 @@
         21,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2208_name",
+      "Name": "Arcade_CP_Companion_2208_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2208_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8208,7 +8208,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2209,
+      "ID": 2209,
       "LDHFIJABHPO": [
         23,
         21,
@@ -8218,7 +8218,7 @@
         21,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2209_name",
+      "Name": "Arcade_CP_Companion_2209_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2209_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8266,7 +8266,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2210,
+      "ID": 2210,
       "LDHFIJABHPO": [
         101,
         21,
@@ -8276,7 +8276,7 @@
         21,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2210_name",
+      "Name": "Arcade_CP_Companion_2210_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2210_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8324,12 +8324,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2301,
+      "ID": 2301,
       "LDHFIJABHPO": [
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2301_name",
+      "Name": "Arcade_CP_Companion_2301_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2301_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -8379,7 +8379,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2302,
+      "ID": 2302,
       "LDHFIJABHPO": [
         21,
         5,
@@ -8388,7 +8388,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2302_name",
+      "Name": "Arcade_CP_Companion_2302_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2302_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -8437,7 +8437,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2304,
+      "ID": 2304,
       "LDHFIJABHPO": [
         102,
         21,
@@ -8447,7 +8447,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2304_name",
+      "Name": "Arcade_CP_Companion_2304_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2304_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8494,7 +8494,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2305,
+      "ID": 2305,
       "LDHFIJABHPO": [
         23,
         21,
@@ -8504,7 +8504,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2305_name",
+      "Name": "Arcade_CP_Companion_2305_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2305_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8551,7 +8551,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2308,
+      "ID": 2308,
       "LDHFIJABHPO": [
         23,
         21,
@@ -8561,7 +8561,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2308_name",
+      "Name": "Arcade_CP_Companion_2308_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2308_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8608,7 +8608,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2309,
+      "ID": 2309,
       "LDHFIJABHPO": [
         23,
         21,
@@ -8618,7 +8618,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2309_name",
+      "Name": "Arcade_CP_Companion_2309_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2309_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8665,7 +8665,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2310,
+      "ID": 2310,
       "LDHFIJABHPO": [
         101,
         21,
@@ -8675,7 +8675,7 @@
         21,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2310_name",
+      "Name": "Arcade_CP_Companion_2310_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2310_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8722,11 +8722,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2401,
+      "ID": 2401,
       "LDHFIJABHPO": [
         1
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2401_name",
+      "Name": "Arcade_CP_Companion_2401_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2401_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -8777,13 +8777,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2402,
+      "ID": 2402,
       "LDHFIJABHPO": [
         1,
         1,
         1
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2402_name",
+      "Name": "Arcade_CP_Companion_2402_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2402_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -8834,14 +8834,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2404,
+      "ID": 2404,
       "LDHFIJABHPO": [
         102,
         1,
         1,
         1
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2404_name",
+      "Name": "Arcade_CP_Companion_2404_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2404_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8890,14 +8890,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2405,
+      "ID": 2405,
       "LDHFIJABHPO": [
         23,
         1,
         1,
         1
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2405_name",
+      "Name": "Arcade_CP_Companion_2405_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2405_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -8946,14 +8946,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2408,
+      "ID": 2408,
       "LDHFIJABHPO": [
         23,
         1,
         1,
         1
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2408_name",
+      "Name": "Arcade_CP_Companion_2408_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2408_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9002,14 +9002,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2409,
+      "ID": 2409,
       "LDHFIJABHPO": [
         23,
         1,
         1,
         1
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2409_name",
+      "Name": "Arcade_CP_Companion_2409_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2409_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9058,14 +9058,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2410,
+      "ID": 2410,
       "LDHFIJABHPO": [
         101,
         1,
         1,
         1
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2410_name",
+      "Name": "Arcade_CP_Companion_2410_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2410_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9114,11 +9114,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2501,
+      "ID": 2501,
       "LDHFIJABHPO": [
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2501_name",
+      "Name": "Arcade_CP_Companion_2501_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2501_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -9167,13 +9167,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2502,
+      "ID": 2502,
       "LDHFIJABHPO": [
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2502_name",
+      "Name": "Arcade_CP_Companion_2502_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2502_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -9222,14 +9222,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2504,
+      "ID": 2504,
       "LDHFIJABHPO": [
         102,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2504_name",
+      "Name": "Arcade_CP_Companion_2504_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2504_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9276,14 +9276,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2505,
+      "ID": 2505,
       "LDHFIJABHPO": [
         23,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2505_name",
+      "Name": "Arcade_CP_Companion_2505_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2505_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9330,14 +9330,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2508,
+      "ID": 2508,
       "LDHFIJABHPO": [
         23,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2508_name",
+      "Name": "Arcade_CP_Companion_2508_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2508_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9384,14 +9384,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2509,
+      "ID": 2509,
       "LDHFIJABHPO": [
         23,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2509_name",
+      "Name": "Arcade_CP_Companion_2509_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2509_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9438,14 +9438,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2510,
+      "ID": 2510,
       "LDHFIJABHPO": [
         101,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2510_name",
+      "Name": "Arcade_CP_Companion_2510_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2510_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9492,11 +9492,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2601,
+      "ID": 2601,
       "LDHFIJABHPO": [
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2601_name",
+      "Name": "Arcade_CP_Companion_2601_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2601_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -9545,13 +9545,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2602,
+      "ID": 2602,
       "LDHFIJABHPO": [
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2602_name",
+      "Name": "Arcade_CP_Companion_2602_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2602_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -9600,14 +9600,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2604,
+      "ID": 2604,
       "LDHFIJABHPO": [
         102,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2604_name",
+      "Name": "Arcade_CP_Companion_2604_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2604_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9654,14 +9654,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2605,
+      "ID": 2605,
       "LDHFIJABHPO": [
         23,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2605_name",
+      "Name": "Arcade_CP_Companion_2605_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2605_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9708,14 +9708,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2608,
+      "ID": 2608,
       "LDHFIJABHPO": [
         23,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2608_name",
+      "Name": "Arcade_CP_Companion_2608_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2608_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9762,14 +9762,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2609,
+      "ID": 2609,
       "LDHFIJABHPO": [
         23,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2609_name",
+      "Name": "Arcade_CP_Companion_2609_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2609_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9816,14 +9816,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2610,
+      "ID": 2610,
       "LDHFIJABHPO": [
         101,
         12,
         12,
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2610_name",
+      "Name": "Arcade_CP_Companion_2610_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2610_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -9870,11 +9870,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2701,
+      "ID": 2701,
       "LDHFIJABHPO": [
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2701_name",
+      "Name": "Arcade_CP_Companion_2701_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2701_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -9924,13 +9924,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2702,
+      "ID": 2702,
       "LDHFIJABHPO": [
         16,
         16,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2702_name",
+      "Name": "Arcade_CP_Companion_2702_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2702_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -9980,14 +9980,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2704,
+      "ID": 2704,
       "LDHFIJABHPO": [
         102,
         16,
         16,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2704_name",
+      "Name": "Arcade_CP_Companion_2704_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2704_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10035,14 +10035,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2705,
+      "ID": 2705,
       "LDHFIJABHPO": [
         23,
         16,
         16,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2705_name",
+      "Name": "Arcade_CP_Companion_2705_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2705_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10090,14 +10090,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2708,
+      "ID": 2708,
       "LDHFIJABHPO": [
         23,
         16,
         16,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2708_name",
+      "Name": "Arcade_CP_Companion_2708_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2708_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10145,14 +10145,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2709,
+      "ID": 2709,
       "LDHFIJABHPO": [
         23,
         16,
         16,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2709_name",
+      "Name": "Arcade_CP_Companion_2709_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2709_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10200,14 +10200,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2710,
+      "ID": 2710,
       "LDHFIJABHPO": [
         101,
         16,
         16,
         16
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2710_name",
+      "Name": "Arcade_CP_Companion_2710_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2710_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10255,11 +10255,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2801,
+      "ID": 2801,
       "LDHFIJABHPO": [
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2801_name",
+      "Name": "Arcade_CP_Companion_2801_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2801_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -10309,13 +10309,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2802,
+      "ID": 2802,
       "LDHFIJABHPO": [
         2,
         2,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2802_name",
+      "Name": "Arcade_CP_Companion_2802_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2802_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -10365,14 +10365,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2804,
+      "ID": 2804,
       "LDHFIJABHPO": [
         102,
         2,
         2,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2804_name",
+      "Name": "Arcade_CP_Companion_2804_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2804_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10420,14 +10420,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2805,
+      "ID": 2805,
       "LDHFIJABHPO": [
         23,
         2,
         2,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2805_name",
+      "Name": "Arcade_CP_Companion_2805_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2805_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10475,14 +10475,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2808,
+      "ID": 2808,
       "LDHFIJABHPO": [
         23,
         2,
         2,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2808_name",
+      "Name": "Arcade_CP_Companion_2808_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2808_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10530,14 +10530,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2809,
+      "ID": 2809,
       "LDHFIJABHPO": [
         23,
         2,
         2,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2809_name",
+      "Name": "Arcade_CP_Companion_2809_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2809_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10585,14 +10585,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2810,
+      "ID": 2810,
       "LDHFIJABHPO": [
         101,
         2,
         2,
         2
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2810_name",
+      "Name": "Arcade_CP_Companion_2810_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2810_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10640,12 +10640,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2901,
+      "ID": 2901,
       "LDHFIJABHPO": [
         14,
         7
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2901_name",
+      "Name": "Arcade_CP_Companion_2901_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2901_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -10694,7 +10694,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 2902,
+      "ID": 2902,
       "LDHFIJABHPO": [
         14,
         7,
@@ -10703,7 +10703,7 @@
         14,
         7
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2902_name",
+      "Name": "Arcade_CP_Companion_2902_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2902_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -10752,7 +10752,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2904,
+      "ID": 2904,
       "LDHFIJABHPO": [
         102,
         14,
@@ -10762,7 +10762,7 @@
         14,
         7
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2904_name",
+      "Name": "Arcade_CP_Companion_2904_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2904_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10809,7 +10809,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2905,
+      "ID": 2905,
       "LDHFIJABHPO": [
         23,
         14,
@@ -10819,7 +10819,7 @@
         14,
         7
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2905_name",
+      "Name": "Arcade_CP_Companion_2905_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2905_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10866,7 +10866,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2908,
+      "ID": 2908,
       "LDHFIJABHPO": [
         23,
         14,
@@ -10876,7 +10876,7 @@
         14,
         7
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2908_name",
+      "Name": "Arcade_CP_Companion_2908_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2908_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10923,7 +10923,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2909,
+      "ID": 2909,
       "LDHFIJABHPO": [
         23,
         14,
@@ -10933,7 +10933,7 @@
         14,
         7
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2909_name",
+      "Name": "Arcade_CP_Companion_2909_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2909_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -10980,7 +10980,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 2910,
+      "ID": 2910,
       "LDHFIJABHPO": [
         101,
         14,
@@ -10990,7 +10990,7 @@
         14,
         7
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_2910_name",
+      "Name": "Arcade_CP_Companion_2910_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_2910_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11037,12 +11037,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3001,
+      "ID": 3001,
       "LDHFIJABHPO": [
         14,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3001_name",
+      "Name": "Arcade_CP_Companion_3001_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3001_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -11091,7 +11091,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 3002,
+      "ID": 3002,
       "LDHFIJABHPO": [
         14,
         5,
@@ -11100,7 +11100,7 @@
         14,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3002_name",
+      "Name": "Arcade_CP_Companion_3002_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3002_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -11149,7 +11149,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3004,
+      "ID": 3004,
       "LDHFIJABHPO": [
         102,
         14,
@@ -11159,7 +11159,7 @@
         14,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3004_name",
+      "Name": "Arcade_CP_Companion_3004_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3004_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11206,7 +11206,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3005,
+      "ID": 3005,
       "LDHFIJABHPO": [
         23,
         14,
@@ -11216,7 +11216,7 @@
         14,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3005_name",
+      "Name": "Arcade_CP_Companion_3005_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3005_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11263,7 +11263,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3008,
+      "ID": 3008,
       "LDHFIJABHPO": [
         23,
         14,
@@ -11273,7 +11273,7 @@
         14,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3008_name",
+      "Name": "Arcade_CP_Companion_3008_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3008_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11320,7 +11320,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3009,
+      "ID": 3009,
       "LDHFIJABHPO": [
         23,
         14,
@@ -11330,7 +11330,7 @@
         14,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3009_name",
+      "Name": "Arcade_CP_Companion_3009_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3009_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11377,7 +11377,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3010,
+      "ID": 3010,
       "LDHFIJABHPO": [
         101,
         14,
@@ -11387,7 +11387,7 @@
         14,
         5
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3010_name",
+      "Name": "Arcade_CP_Companion_3010_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3010_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11434,11 +11434,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3101,
+      "ID": 3101,
       "LDHFIJABHPO": [
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3101_name",
+      "Name": "Arcade_CP_Companion_3101_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3101_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -11487,13 +11487,13 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 3102,
+      "ID": 3102,
       "LDHFIJABHPO": [
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3102_name",
+      "Name": "Arcade_CP_Companion_3102_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3102_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -11542,14 +11542,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3104,
+      "ID": 3104,
       "LDHFIJABHPO": [
         102,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3104_name",
+      "Name": "Arcade_CP_Companion_3104_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3104_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11596,14 +11596,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3105,
+      "ID": 3105,
       "LDHFIJABHPO": [
         23,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3105_name",
+      "Name": "Arcade_CP_Companion_3105_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3105_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11650,14 +11650,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3108,
+      "ID": 3108,
       "LDHFIJABHPO": [
         23,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3108_name",
+      "Name": "Arcade_CP_Companion_3108_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3108_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11704,14 +11704,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3109,
+      "ID": 3109,
       "LDHFIJABHPO": [
         23,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3109_name",
+      "Name": "Arcade_CP_Companion_3109_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3109_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11758,14 +11758,14 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3110,
+      "ID": 3110,
       "LDHFIJABHPO": [
         101,
         6,
         6,
         6
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3110_name",
+      "Name": "Arcade_CP_Companion_3110_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3110_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11812,12 +11812,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3201,
+      "ID": 3201,
       "LDHFIJABHPO": [
         11,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3201_name",
+      "Name": "Arcade_CP_Companion_3201_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3201_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -11867,7 +11867,7 @@
       "HHFCCPLNMOH": 1
     },
     {
-      "DKDDFEIAMIF": 3202,
+      "ID": 3202,
       "LDHFIJABHPO": [
         11,
         4,
@@ -11876,7 +11876,7 @@
         11,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3202_name",
+      "Name": "Arcade_CP_Companion_3202_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3202_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -11926,7 +11926,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3204,
+      "ID": 3204,
       "LDHFIJABHPO": [
         102,
         11,
@@ -11936,7 +11936,7 @@
         11,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3204_name",
+      "Name": "Arcade_CP_Companion_3204_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3204_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -11984,7 +11984,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3205,
+      "ID": 3205,
       "LDHFIJABHPO": [
         23,
         11,
@@ -11994,7 +11994,7 @@
         11,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3205_name",
+      "Name": "Arcade_CP_Companion_3205_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3205_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -12042,7 +12042,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3208,
+      "ID": 3208,
       "LDHFIJABHPO": [
         23,
         11,
@@ -12052,7 +12052,7 @@
         11,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3208_name",
+      "Name": "Arcade_CP_Companion_3208_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3208_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -12100,7 +12100,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3209,
+      "ID": 3209,
       "LDHFIJABHPO": [
         23,
         11,
@@ -12110,7 +12110,7 @@
         11,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3209_name",
+      "Name": "Arcade_CP_Companion_3209_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3209_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -12158,7 +12158,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3210,
+      "ID": 3210,
       "LDHFIJABHPO": [
         101,
         11,
@@ -12168,7 +12168,7 @@
         11,
         4
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3210_name",
+      "Name": "Arcade_CP_Companion_3210_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3210_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -12216,11 +12216,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3301,
+      "ID": 3301,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3301_name",
+      "Name": "Arcade_CP_Companion_3301_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3301_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -12271,12 +12271,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3305,
+      "ID": 3305,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3305_name",
+      "Name": "Arcade_CP_Companion_3305_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3305_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12327,12 +12327,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3308,
+      "ID": 3308,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3308_name",
+      "Name": "Arcade_CP_Companion_3308_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3308_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12383,12 +12383,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3309,
+      "ID": 3309,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3309_name",
+      "Name": "Arcade_CP_Companion_3309_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3309_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12439,11 +12439,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3401,
+      "ID": 3401,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3401_name",
+      "Name": "Arcade_CP_Companion_3401_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3401_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -12490,12 +12490,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3405,
+      "ID": 3405,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3405_name",
+      "Name": "Arcade_CP_Companion_3405_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3405_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12542,12 +12542,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3408,
+      "ID": 3408,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3408_name",
+      "Name": "Arcade_CP_Companion_3408_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3408_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12594,12 +12594,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3409,
+      "ID": 3409,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3409_name",
+      "Name": "Arcade_CP_Companion_3409_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3409_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12646,11 +12646,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3501,
+      "ID": 3501,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3501_name",
+      "Name": "Arcade_CP_Companion_3501_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3501_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -12696,12 +12696,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3505,
+      "ID": 3505,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3505_name",
+      "Name": "Arcade_CP_Companion_3505_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3505_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12748,12 +12748,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3508,
+      "ID": 3508,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3508_name",
+      "Name": "Arcade_CP_Companion_3508_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3508_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12800,12 +12800,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3509,
+      "ID": 3509,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3509_name",
+      "Name": "Arcade_CP_Companion_3509_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3509_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12852,11 +12852,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3601,
+      "ID": 3601,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3601_name",
+      "Name": "Arcade_CP_Companion_3601_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3601_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -12904,12 +12904,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3605,
+      "ID": 3605,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3605_name",
+      "Name": "Arcade_CP_Companion_3605_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3605_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -12957,12 +12957,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3608,
+      "ID": 3608,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3608_name",
+      "Name": "Arcade_CP_Companion_3608_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3608_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13010,12 +13010,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3609,
+      "ID": 3609,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3609_name",
+      "Name": "Arcade_CP_Companion_3609_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3609_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13063,11 +13063,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3701,
+      "ID": 3701,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3701_name",
+      "Name": "Arcade_CP_Companion_3701_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3701_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -13114,12 +13114,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3705,
+      "ID": 3705,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3705_name",
+      "Name": "Arcade_CP_Companion_3705_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3705_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13166,12 +13166,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3708,
+      "ID": 3708,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3708_name",
+      "Name": "Arcade_CP_Companion_3708_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3708_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13218,12 +13218,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3709,
+      "ID": 3709,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3709_name",
+      "Name": "Arcade_CP_Companion_3709_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3709_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13270,11 +13270,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3801,
+      "ID": 3801,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3801_name",
+      "Name": "Arcade_CP_Companion_3801_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3801_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -13322,12 +13322,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3805,
+      "ID": 3805,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3805_name",
+      "Name": "Arcade_CP_Companion_3805_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3805_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13375,12 +13375,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3808,
+      "ID": 3808,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3808_name",
+      "Name": "Arcade_CP_Companion_3808_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3808_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13428,12 +13428,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3809,
+      "ID": 3809,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3809_name",
+      "Name": "Arcade_CP_Companion_3809_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3809_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13481,11 +13481,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3901,
+      "ID": 3901,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3901_name",
+      "Name": "Arcade_CP_Companion_3901_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3901_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -13533,12 +13533,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3905,
+      "ID": 3905,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3905_name",
+      "Name": "Arcade_CP_Companion_3905_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3905_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13586,12 +13586,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3908,
+      "ID": 3908,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3908_name",
+      "Name": "Arcade_CP_Companion_3908_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3908_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13639,12 +13639,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 3909,
+      "ID": 3909,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_3909_name",
+      "Name": "Arcade_CP_Companion_3909_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3909_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13692,11 +13692,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4001,
+      "ID": 4001,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4001_name",
+      "Name": "Arcade_CP_Companion_4001_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4001_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -13744,12 +13744,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4005,
+      "ID": 4005,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4005_name",
+      "Name": "Arcade_CP_Companion_4005_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4005_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13797,12 +13797,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4008,
+      "ID": 4008,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4008_name",
+      "Name": "Arcade_CP_Companion_4008_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4008_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13850,12 +13850,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4009,
+      "ID": 4009,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4009_name",
+      "Name": "Arcade_CP_Companion_4009_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4009_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -13903,11 +13903,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4101,
+      "ID": 4101,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4101_name",
+      "Name": "Arcade_CP_Companion_4101_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4101_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -13953,12 +13953,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4105,
+      "ID": 4105,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4105_name",
+      "Name": "Arcade_CP_Companion_4105_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4105_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14005,12 +14005,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4108,
+      "ID": 4108,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4108_name",
+      "Name": "Arcade_CP_Companion_4108_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4108_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14057,12 +14057,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4109,
+      "ID": 4109,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4109_name",
+      "Name": "Arcade_CP_Companion_4109_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4109_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14109,11 +14109,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4201,
+      "ID": 4201,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4201_name",
+      "Name": "Arcade_CP_Companion_4201_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4201_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -14160,12 +14160,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4205,
+      "ID": 4205,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4205_name",
+      "Name": "Arcade_CP_Companion_4205_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4205_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14212,12 +14212,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4208,
+      "ID": 4208,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4208_name",
+      "Name": "Arcade_CP_Companion_4208_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4208_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14264,12 +14264,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4209,
+      "ID": 4209,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4209_name",
+      "Name": "Arcade_CP_Companion_4209_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4209_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14316,11 +14316,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4301,
+      "ID": 4301,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4301_name",
+      "Name": "Arcade_CP_Companion_4301_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4301_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -14367,12 +14367,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4305,
+      "ID": 4305,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4305_name",
+      "Name": "Arcade_CP_Companion_4305_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4305_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14419,12 +14419,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4308,
+      "ID": 4308,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4308_name",
+      "Name": "Arcade_CP_Companion_4308_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4308_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14471,12 +14471,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4309,
+      "ID": 4309,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4309_name",
+      "Name": "Arcade_CP_Companion_4309_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4309_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14523,11 +14523,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4401,
+      "ID": 4401,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4401_name",
+      "Name": "Arcade_CP_Companion_4401_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4401_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -14574,12 +14574,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4405,
+      "ID": 4405,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4405_name",
+      "Name": "Arcade_CP_Companion_4405_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4405_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14626,12 +14626,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4408,
+      "ID": 4408,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4408_name",
+      "Name": "Arcade_CP_Companion_4408_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4408_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14678,12 +14678,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4409,
+      "ID": 4409,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4409_name",
+      "Name": "Arcade_CP_Companion_4409_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4409_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14730,11 +14730,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4501,
+      "ID": 4501,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4501_name",
+      "Name": "Arcade_CP_Companion_4501_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4501_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -14781,12 +14781,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4505,
+      "ID": 4505,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4505_name",
+      "Name": "Arcade_CP_Companion_4505_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4505_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14833,12 +14833,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4508,
+      "ID": 4508,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4508_name",
+      "Name": "Arcade_CP_Companion_4508_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4508_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14885,12 +14885,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4509,
+      "ID": 4509,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4509_name",
+      "Name": "Arcade_CP_Companion_4509_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4509_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -14937,11 +14937,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4601,
+      "ID": 4601,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4601_name",
+      "Name": "Arcade_CP_Companion_4601_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4601_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -14988,12 +14988,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4605,
+      "ID": 4605,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4605_name",
+      "Name": "Arcade_CP_Companion_4605_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4605_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15040,12 +15040,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4608,
+      "ID": 4608,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4608_name",
+      "Name": "Arcade_CP_Companion_4608_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4608_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15092,12 +15092,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4609,
+      "ID": 4609,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4609_name",
+      "Name": "Arcade_CP_Companion_4609_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4609_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15144,11 +15144,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4701,
+      "ID": 4701,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4701_name",
+      "Name": "Arcade_CP_Companion_4701_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4701_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -15195,12 +15195,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4705,
+      "ID": 4705,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4705_name",
+      "Name": "Arcade_CP_Companion_4705_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4705_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15247,12 +15247,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4708,
+      "ID": 4708,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4708_name",
+      "Name": "Arcade_CP_Companion_4708_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4708_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15299,12 +15299,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4709,
+      "ID": 4709,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4709_name",
+      "Name": "Arcade_CP_Companion_4709_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4709_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15351,11 +15351,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4801,
+      "ID": 4801,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4801_name",
+      "Name": "Arcade_CP_Companion_4801_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4801_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -15402,12 +15402,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4805,
+      "ID": 4805,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4805_name",
+      "Name": "Arcade_CP_Companion_4805_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4805_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15454,12 +15454,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4808,
+      "ID": 4808,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4808_name",
+      "Name": "Arcade_CP_Companion_4808_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4808_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15506,12 +15506,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4809,
+      "ID": 4809,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4809_name",
+      "Name": "Arcade_CP_Companion_4809_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4809_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15558,11 +15558,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4901,
+      "ID": 4901,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4901_name",
+      "Name": "Arcade_CP_Companion_4901_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4901_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -15610,12 +15610,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4905,
+      "ID": 4905,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4905_name",
+      "Name": "Arcade_CP_Companion_4905_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4905_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15661,12 +15661,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4908,
+      "ID": 4908,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4908_name",
+      "Name": "Arcade_CP_Companion_4908_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4908_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15713,12 +15713,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 4909,
+      "ID": 4909,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_4909_name",
+      "Name": "Arcade_CP_Companion_4909_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4909_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15765,11 +15765,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5001,
+      "ID": 5001,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5001_name",
+      "Name": "Arcade_CP_Companion_5001_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5001_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -15816,12 +15816,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5005,
+      "ID": 5005,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5005_name",
+      "Name": "Arcade_CP_Companion_5005_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5005_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15868,12 +15868,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5008,
+      "ID": 5008,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5008_name",
+      "Name": "Arcade_CP_Companion_5008_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5008_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15920,12 +15920,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5009,
+      "ID": 5009,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5009_name",
+      "Name": "Arcade_CP_Companion_5009_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5009_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -15972,11 +15972,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5101,
+      "ID": 5101,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5101_name",
+      "Name": "Arcade_CP_Companion_5101_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5101_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -16024,12 +16024,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5105,
+      "ID": 5105,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5105_name",
+      "Name": "Arcade_CP_Companion_5105_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5105_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16077,12 +16077,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5108,
+      "ID": 5108,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5108_name",
+      "Name": "Arcade_CP_Companion_5108_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5108_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16130,12 +16130,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5109,
+      "ID": 5109,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5109_name",
+      "Name": "Arcade_CP_Companion_5109_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5109_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16183,7 +16183,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5201,
+      "ID": 5201,
       "LDHFIJABHPO": [
         103,
         1,
@@ -16206,7 +16206,7 @@
         23,
         101
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5201_name",
+      "Name": "Arcade_CP_Companion_5201_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5201_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -16253,7 +16253,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5205,
+      "ID": 5205,
       "LDHFIJABHPO": [
         23,
         103,
@@ -16277,7 +16277,7 @@
         23,
         101
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5205_name",
+      "Name": "Arcade_CP_Companion_5205_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5205_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16324,7 +16324,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5208,
+      "ID": 5208,
       "LDHFIJABHPO": [
         23,
         103,
@@ -16348,7 +16348,7 @@
         23,
         101
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5208_name",
+      "Name": "Arcade_CP_Companion_5208_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5208_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16395,7 +16395,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5209,
+      "ID": 5209,
       "LDHFIJABHPO": [
         23,
         103,
@@ -16419,7 +16419,7 @@
         23,
         101
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5209_name",
+      "Name": "Arcade_CP_Companion_5209_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5209_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16466,11 +16466,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5301,
+      "ID": 5301,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_9999901_name",
+      "Name": "Arcade_CP_Companion_9999901_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_9999901_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16516,12 +16516,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5305,
+      "ID": 5305,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5305_name",
+      "Name": "Arcade_CP_Companion_5305_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5305_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16568,12 +16568,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5308,
+      "ID": 5308,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5308_name",
+      "Name": "Arcade_CP_Companion_5308_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5308_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -16621,12 +16621,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5309,
+      "ID": 5309,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5309_name",
+      "Name": "Arcade_CP_Companion_5309_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5309_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16673,11 +16673,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5401,
+      "ID": 5401,
       "LDHFIJABHPO": [
         17
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5401_name",
+      "Name": "Arcade_CP_Companion_5401_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5401_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -16726,13 +16726,13 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5402,
+      "ID": 5402,
       "LDHFIJABHPO": [
         17,
         17,
         17
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5402_name",
+      "Name": "Arcade_CP_Companion_5402_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5402_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -16778,11 +16778,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5501,
+      "ID": 5501,
       "LDHFIJABHPO": [
         102
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5501_name",
+      "Name": "Arcade_CP_Companion_5501_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5501_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -16831,11 +16831,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5601,
+      "ID": 5601,
       "LDHFIJABHPO": [
         101
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5601_name",
+      "Name": "Arcade_CP_Companion_5601_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5601_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -16884,11 +16884,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5701,
+      "ID": 5701,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5701_name",
+      "Name": "Arcade_CP_Companion_5701_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5701_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -16934,11 +16934,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5801,
+      "ID": 5801,
       "LDHFIJABHPO": [
         23
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5801_name",
+      "Name": "Arcade_CP_Companion_5801_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5801_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -16987,11 +16987,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 5901,
+      "ID": 5901,
       "LDHFIJABHPO": [
         23
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_5901_name",
+      "Name": "Arcade_CP_Companion_5901_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5901_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,
@@ -17040,11 +17040,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 33011,
+      "ID": 33011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_33011_name",
+      "Name": "Arcade_CP_Companion_33011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3301_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -17095,11 +17095,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 34011,
+      "ID": 34011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_34011_name",
+      "Name": "Arcade_CP_Companion_34011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3401_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -17146,11 +17146,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35011,
+      "ID": 35011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35011_name",
+      "Name": "Arcade_CP_Companion_35011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3501_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -17197,12 +17197,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35051,
+      "ID": 35051,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35051_name",
+      "Name": "Arcade_CP_Companion_35051_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_35051_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -17250,12 +17250,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35052,
+      "ID": 35052,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35052_name",
+      "Name": "Arcade_CP_Companion_35052_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_35052_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -17303,12 +17303,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35053,
+      "ID": 35053,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35053_name",
+      "Name": "Arcade_CP_Companion_35053_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_35053_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -17356,12 +17356,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35054,
+      "ID": 35054,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35054_name",
+      "Name": "Arcade_CP_Companion_35054_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_35054_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -17409,12 +17409,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35055,
+      "ID": 35055,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35055_name",
+      "Name": "Arcade_CP_Companion_35055_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_35055_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -17462,12 +17462,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35056,
+      "ID": 35056,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35056_name",
+      "Name": "Arcade_CP_Companion_35056_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_35056_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -17515,12 +17515,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35057,
+      "ID": 35057,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35057_name",
+      "Name": "Arcade_CP_Companion_35057_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_35057_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -17568,12 +17568,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35058,
+      "ID": 35058,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35058_name",
+      "Name": "Arcade_CP_Companion_35058_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_35058_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -17621,12 +17621,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 35059,
+      "ID": 35059,
       "LDHFIJABHPO": [
         23,
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_35059_name",
+      "Name": "Arcade_CP_Companion_35059_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_35059_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -17674,11 +17674,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 36011,
+      "ID": 36011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_36011_name",
+      "Name": "Arcade_CP_Companion_36011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3601_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -17726,11 +17726,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 37011,
+      "ID": 37011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_37011_name",
+      "Name": "Arcade_CP_Companion_37011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3701_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -17777,11 +17777,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 38011,
+      "ID": 38011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_38011_name",
+      "Name": "Arcade_CP_Companion_38011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3801_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -17829,11 +17829,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 39011,
+      "ID": 39011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_39011_name",
+      "Name": "Arcade_CP_Companion_39011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_3901_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -17881,11 +17881,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 40011,
+      "ID": 40011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_40011_name",
+      "Name": "Arcade_CP_Companion_40011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4001_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -17933,11 +17933,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 41011,
+      "ID": 41011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_41011_name",
+      "Name": "Arcade_CP_Companion_41011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4101_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -17984,11 +17984,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 42011,
+      "ID": 42011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_42011_name",
+      "Name": "Arcade_CP_Companion_42011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4201_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18035,11 +18035,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 43011,
+      "ID": 43011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_43011_name",
+      "Name": "Arcade_CP_Companion_43011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4301_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18086,11 +18086,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 44011,
+      "ID": 44011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_44011_name",
+      "Name": "Arcade_CP_Companion_44011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4401_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18137,11 +18137,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 45011,
+      "ID": 45011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_45011_name",
+      "Name": "Arcade_CP_Companion_45011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4501_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18188,11 +18188,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 46011,
+      "ID": 46011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_46011_name",
+      "Name": "Arcade_CP_Companion_46011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4601_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18239,11 +18239,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 47011,
+      "ID": 47011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_47011_name",
+      "Name": "Arcade_CP_Companion_47011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4701_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18290,11 +18290,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 48011,
+      "ID": 48011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_48011_name",
+      "Name": "Arcade_CP_Companion_48011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4801_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18341,11 +18341,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 49011,
+      "ID": 49011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_49011_name",
+      "Name": "Arcade_CP_Companion_49011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_4901_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18393,11 +18393,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 50011,
+      "ID": 50011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_50011_name",
+      "Name": "Arcade_CP_Companion_50011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5001_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18444,11 +18444,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 51011,
+      "ID": 51011,
       "LDHFIJABHPO": [
         103
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_51011_name",
+      "Name": "Arcade_CP_Companion_51011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5101_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18496,7 +18496,7 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 52011,
+      "ID": 52011,
       "LDHFIJABHPO": [
         103,
         1,
@@ -18519,7 +18519,7 @@
         23,
         101
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_52011_name",
+      "Name": "Arcade_CP_Companion_52011_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_5201_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18566,11 +18566,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 99902,
+      "ID": 99902,
       "LDHFIJABHPO": [
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_99902_name",
+      "Name": "Arcade_CP_Companion_99902_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_99902_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -18617,12 +18617,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 99905,
+      "ID": 99905,
       "LDHFIJABHPO": [
         23,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_99905_name",
+      "Name": "Arcade_CP_Companion_99905_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_99905_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18670,12 +18670,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 99908,
+      "ID": 99908,
       "LDHFIJABHPO": [
         23,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_99908_name",
+      "Name": "Arcade_CP_Companion_99908_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_99908_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18723,12 +18723,12 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 99909,
+      "ID": 99909,
       "LDHFIJABHPO": [
         23,
         14
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_99909_name",
+      "Name": "Arcade_CP_Companion_99909_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_99909_des",
       "PLODHLIDFNM": 3,
       "IIGCHJDGDOL": 1,
@@ -18776,11 +18776,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 9999901,
+      "ID": 9999901,
       "LDHFIJABHPO": [
         11
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_9999901_name",
+      "Name": "Arcade_CP_Companion_9999901_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_9999901_des",
       "PLODHLIDFNM": 4,
       "IIGCHJDGDOL": 1,
@@ -18826,11 +18826,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 9999902,
+      "ID": 9999902,
       "LDHFIJABHPO": [
         999
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_9999902_name",
+      "Name": "Arcade_CP_Companion_9999902_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_9999902_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -18882,11 +18882,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 9999903,
+      "ID": 9999903,
       "LDHFIJABHPO": [
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_9999903_name",
+      "Name": "Arcade_CP_Companion_9999903_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_9999903_des",
       "PLODHLIDFNM": 1,
       "IIGCHJDGDOL": 1,
@@ -18931,11 +18931,11 @@
       "HHFCCPLNMOH": 0
     },
     {
-      "DKDDFEIAMIF": 9999904,
+      "ID": 9999904,
       "LDHFIJABHPO": [
         12
       ],
-      "DEPJKIPACJK": "Arcade_CP_Companion_9999904_name",
+      "Name": "Arcade_CP_Companion_9999904_name",
       "HEGHNPFDFDN": "Arcade_CP_Companion_9999904_des",
       "PLODHLIDFNM": 2,
       "IIGCHJDGDOL": 1,

@@ -1,7 +1,7 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 1,
+      "ID": 1,
       "AOCJDCIMAGH": "Locked",
       "LPOPNJJPHPL": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -9,7 +9,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 2,
+      "ID": 2,
       "AOCJDCIMAGH": "Unlocked",
       "LPOPNJJPHPL": [
         "FLAG_UNLOCKED",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 3,
+      "ID": 3,
       "AOCJDCIMAGH": "Finished",
       "LPOPNJJPHPL": [
         "FLAG_FINISHED",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 4,
+      "ID": 4,
       "AOCJDCIMAGH": "ShowEvent",
       "LPOPNJJPHPL": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 6,
+      "ID": 6,
       "AOCJDCIMAGH": "Brighten",
       "LPOPNJJPHPL": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 7,
+      "ID": 7,
       "AOCJDCIMAGH": "Guide",
       "LPOPNJJPHPL": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 8,
+      "ID": 8,
       "AOCJDCIMAGH": "Target",
       "LPOPNJJPHPL": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 9,
+      "ID": 9,
       "AOCJDCIMAGH": "BrightenOnlyVisible",
       "LPOPNJJPHPL": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 10,
+      "ID": 10,
       "AOCJDCIMAGH": "Unstable",
       "LPOPNJJPHPL": [
         "FLAG_UNSTABLE",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 11,
+      "ID": 11,
       "AOCJDCIMAGH": "Empty",
       "LPOPNJJPHPL": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 12,
+      "ID": 12,
       "AOCJDCIMAGH": "All",
       "LPOPNJJPHPL": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 13,
+      "ID": 13,
       "AOCJDCIMAGH": "",
       "LPOPNJJPHPL": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 14,
+      "ID": 14,
       "AOCJDCIMAGH": "LockedWithStamina",
       "LPOPNJJPHPL": []
     },
     {
-      "GKNMDKNIMHP": 15,
+      "ID": 15,
       "AOCJDCIMAGH": "UnEmpty",
       "LPOPNJJPHPL": [
         "FLAG_UNLOCKED",

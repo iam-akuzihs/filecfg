@@ -1,7 +1,7 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 1,
+      "ID": 1,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:9|Int_TextureSheetType:1",
@@ -12,7 +12,7 @@
       "GNHCKILMLFE": "0:4"
     },
     {
-      "GKNMDKNIMHP": 2,
+      "ID": 2,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_End",
       "FCJEMAJIEOC": "Int_TextureSheetType:1",
@@ -23,7 +23,7 @@
       "GNHCKILMLFE": "0:2"
     },
     {
-      "GKNMDKNIMHP": 3,
+      "ID": 3,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:9|Int_TextureSheetType:1",
@@ -34,7 +34,7 @@
       "GNHCKILMLFE": "0:4"
     },
     {
-      "GKNMDKNIMHP": 4,
+      "ID": 4,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_End",
       "FCJEMAJIEOC": "Int_TextureSheetType:1",
@@ -45,7 +45,7 @@
       "GNHCKILMLFE": "0:2"
     },
     {
-      "GKNMDKNIMHP": 11,
+      "ID": 11,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:7",
@@ -56,7 +56,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 12,
+      "ID": 12,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:8",
@@ -67,7 +67,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 13,
+      "ID": 13,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:7",
@@ -78,7 +78,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 14,
+      "ID": 14,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:8",
@@ -89,7 +89,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 15,
+      "ID": 15,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_SkipEndPose",
       "FCJEMAJIEOC": "",
@@ -100,7 +100,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 16,
+      "ID": 16,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_SkipEndPose",
       "FCJEMAJIEOC": "",
@@ -111,7 +111,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 21,
+      "ID": 21,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:9|Int_TextureSheetType:2",
@@ -122,7 +122,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 22,
+      "ID": 22,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_End",
       "FCJEMAJIEOC": "Int_TextureSheetType:2",
@@ -133,7 +133,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 23,
+      "ID": 23,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:9|Int_TextureSheetType:2",
@@ -144,7 +144,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 24,
+      "ID": 24,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_End",
       "FCJEMAJIEOC": "Int_TextureSheetType:2",
@@ -155,7 +155,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 25,
+      "ID": 25,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:11",
@@ -166,7 +166,7 @@
       "GNHCKILMLFE": ""
     },
     {
-      "GKNMDKNIMHP": 26,
+      "ID": 26,
       "NCHFNFOMBLM": 0,
       "JPLCHHLHOKP": "Trigger_Action_Start",
       "FCJEMAJIEOC": "Int_ActionIndex:11",

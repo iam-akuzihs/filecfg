@@ -1,8 +1,8 @@
 {
-  "LFPICNCBMIF": [
+  "__exp_FileCfg": [
     {
       "OIJLBKIFHBG": 0,
-      "JOMJELIIAGO": "HitType_None",
+      "Name": "HitType_None",
       "EIAIPPCANOA": "None",
       "CAGAMMCGIGA": "",
       "CMIEKHLGOCN": "",
@@ -10,7 +10,7 @@
     },
     {
       "OIJLBKIFHBG": 101,
-      "JOMJELIIAGO": "HitType_Cut",
+      "Name": "HitType_Cut",
       "EIAIPPCANOA": "Cut",
       "CAGAMMCGIGA": "HitTypeIconTitle_Cut",
       "CMIEKHLGOCN": "HitTypeIconText_Cut",
@@ -18,7 +18,7 @@
     },
     {
       "OIJLBKIFHBG": 102,
-      "JOMJELIIAGO": "HitType_Punch",
+      "Name": "HitType_Punch",
       "EIAIPPCANOA": "Punch",
       "CAGAMMCGIGA": "HitTypeIconTitle_Punch",
       "CMIEKHLGOCN": "HitTypeIconText_Punch",
@@ -26,7 +26,7 @@
     },
     {
       "OIJLBKIFHBG": 103,
-      "JOMJELIIAGO": "HitType_Pierce",
+      "Name": "HitType_Pierce",
       "EIAIPPCANOA": "Pierce",
       "CAGAMMCGIGA": "HitTypeIconTitle_Pierce",
       "CMIEKHLGOCN": "HitTypeIconText_Pierce",

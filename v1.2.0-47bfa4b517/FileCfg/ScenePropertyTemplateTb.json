@@ -1,10 +1,10 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1001,
+      "ID": 1001,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Stamina",
+      "Name": "Stamina",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "DKDDFEIAMIF": 1002,
+      "ID": 1002,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Stamina_Max",
+      "Name": "Stamina_Max",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 1,
@@ -27,10 +27,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1003,
+      "ID": 1003,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Stamina_Ratio",
+      "Name": "Stamina_Ratio",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -39,10 +39,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1004,
+      "ID": 1004,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Stamina_Delta",
+      "Name": "Stamina_Delta",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -1000,
@@ -51,10 +51,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1005,
+      "ID": 1005,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Gold_Ratio",
+      "Name": "Gold_Ratio",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -63,10 +63,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1006,
+      "ID": 1006,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Gold_Delta",
+      "Name": "Gold_Delta",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -1000,
@@ -75,10 +75,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1007,
+      "ID": 1007,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Stamina_Ratio_Reduce",
+      "Name": "Stamina_Ratio_Reduce",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -87,10 +87,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1008,
+      "ID": 1008,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Stamina_Delta_Reduce",
+      "Name": "Stamina_Delta_Reduce",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -1000,
@@ -99,10 +99,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1018,
+      "ID": 1018,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Shop_Price",
+      "Name": "Shop_Price",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -111,10 +111,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1019,
+      "ID": 1019,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Stamina_Increase",
+      "Name": "Stamina_Increase",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -1000,
@@ -123,10 +123,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1025,
+      "ID": 1025,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Player_View",
+      "Name": "Player_View",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -135,10 +135,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1035,
+      "ID": 1035,
       "PPINBGPFKAA": 1,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "ActorMaxCurHP",
+      "Name": "ActorMaxCurHP",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": 100,
@@ -147,10 +147,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1036,
+      "ID": 1036,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "ShopPriceDelta",
+      "Name": "ShopPriceDelta",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -10000,
@@ -159,10 +159,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1043,
+      "ID": 1043,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Weather",
+      "Name": "Weather",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -1,
@@ -171,10 +171,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1044,
+      "ID": 1044,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "TimePeriod",
+      "Name": "TimePeriod",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -183,10 +183,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1045,
+      "ID": 1045,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "AbyssPoint_Ratio",
+      "Name": "AbyssPoint_Ratio",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -195,10 +195,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1046,
+      "ID": 1046,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "AbyssPoint_Delta",
+      "Name": "AbyssPoint_Delta",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -1000,
@@ -207,10 +207,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1047,
+      "ID": 1047,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpRecover_Ratio",
+      "Name": "HollowHpRecover_Ratio",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -219,10 +219,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1048,
+      "ID": 1048,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpDecrease_Ratio",
+      "Name": "HollowHpDecrease_Ratio",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -231,10 +231,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1049,
+      "ID": 1049,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Card_B_Probability_Delta",
+      "Name": "Card_B_Probability_Delta",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -10000,
@@ -243,10 +243,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1050,
+      "ID": 1050,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Card_A_Probability_Delta",
+      "Name": "Card_A_Probability_Delta",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -10000,
@@ -255,10 +255,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1051,
+      "ID": 1051,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "Card_S_Probability_Delta",
+      "Name": "Card_S_Probability_Delta",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -10000,
@@ -267,10 +267,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1055,
+      "ID": 1055,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowItem_B_Probability_Delta",
+      "Name": "HollowItem_B_Probability_Delta",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -10000,
@@ -279,10 +279,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1056,
+      "ID": 1056,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowItem_A_Probability_Delta",
+      "Name": "HollowItem_A_Probability_Delta",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -10000,
@@ -291,10 +291,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1057,
+      "ID": 1057,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowItem_S_Probability_Delta",
+      "Name": "HollowItem_S_Probability_Delta",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": -10000,
@@ -303,10 +303,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1058,
+      "ID": 1058,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "EnableCardFusion",
+      "Name": "EnableCardFusion",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -315,10 +315,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1059,
+      "ID": 1059,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "EnableCardUpgrade",
+      "Name": "EnableCardUpgrade",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -327,10 +327,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1060,
+      "ID": 1060,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "EnableCardRefresh",
+      "Name": "EnableCardRefresh",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -339,10 +339,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1061,
+      "ID": 1061,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "EnableHpBuy",
+      "Name": "EnableHpBuy",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -351,10 +351,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1062,
+      "ID": 1062,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "EnableHpOverflowToCoin",
+      "Name": "EnableHpOverflowToCoin",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -363,10 +363,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1063,
+      "ID": 1063,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "RecoverableTipID",
+      "Name": "RecoverableTipID",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -375,10 +375,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1064,
+      "ID": 1064,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "RecoverableBottomTipID",
+      "Name": "RecoverableBottomTipID",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -387,10 +387,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1065,
+      "ID": 1065,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowDrillEnergy",
+      "Name": "HollowDrillEnergy",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -399,10 +399,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1066,
+      "ID": 1066,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowDrillLevel",
+      "Name": "HollowDrillLevel",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -411,10 +411,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1067,
+      "ID": 1067,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpRecover_Ratio_Slot1",
+      "Name": "HollowHpRecover_Ratio_Slot1",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -423,10 +423,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1068,
+      "ID": 1068,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpDecrease_Ratio_Slot1",
+      "Name": "HollowHpDecrease_Ratio_Slot1",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -435,10 +435,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1069,
+      "ID": 1069,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpRecover_Ratio_Slot2",
+      "Name": "HollowHpRecover_Ratio_Slot2",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -447,10 +447,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1070,
+      "ID": 1070,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpDecrease_Ratio_Slot2",
+      "Name": "HollowHpDecrease_Ratio_Slot2",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -459,10 +459,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1071,
+      "ID": 1071,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpRecover_Ratio_Slot3",
+      "Name": "HollowHpRecover_Ratio_Slot3",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -471,10 +471,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1072,
+      "ID": 1072,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpDecrease_Ratio_Slot3",
+      "Name": "HollowHpDecrease_Ratio_Slot3",
       "DOOKLEOJGBE": 10000,
       "JEINFEFICAO": "{0:0.##%}",
       "HDGIOOPDPCE": -10000,
@@ -483,10 +483,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1073,
+      "ID": 1073,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowZeroCoinMaxNum",
+      "Name": "HollowZeroCoinMaxNum",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -495,10 +495,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1074,
+      "ID": 1074,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpRecover_Forbid",
+      "Name": "HollowHpRecover_Forbid",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -507,10 +507,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1075,
+      "ID": 1075,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowHpDecrease_Forbid",
+      "Name": "HollowHpDecrease_Forbid",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -519,10 +519,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1076,
+      "ID": 1076,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowLoadSupportAvatar_Forbid",
+      "Name": "HollowLoadSupportAvatar_Forbid",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -531,10 +531,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1077,
+      "ID": 1077,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowRetryTutorial",
+      "Name": "HollowRetryTutorial",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -543,10 +543,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1081,
+      "ID": 1081,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "ForbidVoice",
+      "Name": "ForbidVoice",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,
@@ -555,10 +555,10 @@
       "JKEKMDPNOMO": []
     },
     {
-      "DKDDFEIAMIF": 1082,
+      "ID": 1082,
       "PPINBGPFKAA": 0,
       "CDPDDGBOLHD": "",
-      "DEPJKIPACJK": "HollowDrillSpeedLevel",
+      "Name": "HollowDrillSpeedLevel",
       "DOOKLEOJGBE": 1,
       "JEINFEFICAO": "{0:0}",
       "HDGIOOPDPCE": 0,

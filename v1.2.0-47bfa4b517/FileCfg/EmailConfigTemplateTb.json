@@ -1,7 +1,7 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1001,
+      "ID": 1001,
       "MGMKCKHBKKL": "SystemEmail_Sender_ItemUpperLimit",
       "ANMFAMAHHGI": "SystemEmail_EmailTitle_ItemUpperLimit",
       "OGINFJGGGCN": "SystemEmail_EmailDesc_ItemUpperLimit",
@@ -15,7 +15,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 1003,
+      "ID": 1003,
       "MGMKCKHBKKL": "ActivityEmail_Upper",
       "ANMFAMAHHGI": "ActivityEmail_Title",
       "OGINFJGGGCN": "ActivityEmail_Desc",
@@ -29,7 +29,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 1004,
+      "ID": 1004,
       "MGMKCKHBKKL": "SystemEmail_Sender_Abyss_DutyReward",
       "ANMFAMAHHGI": "SystemEmail_EmailTitle_Abyss_DutyReward",
       "OGINFJGGGCN": "SystemEmail_EmailDesc_Abyss_DutyReward",
@@ -43,7 +43,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 1005,
+      "ID": 1005,
       "MGMKCKHBKKL": "SystemEmail_Sender_Hadal_DutyReward",
       "ANMFAMAHHGI": "SystemEmail_EmailTitle_Hadal_DutyReward",
       "OGINFJGGGCN": "SystemEmail_EmailDesc_Hadal_DutyReward",
@@ -57,7 +57,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 1006,
+      "ID": 1006,
       "MGMKCKHBKKL": "ActivityEmail_Upper",
       "ANMFAMAHHGI": "PlayerBirthday_EmailTitle",
       "OGINFJGGGCN": "PlayerBirthday_Email",
@@ -71,7 +71,7 @@
       "IFOELOBHKBL": 1
     },
     {
-      "DKDDFEIAMIF": 1007,
+      "ID": 1007,
       "MGMKCKHBKKL": "SystemEmail_Sender_Hadal_DutyReward",
       "ANMFAMAHHGI": "SystemEmail_EmailTitle_Hadal_DutyReward1",
       "OGINFJGGGCN": "SystemEmail_EmailDesc_Hadal_DutyReward1",
@@ -85,7 +85,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 2001,
+      "ID": 2001,
       "MGMKCKHBKKL": "SystemEmail_Sender_MonthCard",
       "ANMFAMAHHGI": "SystemEmail_EmailTitle_MonthCard",
       "OGINFJGGGCN": "SystemEmail_EmailDesc_MonthCard",
@@ -99,7 +99,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 2002,
+      "ID": 2002,
       "MGMKCKHBKKL": "SystemEmail_Sender_BP",
       "ANMFAMAHHGI": "SystemEmail_EmailTitle_BP",
       "OGINFJGGGCN": "SystemEmail_EmailDesc_BP",
@@ -113,7 +113,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 2003,
+      "ID": 2003,
       "MGMKCKHBKKL": "SystemEmail_Sender_TopupReward",
       "ANMFAMAHHGI": "SystemEmail_EmailTitle_TopupReward",
       "OGINFJGGGCN": "SystemEmail_EmailDesc_TopupReward",
@@ -127,7 +127,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 2004,
+      "ID": 2004,
       "MGMKCKHBKKL": "SystemEmail_Sender_BP_PassTime",
       "ANMFAMAHHGI": "SystemEmail_EmailTitle_BP_PassTime",
       "OGINFJGGGCN": "SystemEmail_EmailDesc_BP_PassTime",
@@ -141,7 +141,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 2005,
+      "ID": 2005,
       "MGMKCKHBKKL": "SystemEmail_Sender_BigBoss_PassTime",
       "ANMFAMAHHGI": "SystemEmail_EmailTitle_BigBoss_PassTime",
       "OGINFJGGGCN": "SystemEmail_EmailDesc_BigBoss_PassTime",
@@ -155,7 +155,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 3001,
+      "ID": 3001,
       "MGMKCKHBKKL": "ShopEmail_Sender_SonyGiftPack",
       "ANMFAMAHHGI": "ShopEmail_EmailTitle_SonyGiftPack",
       "OGINFJGGGCN": "ShopEmail_EmailDesc_SonyGiftPack",
@@ -169,7 +169,7 @@
       "IFOELOBHKBL": 0
     },
     {
-      "DKDDFEIAMIF": 3002,
+      "ID": 3002,
       "MGMKCKHBKKL": "ShopEmail_Sender_GPOOAPPack",
       "ANMFAMAHHGI": "ShopEmail_EmailTitle_GPOOAPPack",
       "OGINFJGGGCN": "ShopEmail_EmailDesc_GPOOAPPack",

@@ -1,10 +1,10 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 1001,
+      "ID": 1001,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Stamina",
+      "Name": "Stamina",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 1002,
+      "ID": 1002,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Stamina_Max",
+      "Name": "Stamina_Max",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 1,
@@ -27,10 +27,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1003,
+      "ID": 1003,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Stamina_Ratio",
+      "Name": "Stamina_Ratio",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -39,10 +39,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1004,
+      "ID": 1004,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Stamina_Delta",
+      "Name": "Stamina_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,
@@ -51,10 +51,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1005,
+      "ID": 1005,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Gold_Ratio",
+      "Name": "Gold_Ratio",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -63,10 +63,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1006,
+      "ID": 1006,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Gold_Delta",
+      "Name": "Gold_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,
@@ -75,10 +75,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1007,
+      "ID": 1007,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Stamina_Ratio_Reduce",
+      "Name": "Stamina_Ratio_Reduce",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -87,10 +87,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1008,
+      "ID": 1008,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Stamina_Delta_Reduce",
+      "Name": "Stamina_Delta_Reduce",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,
@@ -99,10 +99,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1018,
+      "ID": 1018,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Shop_Price",
+      "Name": "Shop_Price",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -111,10 +111,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1019,
+      "ID": 1019,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Stamina_Increase",
+      "Name": "Stamina_Increase",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,
@@ -123,10 +123,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1025,
+      "ID": 1025,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Player_View",
+      "Name": "Player_View",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -135,10 +135,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1035,
+      "ID": 1035,
       "CFKDFIJIFBB": 1,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "ActorMaxCurHP",
+      "Name": "ActorMaxCurHP",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": 100,
@@ -147,10 +147,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1036,
+      "ID": 1036,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "ShopPriceDelta",
+      "Name": "ShopPriceDelta",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -159,10 +159,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1043,
+      "ID": 1043,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Weather",
+      "Name": "Weather",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1,
@@ -171,10 +171,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1044,
+      "ID": 1044,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "TimePeriod",
+      "Name": "TimePeriod",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -183,10 +183,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1045,
+      "ID": 1045,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "AbyssPoint_Ratio",
+      "Name": "AbyssPoint_Ratio",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -195,10 +195,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1046,
+      "ID": 1046,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "AbyssPoint_Delta",
+      "Name": "AbyssPoint_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,
@@ -207,10 +207,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1047,
+      "ID": 1047,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpRecover_Ratio",
+      "Name": "HollowHpRecover_Ratio",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -219,10 +219,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1048,
+      "ID": 1048,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpDecrease_Ratio",
+      "Name": "HollowHpDecrease_Ratio",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -231,10 +231,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1049,
+      "ID": 1049,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Card_B_Probability_Delta",
+      "Name": "Card_B_Probability_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -243,10 +243,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1050,
+      "ID": 1050,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Card_A_Probability_Delta",
+      "Name": "Card_A_Probability_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -255,10 +255,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1051,
+      "ID": 1051,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Card_S_Probability_Delta",
+      "Name": "Card_S_Probability_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -267,10 +267,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1055,
+      "ID": 1055,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowItem_B_Probability_Delta",
+      "Name": "HollowItem_B_Probability_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -279,10 +279,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1056,
+      "ID": 1056,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowItem_A_Probability_Delta",
+      "Name": "HollowItem_A_Probability_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -291,10 +291,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1057,
+      "ID": 1057,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowItem_S_Probability_Delta",
+      "Name": "HollowItem_S_Probability_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -303,10 +303,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1058,
+      "ID": 1058,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "EnableCardFusion",
+      "Name": "EnableCardFusion",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -315,10 +315,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1059,
+      "ID": 1059,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "EnableCardUpgrade",
+      "Name": "EnableCardUpgrade",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -327,10 +327,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1060,
+      "ID": 1060,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "EnableCardRefresh",
+      "Name": "EnableCardRefresh",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -339,10 +339,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1061,
+      "ID": 1061,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "EnableHpBuy",
+      "Name": "EnableHpBuy",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -351,10 +351,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1062,
+      "ID": 1062,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "EnableHpOverflowToCoin",
+      "Name": "EnableHpOverflowToCoin",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -363,10 +363,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1063,
+      "ID": 1063,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "RecoverableTipID",
+      "Name": "RecoverableTipID",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -375,10 +375,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1064,
+      "ID": 1064,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "RecoverableBottomTipID",
+      "Name": "RecoverableBottomTipID",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -387,10 +387,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1065,
+      "ID": 1065,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowDrillEnergy",
+      "Name": "HollowDrillEnergy",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -399,10 +399,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1066,
+      "ID": 1066,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowDrillLevel",
+      "Name": "HollowDrillLevel",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -411,10 +411,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1067,
+      "ID": 1067,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpRecover_Ratio_Slot1",
+      "Name": "HollowHpRecover_Ratio_Slot1",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -423,10 +423,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1068,
+      "ID": 1068,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpDecrease_Ratio_Slot1",
+      "Name": "HollowHpDecrease_Ratio_Slot1",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -435,10 +435,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1069,
+      "ID": 1069,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpRecover_Ratio_Slot2",
+      "Name": "HollowHpRecover_Ratio_Slot2",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -447,10 +447,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1070,
+      "ID": 1070,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpDecrease_Ratio_Slot2",
+      "Name": "HollowHpDecrease_Ratio_Slot2",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -459,10 +459,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1071,
+      "ID": 1071,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpRecover_Ratio_Slot3",
+      "Name": "HollowHpRecover_Ratio_Slot3",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -471,10 +471,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1072,
+      "ID": 1072,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpDecrease_Ratio_Slot3",
+      "Name": "HollowHpDecrease_Ratio_Slot3",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -483,10 +483,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1073,
+      "ID": 1073,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowZeroCoinMaxNum",
+      "Name": "HollowZeroCoinMaxNum",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -495,10 +495,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1074,
+      "ID": 1074,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpRecover_Forbid",
+      "Name": "HollowHpRecover_Forbid",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -507,10 +507,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1075,
+      "ID": 1075,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowHpDecrease_Forbid",
+      "Name": "HollowHpDecrease_Forbid",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -519,10 +519,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1076,
+      "ID": 1076,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowLoadSupportAvatar_Forbid",
+      "Name": "HollowLoadSupportAvatar_Forbid",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -531,10 +531,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1077,
+      "ID": 1077,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowRetryTutorial",
+      "Name": "HollowRetryTutorial",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -543,10 +543,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1078,
+      "ID": 1078,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Relic_B_Probability",
+      "Name": "Relic_B_Probability",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -555,10 +555,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1079,
+      "ID": 1079,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Relic_A_Probability",
+      "Name": "Relic_A_Probability",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -567,10 +567,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1080,
+      "ID": 1080,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Relic_S_Probability",
+      "Name": "Relic_S_Probability",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -10000,
@@ -579,10 +579,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1081,
+      "ID": 1081,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "ForbidVoice",
+      "Name": "ForbidVoice",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -591,10 +591,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1082,
+      "ID": 1082,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "HollowDrillSpeedLevel",
+      "Name": "HollowDrillSpeedLevel",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -603,10 +603,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1083,
+      "ID": 1083,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Exp",
+      "Name": "Exp",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 0,
@@ -615,10 +615,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1084,
+      "ID": 1084,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Exp_Max",
+      "Name": "Exp_Max",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": 1,
@@ -627,10 +627,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1085,
+      "ID": 1085,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Exp_Ratio",
+      "Name": "Exp_Ratio",
       "EJHOFPCAEIE": 10000,
       "OBDNLMFIPKJ": "{0:0.##%}",
       "ONHBNBLIIOI": -10000,
@@ -639,10 +639,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1086,
+      "ID": 1086,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Exp_Delta",
+      "Name": "Exp_Delta",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,
@@ -651,10 +651,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1087,
+      "ID": 1087,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Power",
+      "Name": "Power",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,
@@ -663,10 +663,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1088,
+      "ID": 1088,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Power_LevelUp",
+      "Name": "Power_LevelUp",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,
@@ -675,10 +675,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1089,
+      "ID": 1089,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Arpeggio_Layer",
+      "Name": "Arpeggio_Layer",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,
@@ -687,10 +687,10 @@
       "BFMFHGLCHNC": []
     },
     {
-      "GKNMDKNIMHP": 1094,
+      "ID": 1094,
       "CFKDFIJIFBB": 0,
       "HLHJMPGCBGL": "",
-      "FJECNNMMDGH": "Arpeggio_Level",
+      "Name": "Arpeggio_Level",
       "EJHOFPCAEIE": 1,
       "OBDNLMFIPKJ": "{0:0}",
       "ONHBNBLIIOI": -1000,

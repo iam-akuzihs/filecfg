@@ -1,7 +1,7 @@
 {
-  "LFPICNCBMIF": [
+  "__exp_FileCfg": [
     {
-      "FJKECLFEHOA": 5,
+      "ID": 5,
       "CFLHMCHMMNC": "UIAbyssEntrancePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -19,7 +19,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 7,
+      "ID": 7,
       "CFLHMCHMMNC": "UILandRevive_1",
       "KIEHKMKLBOL": "Street_CameraPos_Land20001",
       "FDMEEOMIKBG": "Street_CameraPos_Land20001_PC",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 8,
+      "ID": 8,
       "CFLHMCHMMNC": "UILandRevive_2",
       "KIEHKMKLBOL": "ConstructionSite_CameraPos_Land20002",
       "FDMEEOMIKBG": "ConstructionSite_CameraPos_Land20002_PC",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 9,
+      "ID": 9,
       "CFLHMCHMMNC": "UIBillyTrustQuestPageController",
       "KIEHKMKLBOL": "Street_CameraPos_Trust_Billy",
       "FDMEEOMIKBG": "Street_CameraPos_Trust_Billy",
@@ -77,7 +77,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 10,
+      "ID": 10,
       "CFLHMCHMMNC": "UILandRevivePage",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -95,7 +95,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1001,
+      "ID": 1001,
       "CFLHMCHMMNC": "UIGroceryPageController",
       "KIEHKMKLBOL": "Street_CameraPos_Grocery",
       "FDMEEOMIKBG": "Street_CameraPos_Grocery",
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1002,
+      "ID": 1002,
       "CFLHMCHMMNC": "UIGroceryPageController",
       "KIEHKMKLBOL": "Street_CameraPos_Grocery",
       "FDMEEOMIKBG": "Street_CameraPos_Grocery",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1011,
+      "ID": 1011,
       "CFLHMCHMMNC": "UIRamenStorePageController",
       "KIEHKMKLBOL": "Street_CameraPos_RamenStore",
       "FDMEEOMIKBG": "Street_CameraPos_RamenStore_PC",
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1012,
+      "ID": 1012,
       "CFLHMCHMMNC": "UIRamenStorePageController",
       "KIEHKMKLBOL": "Street_CameraPos_RamenStore",
       "FDMEEOMIKBG": "Street_CameraPos_RamenStore_PC",
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1021,
+      "ID": 1021,
       "CFLHMCHMMNC": "UICafePageController",
       "KIEHKMKLBOL": "Street_CameraPos_CafeStore",
       "FDMEEOMIKBG": "Street_CameraPos_CafeStore",
@@ -197,7 +197,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1022,
+      "ID": 1022,
       "CFLHMCHMMNC": "UICafePageController",
       "KIEHKMKLBOL": "Street_CameraPos_CafeStore",
       "FDMEEOMIKBG": "Street_CameraPos_CafeStore",
@@ -215,7 +215,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1031,
+      "ID": 1031,
       "CFLHMCHMMNC": "UIBangbooModGaragePageController",
       "KIEHKMKLBOL": "Street_CameraPos_BangbooModGarage",
       "FDMEEOMIKBG": "Street_CameraPos_BangbooModGarage",
@@ -233,7 +233,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1041,
+      "ID": 1041,
       "CFLHMCHMMNC": "UITrashbinHermitRecyclePageController",
       "KIEHKMKLBOL": "Street_CameraPos_Trash01",
       "FDMEEOMIKBG": "Street_CameraPos_Trash01_PC",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1042,
+      "ID": 1042,
       "CFLHMCHMMNC": "UITrashbinHermitRecyclePageController",
       "KIEHKMKLBOL": "Street_CameraPos_Trash01",
       "FDMEEOMIKBG": "Street_CameraPos_Trash01_PC",
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1051,
+      "ID": 1051,
       "CFLHMCHMMNC": "UIActivityOperationalPageController",
       "KIEHKMKLBOL": "Street_CameraPos_HelloBoo",
       "FDMEEOMIKBG": "Street_CameraPos_HelloBoo_PC",
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1052,
+      "ID": 1052,
       "CFLHMCHMMNC": "UIActivityGoldenWeekPageController",
       "KIEHKMKLBOL": "Street_CameraPos_KeyBoo",
       "FDMEEOMIKBG": "Street_CameraPos_KeyBoo_PC",
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1061,
+      "ID": 1061,
       "CFLHMCHMMNC": "UINewsStandPageController",
       "KIEHKMKLBOL": "Street_CameraPos_Woof",
       "FDMEEOMIKBG": "Street_CameraPos_Woof",
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1062,
+      "ID": 1062,
       "CFLHMCHMMNC": "UINewsStandPageController",
       "KIEHKMKLBOL": "Street_CameraPos_Woof",
       "FDMEEOMIKBG": "Street_CameraPos_Woof",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1063,
+      "ID": 1063,
       "CFLHMCHMMNC": "UINewsStandPageController",
       "KIEHKMKLBOL": "Street_CameraPos_Woof",
       "FDMEEOMIKBG": "Street_CameraPos_Woof",
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1064,
+      "ID": 1064,
       "CFLHMCHMMNC": "UINewsStandPuzzlePageController",
       "KIEHKMKLBOL": "Street_CameraPos_Woof",
       "FDMEEOMIKBG": "Street_CameraPos_Woof",
@@ -404,7 +404,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1065,
+      "ID": 1065,
       "CFLHMCHMMNC": "UINewsStandPuzzlePageController",
       "KIEHKMKLBOL": "Street_CameraPos_Woof",
       "FDMEEOMIKBG": "Street_CameraPos_Woof",
@@ -424,7 +424,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1071,
+      "ID": 1071,
       "CFLHMCHMMNC": "UITrendyStorePageController",
       "KIEHKMKLBOL": "Street_CameraPos_TrendyStore",
       "FDMEEOMIKBG": "Street_CameraPos_TrendyStore",
@@ -442,7 +442,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1081,
+      "ID": 1081,
       "CFLHMCHMMNC": "UIGroceryActivityPageController",
       "KIEHKMKLBOL": "Street_CameraPos_ActivityGrocery",
       "FDMEEOMIKBG": "Street_CameraPos_ActivityGrocery_PC",
@@ -463,7 +463,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1082,
+      "ID": 1082,
       "CFLHMCHMMNC": "UIGroceryActivityPageController",
       "KIEHKMKLBOL": "Street_CameraPos_ActivityGrocery",
       "FDMEEOMIKBG": "Street_CameraPos_ActivityGrocery_PC",
@@ -484,7 +484,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1083,
+      "ID": 1083,
       "CFLHMCHMMNC": "UIGroceryActivityPageController",
       "KIEHKMKLBOL": "Street_CameraPos_ActivityGrocery",
       "FDMEEOMIKBG": "Street_CameraPos_ActivityGrocery_PC",
@@ -505,7 +505,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1084,
+      "ID": 1084,
       "CFLHMCHMMNC": "UIGroceryActivityPageController",
       "KIEHKMKLBOL": "Street_CameraPos_ActivityGrocery",
       "FDMEEOMIKBG": "Street_CameraPos_ActivityGrocery_PC",
@@ -526,7 +526,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1091,
+      "ID": 1091,
       "CFLHMCHMMNC": "UIArcadePageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -544,7 +544,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1101,
+      "ID": 1101,
       "CFLHMCHMMNC": "UIVideoshopPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -562,7 +562,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1111,
+      "ID": 1111,
       "CFLHMCHMMNC": "UIPhotoWallPageController",
       "KIEHKMKLBOL": "WorkshopUpStairs_CameraPos_PhotoWall",
       "FDMEEOMIKBG": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -582,7 +582,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1112,
+      "ID": 1112,
       "CFLHMCHMMNC": "UIPhotoWallPageController",
       "KIEHKMKLBOL": "WorkshopUpStairs_CameraPos_PhotoWall",
       "FDMEEOMIKBG": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -602,7 +602,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1113,
+      "ID": 1113,
       "CFLHMCHMMNC": "UIPhotoWallPageController",
       "KIEHKMKLBOL": "WorkshopUpStairs_CameraPos_PhotoWall",
       "FDMEEOMIKBG": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -620,7 +620,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1114,
+      "ID": 1114,
       "CFLHMCHMMNC": "UIPhotoWallPageController",
       "KIEHKMKLBOL": "WorkshopUpStairs_CameraPos_PhotoWall",
       "FDMEEOMIKBG": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -638,7 +638,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1115,
+      "ID": 1115,
       "CFLHMCHMMNC": "UIDisplayCasePageController",
       "KIEHKMKLBOL": "WorkshopUpStairs_CameraPos_PhotoWall",
       "FDMEEOMIKBG": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -658,7 +658,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1116,
+      "ID": 1116,
       "CFLHMCHMMNC": "UIDisplayCasePageController",
       "KIEHKMKLBOL": "WorkshopUpStairs_CameraPos_PhotoWall",
       "FDMEEOMIKBG": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -678,7 +678,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1117,
+      "ID": 1117,
       "CFLHMCHMMNC": "UIDisplayCasePageController",
       "KIEHKMKLBOL": "WorkshopUpStairs_CameraPos_PhotoWall",
       "FDMEEOMIKBG": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -696,7 +696,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1118,
+      "ID": 1118,
       "CFLHMCHMMNC": "UIDisplayCasePageController",
       "KIEHKMKLBOL": "WorkshopUpStairs_CameraPos_PhotoWall",
       "FDMEEOMIKBG": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -714,7 +714,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1121,
+      "ID": 1121,
       "CFLHMCHMMNC": "UIVHSStorePageController",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -734,7 +734,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1122,
+      "ID": 1122,
       "CFLHMCHMMNC": "UIVHSStorePageController",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -765,7 +765,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1123,
+      "ID": 1123,
       "CFLHMCHMMNC": "UIVHSStorePageController",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -802,7 +802,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1131,
+      "ID": 1131,
       "CFLHMCHMMNC": "UIDailyChallengePageController",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -820,7 +820,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1141,
+      "ID": 1141,
       "CFLHMCHMMNC": "UIMusicPlayerPageController",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -838,7 +838,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1151,
+      "ID": 1151,
       "CFLHMCHMMNC": "UIInterKnotV2PageController",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -856,7 +856,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1161,
+      "ID": 1161,
       "CFLHMCHMMNC": "UIYorozuyaPage",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -874,7 +874,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1171,
+      "ID": 1171,
       "CFLHMCHMMNC": "UIWorkbenchPage",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -892,7 +892,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1181,
+      "ID": 1181,
       "CFLHMCHMMNC": "UIRoleSelectPage",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -910,7 +910,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1191,
+      "ID": 1191,
       "CFLHMCHMMNC": "UIMainStoryPage",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -928,7 +928,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1201,
+      "ID": 1201,
       "CFLHMCHMMNC": "UITrainingCoursePagePageController",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -946,7 +946,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1211,
+      "ID": 1211,
       "CFLHMCHMMNC": "UIMainCityMenusPage",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -964,7 +964,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1221,
+      "ID": 1221,
       "CFLHMCHMMNC": "UIDailyQuestScheduleDialog",
       "KIEHKMKLBOL": "WorkShop_CameraPos_VHSStore",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -982,7 +982,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1231,
+      "ID": 1231,
       "CFLHMCHMMNC": "UINyakichiPageController",
       "KIEHKMKLBOL": "CameraPos_Meowji01",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -1002,7 +1002,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1232,
+      "ID": 1232,
       "CFLHMCHMMNC": "UINyakichiPageController",
       "KIEHKMKLBOL": "CameraPos_Meowji02",
       "FDMEEOMIKBG": "ConstructionSite_CameraPos_Land20002_PC",
@@ -1022,7 +1022,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1233,
+      "ID": 1233,
       "CFLHMCHMMNC": "UINyakichiPageController",
       "KIEHKMKLBOL": "CameraPos_Meowji01",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -1042,7 +1042,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1234,
+      "ID": 1234,
       "CFLHMCHMMNC": "UINyakichiPageController",
       "KIEHKMKLBOL": "CameraPos_Meowji02",
       "FDMEEOMIKBG": "ConstructionSite_CameraPos_Land20002_PC",
@@ -1062,7 +1062,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1235,
+      "ID": 1235,
       "CFLHMCHMMNC": "UINyakichiPageController",
       "KIEHKMKLBOL": "CameraPos_Meowji02",
       "FDMEEOMIKBG": "ConstructionSite_CameraPos_Land20002_PC",
@@ -1082,7 +1082,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1236,
+      "ID": 1236,
       "CFLHMCHMMNC": "UINyakichiPageController",
       "KIEHKMKLBOL": "CameraPos_Meowji02",
       "FDMEEOMIKBG": "ConstructionSite_CameraPos_Land20002_PC",
@@ -1102,7 +1102,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1241,
+      "ID": 1241,
       "CFLHMCHMMNC": "UIMaincityMiniGameChildWindowController",
       "KIEHKMKLBOL": "CameraPos_Meowji01",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -1122,7 +1122,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 1242,
+      "ID": 1242,
       "CFLHMCHMMNC": "UICampIdlePageController",
       "KIEHKMKLBOL": "CameraPos_Meowji01",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -1140,7 +1140,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1243,
+      "ID": 1243,
       "CFLHMCHMMNC": "UICampIdleActivityPageController",
       "KIEHKMKLBOL": "CameraPos_Meowji01",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -1158,7 +1158,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 1251,
+      "ID": 1251,
       "CFLHMCHMMNC": "UIFashionStoreMainPageController",
       "KIEHKMKLBOL": "CameraPos_Meowji01",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -1176,7 +1176,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2001,
+      "ID": 2001,
       "CFLHMCHMMNC": "UIAbyssEntrancePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1194,7 +1194,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2002,
+      "ID": 2002,
       "CFLHMCHMMNC": "UIBattlePortal_HadalZonePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1212,7 +1212,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2003,
+      "ID": 2003,
       "CFLHMCHMMNC": "UIHollowCardItemCollectPageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1230,7 +1230,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2004,
+      "ID": 2004,
       "CFLHMCHMMNC": "UIVRBossBattlePageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1248,7 +1248,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2005,
+      "ID": 2005,
       "CFLHMCHMMNC": "UIVRMainPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1266,7 +1266,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2006,
+      "ID": 2006,
       "CFLHMCHMMNC": "UIShoppingMallCasperPageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1284,7 +1284,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2010,
+      "ID": 2010,
       "CFLHMCHMMNC": "UIMainCityTelescopePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1302,7 +1302,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2011,
+      "ID": 2011,
       "CFLHMCHMMNC": "UIVRBossBattlePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1320,7 +1320,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2012,
+      "ID": 2012,
       "CFLHMCHMMNC": "UIVRBossBattlePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1338,7 +1338,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2013,
+      "ID": 2013,
       "CFLHMCHMMNC": "UIDailyChallengePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1356,7 +1356,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2014,
+      "ID": 2014,
       "CFLHMCHMMNC": "UIDoubleElitePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1374,7 +1374,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2015,
+      "ID": 2015,
       "CFLHMCHMMNC": "UIYorozuyaDifficultWidgetController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1392,7 +1392,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 2016,
+      "ID": 2016,
       "CFLHMCHMMNC": "UIBossChallengePageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1410,7 +1410,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 4701,
+      "ID": 4701,
       "CFLHMCHMMNC": "UIActivityCameraPageController",
       "KIEHKMKLBOL": "Zero_PlayerPos_Default",
       "FDMEEOMIKBG": "Zero_PlayerPos_Default",
@@ -1430,7 +1430,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4702,
+      "ID": 4702,
       "CFLHMCHMMNC": "UIMiniUIGamePageController",
       "KIEHKMKLBOL": "CameraPos_Meowji01",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -1450,7 +1450,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4703,
+      "ID": 4703,
       "CFLHMCHMMNC": "UIActivityTeamTrialPageController",
       "KIEHKMKLBOL": "CameraPos_Meowji01",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -1468,7 +1468,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 4704,
+      "ID": 4704,
       "CFLHMCHMMNC": "UIQuestionsAnswerPageController",
       "KIEHKMKLBOL": "FALSE",
       "FDMEEOMIKBG": "0|0|0|0",
@@ -1488,7 +1488,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4705,
+      "ID": 4705,
       "CFLHMCHMMNC": "UIOverlordFeastPrepPageController",
       "KIEHKMKLBOL": "FALSE",
       "FDMEEOMIKBG": "0|0|0|0",
@@ -1508,7 +1508,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4706,
+      "ID": 4706,
       "CFLHMCHMMNC": "UIOverlordFeastServePageController",
       "KIEHKMKLBOL": "FALSE",
       "FDMEEOMIKBG": "0|0|0|0",
@@ -1528,7 +1528,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4707,
+      "ID": 4707,
       "CFLHMCHMMNC": "UIOverlordFeastPromotionPageController",
       "KIEHKMKLBOL": "FALSE",
       "FDMEEOMIKBG": "0|0|0|0",
@@ -1548,7 +1548,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4708,
+      "ID": 4708,
       "CFLHMCHMMNC": "UIActivityCameraRemakePageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1572,7 +1572,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4709,
+      "ID": 4709,
       "CFLHMCHMMNC": "UIFoodTruckPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1593,7 +1593,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4710,
+      "ID": 4710,
       "CFLHMCHMMNC": "UIFoodTruckMenuPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1614,7 +1614,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4711,
+      "ID": 4711,
       "CFLHMCHMMNC": "UIBabeltowerPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1632,7 +1632,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 4712,
+      "ID": 4712,
       "CFLHMCHMMNC": "UIActivityBattleYCLPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1650,7 +1650,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 4713,
+      "ID": 4713,
       "CFLHMCHMMNC": "UIAvatarStoryActivityPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1670,7 +1670,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4714,
+      "ID": 4714,
       "CFLHMCHMMNC": "UITowerDefensePageController",
       "KIEHKMKLBOL": "CameraPos_Meowji01",
       "FDMEEOMIKBG": "WorkShop_CameraPos_VHSStore",
@@ -1690,7 +1690,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4715,
+      "ID": 4715,
       "CFLHMCHMMNC": "UITheGunMainPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1708,7 +1708,7 @@
       "IOBIBCODKDC": []
     },
     {
-      "FJKECLFEHOA": 4716,
+      "ID": 4716,
       "CFLHMCHMMNC": "UINewsStandPuzzlePageController",
       "KIEHKMKLBOL": "Street_CameraPos_Woof",
       "FDMEEOMIKBG": "",
@@ -1729,7 +1729,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4717,
+      "ID": 4717,
       "CFLHMCHMMNC": "UIMiniscapeMainPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1749,7 +1749,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4718,
+      "ID": 4718,
       "CFLHMCHMMNC": "UIHIADoubleWeekActivityPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",
@@ -1769,7 +1769,7 @@
       ]
     },
     {
-      "FJKECLFEHOA": 4719,
+      "ID": 4719,
       "CFLHMCHMMNC": "UIMcDonaldMenuPageController",
       "KIEHKMKLBOL": "",
       "FDMEEOMIKBG": "",

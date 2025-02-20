@@ -1,9 +1,9 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 100001,
+      "ID": 100001,
       "BINBNBIFJIO": 1000,
-      "FJECNNMMDGH": "HollowGroupNameText_Arcade",
+      "Name": "HollowGroupNameText_Arcade",
       "PNKCDGFGMJJ": "1040140114",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_RallyQuest.png",
@@ -15,9 +15,9 @@
       "CLAPDFHLOKC": ""
     },
     {
-      "GKNMDKNIMHP": 100101,
+      "ID": 100101,
       "BINBNBIFJIO": 1001,
-      "FJECNNMMDGH": "HollowGroupNameText_Story",
+      "Name": "HollowGroupNameText_Story",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Story.png",
@@ -29,9 +29,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_01"
     },
     {
-      "GKNMDKNIMHP": 100102,
+      "ID": 100102,
       "BINBNBIFJIO": 1001,
-      "FJECNNMMDGH": "HollowGroupNameText_exploration",
+      "Name": "HollowGroupNameText_exploration",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Explore.png",
@@ -43,9 +43,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_03"
     },
     {
-      "GKNMDKNIMHP": 100103,
+      "ID": 100103,
       "BINBNBIFJIO": 1001,
-      "FJECNNMMDGH": "HollowGroupNameText_combat",
+      "Name": "HollowGroupNameText_combat",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Combat.png",
@@ -57,9 +57,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_02"
     },
     {
-      "GKNMDKNIMHP": 100201,
+      "ID": 100201,
       "BINBNBIFJIO": 1002,
-      "FJECNNMMDGH": "HollowGroupNameText_Story",
+      "Name": "HollowGroupNameText_Story",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Story.png",
@@ -71,9 +71,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_01"
     },
     {
-      "GKNMDKNIMHP": 100202,
+      "ID": 100202,
       "BINBNBIFJIO": 1002,
-      "FJECNNMMDGH": "HollowGroupNameText_exploration",
+      "Name": "HollowGroupNameText_exploration",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Explore.png",
@@ -85,9 +85,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_03"
     },
     {
-      "GKNMDKNIMHP": 100203,
+      "ID": 100203,
       "BINBNBIFJIO": 1002,
-      "FJECNNMMDGH": "HollowGroupNameText_combat",
+      "Name": "HollowGroupNameText_combat",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Combat.png",
@@ -99,9 +99,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_02"
     },
     {
-      "GKNMDKNIMHP": 100301,
+      "ID": 100301,
       "BINBNBIFJIO": 1003,
-      "FJECNNMMDGH": "HollowGroupNameText_Story",
+      "Name": "HollowGroupNameText_Story",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Story.png",
@@ -113,9 +113,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_01"
     },
     {
-      "GKNMDKNIMHP": 100302,
+      "ID": 100302,
       "BINBNBIFJIO": 1003,
-      "FJECNNMMDGH": "HollowGroupNameText_exploration",
+      "Name": "HollowGroupNameText_exploration",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Explore.png",
@@ -127,9 +127,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_03"
     },
     {
-      "GKNMDKNIMHP": 100303,
+      "ID": 100303,
       "BINBNBIFJIO": 1003,
-      "FJECNNMMDGH": "HollowGroupNameText_combat",
+      "Name": "HollowGroupNameText_combat",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Combat.png",
@@ -141,9 +141,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_02"
     },
     {
-      "GKNMDKNIMHP": 100401,
+      "ID": 100401,
       "BINBNBIFJIO": 1004,
-      "FJECNNMMDGH": "HollowGroupNameText_BigWorld",
+      "Name": "HollowGroupNameText_BigWorld",
       "PNKCDGFGMJJ": "1100140008",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_HighRisk.png",
@@ -155,9 +155,9 @@
       "CLAPDFHLOKC": ""
     },
     {
-      "GKNMDKNIMHP": 100501,
+      "ID": 100501,
       "BINBNBIFJIO": 1005,
-      "FJECNNMMDGH": "HollowGroupNameText_Story",
+      "Name": "HollowGroupNameText_Story",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Story.png",
@@ -169,9 +169,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_01"
     },
     {
-      "GKNMDKNIMHP": 100502,
+      "ID": 100502,
       "BINBNBIFJIO": 1005,
-      "FJECNNMMDGH": "HollowGroupNameText_exploration",
+      "Name": "HollowGroupNameText_exploration",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Explore.png",
@@ -183,9 +183,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_03"
     },
     {
-      "GKNMDKNIMHP": 100503,
+      "ID": 100503,
       "BINBNBIFJIO": 1005,
-      "FJECNNMMDGH": "HollowGroupNameText_combat",
+      "Name": "HollowGroupNameText_combat",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Combat.png",
@@ -197,9 +197,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_02"
     },
     {
-      "GKNMDKNIMHP": 100601,
+      "ID": 100601,
       "BINBNBIFJIO": 1006,
-      "FJECNNMMDGH": "HollowGroupNameText_Story",
+      "Name": "HollowGroupNameText_Story",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Story.png",
@@ -211,9 +211,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_01"
     },
     {
-      "GKNMDKNIMHP": 100602,
+      "ID": 100602,
       "BINBNBIFJIO": 1006,
-      "FJECNNMMDGH": "HollowGroupNameText_exploration",
+      "Name": "HollowGroupNameText_exploration",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Explore.png",
@@ -225,9 +225,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_03"
     },
     {
-      "GKNMDKNIMHP": 100603,
+      "ID": 100603,
       "BINBNBIFJIO": 1006,
-      "FJECNNMMDGH": "HollowGroupNameText_combat",
+      "Name": "HollowGroupNameText_combat",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Combat.png",
@@ -239,9 +239,9 @@
       "CLAPDFHLOKC": "YorozuyaMapTipsUnLockChange_02"
     },
     {
-      "GKNMDKNIMHP": 109901,
+      "ID": 109901,
       "BINBNBIFJIO": 1099,
-      "FJECNNMMDGH": "HollowGroupNameText_Story",
+      "Name": "HollowGroupNameText_Story",
       "PNKCDGFGMJJ": "",
       "KMHCGICDOLM": "Hollow_LockedHint_01",
       "IFOOHNFNAIO": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Story.png",

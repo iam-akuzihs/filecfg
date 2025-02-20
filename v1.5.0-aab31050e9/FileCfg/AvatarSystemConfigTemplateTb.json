@@ -1,7 +1,7 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1,
+      "ID": 1,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:9|Int_TextureSheetType:1",
@@ -12,7 +12,7 @@
       "GLHIOKAKMJB": "0:4"
     },
     {
-      "PDJOCPDOOAA": 2,
+      "ID": 2,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_End",
       "JOGHIICPIBB": "Int_TextureSheetType:1",
@@ -23,7 +23,7 @@
       "GLHIOKAKMJB": "0:2"
     },
     {
-      "PDJOCPDOOAA": 3,
+      "ID": 3,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:9|Int_TextureSheetType:1",
@@ -34,7 +34,7 @@
       "GLHIOKAKMJB": "0:4"
     },
     {
-      "PDJOCPDOOAA": 4,
+      "ID": 4,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_End",
       "JOGHIICPIBB": "Int_TextureSheetType:1",
@@ -45,7 +45,7 @@
       "GLHIOKAKMJB": "0:2"
     },
     {
-      "PDJOCPDOOAA": 11,
+      "ID": 11,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:7",
@@ -56,7 +56,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 12,
+      "ID": 12,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:8",
@@ -67,7 +67,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 13,
+      "ID": 13,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:7",
@@ -78,7 +78,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 14,
+      "ID": 14,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:8",
@@ -89,7 +89,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 15,
+      "ID": 15,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_SkipEndPose",
       "JOGHIICPIBB": "",
@@ -100,7 +100,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 16,
+      "ID": 16,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_SkipEndPose",
       "JOGHIICPIBB": "",
@@ -111,7 +111,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 21,
+      "ID": 21,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:9|Int_TextureSheetType:2",
@@ -122,7 +122,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 22,
+      "ID": 22,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_End",
       "JOGHIICPIBB": "Int_TextureSheetType:2",
@@ -133,7 +133,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 23,
+      "ID": 23,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:9|Int_TextureSheetType:2",
@@ -144,7 +144,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 24,
+      "ID": 24,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_End",
       "JOGHIICPIBB": "Int_TextureSheetType:2",
@@ -155,7 +155,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 25,
+      "ID": 25,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:11",
@@ -166,7 +166,7 @@
       "GLHIOKAKMJB": ""
     },
     {
-      "PDJOCPDOOAA": 26,
+      "ID": 26,
       "OPKJCNICCAC": 0,
       "FMFCLACABGN": "Trigger_Action_Start",
       "JOGHIICPIBB": "Int_ActionIndex:11",

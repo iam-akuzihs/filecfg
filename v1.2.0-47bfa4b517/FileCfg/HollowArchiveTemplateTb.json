@@ -1,7 +1,7 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1,
+      "ID": 1,
       "GNDCBKILPKN": "Quest_VHSName_001",
       "HGDKELDDLOH": "Quest_VHSDesc_001",
       "LMLJBOKCKAJ": "",
@@ -18,7 +18,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 2,
+      "ID": 2,
       "GNDCBKILPKN": "Quest_VHSName_002",
       "HGDKELDDLOH": "Quest_VHSDesc_002",
       "LMLJBOKCKAJ": "",
@@ -35,7 +35,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 3,
+      "ID": 3,
       "GNDCBKILPKN": "Quest_VHSName_003",
       "HGDKELDDLOH": "Quest_VHSDesc_003",
       "LMLJBOKCKAJ": "",
@@ -52,7 +52,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 4,
+      "ID": 4,
       "GNDCBKILPKN": "Quest_VHSName_1.5",
       "HGDKELDDLOH": "Quest_VHSDesc_1.5",
       "LMLJBOKCKAJ": "",
@@ -69,7 +69,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 5,
+      "ID": 5,
       "GNDCBKILPKN": "Quest_VHSName_Phaethon_001",
       "HGDKELDDLOH": "Quest_VHSDesc_Phaethon_001",
       "LMLJBOKCKAJ": "",
@@ -86,7 +86,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 6,
+      "ID": 6,
       "GNDCBKILPKN": "Quest_VHSName_004",
       "HGDKELDDLOH": "Quest_VHSDesc_004",
       "LMLJBOKCKAJ": "",
@@ -103,7 +103,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 7,
+      "ID": 7,
       "GNDCBKILPKN": "Quest_VHSName_005",
       "HGDKELDDLOH": "Quest_VHSDesc_005",
       "LMLJBOKCKAJ": "",
@@ -120,7 +120,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 8,
+      "ID": 8,
       "GNDCBKILPKN": "Quest_VHSName_007",
       "HGDKELDDLOH": "Quest_VHSDesc_007",
       "LMLJBOKCKAJ": "",
@@ -137,7 +137,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 9,
+      "ID": 9,
       "GNDCBKILPKN": "Quest_VHSName_008",
       "HGDKELDDLOH": "Quest_VHSDesc_008",
       "LMLJBOKCKAJ": "",
@@ -154,7 +154,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 10,
+      "ID": 10,
       "GNDCBKILPKN": "Quest_VHSName_009",
       "HGDKELDDLOH": "Quest_VHSDesc_009",
       "LMLJBOKCKAJ": "",
@@ -171,7 +171,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 11,
+      "ID": 11,
       "GNDCBKILPKN": "Quest_VHSName_010",
       "HGDKELDDLOH": "Quest_VHSDesc_010",
       "LMLJBOKCKAJ": "",
@@ -188,7 +188,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 12,
+      "ID": 12,
       "GNDCBKILPKN": "Quest_VHSName_012",
       "HGDKELDDLOH": "Quest_VHSDesc_012",
       "LMLJBOKCKAJ": "",
@@ -205,7 +205,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 13,
+      "ID": 13,
       "GNDCBKILPKN": "Quest_VHSName_013",
       "HGDKELDDLOH": "Quest_VHSDesc_013",
       "LMLJBOKCKAJ": "",
@@ -222,7 +222,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 10001,
+      "ID": 10001,
       "GNDCBKILPKN": "Quest_VHSName_Soldier11_001",
       "HGDKELDDLOH": "Quest_VHSDesc_Soldier11_001",
       "LMLJBOKCKAJ": "",
@@ -239,7 +239,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 10002,
+      "ID": 10002,
       "GNDCBKILPKN": "Quest_VHSName_Nekomata_001",
       "HGDKELDDLOH": "Quest_VHSDesc_Nekomata_001",
       "LMLJBOKCKAJ": "",
@@ -256,7 +256,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 10004,
+      "ID": 10004,
       "GNDCBKILPKN": "Quest_VHSName_Grace_001",
       "HGDKELDDLOH": "Quest_VHSDesc_Grace_001",
       "LMLJBOKCKAJ": "",
@@ -273,7 +273,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 10005,
+      "ID": 10005,
       "GNDCBKILPKN": "Quest_VHSName_Koleda_001",
       "HGDKELDDLOH": "Quest_VHS_Chapter_Koleda_001",
       "LMLJBOKCKAJ": "",
@@ -290,7 +290,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 10006,
+      "ID": 10006,
       "GNDCBKILPKN": "Quest_VHSName_Lycaon_001",
       "HGDKELDDLOH": "Quest_VHS_Chapter_Lycaon_001",
       "LMLJBOKCKAJ": "",
@@ -307,7 +307,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 10007,
+      "ID": 10007,
       "GNDCBKILPKN": "Quest_VHSName_Rina_001",
       "HGDKELDDLOH": "Quest_VHS_Chapter_Rina_001",
       "LMLJBOKCKAJ": "",
@@ -324,7 +324,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 10008,
+      "ID": 10008,
       "GNDCBKILPKN": "Quest_VHSName_Qingyi_001",
       "HGDKELDDLOH": "Quest_VHS_Chapter_Qingyi_001",
       "LMLJBOKCKAJ": "",
@@ -341,7 +341,7 @@
       "MCBGAPHPMAO": ""
     },
     {
-      "DKDDFEIAMIF": 10009,
+      "ID": 10009,
       "GNDCBKILPKN": "Quest_VHSName_Burnice_001",
       "HGDKELDDLOH": "Quest_VHS_Chapter_Burnice_001",
       "LMLJBOKCKAJ": "",
@@ -358,7 +358,7 @@
       "MCBGAPHPMAO": "1240660004|1242870007"
     },
     {
-      "DKDDFEIAMIF": 20001,
+      "ID": 20001,
       "GNDCBKILPKN": "Quest_VHSName_Jane_ova",
       "HGDKELDDLOH": "",
       "LMLJBOKCKAJ": "",

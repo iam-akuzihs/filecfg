@@ -1,7 +1,7 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1011,
+      "ID": 1011,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -11,33 +11,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5011,
-      "FIGGIDEHEKF": 603,
-      "BECDGBJJDJF": 818426,
+      "AvatarPieceID": 5011,
+      "HP": 603,
+      "HpGrowth": 818426,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 95,
-      "FPEJPGAPDLH": 54230,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66882,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 95,
+      "AttackGrowth": 54230,
+      "Defence": 49,
+      "DefenceGrowth": 66882,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 118,
-      "PAHFEFJGJLB": 94,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 118,
+      "__exp_ElementMastery": 94,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -62,7 +62,7 @@
       "JFPONCPKBAG": 10491841778352947063,
       "DFMJIJBPPBC": 10016991024130071828,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Anbi",
         "Cut",
         "Electric",
@@ -78,13 +78,13 @@
         4
       ],
       "HPNPPPGKHPJ": 2,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         203
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:1:2",
         "2:203:2"
       ],
@@ -95,7 +95,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1021,
+      "ID": 1021,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -105,33 +105,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5021,
-      "FIGGIDEHEKF": 608,
-      "BECDGBJJDJF": 824778,
+      "AvatarPieceID": 5021,
+      "HP": 608,
+      "HpGrowth": 824778,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 131,
-      "FPEJPGAPDLH": 79762,
-      "KJFJNMEHNHM": 47,
-      "FHLGLKAHNLB": 64166,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 131,
+      "AttackGrowth": 79762,
+      "Defence": 47,
+      "DefenceGrowth": 64166,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 92,
-      "PAHFEFJGJLB": 97,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 96,
+      "BreakStun": 92,
+      "__exp_ElementMastery": 97,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 96,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -156,7 +156,7 @@
       "JFPONCPKBAG": 107159693214025601,
       "DFMJIJBPPBC": 3955578584380498203,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Tsubaki",
         "Cut",
         "Physics",
@@ -173,13 +173,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         200
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:1:2",
         "2:200:2"
       ],
@@ -190,7 +190,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1031,
+      "ID": 1031,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -200,33 +200,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5031,
-      "FIGGIDEHEKF": 655,
-      "BECDGBJJDJF": 888787,
+      "AvatarPieceID": 5031,
+      "HP": 655,
+      "HpGrowth": 888787,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 93,
-      "FPEJPGAPDLH": 53249,
-      "KJFJNMEHNHM": 50,
-      "FHLGLKAHNLB": 67901,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 93,
+      "AttackGrowth": 53249,
+      "Defence": 50,
+      "DefenceGrowth": 67901,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 88,
-      "PAHFEFJGJLB": 90,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 88,
+      "__exp_ElementMastery": 90,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -251,7 +251,7 @@
       "JFPONCPKBAG": 12242008576780960899,
       "DFMJIJBPPBC": 9400430607077959192,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Nostradamus",
         "Ether",
         "Punch",
@@ -267,13 +267,13 @@
         11
       ],
       "HPNPPPGKHPJ": 4,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         205
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:1:2",
         "2:205:2"
       ],
@@ -284,7 +284,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1041,
+      "ID": 1041,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -294,33 +294,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5041,
-      "FIGGIDEHEKF": 617,
-      "BECDGBJJDJF": 837238,
+      "AvatarPieceID": 5041,
+      "HP": 617,
+      "HpGrowth": 837238,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 128,
-      "FPEJPGAPDLH": 77554,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66882,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 128,
+      "AttackGrowth": 77554,
+      "Defence": 49,
+      "DefenceGrowth": 66882,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 93,
-      "PAHFEFJGJLB": 94,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 93,
+      "__exp_ElementMastery": 94,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -345,7 +345,7 @@
       "JFPONCPKBAG": 14914036460839920314,
       "DFMJIJBPPBC": 11268985462678620392,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Longinus",
         "Cut",
         "Fire",
@@ -362,13 +362,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         201
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:5:2",
         "2:201:2"
       ],
@@ -379,7 +379,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1061,
+      "ID": 1061,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -389,33 +389,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5061,
-      "FIGGIDEHEKF": 561,
-      "BECDGBJJDJF": 761177,
+      "AvatarPieceID": 5061,
+      "HP": 561,
+      "HpGrowth": 761177,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 116,
-      "FPEJPGAPDLH": 69346,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 65864,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 116,
+      "AttackGrowth": 69346,
+      "Defence": 49,
+      "DefenceGrowth": 65864,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 93,
-      "PAHFEFJGJLB": 93,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 96,
+      "BreakStun": 93,
+      "__exp_ElementMastery": 93,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 96,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -440,7 +440,7 @@
       "JFPONCPKBAG": 15540359838109515677,
       "DFMJIJBPPBC": 8429872660944808431,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Corin",
         "Cut",
         "Physics",
@@ -457,13 +457,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         200
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:2:2",
         "2:200:2"
       ],
@@ -474,7 +474,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1071,
+      "ID": 1071,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -484,33 +484,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5071,
-      "FIGGIDEHEKF": 766,
-      "BECDGBJJDJF": 1039361,
+      "AvatarPieceID": 5071,
+      "HP": 766,
+      "HpGrowth": 1039361,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 101,
-      "FPEJPGAPDLH": 58761,
-      "KJFJNMEHNHM": 61,
-      "FHLGLKAHNLB": 82180,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 101,
+      "AttackGrowth": 58761,
+      "Defence": 61,
+      "DefenceGrowth": 82180,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 105,
-      "PAHFEFJGJLB": 87,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 90,
+      "BreakStun": 105,
+      "__exp_ElementMastery": 87,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 90,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -535,7 +535,7 @@
       "JFPONCPKBAG": 17512374214886746434,
       "DFMJIJBPPBC": 9811009916675984278,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Caesar",
         "Cut",
         "Punch",
@@ -552,14 +552,14 @@
         4
       ],
       "HPNPPPGKHPJ": 5,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         200
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101,
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:4:2",
         "4:AidTypeParry:2"
       ],
@@ -570,7 +570,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1081,
+      "ID": 1081,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -580,33 +580,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5081,
-      "FIGGIDEHEKF": 555,
-      "BECDGBJJDJF": 753604,
+      "AvatarPieceID": 5081,
+      "HP": 555,
+      "HpGrowth": 753604,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 113,
-      "FPEJPGAPDLH": 67335,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66203,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 113,
+      "AttackGrowth": 67335,
+      "Defence": 49,
+      "DefenceGrowth": 66203,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 91,
-      "PAHFEFJGJLB": 92,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 91,
+      "BreakStun": 91,
+      "__exp_ElementMastery": 92,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 91,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -631,7 +631,7 @@
       "JFPONCPKBAG": 6699368202796395148,
       "DFMJIJBPPBC": 11715603066152012968,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Billy",
         "Pierce",
         "Physics",
@@ -648,13 +648,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         200
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         103
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:1:2",
         "2:200:2"
       ],
@@ -665,7 +665,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1091,
+      "ID": 1091,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -675,33 +675,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5091,
-      "FIGGIDEHEKF": 617,
-      "BECDGBJJDJF": 837238,
+      "AvatarPieceID": 5091,
+      "HP": 617,
+      "HpGrowth": 837238,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 127,
-      "FPEJPGAPDLH": 76728,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66203,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 127,
+      "AttackGrowth": 76728,
+      "Defence": 49,
+      "DefenceGrowth": 66203,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 86,
-      "PAHFEFJGJLB": 116,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 148,
+      "BreakStun": 86,
+      "__exp_ElementMastery": 116,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 148,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -726,7 +726,7 @@
       "JFPONCPKBAG": 11050713072044511928,
       "DFMJIJBPPBC": 3347819704176518447,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Unagi",
         "Cut",
         "Ice",
@@ -744,13 +744,13 @@
         6
       ],
       "HPNPPPGKHPJ": 3,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         202
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:6:2",
         "3:4:1"
       ],
@@ -761,7 +761,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1101,
+      "ID": 1101,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -771,33 +771,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5101,
-      "FIGGIDEHEKF": 653,
-      "BECDGBJJDJF": 886832,
+      "AvatarPieceID": 5101,
+      "HP": 653,
+      "HpGrowth": 886832,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 106,
-      "FPEJPGAPDLH": 62007,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 64845,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 106,
+      "AttackGrowth": 62007,
+      "Defence": 48,
+      "DefenceGrowth": 64845,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 116,
-      "PAHFEFJGJLB": 97,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 96,
+      "BreakStun": 116,
+      "__exp_ElementMastery": 97,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 96,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -822,7 +822,7 @@
       "JFPONCPKBAG": 15875089552388456594,
       "DFMJIJBPPBC": 16187055588269879616,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "OokumaMari",
         "Punch",
         "Fire",
@@ -838,13 +838,13 @@
         4
       ],
       "HPNPPPGKHPJ": 2,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         201
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:3:2",
         "2:201:2"
       ],
@@ -855,7 +855,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1111,
+      "ID": 1111,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -865,33 +865,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5111,
-      "FIGGIDEHEKF": 580,
-      "BECDGBJJDJF": 787644,
+      "AvatarPieceID": 5111,
+      "HP": 580,
+      "HpGrowth": 787644,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 114,
-      "FPEJPGAPDLH": 67737,
-      "KJFJNMEHNHM": 50,
-      "FHLGLKAHNLB": 67901,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 114,
+      "AttackGrowth": 67737,
+      "Defence": 50,
+      "DefenceGrowth": 67901,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 95,
-      "PAHFEFJGJLB": 86,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 90,
+      "BreakStun": 95,
+      "__exp_ElementMastery": 86,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 90,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -916,7 +916,7 @@
       "JFPONCPKBAG": 2703980619972501157,
       "DFMJIJBPPBC": 13888257900990797904,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Anton",
         "Pierce",
         "Electric",
@@ -933,13 +933,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         203
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         103
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:3:2",
         "2:203:2"
       ],
@@ -950,7 +950,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1121,
+      "ID": 1121,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -960,33 +960,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5121,
-      "FIGGIDEHEKF": 690,
-      "BECDGBJJDJF": 935856,
+      "AvatarPieceID": 5121,
+      "HP": 690,
+      "HpGrowth": 935856,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 94,
-      "FPEJPGAPDLH": 53574,
-      "KJFJNMEHNHM": 58,
-      "FHLGLKAHNLB": 78989,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 94,
+      "AttackGrowth": 53574,
+      "Defence": 58,
+      "DefenceGrowth": 78989,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 95,
-      "PAHFEFJGJLB": 86,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 90,
+      "BreakStun": 95,
+      "__exp_ElementMastery": 86,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 90,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1011,7 +1011,7 @@
       "JFPONCPKBAG": 10840946170933319520,
       "DFMJIJBPPBC": 12465096767441289395,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Ben",
         "Punch",
         "Fire",
@@ -1027,13 +1027,13 @@
         3
       ],
       "HPNPPPGKHPJ": 5,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         201
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:3:2",
         "2:201:2"
       ],
@@ -1044,7 +1044,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1131,
+      "ID": 1131,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1054,33 +1054,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5131,
-      "FIGGIDEHEKF": 645,
-      "BECDGBJJDJF": 875757,
+      "AvatarPieceID": 5131,
+      "HP": 645,
+      "HpGrowth": 875757,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 96,
-      "FPEJPGAPDLH": 54887,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 65185,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 96,
+      "AttackGrowth": 54887,
+      "Defence": 48,
+      "DefenceGrowth": 65185,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 86,
-      "PAHFEFJGJLB": 93,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 96,
+      "BreakStun": 86,
+      "__exp_ElementMastery": 93,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 96,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1105,7 +1105,7 @@
       "JFPONCPKBAG": 17848649563637765801,
       "DFMJIJBPPBC": 2735475339047887060,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Aokaku",
         "Cut",
         "Ice",
@@ -1121,13 +1121,13 @@
         2
       ],
       "HPNPPPGKHPJ": 4,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         202
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:6:2",
         "2:202:2"
       ],
@@ -1138,7 +1138,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1141,
+      "ID": 1141,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1148,33 +1148,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5141,
-      "FIGGIDEHEKF": 677,
-      "BECDGBJJDJF": 918185,
+      "AvatarPieceID": 5141,
+      "HP": 677,
+      "HpGrowth": 918185,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 105,
-      "FPEJPGAPDLH": 61287,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66203,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 105,
+      "AttackGrowth": 61287,
+      "Defence": 49,
+      "DefenceGrowth": 66203,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 119,
-      "PAHFEFJGJLB": 91,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 90,
+      "BreakStun": 119,
+      "__exp_ElementMastery": 91,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 90,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1199,7 +1199,7 @@
       "JFPONCPKBAG": 1697718537549558418,
       "DFMJIJBPPBC": 12900974558391298353,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Lycaon",
         "Punch",
         "Ice",
@@ -1215,13 +1215,13 @@
         4
       ],
       "HPNPPPGKHPJ": 2,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         202
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:2:2",
         "2:202:2"
       ],
@@ -1232,7 +1232,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1151,
+      "ID": 1151,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1242,33 +1242,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5151,
-      "FIGGIDEHEKF": 645,
-      "BECDGBJJDJF": 875757,
+      "AvatarPieceID": 5151,
+      "HP": 645,
+      "HpGrowth": 875757,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 95,
-      "FPEJPGAPDLH": 54230,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66882,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 95,
+      "AttackGrowth": 54230,
+      "Defence": 49,
+      "DefenceGrowth": 66882,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 86,
-      "PAHFEFJGJLB": 94,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 86,
+      "__exp_ElementMastery": 94,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1293,7 +1293,7 @@
       "JFPONCPKBAG": 13145499243000884667,
       "DFMJIJBPPBC": 9245349511988605304,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Lucy",
         "Punch",
         "Fire",
@@ -1309,13 +1309,13 @@
         2
       ],
       "HPNPPPGKHPJ": 4,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         201
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:4:2",
         "2:201:2"
       ],
@@ -1326,7 +1326,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1161,
+      "ID": 1161,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1336,33 +1336,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5161,
-      "FIGGIDEHEKF": 677,
-      "BECDGBJJDJF": 918185,
+      "AvatarPieceID": 5161,
+      "HP": 677,
+      "HpGrowth": 918185,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 109,
-      "FPEJPGAPDLH": 63891,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66882,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 109,
+      "AttackGrowth": 63891,
+      "Defence": 49,
+      "DefenceGrowth": 66882,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 119,
-      "PAHFEFJGJLB": 91,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 90,
+      "BreakStun": 119,
+      "__exp_ElementMastery": 91,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 90,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1387,7 +1387,7 @@
       "JFPONCPKBAG": 8159053797713639840,
       "DFMJIJBPPBC": 9382731576937079117,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Lighter",
         "Punch",
         "Fire",
@@ -1403,13 +1403,13 @@
         4
       ],
       "HPNPPPGKHPJ": 2,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         201
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:4:2",
         "3:1:1"
       ],
@@ -1420,7 +1420,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1171,
+      "ID": 1171,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1430,33 +1430,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5171,
-      "FIGGIDEHEKF": 592,
-      "BECDGBJJDJF": 803931,
+      "AvatarPieceID": 5171,
+      "HP": 592,
+      "HpGrowth": 803931,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 124,
-      "FPEJPGAPDLH": 74992,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 65524,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 124,
+      "AttackGrowth": 74992,
+      "Defence": 48,
+      "DefenceGrowth": 65524,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 83,
-      "PAHFEFJGJLB": 118,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 120,
+      "BreakStun": 83,
+      "__exp_ElementMastery": 118,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 120,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1481,7 +1481,7 @@
       "JFPONCPKBAG": 6832507293683414557,
       "DFMJIJBPPBC": 4846998242795205508,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Burnice",
         "Pierce",
         "Fire",
@@ -1499,13 +1499,13 @@
         11
       ],
       "HPNPPPGKHPJ": 3,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         201
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         103
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:4:2",
         "3:3:2"
       ],
@@ -1516,7 +1516,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1181,
+      "ID": 1181,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1526,33 +1526,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5181,
-      "FIGGIDEHEKF": 602,
-      "BECDGBJJDJF": 816391,
+      "AvatarPieceID": 5181,
+      "HP": 602,
+      "HpGrowth": 816391,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 119,
-      "FPEJPGAPDLH": 71181,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 65524,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 119,
+      "AttackGrowth": 71181,
+      "Defence": 48,
+      "DefenceGrowth": 65524,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 83,
-      "PAHFEFJGJLB": 115,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 116,
+      "BreakStun": 83,
+      "__exp_ElementMastery": 115,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 116,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1577,7 +1577,7 @@
       "JFPONCPKBAG": 945308403740047262,
       "DFMJIJBPPBC": 6925482723598496571,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Lisa",
         "Pierce",
         "Electric",
@@ -1594,13 +1594,13 @@
         8
       ],
       "HPNPPPGKHPJ": 3,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         203
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         103
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:3:2",
         "2:203:2"
       ],
@@ -1611,7 +1611,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1191,
+      "ID": 1191,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1621,33 +1621,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5191,
-      "FIGGIDEHEKF": 617,
-      "BECDGBJJDJF": 837238,
+      "AvatarPieceID": 5191,
+      "HP": 617,
+      "HpGrowth": 837238,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 135,
-      "FPEJPGAPDLH": 82578,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66203,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 135,
+      "AttackGrowth": 82578,
+      "Defence": 49,
+      "DefenceGrowth": 66203,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 93,
-      "PAHFEFJGJLB": 94,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 93,
+      "__exp_ElementMastery": 94,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1672,7 +1672,7 @@
       "JFPONCPKBAG": 4635921435788530187,
       "DFMJIJBPPBC": 15739870075085404866,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Ellen",
         "Cut",
         "Ice",
@@ -1689,13 +1689,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         202
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:2:2",
         "2:202:2"
       ],
@@ -1706,7 +1706,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1201,
+      "ID": 1201,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1716,33 +1716,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5201,
-      "FIGGIDEHEKF": 595,
-      "BECDGBJJDJF": 808084,
+      "AvatarPieceID": 5201,
+      "HP": 595,
+      "HpGrowth": 808084,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 132,
-      "FPEJPGAPDLH": 80270,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 65524,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 132,
+      "AttackGrowth": 80270,
+      "Defence": 48,
+      "DefenceGrowth": 65524,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 90,
-      "PAHFEFJGJLB": 80,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 95,
+      "BreakStun": 90,
+      "__exp_ElementMastery": 80,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 95,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1767,7 +1767,7 @@
       "JFPONCPKBAG": 5659050227090138687,
       "DFMJIJBPPBC": 5581928410674167637,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Harumasa",
         "Pierce",
         "Electric",
@@ -1784,14 +1784,14 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         203
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         103,
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "3:2:1",
         "3:3:1"
       ],
@@ -1802,7 +1802,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1211,
+      "ID": 1211,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1812,33 +1812,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5211,
-      "FIGGIDEHEKF": 692,
-      "BECDGBJJDJF": 939358,
+      "AvatarPieceID": 5211,
+      "HP": 692,
+      "HpGrowth": 939358,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 103,
-      "FPEJPGAPDLH": 60201,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 65524,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 103,
+      "AttackGrowth": 60201,
+      "Defence": 48,
+      "DefenceGrowth": 65524,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 83,
-      "PAHFEFJGJLB": 93,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 92,
+      "BreakStun": 83,
+      "__exp_ElementMastery": 93,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 92,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1863,7 +1863,7 @@
       "JFPONCPKBAG": 13001389245245406314,
       "DFMJIJBPPBC": 17522217754964128445,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Rina",
         "Punch",
         "Electric",
@@ -1879,13 +1879,13 @@
         9
       ],
       "HPNPPPGKHPJ": 4,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         203
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:2:2",
         "2:203:2"
       ],
@@ -1896,7 +1896,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1221,
+      "ID": 1221,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -1906,33 +1906,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5221,
-      "FIGGIDEHEKF": 626,
-      "BECDGBJJDJF": 849779,
+      "AvatarPieceID": 5221,
+      "HP": 626,
+      "HpGrowth": 849779,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 126,
-      "FPEJPGAPDLH": 75860,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66882,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 126,
+      "AttackGrowth": 75860,
+      "Defence": 49,
+      "DefenceGrowth": 66882,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 86,
-      "PAHFEFJGJLB": 112,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 114,
+      "BreakStun": 86,
+      "__exp_ElementMastery": 112,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 114,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -1957,7 +1957,7 @@
       "JFPONCPKBAG": 17295547976603634382,
       "DFMJIJBPPBC": 2023052123257482845,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Yanagi",
         "Cut",
         "Electric",
@@ -1974,13 +1974,13 @@
         8
       ],
       "HPNPPPGKHPJ": 3,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         203
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "2:203:2",
         "3:3:2"
       ],
@@ -1991,7 +1991,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1241,
+      "ID": 1241,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2001,33 +2001,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5241,
-      "FIGGIDEHEKF": 602,
-      "BECDGBJJDJF": 816391,
+      "AvatarPieceID": 5241,
+      "HP": 602,
+      "HpGrowth": 816391,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 132,
-      "FPEJPGAPDLH": 80729,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 65524,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 132,
+      "AttackGrowth": 80729,
+      "Defence": 48,
+      "DefenceGrowth": 65524,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 90,
-      "PAHFEFJGJLB": 93,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 92,
+      "BreakStun": 90,
+      "__exp_ElementMastery": 93,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 92,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2052,7 +2052,7 @@
       "JFPONCPKBAG": 17732147861127858867,
       "DFMJIJBPPBC": 14489563585376503835,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "ZhuYuan",
         "Pierce",
         "Ether",
@@ -2069,13 +2069,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         205
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         103
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:7:2",
         "3:4:1"
       ],
@@ -2086,7 +2086,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1251,
+      "ID": 1251,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2096,33 +2096,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5251,
-      "FIGGIDEHEKF": 663,
-      "BECDGBJJDJF": 900269,
+      "AvatarPieceID": 5251,
+      "HP": 663,
+      "HpGrowth": 900269,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 109,
-      "FPEJPGAPDLH": 64272,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66882,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 109,
+      "AttackGrowth": 64272,
+      "Defence": 49,
+      "DefenceGrowth": 66882,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 118,
-      "PAHFEFJGJLB": 94,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 118,
+      "__exp_ElementMastery": 94,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2147,7 +2147,7 @@
       "JFPONCPKBAG": 10019205821561133617,
       "DFMJIJBPPBC": 16386932526578029902,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "QingYi",
         "Punch",
         "Electric",
@@ -2163,13 +2163,13 @@
         4
       ],
       "HPNPPPGKHPJ": 2,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         203
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:7:2",
         "3:1:1"
       ],
@@ -2180,7 +2180,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1261,
+      "ID": 1261,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2190,33 +2190,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5261,
-      "FIGGIDEHEKF": 626,
-      "BECDGBJJDJF": 849779,
+      "AvatarPieceID": 5261,
+      "HP": 626,
+      "HpGrowth": 849779,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 127,
-      "FPEJPGAPDLH": 76728,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66203,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 127,
+      "AttackGrowth": 76728,
+      "Defence": 49,
+      "DefenceGrowth": 66203,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 86,
-      "PAHFEFJGJLB": 112,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 114,
+      "BreakStun": 86,
+      "__exp_ElementMastery": 112,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 114,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2241,7 +2241,7 @@
       "JFPONCPKBAG": 3444522955937824862,
       "DFMJIJBPPBC": 3894168685112288732,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "JaneDoe",
         "Cut",
         "Physics",
@@ -2258,13 +2258,13 @@
         8
       ],
       "HPNPPPGKHPJ": 3,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         200
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:7:2",
         "3:3:2"
       ],
@@ -2275,7 +2275,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1271,
+      "ID": 1271,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2285,33 +2285,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5271,
-      "FIGGIDEHEKF": 699,
-      "BECDGBJJDJF": 949375,
+      "AvatarPieceID": 5271,
+      "HP": 699,
+      "HpGrowth": 949375,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 93,
-      "FPEJPGAPDLH": 52593,
-      "KJFJNMEHNHM": 60,
-      "FHLGLKAHNLB": 81379,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 93,
+      "AttackGrowth": 52593,
+      "Defence": 60,
+      "DefenceGrowth": 81379,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 94,
-      "PAHFEFJGJLB": 86,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 90,
+      "BreakStun": 94,
+      "__exp_ElementMastery": 86,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 90,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2336,7 +2336,7 @@
       "JFPONCPKBAG": 14935851270808319746,
       "DFMJIJBPPBC": 8554414279750582090,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Seth",
         "Cut",
         "Electric",
@@ -2352,13 +2352,13 @@
         2
       ],
       "HPNPPPGKHPJ": 5,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         203
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:7:2",
         "2:203:2"
       ],
@@ -2369,7 +2369,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1281,
+      "ID": 1281,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2379,33 +2379,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5281,
-      "FIGGIDEHEKF": 561,
-      "BECDGBJJDJF": 761177,
+      "AvatarPieceID": 5281,
+      "HP": 561,
+      "HpGrowth": 761177,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 109,
-      "FPEJPGAPDLH": 64308,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66882,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 109,
+      "AttackGrowth": 64308,
+      "Defence": 49,
+      "DefenceGrowth": 66882,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 86,
-      "PAHFEFJGJLB": 116,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 118,
+      "BreakStun": 86,
+      "__exp_ElementMastery": 116,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 118,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2430,7 +2430,7 @@
       "JFPONCPKBAG": 18386330477099567730,
       "DFMJIJBPPBC": 455969419093402604,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Clara",
         "Cut",
         "Physics",
@@ -2447,13 +2447,13 @@
         8
       ],
       "HPNPPPGKHPJ": 3,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         200
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:4:2",
         "2:200:2"
       ],
@@ -2464,7 +2464,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1311,
+      "ID": 1311,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2474,33 +2474,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5311,
-      "FIGGIDEHEKF": 692,
-      "BECDGBJJDJF": 939358,
+      "AvatarPieceID": 5311,
+      "HP": 692,
+      "HpGrowth": 939358,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 103,
-      "FPEJPGAPDLH": 59961,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 65524,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 103,
+      "AttackGrowth": 59961,
+      "Defence": 48,
+      "DefenceGrowth": 65524,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 83,
-      "PAHFEFJGJLB": 93,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 92,
+      "BreakStun": 83,
+      "__exp_ElementMastery": 93,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 92,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2525,7 +2525,7 @@
       "JFPONCPKBAG": 12062537888948927954,
       "DFMJIJBPPBC": 1363001643713555497,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Astra",
         "Punch",
         "Ether",
@@ -2542,13 +2542,13 @@
         11
       ],
       "HPNPPPGKHPJ": 4,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         205
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "3:1:1",
         "3:3:1"
       ],
@@ -2559,7 +2559,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 1321,
+      "ID": 1321,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2569,33 +2569,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5321,
-      "FIGGIDEHEKF": 626,
-      "BECDGBJJDJF": 849779,
+      "AvatarPieceID": 5321,
+      "HP": 626,
+      "HpGrowth": 849779,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 134,
-      "FPEJPGAPDLH": 81654,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66882,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 134,
+      "AttackGrowth": 81654,
+      "Defence": 49,
+      "DefenceGrowth": 66882,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 93,
-      "PAHFEFJGJLB": 92,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 90,
+      "BreakStun": 93,
+      "__exp_ElementMastery": 92,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 90,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2620,7 +2620,7 @@
       "JFPONCPKBAG": 16179766700130854383,
       "DFMJIJBPPBC": 6346206396150529906,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Evelyn",
         "Cut",
         "Fire",
@@ -2638,13 +2638,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         201
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "3:4:1",
         "3:2:1"
       ],
@@ -2655,7 +2655,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 2011,
+      "ID": 2011,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2665,33 +2665,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 6011,
-      "FIGGIDEHEKF": 600,
-      "BECDGBJJDJF": 814355,
+      "AvatarPieceID": 6011,
+      "HP": 600,
+      "HpGrowth": 814355,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 100,
-      "FPEJPGAPDLH": 57858,
-      "KJFJNMEHNHM": 50,
-      "FHLGLKAHNLB": 67901,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 100,
+      "AttackGrowth": 57858,
+      "Defence": 50,
+      "DefenceGrowth": 67901,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 110,
-      "PAHFEFJGJLB": 100,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 180,
-      "DPNPHFDBDNK": 100,
+      "BreakStun": 110,
+      "__exp_ElementMastery": 100,
+      "SpBarPoint": 120,
+      "SpRecover": 180,
+      "__exp_ElementProficiency": 100,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2716,18 +2716,18 @@
       "JFPONCPKBAG": 1102214231085905116,
       "DFMJIJBPPBC": 17819972510874553211,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [],
+      "Tags": [],
       "NGCFOHMKLKL": [],
       "NDEIKBLCABM": [],
       "IPJPFKKIELF": [],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         1
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         0
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:0:2",
         "2:1:2"
       ],
@@ -2738,7 +2738,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 2021,
+      "ID": 2021,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2748,33 +2748,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 6021,
-      "FIGGIDEHEKF": 600,
-      "BECDGBJJDJF": 814355,
+      "AvatarPieceID": 6021,
+      "HP": 600,
+      "HpGrowth": 814355,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 100,
-      "FPEJPGAPDLH": 57858,
-      "KJFJNMEHNHM": 50,
-      "FHLGLKAHNLB": 67901,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 100,
+      "AttackGrowth": 57858,
+      "Defence": 50,
+      "DefenceGrowth": 67901,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 110,
-      "PAHFEFJGJLB": 100,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 180,
-      "DPNPHFDBDNK": 100,
+      "BreakStun": 110,
+      "__exp_ElementMastery": 100,
+      "SpBarPoint": 120,
+      "SpRecover": 180,
+      "__exp_ElementProficiency": 100,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2799,18 +2799,18 @@
       "JFPONCPKBAG": 15805682636197341197,
       "DFMJIJBPPBC": 7856253788170595693,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [],
+      "Tags": [],
       "NGCFOHMKLKL": [],
       "NDEIKBLCABM": [],
       "IPJPFKKIELF": [],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         1
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         0
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:0:2",
         "2:1:2"
       ],
@@ -2821,7 +2821,7 @@
       "FKDHCKPGFHB": 0
     },
     {
-      "PDJOCPDOOAA": 3110310,
+      "ID": 3110310,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2831,33 +2831,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5031,
-      "FIGGIDEHEKF": 655,
-      "BECDGBJJDJF": 888787,
+      "AvatarPieceID": 5031,
+      "HP": 655,
+      "HpGrowth": 888787,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 93,
-      "FPEJPGAPDLH": 53249,
-      "KJFJNMEHNHM": 50,
-      "FHLGLKAHNLB": 67901,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 93,
+      "AttackGrowth": 53249,
+      "Defence": 50,
+      "DefenceGrowth": 67901,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 88,
-      "PAHFEFJGJLB": 90,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 88,
+      "__exp_ElementMastery": 90,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2882,7 +2882,7 @@
       "JFPONCPKBAG": 12242008576780960899,
       "DFMJIJBPPBC": 9400430607077959192,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Nostradamus",
         "Ether",
         "Punch",
@@ -2898,13 +2898,13 @@
         11
       ],
       "HPNPPPGKHPJ": 4,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         205
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:1:2",
         "2:205:2"
       ],
@@ -2915,7 +2915,7 @@
       "FKDHCKPGFHB": 1031
     },
     {
-      "PDJOCPDOOAA": 3110311,
+      "ID": 3110311,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -2925,33 +2925,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5031,
-      "FIGGIDEHEKF": 655,
-      "BECDGBJJDJF": 888787,
+      "AvatarPieceID": 5031,
+      "HP": 655,
+      "HpGrowth": 888787,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 93,
-      "FPEJPGAPDLH": 53249,
-      "KJFJNMEHNHM": 50,
-      "FHLGLKAHNLB": 67901,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 93,
+      "AttackGrowth": 53249,
+      "Defence": 50,
+      "DefenceGrowth": 67901,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 88,
-      "PAHFEFJGJLB": 90,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 88,
+      "__exp_ElementMastery": 90,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -2976,7 +2976,7 @@
       "JFPONCPKBAG": 13837924027363399952,
       "DFMJIJBPPBC": 14886395610153036363,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Nostradamus",
         "Ether",
         "Punch",
@@ -2992,13 +2992,13 @@
         11
       ],
       "HPNPPPGKHPJ": 4,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         205
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:1:2",
         "2:205:2"
       ],
@@ -3009,7 +3009,7 @@
       "FKDHCKPGFHB": 1031
     },
     {
-      "PDJOCPDOOAA": 3111910,
+      "ID": 3111910,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -3019,33 +3019,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5191,
-      "FIGGIDEHEKF": 617,
-      "BECDGBJJDJF": 837238,
+      "AvatarPieceID": 5191,
+      "HP": 617,
+      "HpGrowth": 837238,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 135,
-      "FPEJPGAPDLH": 82578,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66203,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 135,
+      "AttackGrowth": 82578,
+      "Defence": 49,
+      "DefenceGrowth": 66203,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 93,
-      "PAHFEFJGJLB": 94,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 93,
+      "__exp_ElementMastery": 94,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -3070,7 +3070,7 @@
       "JFPONCPKBAG": 4635921435788530187,
       "DFMJIJBPPBC": 15739870075085404866,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Ellen",
         "Cut",
         "Ice",
@@ -3087,13 +3087,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         202
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:2:2",
         "2:202:2"
       ],
@@ -3104,7 +3104,7 @@
       "FKDHCKPGFHB": 1191
     },
     {
-      "PDJOCPDOOAA": 3111911,
+      "ID": 3111911,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -3114,33 +3114,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5191,
-      "FIGGIDEHEKF": 617,
-      "BECDGBJJDJF": 837238,
+      "AvatarPieceID": 5191,
+      "HP": 617,
+      "HpGrowth": 837238,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 135,
-      "FPEJPGAPDLH": 82578,
-      "KJFJNMEHNHM": 49,
-      "FHLGLKAHNLB": 66203,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 135,
+      "AttackGrowth": 82578,
+      "Defence": 49,
+      "DefenceGrowth": 66203,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 93,
-      "PAHFEFJGJLB": 94,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 93,
+      "BreakStun": 93,
+      "__exp_ElementMastery": 94,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 93,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -3165,7 +3165,7 @@
       "JFPONCPKBAG": 9157300180329339770,
       "DFMJIJBPPBC": 503497748562942488,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Ellen",
         "Cut",
         "Ice",
@@ -3182,13 +3182,13 @@
         6
       ],
       "HPNPPPGKHPJ": 1,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         202
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         101
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "1:2:2",
         "2:202:2"
       ],
@@ -3199,7 +3199,7 @@
       "FKDHCKPGFHB": 1191
     },
     {
-      "PDJOCPDOOAA": 3113110,
+      "ID": 3113110,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -3209,33 +3209,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5311,
-      "FIGGIDEHEKF": 692,
-      "BECDGBJJDJF": 939358,
+      "AvatarPieceID": 5311,
+      "HP": 692,
+      "HpGrowth": 939358,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 103,
-      "FPEJPGAPDLH": 59961,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 65524,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 103,
+      "AttackGrowth": 59961,
+      "Defence": 48,
+      "DefenceGrowth": 65524,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 83,
-      "PAHFEFJGJLB": 93,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 92,
+      "BreakStun": 83,
+      "__exp_ElementMastery": 93,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 92,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -3260,7 +3260,7 @@
       "JFPONCPKBAG": 12062537888948927954,
       "DFMJIJBPPBC": 1363001643713555497,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Astra",
         "Punch",
         "Ether",
@@ -3277,13 +3277,13 @@
         11
       ],
       "HPNPPPGKHPJ": 4,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         205
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "3:1:1",
         "3:3:1"
       ],
@@ -3294,7 +3294,7 @@
       "FKDHCKPGFHB": 1311
     },
     {
-      "PDJOCPDOOAA": 3113111,
+      "ID": 3113111,
       "MFAMKOBFDAC": "",
       "CNCIMEOJMMI": "",
       "JDBPHMAKKOA": "",
@@ -3304,33 +3304,33 @@
       "NDGHBEPLBPP": "",
       "MCDEFPCCNAH": 1,
       "HPJFILOMNNH": 1,
-      "CKGHIGCJOKF": 5311,
-      "FIGGIDEHEKF": 692,
-      "BECDGBJJDJF": 939358,
+      "AvatarPieceID": 5311,
+      "HP": 692,
+      "HpGrowth": 939358,
       "PIIOIPDDBPC": 0,
       "IEENJOFAKOE": 0,
       "HFBHLKMCFIB": 0,
       "GHDACMIFCMN": 0,
       "KMCDPHPAMOD": 0,
-      "LLIKHDBOILH": 103,
-      "FPEJPGAPDLH": 59961,
-      "KJFJNMEHNHM": 48,
-      "FHLGLKAHNLB": 65524,
-      "MLDBBOEHDOL": 500,
-      "HBFCCOBIJAE": 5000,
+      "Attack": 103,
+      "AttackGrowth": 59961,
+      "Defence": 48,
+      "DefenceGrowth": 65524,
+      "Crit": 500,
+      "CritDamage": 5000,
       "KOACJHMGNGB": 0,
       "DAFCEHMDPKG": 0,
       "MDBCMMFPLKN": 0,
       "DJBMKNFPMLK": 0,
-      "KIMDODJEFPA": 10,
+      "Luck": 10,
       "BJJDBEGKNMH": 0,
-      "MFFEGMOLOPP": 83,
-      "PAHFEFJGJLB": 93,
-      "BKFMFOBFILO": 120,
-      "FNOKENHNKFC": 120,
-      "DPNPHFDBDNK": 92,
+      "BreakStun": 83,
+      "__exp_ElementMastery": 93,
+      "SpBarPoint": 120,
+      "SpRecover": 120,
+      "__exp_ElementProficiency": 92,
       "HPPNEAEBNMH": 1,
-      "LIFDCKMIALL": 10000,
+      "RblCorrectionFactor": 10000,
       "MDBBGNKBMCA": 0,
       "GPJAIOHFKND": 0,
       "PNIAACBMHAE": 0,
@@ -3355,7 +3355,7 @@
       "JFPONCPKBAG": 12815617713373848132,
       "DFMJIJBPPBC": 343967691391213857,
       "KEINKBOFCIO": 3000,
-      "GMMLBLDMGFH": [
+      "Tags": [
         "Astra",
         "Punch",
         "Ether",
@@ -3372,13 +3372,13 @@
         11
       ],
       "HPNPPPGKHPJ": 4,
-      "IOOONBLLMDC": [
+      "ElementTypes": [
         205
       ],
-      "IBOCEBFLOLP": [
+      "HitTypes": [
         102
       ],
-      "FACNGGNOPCJ": [
+      "__unk_Q3753556530": [
         "3:1:1",
         "3:3:1"
       ],

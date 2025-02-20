@@ -1,7 +1,7 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 1,
+      "ID": 1,
       "FADPEPBEIDD": "Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -47,7 +47,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_apple_get"
     },
     {
-      "NGPCCDGBLLK": 2,
+      "ID": 2,
       "FADPEPBEIDD": "Wall_Small_Idle",
       "MCPLIPOBBIA": [
         0.8999999761581421,
@@ -93,7 +93,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 3,
+      "ID": 3,
       "FADPEPBEIDD": "Mine_Idle",
       "MCPLIPOBBIA": [
         8.5,
@@ -139,7 +139,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 4,
+      "ID": 4,
       "FADPEPBEIDD": "Fast_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -185,7 +185,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 5,
+      "ID": 5,
       "FADPEPBEIDD": "Slow_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -231,7 +231,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 6,
+      "ID": 6,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -277,7 +277,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_diamond_get"
     },
     {
-      "NGPCCDGBLLK": 7,
+      "ID": 7,
       "FADPEPBEIDD": "Invincible_Idle",
       "MCPLIPOBBIA": [
         10.800000190734863,
@@ -326,7 +326,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 8,
+      "ID": 8,
       "FADPEPBEIDD": "Bomb_Idle",
       "MCPLIPOBBIA": [
         12.0,
@@ -372,7 +372,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_bomb_get"
     },
     {
-      "NGPCCDGBLLK": 9,
+      "ID": 9,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -418,7 +418,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_diamond_get"
     },
     {
-      "NGPCCDGBLLK": 101,
+      "ID": 101,
       "FADPEPBEIDD": "Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -464,7 +464,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_apple_get"
     },
     {
-      "NGPCCDGBLLK": 102,
+      "ID": 102,
       "FADPEPBEIDD": "Wall_Small_Idle",
       "MCPLIPOBBIA": [
         1.0,
@@ -509,7 +509,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 103,
+      "ID": 103,
       "FADPEPBEIDD": "Mine_Idle",
       "MCPLIPOBBIA": [
         8.5,
@@ -555,7 +555,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 104,
+      "ID": 104,
       "FADPEPBEIDD": "Fast_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -601,7 +601,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 105,
+      "ID": 105,
       "FADPEPBEIDD": "Slow_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -647,7 +647,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 106,
+      "ID": 106,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -693,7 +693,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_diamond_get"
     },
     {
-      "NGPCCDGBLLK": 107,
+      "ID": 107,
       "FADPEPBEIDD": "Invincible_Idle",
       "MCPLIPOBBIA": [
         10.800000190734863,
@@ -742,7 +742,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 108,
+      "ID": 108,
       "FADPEPBEIDD": "Bomb_Idle",
       "MCPLIPOBBIA": [
         12.0,
@@ -788,7 +788,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_bomb_get"
     },
     {
-      "NGPCCDGBLLK": 109,
+      "ID": 109,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -834,7 +834,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_diamond_get"
     },
     {
-      "NGPCCDGBLLK": 201,
+      "ID": 201,
       "FADPEPBEIDD": "Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -880,7 +880,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_apple_get"
     },
     {
-      "NGPCCDGBLLK": 202,
+      "ID": 202,
       "FADPEPBEIDD": "Wall_Small_Idle",
       "MCPLIPOBBIA": [
         1.0,
@@ -925,7 +925,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 203,
+      "ID": 203,
       "FADPEPBEIDD": "Mine_Idle",
       "MCPLIPOBBIA": [
         8.5,
@@ -971,7 +971,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 204,
+      "ID": 204,
       "FADPEPBEIDD": "Fast_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1017,7 +1017,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 205,
+      "ID": 205,
       "FADPEPBEIDD": "Slow_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1063,7 +1063,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 206,
+      "ID": 206,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1109,7 +1109,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_diamond_get"
     },
     {
-      "NGPCCDGBLLK": 207,
+      "ID": 207,
       "FADPEPBEIDD": "Invincible_Idle",
       "MCPLIPOBBIA": [
         10.800000190734863,
@@ -1158,7 +1158,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 208,
+      "ID": 208,
       "FADPEPBEIDD": "Bomb_Idle",
       "MCPLIPOBBIA": [
         12.0,
@@ -1204,7 +1204,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_bomb_get"
     },
     {
-      "NGPCCDGBLLK": 209,
+      "ID": 209,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1250,7 +1250,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_diamond_get"
     },
     {
-      "NGPCCDGBLLK": 301,
+      "ID": 301,
       "FADPEPBEIDD": "Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1296,7 +1296,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_apple_get"
     },
     {
-      "NGPCCDGBLLK": 302,
+      "ID": 302,
       "FADPEPBEIDD": "Wall_Small_Idle",
       "MCPLIPOBBIA": [
         1.0,
@@ -1341,7 +1341,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 303,
+      "ID": 303,
       "FADPEPBEIDD": "Mine_Idle",
       "MCPLIPOBBIA": [
         8.5,
@@ -1387,7 +1387,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 304,
+      "ID": 304,
       "FADPEPBEIDD": "Fast_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1433,7 +1433,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 305,
+      "ID": 305,
       "FADPEPBEIDD": "Slow_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1479,7 +1479,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 306,
+      "ID": 306,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1525,7 +1525,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_diamond_get"
     },
     {
-      "NGPCCDGBLLK": 307,
+      "ID": 307,
       "FADPEPBEIDD": "Invincible_Idle",
       "MCPLIPOBBIA": [
         10.800000190734863,
@@ -1574,7 +1574,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 308,
+      "ID": 308,
       "FADPEPBEIDD": "Bomb_Idle",
       "MCPLIPOBBIA": [
         12.0,
@@ -1620,7 +1620,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_bomb_get"
     },
     {
-      "NGPCCDGBLLK": 309,
+      "ID": 309,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1666,7 +1666,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_diamond_get"
     },
     {
-      "NGPCCDGBLLK": 401,
+      "ID": 401,
       "FADPEPBEIDD": "Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1712,7 +1712,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_apple_get"
     },
     {
-      "NGPCCDGBLLK": 402,
+      "ID": 402,
       "FADPEPBEIDD": "Wall_Small_Idle",
       "MCPLIPOBBIA": [
         1.0,
@@ -1757,7 +1757,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 403,
+      "ID": 403,
       "FADPEPBEIDD": "Mine_Idle",
       "MCPLIPOBBIA": [
         8.5,
@@ -1803,7 +1803,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 404,
+      "ID": 404,
       "FADPEPBEIDD": "Fast_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1849,7 +1849,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 405,
+      "ID": 405,
       "FADPEPBEIDD": "Slow_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1895,7 +1895,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 406,
+      "ID": 406,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,
@@ -1941,7 +1941,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_diamond_get"
     },
     {
-      "NGPCCDGBLLK": 407,
+      "ID": 407,
       "FADPEPBEIDD": "Invincible_Idle",
       "MCPLIPOBBIA": [
         10.800000190734863,
@@ -1990,7 +1990,7 @@
       "EHGPBPJIGFD": ""
     },
     {
-      "NGPCCDGBLLK": 408,
+      "ID": 408,
       "FADPEPBEIDD": "Bomb_Idle",
       "MCPLIPOBBIA": [
         12.0,
@@ -2036,7 +2036,7 @@
       "EHGPBPJIGFD": "Play_sfx_minigame_snake_prop_bomb_get"
     },
     {
-      "NGPCCDGBLLK": 409,
+      "ID": 409,
       "FADPEPBEIDD": "Big_Point_Idle",
       "MCPLIPOBBIA": [
         4.0,

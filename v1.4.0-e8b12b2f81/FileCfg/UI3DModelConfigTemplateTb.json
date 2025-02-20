@@ -1,40 +1,40 @@
 {
-  "LFPICNCBMIF": [
+  "__exp_FileCfg": [
     {
-      "FJKECLFEHOA": 1,
-      "MMGLIMPGGHL": "VideoShop_NPC",
-      "CLLFPNEMPPO": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Elfy.asset",
-      "MJNJBIAOBPG": "Assets/NapResources/Char/NPC/NPC_Elfy/NPC_Elfy_InStore.prefab"
+      "ID": 1,
+      "CodeName": "VideoShop_NPC",
+      "__unk_Q129148488": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Elfy.asset",
+      "__unk_Q1797622615": "Assets/NapResources/Char/NPC/NPC_Elfy/NPC_Elfy_InStore.prefab"
     },
     {
-      "FJKECLFEHOA": 2,
-      "MMGLIMPGGHL": "Buddy_NPC_UI3DModel",
-      "CLLFPNEMPPO": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Enzo.asset",
-      "MJNJBIAOBPG": "Assets/NapResources/Char/NPC/NPC_Enzo/NPC_Enzo_InStore.prefab"
+      "ID": 2,
+      "CodeName": "Buddy_NPC_UI3DModel",
+      "__unk_Q129148488": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Enzo.asset",
+      "__unk_Q1797622615": "Assets/NapResources/Char/NPC/NPC_Enzo/NPC_Enzo_InStore.prefab"
     },
     {
-      "FJKECLFEHOA": 3,
-      "MMGLIMPGGHL": "Cafe_NPC_UI3DModel",
-      "CLLFPNEMPPO": "Assets/NapResources/Data/ScriptConfig/Character/NPC_TinMaster.asset",
-      "MJNJBIAOBPG": "Assets/NapResources/Char/NPC/NPC_TinMaster/NPC_TinMaster_InStore.prefab"
+      "ID": 3,
+      "CodeName": "Cafe_NPC_UI3DModel",
+      "__unk_Q129148488": "Assets/NapResources/Data/ScriptConfig/Character/NPC_TinMaster.asset",
+      "__unk_Q1797622615": "Assets/NapResources/Char/NPC/NPC_TinMaster/NPC_TinMaster_InStore.prefab"
     },
     {
-      "FJKECLFEHOA": 4,
-      "MMGLIMPGGHL": "ArcadePage_NPC",
-      "CLLFPNEMPPO": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Asha.asset",
-      "MJNJBIAOBPG": "Assets/NapResources/Char/NPC/NPC_Asha/NPC_Asha_InStore.prefab"
+      "ID": 4,
+      "CodeName": "ArcadePage_NPC",
+      "__unk_Q129148488": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Asha.asset",
+      "__unk_Q1797622615": "Assets/NapResources/Char/NPC/NPC_Asha/NPC_Asha_InStore.prefab"
     },
     {
-      "FJKECLFEHOA": 5,
-      "MMGLIMPGGHL": "TrendyStore_NPC",
-      "CLLFPNEMPPO": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Susie.asset",
-      "MJNJBIAOBPG": "Assets/NapResources/Char/NPC/NPC_Susie/NPC_Susie_InStore.prefab"
+      "ID": 5,
+      "CodeName": "TrendyStore_NPC",
+      "__unk_Q129148488": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Susie.asset",
+      "__unk_Q1797622615": "Assets/NapResources/Char/NPC/NPC_Susie/NPC_Susie_InStore.prefab"
     },
     {
-      "FJKECLFEHOA": 6,
-      "MMGLIMPGGHL": "FashionStore_NPC",
-      "CLLFPNEMPPO": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Yi.asset",
-      "MJNJBIAOBPG": "Assets/NapResources/Char/NPC/NPC_Yi/NPC_Yi_InStore.prefab"
+      "ID": 6,
+      "CodeName": "FashionStore_NPC",
+      "__unk_Q129148488": "Assets/NapResources/Data/ScriptConfig/Character/NPC_Yi.asset",
+      "__unk_Q1797622615": "Assets/NapResources/Char/NPC/NPC_Yi/NPC_Yi_InStore.prefab"
     }
   ]
 }

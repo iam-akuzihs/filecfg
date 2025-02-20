@@ -1,11 +1,11 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
       "KFHNBKBOCJL": 0,
       "ONNHFMOBKDN": "event_uid",
       "OBPNJPIIBAJ": "event_uid",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 1,
+      "ID": 1,
       "MNMFLJMGLJF": false
     },
     {
@@ -13,7 +13,7 @@
       "ONNHFMOBKDN": "event_create_uid",
       "OBPNJPIIBAJ": "event_create_uid",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 2,
+      "ID": 2,
       "MNMFLJMGLJF": false
     },
     {
@@ -21,7 +21,7 @@
       "ONNHFMOBKDN": "event_level02",
       "OBPNJPIIBAJ": "event_level02",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 3,
+      "ID": 3,
       "MNMFLJMGLJF": true
     },
     {
@@ -29,7 +29,7 @@
       "ONNHFMOBKDN": "event_level03",
       "OBPNJPIIBAJ": "event_level03",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 4,
+      "ID": 4,
       "MNMFLJMGLJF": true
     },
     {
@@ -37,7 +37,7 @@
       "ONNHFMOBKDN": "event_level04",
       "OBPNJPIIBAJ": "event_level04",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 5,
+      "ID": 5,
       "MNMFLJMGLJF": true
     },
     {
@@ -45,7 +45,7 @@
       "ONNHFMOBKDN": "event_level05",
       "OBPNJPIIBAJ": "event_level05",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 6,
+      "ID": 6,
       "MNMFLJMGLJF": true
     },
     {
@@ -53,7 +53,7 @@
       "ONNHFMOBKDN": "event_level06",
       "OBPNJPIIBAJ": "event_level06",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 7,
+      "ID": 7,
       "MNMFLJMGLJF": true
     },
     {
@@ -61,7 +61,7 @@
       "ONNHFMOBKDN": "event_level07",
       "OBPNJPIIBAJ": "event_level07",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 8,
+      "ID": 8,
       "MNMFLJMGLJF": true
     },
     {
@@ -69,7 +69,7 @@
       "ONNHFMOBKDN": "event_level08",
       "OBPNJPIIBAJ": "event_level08",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 9,
+      "ID": 9,
       "MNMFLJMGLJF": true
     },
     {
@@ -77,7 +77,7 @@
       "ONNHFMOBKDN": "event_level09",
       "OBPNJPIIBAJ": "event_level09",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 10,
+      "ID": 10,
       "MNMFLJMGLJF": true
     },
     {
@@ -85,7 +85,7 @@
       "ONNHFMOBKDN": "event_level10",
       "OBPNJPIIBAJ": "event_level10",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 11,
+      "ID": 11,
       "MNMFLJMGLJF": true
     },
     {
@@ -93,7 +93,7 @@
       "ONNHFMOBKDN": "event_level15",
       "OBPNJPIIBAJ": "event_level15",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 12,
+      "ID": 12,
       "MNMFLJMGLJF": true
     },
     {
@@ -101,7 +101,7 @@
       "ONNHFMOBKDN": "event_level20",
       "OBPNJPIIBAJ": "event_level20",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 13,
+      "ID": 13,
       "MNMFLJMGLJF": true
     },
     {
@@ -109,7 +109,7 @@
       "ONNHFMOBKDN": "event_level25",
       "OBPNJPIIBAJ": "event_level25",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 14,
+      "ID": 14,
       "MNMFLJMGLJF": true
     },
     {
@@ -117,7 +117,7 @@
       "ONNHFMOBKDN": "event_level30",
       "OBPNJPIIBAJ": "event_level30",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 15,
+      "ID": 15,
       "MNMFLJMGLJF": true
     },
     {
@@ -125,7 +125,7 @@
       "ONNHFMOBKDN": "event_level35",
       "OBPNJPIIBAJ": "event_level35",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 16,
+      "ID": 16,
       "MNMFLJMGLJF": true
     },
     {
@@ -133,7 +133,7 @@
       "ONNHFMOBKDN": "event_zero",
       "OBPNJPIIBAJ": "event_zero",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 17,
+      "ID": 17,
       "MNMFLJMGLJF": true
     },
     {
@@ -141,7 +141,7 @@
       "ONNHFMOBKDN": "event_qipan01",
       "OBPNJPIIBAJ": "event_qipan01",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 18,
+      "ID": 18,
       "MNMFLJMGLJF": true
     },
     {
@@ -149,7 +149,7 @@
       "ONNHFMOBKDN": "event_weituo",
       "OBPNJPIIBAJ": "event_weituo",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 19,
+      "ID": 19,
       "MNMFLJMGLJF": true
     },
     {
@@ -157,7 +157,7 @@
       "ONNHFMOBKDN": "event_qipan02",
       "OBPNJPIIBAJ": "event_qipan02",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 20,
+      "ID": 20,
       "MNMFLJMGLJF": true
     },
     {
@@ -165,7 +165,7 @@
       "ONNHFMOBKDN": "event_shafa",
       "OBPNJPIIBAJ": "event_shafa",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 21,
+      "ID": 21,
       "MNMFLJMGLJF": true
     },
     {
@@ -173,7 +173,7 @@
       "ONNHFMOBKDN": "event_mobanche",
       "OBPNJPIIBAJ": "event_mobanche",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 22,
+      "ID": 22,
       "MNMFLJMGLJF": true
     },
     {
@@ -181,7 +181,7 @@
       "ONNHFMOBKDN": "event_dengmaoyou",
       "OBPNJPIIBAJ": "event_dengmaoyou",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 23,
+      "ID": 23,
       "MNMFLJMGLJF": true
     },
     {
@@ -189,7 +189,7 @@
       "ONNHFMOBKDN": "event_zaoniaopiao",
       "OBPNJPIIBAJ": "event_zaoniaopiao",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 24,
+      "ID": 24,
       "MNMFLJMGLJF": true
     },
     {
@@ -197,7 +197,7 @@
       "ONNHFMOBKDN": "event_month_card",
       "OBPNJPIIBAJ": "event_month_card",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 25,
+      "ID": 25,
       "MNMFLJMGLJF": true
     },
     {
@@ -205,7 +205,7 @@
       "ONNHFMOBKDN": "event_advanced_bp",
       "OBPNJPIIBAJ": "event_advanced_bp",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 26,
+      "ID": 26,
       "MNMFLJMGLJF": true
     },
     {
@@ -213,7 +213,7 @@
       "ONNHFMOBKDN": "event_wish",
       "OBPNJPIIBAJ": "event_wish",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 27,
+      "ID": 27,
       "MNMFLJMGLJF": true
     },
     {
@@ -221,7 +221,7 @@
       "ONNHFMOBKDN": "event_ten_wish",
       "OBPNJPIIBAJ": "event_ten_wish",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 28,
+      "ID": 28,
       "MNMFLJMGLJF": true
     },
     {
@@ -229,7 +229,7 @@
       "ONNHFMOBKDN": "event_purchase",
       "OBPNJPIIBAJ": "event_purchase",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 29,
+      "ID": 29,
       "MNMFLJMGLJF": false
     },
     {
@@ -237,7 +237,7 @@
       "ONNHFMOBKDN": "event_male",
       "OBPNJPIIBAJ": "event_male",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 30,
+      "ID": 30,
       "MNMFLJMGLJF": true
     },
     {
@@ -245,7 +245,7 @@
       "ONNHFMOBKDN": "event_female",
       "OBPNJPIIBAJ": "event_female",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 31,
+      "ID": 31,
       "MNMFLJMGLJF": true
     },
     {
@@ -253,7 +253,7 @@
       "ONNHFMOBKDN": "event_standard_bp",
       "OBPNJPIIBAJ": "event_standard_bp",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 32,
+      "ID": 32,
       "MNMFLJMGLJF": true
     },
     {
@@ -261,7 +261,7 @@
       "ONNHFMOBKDN": "event_tiaopin",
       "OBPNJPIIBAJ": "event_tiaopin",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 33,
+      "ID": 33,
       "MNMFLJMGLJF": true
     },
     {
@@ -269,7 +269,7 @@
       "ONNHFMOBKDN": "event_pay",
       "OBPNJPIIBAJ": "event_pay",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 34,
+      "ID": 34,
       "MNMFLJMGLJF": false
     },
     {
@@ -277,7 +277,7 @@
       "ONNHFMOBKDN": "event_tiaopin",
       "OBPNJPIIBAJ": "event_tiaopin",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 35,
+      "ID": 35,
       "MNMFLJMGLJF": true
     },
     {
@@ -285,7 +285,7 @@
       "ONNHFMOBKDN": "event_tiaopin",
       "OBPNJPIIBAJ": "event_tiaopin",
       "JMNEJCGDBHB": 2,
-      "DKDDFEIAMIF": 36,
+      "ID": 36,
       "MNMFLJMGLJF": true
     },
     {
@@ -293,7 +293,7 @@
       "ONNHFMOBKDN": "event_return_reward",
       "OBPNJPIIBAJ": "event_return_reward",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 37,
+      "ID": 37,
       "MNMFLJMGLJF": true
     },
     {
@@ -301,7 +301,7 @@
       "ONNHFMOBKDN": "event_return_dailylogin01",
       "OBPNJPIIBAJ": "event_return_dailylogin01",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 38,
+      "ID": 38,
       "MNMFLJMGLJF": true
     },
     {
@@ -309,7 +309,7 @@
       "ONNHFMOBKDN": "event_return_dailylogin02",
       "OBPNJPIIBAJ": "event_return_dailylogin02",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 39,
+      "ID": 39,
       "MNMFLJMGLJF": true
     },
     {
@@ -317,7 +317,7 @@
       "ONNHFMOBKDN": "event_return_dailylogin03",
       "OBPNJPIIBAJ": "event_return_dailylogin03",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 40,
+      "ID": 40,
       "MNMFLJMGLJF": true
     },
     {
@@ -325,7 +325,7 @@
       "ONNHFMOBKDN": "event_return_dailylogin04",
       "OBPNJPIIBAJ": "event_return_dailylogin04",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 41,
+      "ID": 41,
       "MNMFLJMGLJF": true
     },
     {
@@ -333,7 +333,7 @@
       "ONNHFMOBKDN": "event_return_dailylogin05",
       "OBPNJPIIBAJ": "event_return_dailylogin05",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 42,
+      "ID": 42,
       "MNMFLJMGLJF": true
     },
     {
@@ -341,7 +341,7 @@
       "ONNHFMOBKDN": "event_return_dailylogin06",
       "OBPNJPIIBAJ": "event_return_dailylogin06",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 43,
+      "ID": 43,
       "MNMFLJMGLJF": true
     },
     {
@@ -349,7 +349,7 @@
       "ONNHFMOBKDN": "event_return_dailylogin07",
       "OBPNJPIIBAJ": "event_return_dailylogin07",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 44,
+      "ID": 44,
       "MNMFLJMGLJF": true
     },
     {
@@ -357,7 +357,7 @@
       "ONNHFMOBKDN": "event_return_reward01",
       "OBPNJPIIBAJ": "event_return_reward01",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 45,
+      "ID": 45,
       "MNMFLJMGLJF": true
     },
     {
@@ -365,7 +365,7 @@
       "ONNHFMOBKDN": "event_return_reward02",
       "OBPNJPIIBAJ": "event_return_reward02",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 46,
+      "ID": 46,
       "MNMFLJMGLJF": true
     },
     {
@@ -373,7 +373,7 @@
       "ONNHFMOBKDN": "event_return_reward03",
       "OBPNJPIIBAJ": "event_return_reward03",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 47,
+      "ID": 47,
       "MNMFLJMGLJF": true
     },
     {
@@ -381,7 +381,7 @@
       "ONNHFMOBKDN": "event_return_reward04",
       "OBPNJPIIBAJ": "event_return_reward04",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 48,
+      "ID": 48,
       "MNMFLJMGLJF": true
     },
     {
@@ -389,7 +389,7 @@
       "ONNHFMOBKDN": "event_return_reward05",
       "OBPNJPIIBAJ": "event_return_reward05",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 49,
+      "ID": 49,
       "MNMFLJMGLJF": true
     },
     {
@@ -397,7 +397,7 @@
       "ONNHFMOBKDN": "event_return_reward00",
       "OBPNJPIIBAJ": "event_return_reward00",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 50,
+      "ID": 50,
       "MNMFLJMGLJF": true
     },
     {
@@ -405,7 +405,7 @@
       "ONNHFMOBKDN": "event_return",
       "OBPNJPIIBAJ": "event_return",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 51,
+      "ID": 51,
       "MNMFLJMGLJF": false
     },
     {
@@ -413,7 +413,7 @@
       "ONNHFMOBKDN": "event_return_double",
       "OBPNJPIIBAJ": "event_return_double",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 52,
+      "ID": 52,
       "MNMFLJMGLJF": false
     },
     {
@@ -421,7 +421,7 @@
       "ONNHFMOBKDN": "event_return_doubleexpert",
       "OBPNJPIIBAJ": "event_return_doubleexpert",
       "JMNEJCGDBHB": 3,
-      "DKDDFEIAMIF": 53,
+      "ID": 53,
       "MNMFLJMGLJF": false
     }
   ]

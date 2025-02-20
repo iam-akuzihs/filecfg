@@ -1,148 +1,148 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1,
-      "DEPJKIPACJK": "Raw",
+      "ID": 1,
+      "Name": "Raw",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 0,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2,
-      "DEPJKIPACJK": "Test2",
+      "ID": 2,
+      "Name": "Test2",
       "PCANFHBAKOE": "TriggerName",
       "CGHGLPIAGHF": 0,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2000,
-      "DEPJKIPACJK": "Sleep_Allied_Normal",
+      "ID": 2000,
+      "Name": "Sleep_Allied_Normal",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 2,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2001,
-      "DEPJKIPACJK": "Error_Allied_Normal",
+      "ID": 2001,
+      "Name": "Error_Allied_Normal",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 3,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2002,
-      "DEPJKIPACJK": "Funny_Allied_Normal",
+      "ID": 2002,
+      "Name": "Funny_Allied_Normal",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 5,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2003,
-      "DEPJKIPACJK": "Evil_Sleep",
+      "ID": 2003,
+      "Name": "Evil_Sleep",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 2,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2004,
-      "DEPJKIPACJK": "Error_Evil",
+      "ID": 2004,
+      "Name": "Error_Evil",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 3,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2005,
-      "DEPJKIPACJK": "LevelUp_Evil_EliteToBoss",
+      "ID": 2005,
+      "Name": "LevelUp_Evil_EliteToBoss",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 4,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2006,
-      "DEPJKIPACJK": "LevelUp_Evil_NormalToElite",
+      "ID": 2006,
+      "Name": "LevelUp_Evil_NormalToElite",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 4,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2007,
-      "DEPJKIPACJK": "Sleep_Neutral_Normal",
+      "ID": 2007,
+      "Name": "Sleep_Neutral_Normal",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 2,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2008,
-      "DEPJKIPACJK": "Error_Neutral_Normal",
+      "ID": 2008,
+      "Name": "Error_Neutral_Normal",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 3,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2009,
-      "DEPJKIPACJK": "Common_Attack",
+      "ID": 2009,
+      "Name": "Common_Attack",
       "PCANFHBAKOE": "Common_Attack",
       "CGHGLPIAGHF": 0,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2010,
-      "DEPJKIPACJK": "Common_BeAttacked",
+      "ID": 2010,
+      "Name": "Common_BeAttacked",
       "PCANFHBAKOE": "Common_BeAttacked",
       "CGHGLPIAGHF": 0,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2000201,
-      "DEPJKIPACJK": "BoombBox_1",
+      "ID": 2000201,
+      "Name": "BoombBox_1",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 3,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2000202,
-      "DEPJKIPACJK": "BoombBox_2",
+      "ID": 2000202,
+      "Name": "BoombBox_2",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 4,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 2000203,
-      "DEPJKIPACJK": "BoombBox_3",
+      "ID": 2000203,
+      "Name": "BoombBox_3",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 5,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 102010701,
-      "DEPJKIPACJK": "MRL_LoadAmo_Enemy_Bangboo",
+      "ID": 102010701,
+      "Name": "MRL_LoadAmo_Enemy_Bangboo",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 1,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 102010702,
-      "DEPJKIPACJK": "MRL_Attack_Enemy_Bangboo",
+      "ID": 102010702,
+      "Name": "MRL_Attack_Enemy_Bangboo",
       "PCANFHBAKOE": "MRL_Attack_Enemy_Bangboo",
       "CGHGLPIAGHF": 0,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 102010703,
-      "DEPJKIPACJK": "MRL_BeAttacked_Enemy_Bangboo",
+      "ID": 102010703,
+      "Name": "MRL_BeAttacked_Enemy_Bangboo",
       "PCANFHBAKOE": "MRL_BeAttacked_Enemy_Bangboo",
       "CGHGLPIAGHF": 0,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 1980701141,
-      "DEPJKIPACJK": "EventIconBangbooEvil03_Show",
+      "ID": 1980701141,
+      "Name": "EventIconBangbooEvil03_Show",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 4,
       "CCOIEMMDEED": 0
     },
     {
-      "DKDDFEIAMIF": 1999999999,
-      "DEPJKIPACJK": "MRL_AilledMachine",
+      "ID": 1999999999,
+      "Name": "MRL_AilledMachine",
       "PCANFHBAKOE": "",
       "CGHGLPIAGHF": 10,
       "CCOIEMMDEED": 0

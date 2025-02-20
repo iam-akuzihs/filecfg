@@ -1,7 +1,7 @@
 {
-  "PEPPKLMFFBD": [
+  "__exp_FileCfg": [
     {
-      "GKNMDKNIMHP": 1,
+      "ID": 1,
       "GPBJHLLGNKA": "Easy",
       "BBCIOLPDJCE": 1,
       "PBKLCJCFIKJ": "HpMax:0|Attack:0|StunMax:0",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 51,
+      "ID": 51,
       "GPBJHLLGNKA": "Normal",
       "BBCIOLPDJCE": 1,
       "PBKLCJCFIKJ": "HpMax:0|Attack:0|StunMax:0",
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 101,
+      "ID": 101,
       "GPBJHLLGNKA": "Hard",
       "BBCIOLPDJCE": 1,
       "PBKLCJCFIKJ": "HpMax:0|Attack:0|StunMax:0",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 111,
+      "ID": 111,
       "GPBJHLLGNKA": "Zero20",
       "BBCIOLPDJCE": 1,
       "PBKLCJCFIKJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 112,
+      "ID": 112,
       "GPBJHLLGNKA": "Zero20",
       "BBCIOLPDJCE": 2,
       "PBKLCJCFIKJ": "HpMax:-0.23|Attack:-0.07|StunMax:-0.1",
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 113,
+      "ID": 113,
       "GPBJHLLGNKA": "Zero20",
       "BBCIOLPDJCE": 3,
       "PBKLCJCFIKJ": "HpMax:-0.26|Attack:-0.15|StunMax:-0.17",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 114,
+      "ID": 114,
       "GPBJHLLGNKA": "Zero20",
       "BBCIOLPDJCE": 4,
       "PBKLCJCFIKJ": "HpMax:-0.17|Attack:-0.22|StunMax:-0.24",
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 115,
+      "ID": 115,
       "GPBJHLLGNKA": "Zero20",
       "BBCIOLPDJCE": 5,
       "PBKLCJCFIKJ": "HpMax:-0.12|Attack:-0.24|StunMax:-0.25",
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 121,
+      "ID": 121,
       "GPBJHLLGNKA": "Zero30",
       "BBCIOLPDJCE": 1,
       "PBKLCJCFIKJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 122,
+      "ID": 122,
       "GPBJHLLGNKA": "Zero30",
       "BBCIOLPDJCE": 2,
       "PBKLCJCFIKJ": "HpMax:-0.2|Attack:-0.03|StunMax:-0.1",
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 123,
+      "ID": 123,
       "GPBJHLLGNKA": "Zero30",
       "BBCIOLPDJCE": 3,
       "PBKLCJCFIKJ": "HpMax:-0.24|Attack:-0.11|StunMax:-0.18",
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 124,
+      "ID": 124,
       "GPBJHLLGNKA": "Zero30",
       "BBCIOLPDJCE": 4,
       "PBKLCJCFIKJ": "HpMax:-0.14|Attack:-0.19|StunMax:-0.26",
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 125,
+      "ID": 125,
       "GPBJHLLGNKA": "Zero30",
       "BBCIOLPDJCE": 5,
       "PBKLCJCFIKJ": "HpMax:-0.09|Attack:-0.21|StunMax:-0.27",
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 131,
+      "ID": 131,
       "GPBJHLLGNKA": "Zero40",
       "BBCIOLPDJCE": 1,
       "PBKLCJCFIKJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -447,7 +447,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 132,
+      "ID": 132,
       "GPBJHLLGNKA": "Zero40",
       "BBCIOLPDJCE": 2,
       "PBKLCJCFIKJ": "HpMax:-0.22|Attack:0.02|StunMax:-0.1",
@@ -480,7 +480,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 133,
+      "ID": 133,
       "GPBJHLLGNKA": "Zero40",
       "BBCIOLPDJCE": 3,
       "PBKLCJCFIKJ": "HpMax:-0.28|Attack:-0.08|StunMax:-0.19",
@@ -513,7 +513,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 134,
+      "ID": 134,
       "GPBJHLLGNKA": "Zero40",
       "BBCIOLPDJCE": 4,
       "PBKLCJCFIKJ": "HpMax:-0.21|Attack:-0.16|StunMax:-0.26",
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 135,
+      "ID": 135,
       "GPBJHLLGNKA": "Zero40",
       "BBCIOLPDJCE": 5,
       "PBKLCJCFIKJ": "HpMax:-0.17|Attack:-0.18|StunMax:-0.27",
@@ -579,7 +579,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 141,
+      "ID": 141,
       "GPBJHLLGNKA": "Zero50",
       "BBCIOLPDJCE": 1,
       "PBKLCJCFIKJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -612,7 +612,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 142,
+      "ID": 142,
       "GPBJHLLGNKA": "Zero50",
       "BBCIOLPDJCE": 2,
       "PBKLCJCFIKJ": "HpMax:-0.23|Attack:0.06|StunMax:-0.11",
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 143,
+      "ID": 143,
       "GPBJHLLGNKA": "Zero50",
       "BBCIOLPDJCE": 3,
       "PBKLCJCFIKJ": "HpMax:-0.29|Attack:-0.04|StunMax:-0.19",
@@ -678,7 +678,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 144,
+      "ID": 144,
       "GPBJHLLGNKA": "Zero50",
       "BBCIOLPDJCE": 4,
       "PBKLCJCFIKJ": "HpMax:-0.24|Attack:-0.13|StunMax:-0.27",
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 145,
+      "ID": 145,
       "GPBJHLLGNKA": "Zero50",
       "BBCIOLPDJCE": 5,
       "PBKLCJCFIKJ": "HpMax:-0.22|Attack:-0.15|StunMax:-0.28",
@@ -744,7 +744,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 151,
+      "ID": 151,
       "GPBJHLLGNKA": "Zero60",
       "BBCIOLPDJCE": 1,
       "PBKLCJCFIKJ": "HpMax:-0.15|Attack:-0.15|StunMax:-0.15",
@@ -777,7 +777,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 152,
+      "ID": 152,
       "GPBJHLLGNKA": "Zero60",
       "BBCIOLPDJCE": 2,
       "PBKLCJCFIKJ": "HpMax:-0.23|Attack:0.06|StunMax:-0.11",
@@ -810,7 +810,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 153,
+      "ID": 153,
       "GPBJHLLGNKA": "Zero60",
       "BBCIOLPDJCE": 3,
       "PBKLCJCFIKJ": "HpMax:-0.29|Attack:-0.04|StunMax:-0.19",
@@ -843,7 +843,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 154,
+      "ID": 154,
       "GPBJHLLGNKA": "Zero60",
       "BBCIOLPDJCE": 4,
       "PBKLCJCFIKJ": "HpMax:-0.24|Attack:-0.13|StunMax:-0.27",
@@ -876,7 +876,7 @@
       ]
     },
     {
-      "GKNMDKNIMHP": 155,
+      "ID": 155,
       "GPBJHLLGNKA": "Zero60",
       "BBCIOLPDJCE": 5,
       "PBKLCJCFIKJ": "HpMax:-0.22|Attack:-0.15|StunMax:-0.28",

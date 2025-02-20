@@ -1,7 +1,7 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
-      "HBKDOIKGNDE": 1,
+      "ID": 1,
       "FBEHIJGDCLJ": "Locked",
       "PBDIMBMCKJB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -9,7 +9,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 2,
+      "ID": 2,
       "FBEHIJGDCLJ": "Unlocked",
       "PBDIMBMCKJB": [
         "FLAG_UNLOCKED",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 3,
+      "ID": 3,
       "FBEHIJGDCLJ": "Finished",
       "PBDIMBMCKJB": [
         "FLAG_FINISHED",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 4,
+      "ID": 4,
       "FBEHIJGDCLJ": "ShowEvent",
       "PBDIMBMCKJB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 6,
+      "ID": 6,
       "FBEHIJGDCLJ": "Brighten",
       "PBDIMBMCKJB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 7,
+      "ID": 7,
       "FBEHIJGDCLJ": "Guide",
       "PBDIMBMCKJB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 8,
+      "ID": 8,
       "FBEHIJGDCLJ": "Target",
       "PBDIMBMCKJB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 9,
+      "ID": 9,
       "FBEHIJGDCLJ": "BrightenOnlyVisible",
       "PBDIMBMCKJB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 10,
+      "ID": 10,
       "FBEHIJGDCLJ": "Unstable",
       "PBDIMBMCKJB": [
         "FLAG_UNSTABLE",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 11,
+      "ID": 11,
       "FBEHIJGDCLJ": "Empty",
       "PBDIMBMCKJB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 12,
+      "ID": 12,
       "FBEHIJGDCLJ": "All",
       "PBDIMBMCKJB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 13,
+      "ID": 13,
       "FBEHIJGDCLJ": "",
       "PBDIMBMCKJB": [
         "FLAG_CAN_TRIGGER_EVENT",
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "HBKDOIKGNDE": 14,
+      "ID": 14,
       "FBEHIJGDCLJ": "LockedWithStamina",
       "PBDIMBMCKJB": []
     },
     {
-      "HBKDOIKGNDE": 15,
+      "ID": 15,
       "FBEHIJGDCLJ": "UnEmpty",
       "PBDIMBMCKJB": [
         "FLAG_UNLOCKED",

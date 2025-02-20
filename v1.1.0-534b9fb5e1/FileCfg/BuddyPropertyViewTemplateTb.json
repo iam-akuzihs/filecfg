@@ -1,90 +1,90 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 1,
+      "ID": 1,
       "LOFJIBNCNCC": "HpMax",
       "DKBKNCKBLED": 0,
       "CKHDKOFNMOP": 0,
       "COKMMEDIPMF": 1,
       "FJIMJPHBOLD": "propertyID(111)",
-      "MJHBFBJALFC": 111,
+      "__exp_PropertyID": 111,
       "KMKOCNCPOLC": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png",
       "KBOMKAAHHMA": ""
     },
     {
-      "NGPCCDGBLLK": 2,
+      "ID": 2,
       "LOFJIBNCNCC": "Atk",
       "DKBKNCKBLED": 0,
       "CKHDKOFNMOP": 0,
       "COKMMEDIPMF": -1,
       "FJIMJPHBOLD": "propertyID(121)",
-      "MJHBFBJALFC": 121,
+      "__exp_PropertyID": 121,
       "KMKOCNCPOLC": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png",
       "KBOMKAAHHMA": ""
     },
     {
-      "NGPCCDGBLLK": 3,
+      "ID": 3,
       "LOFJIBNCNCC": "Def",
       "DKBKNCKBLED": 0,
       "CKHDKOFNMOP": 0,
       "COKMMEDIPMF": -1,
       "FJIMJPHBOLD": "propertyID(131)",
-      "MJHBFBJALFC": 131,
+      "__exp_PropertyID": 131,
       "KMKOCNCPOLC": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconDef.png",
       "KBOMKAAHHMA": ""
     },
     {
-      "NGPCCDGBLLK": 4,
+      "ID": 4,
       "LOFJIBNCNCC": "BreakStun",
       "DKBKNCKBLED": 0,
       "CKHDKOFNMOP": 0,
       "COKMMEDIPMF": -1,
       "FJIMJPHBOLD": "propertyID(122)",
-      "MJHBFBJALFC": 122,
+      "__exp_PropertyID": 122,
       "KMKOCNCPOLC": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconBreakStun.png",
       "KBOMKAAHHMA": "PropertyView_BreakStun"
     },
     {
-      "NGPCCDGBLLK": 5,
+      "ID": 5,
       "LOFJIBNCNCC": "Crit",
       "DKBKNCKBLED": 1,
       "CKHDKOFNMOP": 1,
       "COKMMEDIPMF": -1,
       "FJIMJPHBOLD": "propertyID(201)*100",
-      "MJHBFBJALFC": 201,
+      "__exp_PropertyID": 201,
       "KMKOCNCPOLC": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png",
       "KBOMKAAHHMA": ""
     },
     {
-      "NGPCCDGBLLK": 6,
+      "ID": 6,
       "LOFJIBNCNCC": "CritDmg",
       "DKBKNCKBLED": 1,
       "CKHDKOFNMOP": 1,
       "COKMMEDIPMF": -1,
       "FJIMJPHBOLD": "propertyID(211)*100",
-      "MJHBFBJALFC": 211,
+      "__exp_PropertyID": 211,
       "KMKOCNCPOLC": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png",
       "KBOMKAAHHMA": ""
     },
     {
-      "NGPCCDGBLLK": 7,
+      "ID": 7,
       "LOFJIBNCNCC": "PenRatio",
       "DKBKNCKBLED": 1,
       "CKHDKOFNMOP": 1,
       "COKMMEDIPMF": -1,
       "FJIMJPHBOLD": "propertyID(231)*100",
-      "MJHBFBJALFC": 231,
+      "__exp_PropertyID": 231,
       "KMKOCNCPOLC": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconPenRatio.png",
       "KBOMKAAHHMA": "PropertyView_PenRatio"
     },
     {
-      "NGPCCDGBLLK": 8,
+      "ID": 8,
       "LOFJIBNCNCC": "ElementAbnormalPower",
       "DKBKNCKBLED": 0,
       "CKHDKOFNMOP": 0,
       "COKMMEDIPMF": -1,
       "FJIMJPHBOLD": "propertyID(314)",
-      "MJHBFBJALFC": 314,
+      "__exp_PropertyID": 314,
       "KMKOCNCPOLC": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementAbnormalPower.png",
       "KBOMKAAHHMA": "PropertyView_ElementAbnormalPower"
     }

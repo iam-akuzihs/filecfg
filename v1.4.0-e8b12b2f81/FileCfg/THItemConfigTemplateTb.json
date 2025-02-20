@@ -1,7 +1,7 @@
 {
-  "LFPICNCBMIF": [
+  "__exp_FileCfg": [
     {
-      "FJKECLFEHOA": 1,
+      "ID": 1,
       "PILNAPEIOLO": "houndItemGetSmallChangeColor",
       "FHDCCNEPNOF": "IdleBloodTooth_01",
       "HBJMCOAIBIC": "UI/Sprite/Arcade/Game/SoulHoundsIII/UnPacker/Item/Item_Idle_BigBloodTooth.png",
@@ -16,7 +16,7 @@
       "MHBOPKJHHOK": 101072
     },
     {
-      "FJKECLFEHOA": 2,
+      "ID": 2,
       "PILNAPEIOLO": "houndItemGetBigChangeColor",
       "FHDCCNEPNOF": "IdleBloodTooth_02",
       "HBJMCOAIBIC": "UI/Sprite/Arcade/Game/SoulHoundsIII/UnPacker/Item/Item_Idle_BloodTooth.png",
@@ -31,7 +31,7 @@
       "MHBOPKJHHOK": 101072
     },
     {
-      "FJKECLFEHOA": 3,
+      "ID": 3,
       "PILNAPEIOLO": "houndItemGetWool",
       "FHDCCNEPNOF": "IdleSheepSkin",
       "HBJMCOAIBIC": "UI/Sprite/Arcade/Game/SoulHoundsIII/UnPacker/Item/Item_Idle_Sheep.png",
@@ -46,7 +46,7 @@
       "MHBOPKJHHOK": 101073
     },
     {
-      "FJKECLFEHOA": 4,
+      "ID": 4,
       "PILNAPEIOLO": "houndItemGetInvicible",
       "FHDCCNEPNOF": "IdleSickle",
       "HBJMCOAIBIC": "UI/Sprite/Arcade/Game/SoulHoundsIII/UnPacker/Item/Item_Idle_crown.png",

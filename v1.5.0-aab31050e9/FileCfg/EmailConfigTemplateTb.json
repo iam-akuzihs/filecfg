@@ -1,7 +1,7 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1001,
+      "ID": 1001,
       "GAPCAIHGNHK": "SystemEmail_Sender_ItemUpperLimit",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_ItemUpperLimit",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_ItemUpperLimit",
@@ -15,7 +15,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 1003,
+      "ID": 1003,
       "GAPCAIHGNHK": "ActivityEmail_Upper",
       "GMAEHEOLNML": "ActivityEmail_Title",
       "OFPLCOODMNH": "ActivityEmail_Desc",
@@ -29,7 +29,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 1004,
+      "ID": 1004,
       "GAPCAIHGNHK": "SystemEmail_Sender_Abyss_DutyReward",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_Abyss_DutyReward",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_Abyss_DutyReward",
@@ -43,7 +43,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 1005,
+      "ID": 1005,
       "GAPCAIHGNHK": "SystemEmail_Sender_Hadal_DutyReward",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_Hadal_DutyReward",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_Hadal_DutyReward",
@@ -57,7 +57,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 1006,
+      "ID": 1006,
       "GAPCAIHGNHK": "ActivityEmail_Upper",
       "GMAEHEOLNML": "PlayerBirthday_EmailTitle",
       "OFPLCOODMNH": "PlayerBirthday_Email",
@@ -71,7 +71,7 @@
       "BKJLOANENMB": 1
     },
     {
-      "PDJOCPDOOAA": 1007,
+      "ID": 1007,
       "GAPCAIHGNHK": "SystemEmail_Sender_Hadal_DutyReward",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_Hadal_DutyReward1",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_Hadal_DutyReward1",
@@ -85,7 +85,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 1008,
+      "ID": 1008,
       "GAPCAIHGNHK": "SystemEmail_Sender_Abyss_DutyReward",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_Abyss_DutyReward",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_Abyss_DutyReward",
@@ -99,7 +99,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 2001,
+      "ID": 2001,
       "GAPCAIHGNHK": "SystemEmail_Sender_MonthCard",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_MonthCard",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_MonthCard",
@@ -113,7 +113,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 2002,
+      "ID": 2002,
       "GAPCAIHGNHK": "SystemEmail_Sender_BP",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_BP",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_BP",
@@ -127,7 +127,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 2003,
+      "ID": 2003,
       "GAPCAIHGNHK": "SystemEmail_Sender_TopupReward",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_TopupReward",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_TopupReward",
@@ -141,7 +141,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 2004,
+      "ID": 2004,
       "GAPCAIHGNHK": "SystemEmail_Sender_BP_PassTime",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_BP_PassTime",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_BP_PassTime",
@@ -155,7 +155,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 2005,
+      "ID": 2005,
       "GAPCAIHGNHK": "SystemEmail_Sender_BigBoss_PassTime",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_BigBoss_PassTime",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_BigBoss_PassTime",
@@ -169,7 +169,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 2006,
+      "ID": 2006,
       "GAPCAIHGNHK": "SystemEmail_Sender_CampIdle_DutyReward",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_CampIdle_DutyReward",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_CampIdle_DutyReward",
@@ -183,7 +183,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 2007,
+      "ID": 2007,
       "GAPCAIHGNHK": "SystemEmail_Sender_NewHadal_PassTime",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_NewHadal_PassTime",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_NewHadal_PassTime",
@@ -197,7 +197,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 2008,
+      "ID": 2008,
       "GAPCAIHGNHK": "SystemEmail_Sender_WeeklyCard_PassTime",
       "GMAEHEOLNML": "SystemEmail_EmailTitle_WeeklyCard_PassTime",
       "OFPLCOODMNH": "SystemEmail_EmailDesc_WeeklyCard_PassTime",
@@ -211,7 +211,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 3001,
+      "ID": 3001,
       "GAPCAIHGNHK": "ShopEmail_Sender_SonyGiftPack",
       "GMAEHEOLNML": "ShopEmail_EmailTitle_SonyGiftPack",
       "OFPLCOODMNH": "ShopEmail_EmailDesc_SonyGiftPack",
@@ -225,7 +225,7 @@
       "BKJLOANENMB": 0
     },
     {
-      "PDJOCPDOOAA": 3002,
+      "ID": 3002,
       "GAPCAIHGNHK": "ShopEmail_Sender_GPOOAPPack",
       "GMAEHEOLNML": "ShopEmail_EmailTitle_GPOOAPPack",
       "OFPLCOODMNH": "ShopEmail_EmailDesc_GPOOAPPack",

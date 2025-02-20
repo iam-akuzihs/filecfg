@@ -1,103 +1,103 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
-      "DKDDFEIAMIF": 1,
+      "ID": 1,
       "GGNPDPFJMGL": "HpMax",
       "PEBNOOFJOEB": 0,
       "CODECFCKDLK": 0,
       "CPNBLFGCMND": 1,
       "OHLCBKAEGLB": "propertyID(111)",
-      "JGOKKOMPHKB": 111,
+      "__exp_PropertyID": 111,
       "MDOPMECONHL": 1
     },
     {
-      "DKDDFEIAMIF": 2,
+      "ID": 2,
       "GGNPDPFJMGL": "Atk",
       "PEBNOOFJOEB": 0,
       "CODECFCKDLK": 0,
       "CPNBLFGCMND": -1,
       "OHLCBKAEGLB": "propertyID(121)",
-      "JGOKKOMPHKB": 121,
+      "__exp_PropertyID": 121,
       "MDOPMECONHL": 2
     },
     {
-      "DKDDFEIAMIF": 3,
+      "ID": 3,
       "GGNPDPFJMGL": "Def",
       "PEBNOOFJOEB": 0,
       "CODECFCKDLK": 0,
       "CPNBLFGCMND": -1,
       "OHLCBKAEGLB": "propertyID(131)",
-      "JGOKKOMPHKB": 131,
+      "__exp_PropertyID": 131,
       "MDOPMECONHL": 3
     },
     {
-      "DKDDFEIAMIF": 4,
+      "ID": 4,
       "GGNPDPFJMGL": "BreakStun",
       "PEBNOOFJOEB": 0,
       "CODECFCKDLK": 0,
       "CPNBLFGCMND": -1,
       "OHLCBKAEGLB": "propertyID(122)",
-      "JGOKKOMPHKB": 122,
+      "__exp_PropertyID": 122,
       "MDOPMECONHL": 4
     },
     {
-      "DKDDFEIAMIF": 5,
+      "ID": 5,
       "GGNPDPFJMGL": "Crit",
       "PEBNOOFJOEB": 1,
       "CODECFCKDLK": 1,
       "CPNBLFGCMND": -1,
       "OHLCBKAEGLB": "propertyID(201)*100",
-      "JGOKKOMPHKB": 201,
+      "__exp_PropertyID": 201,
       "MDOPMECONHL": 5
     },
     {
-      "DKDDFEIAMIF": 6,
+      "ID": 6,
       "GGNPDPFJMGL": "CritDmg",
       "PEBNOOFJOEB": 1,
       "CODECFCKDLK": 1,
       "CPNBLFGCMND": -1,
       "OHLCBKAEGLB": "propertyID(211)*100",
-      "JGOKKOMPHKB": 211,
+      "__exp_PropertyID": 211,
       "MDOPMECONHL": 6
     },
     {
-      "DKDDFEIAMIF": 7,
+      "ID": 7,
       "GGNPDPFJMGL": "ElementAbnormalPower",
       "PEBNOOFJOEB": 0,
       "CODECFCKDLK": 0,
       "CPNBLFGCMND": -1,
       "OHLCBKAEGLB": "propertyID(314)",
-      "JGOKKOMPHKB": 314,
+      "__exp_PropertyID": 314,
       "MDOPMECONHL": 7
     },
     {
-      "DKDDFEIAMIF": 8,
+      "ID": 8,
       "GGNPDPFJMGL": "ElementMystery",
       "PEBNOOFJOEB": 0,
       "CODECFCKDLK": 0,
       "CPNBLFGCMND": -1,
       "OHLCBKAEGLB": "propertyID(312)",
-      "JGOKKOMPHKB": 312,
+      "__exp_PropertyID": 312,
       "MDOPMECONHL": 8
     },
     {
-      "DKDDFEIAMIF": 9,
+      "ID": 9,
       "GGNPDPFJMGL": "PenRatio",
       "PEBNOOFJOEB": 1,
       "CODECFCKDLK": 1,
       "CPNBLFGCMND": -1,
       "OHLCBKAEGLB": "propertyID(231)*100",
-      "JGOKKOMPHKB": 231,
+      "__exp_PropertyID": 231,
       "MDOPMECONHL": 9
     },
     {
-      "DKDDFEIAMIF": 10,
+      "ID": 10,
       "GGNPDPFJMGL": "SpRecover",
       "PEBNOOFJOEB": 2,
       "CODECFCKDLK": 0,
       "CPNBLFGCMND": -1,
       "OHLCBKAEGLB": "propertyID(305)",
-      "JGOKKOMPHKB": 305,
+      "__exp_PropertyID": 305,
       "MDOPMECONHL": 11
     }
   ]

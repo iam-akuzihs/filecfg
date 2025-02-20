@@ -1,7 +1,7 @@
 {
-  "HBEGBJCAGAJ": [
+  "__exp_FileCfg": [
     {
-      "PDJOCPDOOAA": 1001,
+      "ID": 1001,
       "DBEMIGJKIMB": 1,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "MainCityStreet_Street",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 2001,
+      "ID": 2001,
       "DBEMIGJKIMB": 2,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Workshop_1F",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 2002,
+      "ID": 2002,
       "DBEMIGJKIMB": 2,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Workshop_Stairs",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 2003,
+      "ID": 2003,
       "DBEMIGJKIMB": 2,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Workshop_2F",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 3001,
+      "ID": 3001,
       "DBEMIGJKIMB": 3,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "MainCityStreet_Garage",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 4001,
+      "ID": 4001,
       "DBEMIGJKIMB": 4,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "ConstructionSite_1F",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 4002,
+      "ID": 4002,
       "DBEMIGJKIMB": 4,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "ConstructionSite_2F",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 4003,
+      "ID": 4003,
       "DBEMIGJKIMB": 4,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "ConstructionSite_Elevator1",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 4004,
+      "ID": 4004,
       "DBEMIGJKIMB": 4,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "ConstructionSite_Elevator2",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 4005,
+      "ID": 4005,
       "DBEMIGJKIMB": 4,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "ConstructionSite_Elevator3",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 4006,
+      "ID": 4006,
       "DBEMIGJKIMB": 4,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "ConstructionSite_Elevator4",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 5001,
+      "ID": 5001,
       "DBEMIGJKIMB": 5,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "SkyScraper_1F",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 5002,
+      "ID": 5002,
       "DBEMIGJKIMB": 5,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "SkyScraper_B1",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 5003,
+      "ID": 5003,
       "DBEMIGJKIMB": 5,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "SkyScraper_Stairs1",
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 5004,
+      "ID": 5004,
       "DBEMIGJKIMB": 5,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "SkyScraper_Stairs2",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101001,
+      "ID": 101001,
       "DBEMIGJKIMB": 101,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "FortuneSquare_Maincity",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101002,
+      "ID": 101002,
       "DBEMIGJKIMB": 101,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "Traffic_Green",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101003,
+      "ID": 101003,
       "DBEMIGJKIMB": 101,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "Traffic_Red",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101004,
+      "ID": 101004,
       "DBEMIGJKIMB": 101,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "Traffic_Red2",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101005,
+      "ID": 101005,
       "DBEMIGJKIMB": 101,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "Traffic_Light01",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101006,
+      "ID": 101006,
       "DBEMIGJKIMB": 101,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "Traffic_Light02",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101007,
+      "ID": 101007,
       "DBEMIGJKIMB": 101,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "Traffic_Light03",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101008,
+      "ID": 101008,
       "DBEMIGJKIMB": 101,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "Traffic_Light04",
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 101009,
+      "ID": 101009,
       "DBEMIGJKIMB": 101,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "Traffic_PlayerHoldon",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 102001,
+      "ID": 102001,
       "DBEMIGJKIMB": 102,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "MainCity_FortuneNEPS",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 103001,
+      "ID": 103001,
       "DBEMIGJKIMB": 103,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "MainCity_FortuneHIA",
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 104001,
+      "ID": 104001,
       "DBEMIGJKIMB": 104,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_OuterRing_1F",
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 104002,
+      "ID": 104002,
       "DBEMIGJKIMB": 104,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_OuterRing_2F",
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 104003,
+      "ID": 104003,
       "DBEMIGJKIMB": 104,
       "KDOHHKMDKNM": false,
       "IJFAOGNJCPH": "Maincity_OuterRing_Elevator",
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 105001,
+      "ID": 105001,
       "DBEMIGJKIMB": 105,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Hand",
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 106001,
+      "ID": 106001,
       "DBEMIGJKIMB": 106,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Port",
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 106002,
+      "ID": 106002,
       "DBEMIGJKIMB": 106,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Port_Island",
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 106003,
+      "ID": 106003,
       "DBEMIGJKIMB": 106,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Port_Lighthouse_2F",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 106004,
+      "ID": 106004,
       "DBEMIGJKIMB": 106,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Port_Lighthouse_3F",
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 107001,
+      "ID": 107001,
       "DBEMIGJKIMB": 107,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_ReverbArena",
@@ -351,7 +351,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 108001,
+      "ID": 108001,
       "DBEMIGJKIMB": 108,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Concert01",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 108002,
+      "ID": 108002,
       "DBEMIGJKIMB": 108,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Concert02",
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 151001,
+      "ID": 151001,
       "DBEMIGJKIMB": 151,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Zero",
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 152001,
+      "ID": 152001,
       "DBEMIGJKIMB": 152,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Stage_SkyScraper_JaneOVA",
@@ -391,7 +391,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 153001,
+      "ID": 153001,
       "DBEMIGJKIMB": 153,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Subway_Street",
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 154001,
+      "ID": 154001,
       "DBEMIGJKIMB": 154,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_Subway",
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 155001,
+      "ID": 155001,
       "DBEMIGJKIMB": 155,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Maincity_HandOffice",
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 156001,
+      "ID": 156001,
       "DBEMIGJKIMB": 156,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Stage_VR_YanagiOVA_03",
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "PDJOCPDOOAA": 157001,
+      "ID": 157001,
       "DBEMIGJKIMB": 157,
       "KDOHHKMDKNM": true,
       "IJFAOGNJCPH": "Stage_VR_YanagiOVA_04",

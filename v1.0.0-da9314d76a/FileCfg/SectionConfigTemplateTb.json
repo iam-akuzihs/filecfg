@@ -1,5 +1,5 @@
 {
-  "GMNCBMLIHPE": [
+  "__exp_FileCfg": [
     {
       "PKDAINCLKDK": 1,
       "FGMAAIOIHFF": "Photo_SectionName_01",
@@ -7,7 +7,7 @@
       "HAAPJAMLCGG": "Street_PlayerPos_Default",
       "DHMFHKNIDHE": "Street_PlayerPos_Default",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_Street"
+      "Name": "SectionName_Street"
     },
     {
       "PKDAINCLKDK": 2,
@@ -16,7 +16,7 @@
       "HAAPJAMLCGG": "Workshop_PlayerPos_Default",
       "DHMFHKNIDHE": "Workshop_PlayerPos_Pos2",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_Workshop"
+      "Name": "SectionName_Workshop"
     },
     {
       "PKDAINCLKDK": 3,
@@ -25,7 +25,7 @@
       "HAAPJAMLCGG": "Garage_PlayerPos_Default",
       "DHMFHKNIDHE": "Garage_PlayerPos_Default",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_Garage"
+      "Name": "SectionName_Garage"
     },
     {
       "PKDAINCLKDK": 4,
@@ -34,7 +34,7 @@
       "HAAPJAMLCGG": "ConstructionSite_PlayerPos_Default",
       "DHMFHKNIDHE": "ConstructionSite_PlayerPos_Default",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_ConstructionSite"
+      "Name": "SectionName_ConstructionSite"
     },
     {
       "PKDAINCLKDK": 5,
@@ -43,7 +43,7 @@
       "HAAPJAMLCGG": "SkyScraper_PlayerPos_Default",
       "DHMFHKNIDHE": "SkyScraper_PlayerPos_Default",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_SkyScraper"
+      "Name": "SectionName_SkyScraper"
     },
     {
       "PKDAINCLKDK": 101,
@@ -52,7 +52,7 @@
       "HAAPJAMLCGG": "FortuneSquare_PlayerPos_Default",
       "DHMFHKNIDHE": "FortuneSquare_PlayerPos_Default",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_FortuneSquare"
+      "Name": "SectionName_FortuneSquare"
     },
     {
       "PKDAINCLKDK": 103,
@@ -61,7 +61,7 @@
       "HAAPJAMLCGG": "FortuneHIA_PlayerPos_Default",
       "DHMFHKNIDHE": "FortuneHIA_PlayerPos_Default",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_FortuneHIA"
+      "Name": "SectionName_FortuneHIA"
     },
     {
       "PKDAINCLKDK": 151,
@@ -70,7 +70,7 @@
       "HAAPJAMLCGG": "Zero_PlayerPos_Default",
       "DHMFHKNIDHE": "Zero_PlayerPos_Default",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_Zero"
+      "Name": "SectionName_Zero"
     },
     {
       "PKDAINCLKDK": 153,
@@ -79,7 +79,7 @@
       "HAAPJAMLCGG": "Subway_PlayerPos_Default",
       "DHMFHKNIDHE": "Subway_PlayerPos_Default",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_Subway"
+      "Name": "SectionName_Subway"
     },
     {
       "PKDAINCLKDK": 154,
@@ -88,7 +88,7 @@
       "HAAPJAMLCGG": "SubwayFortuneSquare_PlayerPos_Default",
       "DHMFHKNIDHE": "SubwayFortuneSquare_PlayerPos_Default",
       "ONEGOJKHNJL": 3,
-      "DIIDBBGLDOL": "SectionName_Subway"
+      "Name": "SectionName_Subway"
     }
   ]
 }

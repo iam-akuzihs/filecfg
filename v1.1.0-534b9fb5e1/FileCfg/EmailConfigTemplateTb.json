@@ -1,7 +1,7 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 1001,
+      "ID": 1001,
       "JMDGJCBENMP": "SystemEmail_Sender_ItemUpperLimit",
       "PEMCCHLOGGN": "SystemEmail_EmailTitle_ItemUpperLimit",
       "CFIHONDAJAG": "SystemEmail_EmailDesc_ItemUpperLimit",
@@ -15,7 +15,7 @@
       "INOGBJKFOLN": 0
     },
     {
-      "NGPCCDGBLLK": 1003,
+      "ID": 1003,
       "JMDGJCBENMP": "ActivityEmail_Upper",
       "PEMCCHLOGGN": "ActivityEmail_Title",
       "CFIHONDAJAG": "ActivityEmail_Desc",
@@ -29,7 +29,7 @@
       "INOGBJKFOLN": 0
     },
     {
-      "NGPCCDGBLLK": 1004,
+      "ID": 1004,
       "JMDGJCBENMP": "SystemEmail_Sender_Abyss_DutyReward",
       "PEMCCHLOGGN": "SystemEmail_EmailTitle_Abyss_DutyReward",
       "CFIHONDAJAG": "SystemEmail_EmailDesc_Abyss_DutyReward",
@@ -43,7 +43,7 @@
       "INOGBJKFOLN": 0
     },
     {
-      "NGPCCDGBLLK": 1005,
+      "ID": 1005,
       "JMDGJCBENMP": "SystemEmail_Sender_Hadal_DutyReward",
       "PEMCCHLOGGN": "SystemEmail_EmailTitle_Hadal_DutyReward",
       "CFIHONDAJAG": "SystemEmail_EmailDesc_Hadal_DutyReward",
@@ -57,7 +57,7 @@
       "INOGBJKFOLN": 0
     },
     {
-      "NGPCCDGBLLK": 1006,
+      "ID": 1006,
       "JMDGJCBENMP": "ActivityEmail_Upper",
       "PEMCCHLOGGN": "PlayerBirthday_EmailTitle",
       "CFIHONDAJAG": "PlayerBirthday_Email",
@@ -71,7 +71,7 @@
       "INOGBJKFOLN": 1
     },
     {
-      "NGPCCDGBLLK": 2001,
+      "ID": 2001,
       "JMDGJCBENMP": "SystemEmail_Sender_MonthCard",
       "PEMCCHLOGGN": "SystemEmail_EmailTitle_MonthCard",
       "CFIHONDAJAG": "SystemEmail_EmailDesc_MonthCard",
@@ -85,7 +85,7 @@
       "INOGBJKFOLN": 0
     },
     {
-      "NGPCCDGBLLK": 2002,
+      "ID": 2002,
       "JMDGJCBENMP": "SystemEmail_Sender_BP",
       "PEMCCHLOGGN": "SystemEmail_EmailTitle_BP",
       "CFIHONDAJAG": "SystemEmail_EmailDesc_BP",
@@ -99,7 +99,7 @@
       "INOGBJKFOLN": 0
     },
     {
-      "NGPCCDGBLLK": 2003,
+      "ID": 2003,
       "JMDGJCBENMP": "SystemEmail_Sender_TopupReward",
       "PEMCCHLOGGN": "SystemEmail_EmailTitle_TopupReward",
       "CFIHONDAJAG": "SystemEmail_EmailDesc_TopupReward",
@@ -113,7 +113,7 @@
       "INOGBJKFOLN": 0
     },
     {
-      "NGPCCDGBLLK": 2004,
+      "ID": 2004,
       "JMDGJCBENMP": "SystemEmail_Sender_BP_PassTime",
       "PEMCCHLOGGN": "SystemEmail_EmailTitle_BP_PassTime",
       "CFIHONDAJAG": "SystemEmail_EmailDesc_BP_PassTime",
@@ -127,7 +127,7 @@
       "INOGBJKFOLN": 0
     },
     {
-      "NGPCCDGBLLK": 2005,
+      "ID": 2005,
       "JMDGJCBENMP": "SystemEmail_Sender_BigBoss_PassTime",
       "PEMCCHLOGGN": "SystemEmail_EmailTitle_BigBoss_PassTime",
       "CFIHONDAJAG": "SystemEmail_EmailDesc_BigBoss_PassTime",
@@ -141,7 +141,7 @@
       "INOGBJKFOLN": 0
     },
     {
-      "NGPCCDGBLLK": 3001,
+      "ID": 3001,
       "JMDGJCBENMP": "ShopEmail_Sender_SonyGiftPack",
       "PEMCCHLOGGN": "ShopEmail_EmailTitle_SonyGiftPack",
       "CFIHONDAJAG": "ShopEmail_EmailDesc_SonyGiftPack",

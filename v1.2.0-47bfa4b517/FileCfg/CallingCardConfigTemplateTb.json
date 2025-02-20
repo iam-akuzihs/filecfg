@@ -1,11 +1,11 @@
 {
-  "JIJNDLLPCHO": [
+  "__exp_FileCfg": [
     {
       "PJKKMCHCACJ": 3300001,
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardCommon01.png",
       "DEOOILLIAGL": "99999",
       "IMAEGJNAEJI": 0,
-      "JAOENONJEBK": 0,
+      "AvatarID": 0,
       "KDEJGAKDHDG": 0,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardCommon01"
@@ -15,7 +15,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardBP01.png",
       "DEOOILLIAGL": "80000",
       "IMAEGJNAEJI": 0,
-      "JAOENONJEBK": 0,
+      "AvatarID": 0,
       "KDEJGAKDHDG": 0,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardBP01"
@@ -25,7 +25,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardBP02.png",
       "DEOOILLIAGL": "80001",
       "IMAEGJNAEJI": 0,
-      "JAOENONJEBK": 0,
+      "AvatarID": 0,
       "KDEJGAKDHDG": 0,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardBP02"
@@ -35,7 +35,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardBP03.png",
       "DEOOILLIAGL": "80002",
       "IMAEGJNAEJI": 0,
-      "JAOENONJEBK": 0,
+      "AvatarID": 0,
       "KDEJGAKDHDG": 0,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardBP03"
@@ -45,7 +45,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardBirthday01.png",
       "DEOOILLIAGL": "70001",
       "IMAEGJNAEJI": 0,
-      "JAOENONJEBK": 0,
+      "AvatarID": 0,
       "KDEJGAKDHDG": 0,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardBirthday01"
@@ -55,7 +55,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardEvent02.png",
       "DEOOILLIAGL": "70003",
       "IMAEGJNAEJI": 0,
-      "JAOENONJEBK": 0,
+      "AvatarID": 0,
       "KDEJGAKDHDG": 0,
       "LFODLKOCPCO": "2024-08-30 10:00:00",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardEvent02"
@@ -65,7 +65,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardEvent03.png",
       "DEOOILLIAGL": "70004",
       "IMAEGJNAEJI": 0,
-      "JAOENONJEBK": 0,
+      "AvatarID": 0,
       "KDEJGAKDHDG": 0,
       "LFODLKOCPCO": "2024-10-09 10:00:00",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardEvent03"
@@ -75,7 +75,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardHollowZero01.png",
       "DEOOILLIAGL": "60001",
       "IMAEGJNAEJI": 0,
-      "JAOENONJEBK": 0,
+      "AvatarID": 0,
       "KDEJGAKDHDG": 0,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardHollowZero01"
@@ -85,7 +85,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0001.png",
       "DEOOILLIAGL": "30017",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1011,
+      "AvatarID": 1011,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0001"
@@ -95,7 +95,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0011.png",
       "DEOOILLIAGL": "40011",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1021,
+      "AvatarID": 1021,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0011"
@@ -105,7 +105,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0012.png",
       "DEOOILLIAGL": "30015",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1031,
+      "AvatarID": 1031,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0012"
@@ -115,7 +115,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0005.png",
       "DEOOILLIAGL": "40009",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1041,
+      "AvatarID": 1041,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0005"
@@ -125,7 +125,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0009.png",
       "DEOOILLIAGL": "30013",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1061,
+      "AvatarID": 1061,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0009"
@@ -135,7 +135,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0025.png",
       "DEOOILLIAGL": "50009",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1071,
+      "AvatarID": 1071,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0025"
@@ -145,7 +145,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0010.png",
       "DEOOILLIAGL": "30011",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1081,
+      "AvatarID": 1081,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0010"
@@ -155,7 +155,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0014.png",
       "DEOOILLIAGL": "40007",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1101,
+      "AvatarID": 1101,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0014"
@@ -165,7 +165,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0015.png",
       "DEOOILLIAGL": "30009",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1111,
+      "AvatarID": 1111,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0015"
@@ -175,7 +175,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0016.png",
       "DEOOILLIAGL": "30007",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1121,
+      "AvatarID": 1121,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0016"
@@ -185,7 +185,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0017.png",
       "DEOOILLIAGL": "30005",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1131,
+      "AvatarID": 1131,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0017"
@@ -195,7 +195,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0018.png",
       "DEOOILLIAGL": "40005",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1141,
+      "AvatarID": 1141,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0018"
@@ -205,7 +205,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0027.png",
       "DEOOILLIAGL": "30003",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1151,
+      "AvatarID": 1151,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0027"
@@ -215,7 +215,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0032.png",
       "DEOOILLIAGL": "50011",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1171,
+      "AvatarID": 1171,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "2024-10-16 12:00:00",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0032"
@@ -225,7 +225,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0020.png",
       "DEOOILLIAGL": "40003",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1181,
+      "AvatarID": 1181,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0020"
@@ -235,7 +235,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0021.png",
       "DEOOILLIAGL": "50001",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1191,
+      "AvatarID": 1191,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0021"
@@ -245,7 +245,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0022.png",
       "DEOOILLIAGL": "40001",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1211,
+      "AvatarID": 1211,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0022"
@@ -255,7 +255,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0023.png",
       "DEOOILLIAGL": "50003",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1241,
+      "AvatarID": 1241,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0023"
@@ -265,7 +265,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0029.png",
       "DEOOILLIAGL": "50005",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1251,
+      "AvatarID": 1251,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0029"
@@ -275,7 +275,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0024.png",
       "DEOOILLIAGL": "50007",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1261,
+      "AvatarID": 1261,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "2024-09-04 12:00:00",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0024"
@@ -285,7 +285,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0030.png",
       "DEOOILLIAGL": "30019",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1271,
+      "AvatarID": 1271,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "2024-09-04 12:00:00",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0030"
@@ -295,7 +295,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRoleS0028.png",
       "DEOOILLIAGL": "30001",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1281,
+      "AvatarID": 1281,
       "KDEJGAKDHDG": 3,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRoleS0028"
@@ -305,7 +305,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0001.png",
       "DEOOILLIAGL": "30018",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1011,
+      "AvatarID": 1011,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0001"
@@ -315,7 +315,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0011.png",
       "DEOOILLIAGL": "40012",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1021,
+      "AvatarID": 1021,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0011"
@@ -325,7 +325,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0012.png",
       "DEOOILLIAGL": "30016",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1031,
+      "AvatarID": 1031,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0012"
@@ -335,7 +335,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0005.png",
       "DEOOILLIAGL": "40010",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1041,
+      "AvatarID": 1041,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0005"
@@ -345,7 +345,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0009.png",
       "DEOOILLIAGL": "30014",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1061,
+      "AvatarID": 1061,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0009"
@@ -355,7 +355,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0025.png",
       "DEOOILLIAGL": "50010",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1071,
+      "AvatarID": 1071,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0025"
@@ -365,7 +365,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0010.png",
       "DEOOILLIAGL": "30012",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1081,
+      "AvatarID": 1081,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0010"
@@ -375,7 +375,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0014.png",
       "DEOOILLIAGL": "40008",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1101,
+      "AvatarID": 1101,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0014"
@@ -385,7 +385,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0015.png",
       "DEOOILLIAGL": "30010",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1111,
+      "AvatarID": 1111,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0015"
@@ -395,7 +395,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0016.png",
       "DEOOILLIAGL": "30008",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1121,
+      "AvatarID": 1121,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0016"
@@ -405,7 +405,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0017.png",
       "DEOOILLIAGL": "30006",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1131,
+      "AvatarID": 1131,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0017"
@@ -415,7 +415,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0018.png",
       "DEOOILLIAGL": "40006",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1141,
+      "AvatarID": 1141,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0018"
@@ -425,7 +425,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0027.png",
       "DEOOILLIAGL": "30004",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1151,
+      "AvatarID": 1151,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0027"
@@ -435,7 +435,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0032.png",
       "DEOOILLIAGL": "50012",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1171,
+      "AvatarID": 1171,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "2024-10-16 12:00:00",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0032"
@@ -445,7 +445,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0020.png",
       "DEOOILLIAGL": "40004",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1181,
+      "AvatarID": 1181,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0020"
@@ -455,7 +455,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0021.png",
       "DEOOILLIAGL": "50002",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1191,
+      "AvatarID": 1191,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0021"
@@ -465,7 +465,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0022.png",
       "DEOOILLIAGL": "40002",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1211,
+      "AvatarID": 1211,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0022"
@@ -475,7 +475,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0023.png",
       "DEOOILLIAGL": "50004",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1241,
+      "AvatarID": 1241,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0023"
@@ -485,7 +485,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0029.png",
       "DEOOILLIAGL": "50006",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1251,
+      "AvatarID": 1251,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0029"
@@ -495,7 +495,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0024.png",
       "DEOOILLIAGL": "50008",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1261,
+      "AvatarID": 1261,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "2024-09-04 12:00:00",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0024"
@@ -505,7 +505,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0030.png",
       "DEOOILLIAGL": "30020",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1271,
+      "AvatarID": 1271,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "2024-09-04 12:00:00",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0030"
@@ -515,7 +515,7 @@
       "PIBOHJFHJOH": "Assets/NapResources/UI/Sprite/A1DynamicLoad/FriendCard/UnPacker/ImgCardRole0028.png",
       "DEOOILLIAGL": "30002",
       "IMAEGJNAEJI": 1,
-      "JAOENONJEBK": 1281,
+      "AvatarID": 1281,
       "KDEJGAKDHDG": 6,
       "LFODLKOCPCO": "",
       "FMEDNDMMLJJ": "FriendCard/UnPacker/ImgCardRole0028"

@@ -1,7 +1,7 @@
 {
-  "KHHABHLHAFG": [
+  "__exp_FileCfg": [
     {
-      "NGPCCDGBLLK": 100001,
+      "ID": 100001,
       "MHHGDOPBLCN": "测试_AI_通用",
       "MKEJBENMGIN": [
         "Tag_AI_A",
@@ -12,7 +12,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 100002,
+      "ID": 100002,
       "MHHGDOPBLCN": "测试_AI_技能测试",
       "MKEJBENMGIN": [
         "Tag_AI_A",
@@ -23,7 +23,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 100003,
+      "ID": 100003,
       "MHHGDOPBLCN": "测试_AI_移动测试",
       "MKEJBENMGIN": [
         "Tag_AI_A",
@@ -34,7 +34,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 100004,
+      "ID": 100004,
       "MHHGDOPBLCN": "测试_AI_Anchor测试",
       "MKEJBENMGIN": [
         "Tag_AI_A",
@@ -45,7 +45,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 100006,
+      "ID": 100006,
       "MHHGDOPBLCN": "测试_AI_动画测试",
       "MKEJBENMGIN": [
         "Tag_AI_A",
@@ -56,7 +56,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 100007,
+      "ID": 100007,
       "MHHGDOPBLCN": "测试_AI_逃跑测试",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -64,7 +64,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 100011,
+      "ID": 100011,
       "MHHGDOPBLCN": "棍兵_AI_仇恨转移测试",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 100012,
+      "ID": 100012,
       "MHHGDOPBLCN": "测试_触发Ability",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -104,7 +104,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 110101,
+      "ID": 110101,
       "MHHGDOPBLCN": "棍兵_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110111,
+      "ID": 110111,
       "MHHGDOPBLCN": "棍兵_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110201,
+      "ID": 110201,
       "MHHGDOPBLCN": "枪兵_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110202,
+      "ID": 110202,
       "MHHGDOPBLCN": "枪兵_AI_友方单位",
       "MKEJBENMGIN": [
         "Allied"
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110203,
+      "ID": 110203,
       "MHHGDOPBLCN": "枪兵_AI_友方_NedfSoldier纯战斗版",
       "MKEJBENMGIN": [
         "Allied"
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110208,
+      "ID": 110208,
       "MHHGDOPBLCN": "枪兵_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110209,
+      "ID": 110209,
       "MHHGDOPBLCN": "枪兵_AI_索敌",
       "MKEJBENMGIN": [
         "SelectTargetOnly"
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110211,
+      "ID": 110211,
       "MHHGDOPBLCN": "枪兵_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110301,
+      "ID": 110301,
       "MHHGDOPBLCN": "盾兵_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110311,
+      "ID": 110311,
       "MHHGDOPBLCN": "盾兵_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -432,7 +432,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110401,
+      "ID": 110401,
       "MHHGDOPBLCN": "长臂机甲_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -464,7 +464,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110402,
+      "ID": 110402,
       "MHHGDOPBLCN": "长臂机甲_AI_近战倾向",
       "MKEJBENMGIN": [
         "CloseRange"
@@ -498,7 +498,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110403,
+      "ID": 110403,
       "MHHGDOPBLCN": "长臂机甲_AI_远程倾向",
       "MKEJBENMGIN": [
         "LongRange"
@@ -532,7 +532,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110410,
+      "ID": 110410,
       "MHHGDOPBLCN": "长臂机甲_AI_巡逻",
       "MKEJBENMGIN": [
         "Patrol"
@@ -542,7 +542,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 110411,
+      "ID": 110411,
       "MHHGDOPBLCN": "长臂机甲_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110501,
+      "ID": 110501,
       "MHHGDOPBLCN": "大型机甲_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -606,7 +606,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110502,
+      "ID": 110502,
       "MHHGDOPBLCN": "大型机甲_AI_近战倾向",
       "MKEJBENMGIN": [
         "CloseRange"
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110503,
+      "ID": 110503,
       "MHHGDOPBLCN": "大型机甲_AI_远程倾向",
       "MKEJBENMGIN": [
         "LongRange"
@@ -674,7 +674,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110504,
+      "ID": 110504,
       "MHHGDOPBLCN": "大型机甲_AI_屏蔽机枪",
       "MKEJBENMGIN": [
         "Monster_Guardian_ForbidMachineGun"
@@ -708,7 +708,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110511,
+      "ID": 110511,
       "MHHGDOPBLCN": "大型机甲_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -740,7 +740,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110601,
+      "ID": 110601,
       "MHHGDOPBLCN": "机甲猩猩_AI_默认（Boss模板）",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -748,7 +748,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 110701,
+      "ID": 110701,
       "MHHGDOPBLCN": "巡逻车_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -780,7 +780,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110711,
+      "ID": 110711,
       "MHHGDOPBLCN": "巡逻车_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -812,7 +812,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110801,
+      "ID": 110801,
       "MHHGDOPBLCN": "自爆蜘蛛_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -820,7 +820,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 110901,
+      "ID": 110901,
       "MHHGDOPBLCN": "低阶以太剑_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -852,7 +852,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110902,
+      "ID": 110902,
       "MHHGDOPBLCN": "低阶以太剑_AI_教学",
       "MKEJBENMGIN": [
         "Tutorial"
@@ -886,7 +886,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110903,
+      "ID": 110903,
       "MHHGDOPBLCN": "低阶以太剑_AI_屏蔽攻击",
       "MKEJBENMGIN": [
         "Disarm"
@@ -920,7 +920,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110908,
+      "ID": 110908,
       "MHHGDOPBLCN": "低阶以太剑_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -954,7 +954,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 110911,
+      "ID": 110911,
       "MHHGDOPBLCN": "低阶以太剑_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -986,7 +986,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111001,
+      "ID": 111001,
       "MHHGDOPBLCN": "低阶以太粘液_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1018,7 +1018,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111008,
+      "ID": 111008,
       "MHHGDOPBLCN": "低阶以太粘液_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -1052,7 +1052,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111009,
+      "ID": 111009,
       "MHHGDOPBLCN": "低阶以太粘液_AI_辅攻，无视攻权，高频，不run",
       "MKEJBENMGIN": [
         "Aid",
@@ -1089,7 +1089,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111010,
+      "ID": 111010,
       "MHHGDOPBLCN": "低阶以太粘液_AI_巡逻（巡逻模板）",
       "MKEJBENMGIN": [
         "Patrol"
@@ -1099,7 +1099,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 111011,
+      "ID": 111011,
       "MHHGDOPBLCN": "低阶以太粘液_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1131,7 +1131,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111101,
+      "ID": 111101,
       "MHHGDOPBLCN": "以太巨兽_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1163,7 +1163,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111102,
+      "ID": 111102,
       "MHHGDOPBLCN": "以太巨兽_AI_辅攻",
       "MKEJBENMGIN": [
         "Aide"
@@ -1197,7 +1197,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111103,
+      "ID": 111103,
       "MHHGDOPBLCN": "以太巨兽_AI_教学",
       "MKEJBENMGIN": [
         "Tutorial"
@@ -1231,7 +1231,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111104,
+      "ID": 111104,
       "MHHGDOPBLCN": "以太巨兽_AI_破坏物",
       "MKEJBENMGIN": [
         "Destruct"
@@ -1265,7 +1265,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111105,
+      "ID": 111105,
       "MHHGDOPBLCN": "以太巨兽_AI_破坏物_辅攻",
       "MKEJBENMGIN": [
         "DestructAide"
@@ -1299,7 +1299,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111111,
+      "ID": 111111,
       "MHHGDOPBLCN": "以太巨兽_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1331,7 +1331,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111201,
+      "ID": 111201,
       "MHHGDOPBLCN": "以太巡兽_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1363,7 +1363,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111202,
+      "ID": 111202,
       "MHHGDOPBLCN": "以太巡兽_AI_辅攻",
       "MKEJBENMGIN": [
         "Aide"
@@ -1397,7 +1397,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111203,
+      "ID": 111203,
       "MHHGDOPBLCN": "以太巡兽_AI_占点",
       "MKEJBENMGIN": [
         "Occupation",
@@ -1432,7 +1432,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111204,
+      "ID": 111204,
       "MHHGDOPBLCN": "以太巡兽_AI_Boss",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1440,7 +1440,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 111211,
+      "ID": 111211,
       "MHHGDOPBLCN": "以太巡兽_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1472,7 +1472,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111301,
+      "ID": 111301,
       "MHHGDOPBLCN": "以太爆弹_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1480,7 +1480,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 111401,
+      "ID": 111401,
       "MHHGDOPBLCN": "以太信号斧_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1512,7 +1512,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111408,
+      "ID": 111408,
       "MHHGDOPBLCN": "以太信号斧_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -1546,7 +1546,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111411,
+      "ID": 111411,
       "MHHGDOPBLCN": "以太信号斧_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1578,7 +1578,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111501,
+      "ID": 111501,
       "MHHGDOPBLCN": "以太剑盾_AI_默认（Boss模板）（中途转阶段）",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1586,7 +1586,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 111502,
+      "ID": 111502,
       "MHHGDOPBLCN": "以太剑盾_AI_序章（Boss模板）（没有二阶段）",
       "MKEJBENMGIN": [
         "MuteTransform"
@@ -1596,7 +1596,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 111503,
+      "ID": 111503,
       "MHHGDOPBLCN": "以太剑盾_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1628,7 +1628,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111504,
+      "ID": 111504,
       "MHHGDOPBLCN": "以太剑盾_AI_序章（Boss模板）（直接二阶段）",
       "MKEJBENMGIN": [
         "BornTransform"
@@ -1638,7 +1638,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 111509,
+      "ID": 111509,
       "MHHGDOPBLCN": "以太剑盾_AI_小BOSS指挥者",
       "MKEJBENMGIN": [
         "DurahanLeader"
@@ -1672,7 +1672,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111511,
+      "ID": 111511,
       "MHHGDOPBLCN": "以太剑盾_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1704,7 +1704,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111601,
+      "ID": 111601,
       "MHHGDOPBLCN": "掠袭猎兵_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1736,7 +1736,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111608,
+      "ID": 111608,
       "MHHGDOPBLCN": "掠袭猎兵_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -1770,7 +1770,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111609,
+      "ID": 111609,
       "MHHGDOPBLCN": "掠袭猎兵_AI_友方单位",
       "MKEJBENMGIN": [
         "Allied"
@@ -1804,7 +1804,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111611,
+      "ID": 111611,
       "MHHGDOPBLCN": "掠袭猎兵_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1836,7 +1836,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111801,
+      "ID": 111801,
       "MHHGDOPBLCN": "以太死神XIII_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1868,7 +1868,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111802,
+      "ID": 111802,
       "MHHGDOPBLCN": "以太死神XIII_AI_辅攻",
       "MKEJBENMGIN": [
         "Aide"
@@ -1902,7 +1902,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111803,
+      "ID": 111803,
       "MHHGDOPBLCN": "以太死神XIII_AI_BOSS",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1910,7 +1910,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 111804,
+      "ID": 111804,
       "MHHGDOPBLCN": "以太死神XIII_AI_BOSS_削弱",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1921,7 +1921,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111809,
+      "ID": 111809,
       "MHHGDOPBLCN": "以太死神XIII_AI_关卡传送",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1929,7 +1929,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 111810,
+      "ID": 111810,
       "MHHGDOPBLCN": "以太死神XIII_AI_关卡测试",
       "MKEJBENMGIN": [
         "LevelTest"
@@ -1963,7 +1963,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111811,
+      "ID": 111811,
       "MHHGDOPBLCN": "以太死神XIII_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -1995,7 +1995,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111901,
+      "ID": 111901,
       "MHHGDOPBLCN": "以太巡兽_装甲版_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2027,7 +2027,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 111902,
+      "ID": 111902,
       "MHHGDOPBLCN": "以太巡兽_装甲版_AI_BOSS",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2035,7 +2035,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 111911,
+      "ID": 111911,
       "MHHGDOPBLCN": "以太巡兽_装甲版_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2067,7 +2067,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112001,
+      "ID": 112001,
       "MHHGDOPBLCN": "以太壁垒_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2099,7 +2099,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112002,
+      "ID": 112002,
       "MHHGDOPBLCN": "以太壁垒_AI_占点只进圈防御",
       "MKEJBENMGIN": [
         "Occupation"
@@ -2133,7 +2133,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112003,
+      "ID": 112003,
       "MHHGDOPBLCN": "以太壁垒_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -2167,7 +2167,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112011,
+      "ID": 112011,
       "MHHGDOPBLCN": "以太壁垒_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2199,7 +2199,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112101,
+      "ID": 112101,
       "MHHGDOPBLCN": "以太魔花_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2231,7 +2231,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112102,
+      "ID": 112102,
       "MHHGDOPBLCN": "以太魔花_AI_辅攻",
       "MKEJBENMGIN": [
         "Aide"
@@ -2265,7 +2265,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112103,
+      "ID": 112103,
       "MHHGDOPBLCN": "以太魔花_AI_教学",
       "MKEJBENMGIN": [
         "Tutorial"
@@ -2299,7 +2299,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112111,
+      "ID": 112111,
       "MHHGDOPBLCN": "以太魔花_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2331,7 +2331,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112201,
+      "ID": 112201,
       "MHHGDOPBLCN": "以太双斧_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2363,7 +2363,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112202,
+      "ID": 112202,
       "MHHGDOPBLCN": "以太双斧_AI_辅攻",
       "MKEJBENMGIN": [
         "Aide"
@@ -2397,7 +2397,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112208,
+      "ID": 112208,
       "MHHGDOPBLCN": "以太双斧_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -2431,7 +2431,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112211,
+      "ID": 112211,
       "MHHGDOPBLCN": "以太双斧_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2463,7 +2463,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112212,
+      "ID": 112212,
       "MHHGDOPBLCN": "以太双斧_AI_升阶指挥者",
       "MKEJBENMGIN": [
         "GoblinLeader"
@@ -2497,7 +2497,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112301,
+      "ID": 112301,
       "MHHGDOPBLCN": "死路巨人_P1阶段_AI_默认（Boss模板）",
       "MKEJBENMGIN": [
         "Boss"
@@ -2507,7 +2507,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 112302,
+      "ID": 112302,
       "MHHGDOPBLCN": "死路巨人_P2阶段_AI_默认（Boss模板）",
       "MKEJBENMGIN": [
         "Boss"
@@ -2517,7 +2517,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 112303,
+      "ID": 112303,
       "MHHGDOPBLCN": "死路巨人_P1阶段_AI_精英（Boss模板）(弃用）",
       "MKEJBENMGIN": [
         "Elite"
@@ -2527,7 +2527,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 112304,
+      "ID": 112304,
       "MHHGDOPBLCN": "死路巨人_P1阶段_AI_高难（Boss模板）",
       "MKEJBENMGIN": [
         "Boss",
@@ -2538,7 +2538,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 112305,
+      "ID": 112305,
       "MHHGDOPBLCN": "死路巨人_P2阶段_AI_高难（Boss模板）",
       "MKEJBENMGIN": [
         "Boss",
@@ -2549,7 +2549,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 112306,
+      "ID": 112306,
       "MHHGDOPBLCN": "死路巨人_P1阶段_AI_默认_出场播片（Boss模板）",
       "MKEJBENMGIN": [
         "Boss",
@@ -2560,7 +2560,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 112307,
+      "ID": 112307,
       "MHHGDOPBLCN": "死路巨人_P1阶段_AI_高难_出场播片（Boss模板）",
       "MKEJBENMGIN": [
         "Boss",
@@ -2572,7 +2572,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 112401,
+      "ID": 112401,
       "MHHGDOPBLCN": "摇钱布_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2604,7 +2604,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112410,
+      "ID": 112410,
       "MHHGDOPBLCN": "摇钱布_AI_巡逻",
       "MKEJBENMGIN": [
         "Patrol"
@@ -2614,7 +2614,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 112501,
+      "ID": 112501,
       "MHHGDOPBLCN": "轻装猎兵_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2646,7 +2646,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112502,
+      "ID": 112502,
       "MHHGDOPBLCN": "轻装猎兵_AI_友方单位",
       "MKEJBENMGIN": [
         "Allied"
@@ -2680,7 +2680,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112503,
+      "ID": 112503,
       "MHHGDOPBLCN": "轻装猎兵_AI_友方_NedfSoldier纯战斗版",
       "MKEJBENMGIN": [
         "Allied"
@@ -2714,7 +2714,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112508,
+      "ID": 112508,
       "MHHGDOPBLCN": "轻装猎兵_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -2748,7 +2748,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112509,
+      "ID": 112509,
       "MHHGDOPBLCN": "轻装猎兵_AI_索敌",
       "MKEJBENMGIN": [
         "SelectTargetOnly"
@@ -2782,7 +2782,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112511,
+      "ID": 112511,
       "MHHGDOPBLCN": "轻装猎兵_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2814,7 +2814,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112601,
+      "ID": 112601,
       "MHHGDOPBLCN": "重装炮手_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2846,7 +2846,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112602,
+      "ID": 112602,
       "MHHGDOPBLCN": "重装炮手_AI_辅攻",
       "MKEJBENMGIN": [
         "Aide"
@@ -2880,7 +2880,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112608,
+      "ID": 112608,
       "MHHGDOPBLCN": "重装炮手_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -2914,7 +2914,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112611,
+      "ID": 112611,
       "MHHGDOPBLCN": "重装炮手_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2946,7 +2946,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112701,
+      "ID": 112701,
       "MHHGDOPBLCN": "近战猎兵_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -2978,7 +2978,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112708,
+      "ID": 112708,
       "MHHGDOPBLCN": "近战猎兵_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -3012,7 +3012,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112711,
+      "ID": 112711,
       "MHHGDOPBLCN": "近战猎兵_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3044,7 +3044,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 112901,
+      "ID": 112901,
       "MHHGDOPBLCN": "以太核心曼陀罗_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3052,7 +3052,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 113001,
+      "ID": 113001,
       "MHHGDOPBLCN": "工地机械_破拆机_AI_默认（Boss模板）",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3060,7 +3060,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 113101,
+      "ID": 113101,
       "MHHGDOPBLCN": "混混电棍兵_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3092,7 +3092,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113108,
+      "ID": 113108,
       "MHHGDOPBLCN": "混混电棍兵_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -3126,7 +3126,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113110,
+      "ID": 113110,
       "MHHGDOPBLCN": "混混电棍兵_巡逻",
       "MKEJBENMGIN": [
         "Patrol"
@@ -3136,7 +3136,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 113111,
+      "ID": 113111,
       "MHHGDOPBLCN": "混混电棍兵_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3168,7 +3168,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113201,
+      "ID": 113201,
       "MHHGDOPBLCN": "混混弩机兵_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3200,7 +3200,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113208,
+      "ID": 113208,
       "MHHGDOPBLCN": "混混弩机兵_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -3234,7 +3234,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113209,
+      "ID": 113209,
       "MHHGDOPBLCN": "混混弩机兵_索敌",
       "MKEJBENMGIN": [
         "SelectTargetOnly"
@@ -3244,7 +3244,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 113211,
+      "ID": 113211,
       "MHHGDOPBLCN": "混混弩机兵_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3276,7 +3276,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113301,
+      "ID": 113301,
       "MHHGDOPBLCN": "混混纵火犯_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3308,7 +3308,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113308,
+      "ID": 113308,
       "MHHGDOPBLCN": "混混纵火犯_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -3342,7 +3342,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113311,
+      "ID": 113311,
       "MHHGDOPBLCN": "混混纵火犯_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3374,7 +3374,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113401,
+      "ID": 113401,
       "MHHGDOPBLCN": "混混鱼叉兵_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3406,7 +3406,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113408,
+      "ID": 113408,
       "MHHGDOPBLCN": "混混鱼叉兵_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -3440,7 +3440,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113411,
+      "ID": 113411,
       "MHHGDOPBLCN": "混混鱼叉兵_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3472,7 +3472,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113501,
+      "ID": 113501,
       "MHHGDOPBLCN": "混混拳击手_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3504,7 +3504,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113508,
+      "ID": 113508,
       "MHHGDOPBLCN": "混混拳击手_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -3538,7 +3538,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113511,
+      "ID": 113511,
       "MHHGDOPBLCN": "混混拳击手_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3570,7 +3570,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113521,
+      "ID": 113521,
       "MHHGDOPBLCN": "混混拳击手_Boss",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3602,7 +3602,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113601,
+      "ID": 113601,
       "MHHGDOPBLCN": "混混霰弹枪_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3634,7 +3634,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113608,
+      "ID": 113608,
       "MHHGDOPBLCN": "混混霰弹枪_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -3668,7 +3668,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113611,
+      "ID": 113611,
       "MHHGDOPBLCN": "混混霰弹枪_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3700,7 +3700,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113701,
+      "ID": 113701,
       "MHHGDOPBLCN": "眼魔引擎_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3732,7 +3732,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113702,
+      "ID": 113702,
       "MHHGDOPBLCN": "眼魔引擎_特殊滚动版",
       "MKEJBENMGIN": [
         "BeholderEngineRoll"
@@ -3766,7 +3766,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113703,
+      "ID": 113703,
       "MHHGDOPBLCN": "眼魔引擎_协同攻击版",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3798,7 +3798,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113708,
+      "ID": 113708,
       "MHHGDOPBLCN": "眼魔引擎_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -3832,7 +3832,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113711,
+      "ID": 113711,
       "MHHGDOPBLCN": "眼魔引擎_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3864,7 +3864,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113801,
+      "ID": 113801,
       "MHHGDOPBLCN": "泰拉斯奎祸车_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3896,7 +3896,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113808,
+      "ID": 113808,
       "MHHGDOPBLCN": "泰拉斯奎祸车_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -3930,7 +3930,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113811,
+      "ID": 113811,
       "MHHGDOPBLCN": "泰拉斯奎祸车_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -3962,7 +3962,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113812,
+      "ID": 113812,
       "MHHGDOPBLCN": "泰拉斯奎祸车_升阶指挥者",
       "MKEJBENMGIN": [
         "TarasqueMixerLeader"
@@ -3996,7 +3996,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 113901,
+      "ID": 113901,
       "MHHGDOPBLCN": "工地机械_打桩机_AI_默认（Boss模板）",
       "MKEJBENMGIN": [
         "Eazy"
@@ -4006,7 +4006,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 113902,
+      "ID": 113902,
       "MHHGDOPBLCN": "工地机械_打桩机_AI_默认（Boss模板）",
       "MKEJBENMGIN": [
         "Hard"
@@ -4016,7 +4016,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114001,
+      "ID": 114001,
       "MHHGDOPBLCN": "工地机械_挖掘机_AI_默认（Boss模板）",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4024,7 +4024,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114002,
+      "ID": 114002,
       "MHHGDOPBLCN": "工地机械_挖掘机_AI_投石专精_01（Boss模板）",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4032,7 +4032,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114003,
+      "ID": 114003,
       "MHHGDOPBLCN": "工地机械_挖掘机_AI_特殊Idle（Boss模板）",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4040,7 +4040,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114004,
+      "ID": 114004,
       "MHHGDOPBLCN": "工地机械_挖掘机_AI_投石专精_02（Boss模板）",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4048,7 +4048,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114101,
+      "ID": 114101,
       "MHHGDOPBLCN": "工地Boss_复合侵蚀体_AI_默认（Boss模板）",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4056,7 +4056,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114201,
+      "ID": 114201,
       "MHHGDOPBLCN": "双子舞者_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4064,7 +4064,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114202,
+      "ID": 114202,
       "MHHGDOPBLCN": "双子舞者_组合_AI_高难度",
       "MKEJBENMGIN": [
         "Hard"
@@ -4074,7 +4074,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114203,
+      "ID": 114203,
       "MHHGDOPBLCN": "双子舞者_组合_AI_低难度",
       "MKEJBENMGIN": [
         "Eazy"
@@ -4084,7 +4084,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114401,
+      "ID": 114401,
       "MHHGDOPBLCN": "捷足巡游者_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4116,7 +4116,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114411,
+      "ID": 114411,
       "MHHGDOPBLCN": "捷足巡游者_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4148,7 +4148,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114501,
+      "ID": 114501,
       "MHHGDOPBLCN": "重装侵袭者_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4180,7 +4180,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114511,
+      "ID": 114511,
       "MHHGDOPBLCN": "重装侵袭者_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4212,7 +4212,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114521,
+      "ID": 114521,
       "MHHGDOPBLCN": "重装侵袭者_AI_Boss",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4220,7 +4220,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 114601,
+      "ID": 114601,
       "MHHGDOPBLCN": "恶灵_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4252,7 +4252,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114611,
+      "ID": 114611,
       "MHHGDOPBLCN": "恶灵_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4284,7 +4284,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114701,
+      "ID": 114701,
       "MHHGDOPBLCN": "游魂_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4316,7 +4316,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114711,
+      "ID": 114711,
       "MHHGDOPBLCN": "游魂_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4348,7 +4348,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114801,
+      "ID": 114801,
       "MHHGDOPBLCN": "恶毒打手_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4380,7 +4380,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114808,
+      "ID": 114808,
       "MHHGDOPBLCN": "恶毒打手_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -4414,7 +4414,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114811,
+      "ID": 114811,
       "MHHGDOPBLCN": "恶毒打手_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4446,7 +4446,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114901,
+      "ID": 114901,
       "MHHGDOPBLCN": "贪婪射手_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4478,7 +4478,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114908,
+      "ID": 114908,
       "MHHGDOPBLCN": "贪婪射手_AI_占点",
       "MKEJBENMGIN": [
         "Occupation"
@@ -4512,7 +4512,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 114911,
+      "ID": 114911,
       "MHHGDOPBLCN": "贪婪射手_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4544,7 +4544,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115001,
+      "ID": 115001,
       "MHHGDOPBLCN": "狂乱暴徒_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4576,7 +4576,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115011,
+      "ID": 115011,
       "MHHGDOPBLCN": "狂乱暴徒_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4608,7 +4608,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115101,
+      "ID": 115101,
       "MHHGDOPBLCN": "盛怒恶霸_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4640,7 +4640,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115102,
+      "ID": 115102,
       "MHHGDOPBLCN": "盛怒恶霸_AI_辅攻",
       "MKEJBENMGIN": [
         "Aide"
@@ -4674,7 +4674,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115111,
+      "ID": 115111,
       "MHHGDOPBLCN": "盛怒恶霸_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4706,7 +4706,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115201,
+      "ID": 115201,
       "MHHGDOPBLCN": "凶心疯汉_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4738,7 +4738,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115211,
+      "ID": 115211,
       "MHHGDOPBLCN": "凶心疯汉_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4770,7 +4770,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115301,
+      "ID": 115301,
       "MHHGDOPBLCN": "尼尼微_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4778,7 +4778,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 115302,
+      "ID": 115302,
       "MHHGDOPBLCN": "尼尼微_AI_召唤屏障",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4786,7 +4786,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 115303,
+      "ID": 115303,
       "MHHGDOPBLCN": "尼尼微_AI_召唤屏障_可破坏物碰撞测试",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4794,7 +4794,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 115304,
+      "ID": 115304,
       "MHHGDOPBLCN": "尼尼微_AI_BossRush",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4802,7 +4802,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 115601,
+      "ID": 115601,
       "MHHGDOPBLCN": "尼尼微僚机_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4834,7 +4834,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115602,
+      "ID": 115602,
       "MHHGDOPBLCN": "尼尼微僚机_AI_普通关卡用",
       "MKEJBENMGIN": [
         "WithNineveh"
@@ -4868,7 +4868,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 115801,
+      "ID": 115801,
       "MHHGDOPBLCN": "重机素体_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4876,7 +4876,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 116401,
+      "ID": 116401,
       "MHHGDOPBLCN": "简Boss_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4884,7 +4884,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 116501,
+      "ID": 116501,
       "MHHGDOPBLCN": "尼尼微藤曼触手_AI",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4916,7 +4916,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 116701,
+      "ID": 116701,
       "MHHGDOPBLCN": "盗洞暴徒·蛮横力士",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4924,7 +4924,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 117601,
+      "ID": 117601,
       "MHHGDOPBLCN": "重装猎兵_火箭筒_AI",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4956,7 +4956,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 117701,
+      "ID": 117701,
       "MHHGDOPBLCN": "能量体近战_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -4988,7 +4988,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 117702,
+      "ID": 117702,
       "MHHGDOPBLCN": "能量体近战_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5020,7 +5020,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 117801,
+      "ID": 117801,
       "MHHGDOPBLCN": "能量体远程_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5052,7 +5052,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 117802,
+      "ID": 117802,
       "MHHGDOPBLCN": "能量体远程_AI_升阶",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5084,7 +5084,7 @@
       ]
     },
     {
-      "NGPCCDGBLLK": 120121,
+      "ID": 120121,
       "MHHGDOPBLCN": "军方_加特林机枪塔_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5092,7 +5092,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 120211,
+      "ID": 120211,
       "MHHGDOPBLCN": "军方_激光镭射装置_完好_单发射击_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5100,7 +5100,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 120221,
+      "ID": 120221,
       "MHHGDOPBLCN": "军方_激光镭射装置_单头损坏_单发射击_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5108,7 +5108,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 120231,
+      "ID": 120231,
       "MHHGDOPBLCN": "军方_激光镭射装置_长时间射击_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5116,7 +5116,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 120232,
+      "ID": 120232,
       "MHHGDOPBLCN": "军方_激光镭射装置_长时间射击_AI_低速版",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5124,7 +5124,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 120302,
+      "ID": 120302,
       "MHHGDOPBLCN": "导弹井_AI_长关卡测试_目标为中心落点",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5132,7 +5132,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 120303,
+      "ID": 120303,
       "MHHGDOPBLCN": "垂直导弹发射器_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5140,7 +5140,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 120304,
+      "ID": 120304,
       "MHHGDOPBLCN": "追踪导弹发射器_AI_30半径战场",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5148,7 +5148,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 120305,
+      "ID": 120305,
       "MHHGDOPBLCN": "追踪导弹发射器_AI_20半径战场",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5156,7 +5156,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 120521,
+      "ID": 120521,
       "MHHGDOPBLCN": "陷阱_弯管道_AI",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5164,7 +5164,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 121111,
+      "ID": 121111,
       "MHHGDOPBLCN": "军方_攻击型围栏_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5172,7 +5172,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 121201,
+      "ID": 121201,
       "MHHGDOPBLCN": "军方_地雷_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5180,7 +5180,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 121501,
+      "ID": 121501,
       "MHHGDOPBLCN": "军方_激光屏障_AI_默认_间歇射击",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5188,7 +5188,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 121601,
+      "ID": 121601,
       "MHHGDOPBLCN": "军方_子母雷_空爆型",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5196,7 +5196,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 121611,
+      "ID": 121611,
       "MHHGDOPBLCN": "军方_子母雷_地爆型",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5204,7 +5204,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 121701,
+      "ID": 121701,
       "MHHGDOPBLCN": "军方_激光镭射装置_单头损坏_长时间射击_AI_固定定时射击",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5212,7 +5212,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 121801,
+      "ID": 121801,
       "MHHGDOPBLCN": "军方_垂直导弹发射器_AI_固定落点",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5220,7 +5220,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 122001,
+      "ID": 122001,
       "MHHGDOPBLCN": "军方_追踪激光_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5228,7 +5228,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 122201,
+      "ID": 122201,
       "MHHGDOPBLCN": "军方_泰瑟枪_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5236,7 +5236,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 130811,
+      "ID": 130811,
       "MHHGDOPBLCN": "军方_攻击型围栏_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5244,7 +5244,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 131301,
+      "ID": 131301,
       "MHHGDOPBLCN": "军方_地雷_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5252,7 +5252,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 140601,
+      "ID": 140601,
       "MHHGDOPBLCN": "丽娜_杜拉西_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5260,7 +5260,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 140701,
+      "ID": 140701,
       "MHHGDOPBLCN": "丽娜_安娜塔莎_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5268,7 +5268,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 190541,
+      "ID": 190541,
       "MHHGDOPBLCN": "智能货柜_AI_默认",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5276,7 +5276,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211021,
+      "ID": 211021,
       "MHHGDOPBLCN": "关卡测试_AI_跟随玩家_枪兵AI（纯测试关卡用）",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5284,7 +5284,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211022,
+      "ID": 211022,
       "MHHGDOPBLCN": "关卡测试_AI_按照路径寻路",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5292,7 +5292,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211023,
+      "ID": 211023,
       "MHHGDOPBLCN": "关卡测试_AI_直接战斗_近战",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5300,7 +5300,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211024,
+      "ID": 211024,
       "MHHGDOPBLCN": "关卡测试_AI_直接战斗_远程",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5308,7 +5308,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211025,
+      "ID": 211025,
       "MHHGDOPBLCN": "关卡测试_AI_遁入空门",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5316,7 +5316,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211026,
+      "ID": 211026,
       "MHHGDOPBLCN": "关卡测试_AI_按照路径寻路_慢走",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5324,7 +5324,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211027,
+      "ID": 211027,
       "MHHGDOPBLCN": "关卡测试_AI_怪物技能专精",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5332,7 +5332,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211028,
+      "ID": 211028,
       "MHHGDOPBLCN": "关卡测试_AI_安全邦布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5340,7 +5340,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211029,
+      "ID": 211029,
       "MHHGDOPBLCN": "关卡测试_AI_家政邦布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5348,7 +5348,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211030,
+      "ID": 211030,
       "MHHGDOPBLCN": "关卡测试_AI_跟随邦布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5356,7 +5356,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211031,
+      "ID": 211031,
       "MHHGDOPBLCN": "关卡测试_AI_长流程邦布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5364,7 +5364,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211032,
+      "ID": 211032,
       "MHHGDOPBLCN": "关卡测试_AI_招财邦布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5372,7 +5372,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211033,
+      "ID": 211033,
       "MHHGDOPBLCN": "关卡测试_AI_鲨鱼邦布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5380,7 +5380,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211034,
+      "ID": 211034,
       "MHHGDOPBLCN": "关卡测试_AI_相扑邦布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5388,7 +5388,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211035,
+      "ID": 211035,
       "MHHGDOPBLCN": "关卡测试_AI_探险邦布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5396,7 +5396,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211036,
+      "ID": 211036,
       "MHHGDOPBLCN": "关卡测试_AI_按照路径寻路_玩家远离停止",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5404,7 +5404,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211037,
+      "ID": 211037,
       "MHHGDOPBLCN": "关卡测试_宝石结晶虫AI",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5412,7 +5412,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211038,
+      "ID": 211038,
       "MHHGDOPBLCN": "关卡测试_AI_自定义场景Tag节点AI测试",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5420,7 +5420,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211039,
+      "ID": 211039,
       "MHHGDOPBLCN": "关卡测试_AI_纸壳布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5428,7 +5428,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211040,
+      "ID": 211040,
       "MHHGDOPBLCN": "关卡测试_AI_纸袋布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5436,7 +5436,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211041,
+      "ID": 211041,
       "MHHGDOPBLCN": "关卡测试_AI_泪眼布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5444,7 +5444,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211042,
+      "ID": 211042,
       "MHHGDOPBLCN": "关卡测试_AI_飚速布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5452,7 +5452,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211043,
+      "ID": 211043,
       "MHHGDOPBLCN": "关卡测试_AI_艾米丽安_诺查邦布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5460,7 +5460,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211044,
+      "ID": 211044,
       "MHHGDOPBLCN": "关卡测试_AI_果核布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5468,7 +5468,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211045,
+      "ID": 211045,
       "MHHGDOPBLCN": "关卡测试_AI_飞靶布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5476,7 +5476,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211046,
+      "ID": 211046,
       "MHHGDOPBLCN": "关卡测试_AI_气压布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5484,7 +5484,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211047,
+      "ID": 211047,
       "MHHGDOPBLCN": "关卡测试_AI_电击布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5492,7 +5492,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211048,
+      "ID": 211048,
       "MHHGDOPBLCN": "关卡测试_AI_磁力布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5500,7 +5500,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211049,
+      "ID": 211049,
       "MHHGDOPBLCN": "关卡测试_AI_企鹅布",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
@@ -5508,7 +5508,7 @@
       "NENHOENPOHO": []
     },
     {
-      "NGPCCDGBLLK": 211051,
+      "ID": 211051,
       "MHHGDOPBLCN": "关卡测试_AI_阿崔巡查",
       "MKEJBENMGIN": [],
       "EPAGPFOJBPA": "",
