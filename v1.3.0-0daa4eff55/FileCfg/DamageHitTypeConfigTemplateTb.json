@@ -1,0 +1,36 @@
+{
+  "PEPPKLMFFBD": [
+    {
+      "NJJGNPDGFAB": 0,
+      "FJECNNMMDGH": "HitType_None",
+      "BGJIEGOEMEB": "None",
+      "GHOMAELFKPJ": "",
+      "BKCKMCBPCKH": "",
+      "IJBKHFLGPHJ": ""
+    },
+    {
+      "NJJGNPDGFAB": 101,
+      "FJECNNMMDGH": "HitType_Cut",
+      "BGJIEGOEMEB": "Cut",
+      "GHOMAELFKPJ": "HitTypeIconTitle_Cut",
+      "BKCKMCBPCKH": "HitTypeIconText_Cut",
+      "IJBKHFLGPHJ": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png"
+    },
+    {
+      "NJJGNPDGFAB": 102,
+      "FJECNNMMDGH": "HitType_Punch",
+      "BGJIEGOEMEB": "Punch",
+      "GHOMAELFKPJ": "HitTypeIconTitle_Punch",
+      "BKCKMCBPCKH": "HitTypeIconText_Punch",
+      "IJBKHFLGPHJ": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPunch.png"
+    },
+    {
+      "NJJGNPDGFAB": 103,
+      "FJECNNMMDGH": "HitType_Pierce",
+      "BGJIEGOEMEB": "Pierce",
+      "GHOMAELFKPJ": "HitTypeIconTitle_Pierce",
+      "BKCKMCBPCKH": "HitTypeIconText_Pierce",
+      "IJBKHFLGPHJ": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPierce.png"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "PEPPKLMFFBD": [
+    {
+      "GKNMDKNIMHP": 1,
+      "AOCJDCIMAGH": "Visible",
+      "LPOPNJJPHPL": [
+        "FLAG_VISIBLE",
+        "FLAG_CAN_MOVE"
+      ]
+    },
+    {
+      "GKNMDKNIMHP": 2,
+      "AOCJDCIMAGH": "VisibleAtGridAround",
+      "LPOPNJJPHPL": [
+        "FLAG_VISIBLE_AT_GRID_AROUND"
+      ]
+    },
+    {
+      "GKNMDKNIMHP": 3,
+      "AOCJDCIMAGH": "VisibleByTriggerEvent",
+      "LPOPNJJPHPL": [
+        "FLAG_VISIBLE_BY_TRIGGER_EVENT"
+      ]
+    },
+    {
+      "GKNMDKNIMHP": 4,
+      "AOCJDCIMAGH": "TemporaryVisibleAtAround",
+      "LPOPNJJPHPL": [
+        "FLAG_TEMPORARY_VISIBLE_AT_AROUND"
+      ]
+    },
+    {
+      "GKNMDKNIMHP": 5,
+      "AOCJDCIMAGH": "Blocked",
+      "LPOPNJJPHPL": [
+        "FLAG_VISIBLE"
+      ]
+    },
+    {
+      "GKNMDKNIMHP": 6,
+      "AOCJDCIMAGH": "All",
+      "LPOPNJJPHPL": [
+        "FLAG_VISIBLE",
+        "FLAG_CAN_MOVE"
+      ]
+    },
+    {
+      "GKNMDKNIMHP": 7,
+      "AOCJDCIMAGH": "",
+      "LPOPNJJPHPL": [
+        "FLAG_VISIBLE",
+        "FLAG_CAN_MOVE"
+      ]
+    },
+    {
+      "GKNMDKNIMHP": 8,
+      "AOCJDCIMAGH": "VisibleWhenLightning",
+      "LPOPNJJPHPL": [
+        "FLAG_VISIBLE_WHEN_LIGHTNING"
+      ]
+    }
+  ]
+}
