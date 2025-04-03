@@ -1,0 +1,144 @@
+{
+  "GHFLHABGNDH": [
+    {
+      "GPBKCMBPKDB": 0,
+      "MPHLIEKKFIK": "ElementType_None",
+      "KDPJFGHJONJ": "None",
+      "CNOOJOJCHGK": "",
+      "NGPAKMOFNMF": "",
+      "LEEEDDIMDGO": "",
+      "AOIMLDCPAGB": "",
+      "CHDGIEEHEFK": "",
+      "HCJEIAANLMI": 0,
+      "KOEDMNFBAIO": 100,
+      "MODINFHPNPJ": 0,
+      "OFMCHDIIJNG": []
+    },
+    {
+      "GPBKCMBPKDB": 200,
+      "MPHLIEKKFIK": "ElementType_Physics",
+      "KDPJFGHJONJ": "Physics",
+      "CNOOJOJCHGK": "ElementIconTitle_Physics",
+      "NGPAKMOFNMF": "ElementIconText_Physics",
+      "LEEEDDIMDGO": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+      "AOIMLDCPAGB": "ElementIconText_Physics",
+      "CHDGIEEHEFK": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+      "HCJEIAANLMI": 0,
+      "KOEDMNFBAIO": 101,
+      "MODINFHPNPJ": 0,
+      "OFMCHDIIJNG": [
+        100110,
+        100120,
+        100130
+      ]
+    },
+    {
+      "GPBKCMBPKDB": 200,
+      "MPHLIEKKFIK": "ElementType_Physics",
+      "KDPJFGHJONJ": "Physics",
+      "CNOOJOJCHGK": "ElementIconTitle_Physics",
+      "NGPAKMOFNMF": "ElementIconText_Physics",
+      "LEEEDDIMDGO": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+      "AOIMLDCPAGB": "ElementIconText_Physics",
+      "CHDGIEEHEFK": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png",
+      "HCJEIAANLMI": 0,
+      "KOEDMNFBAIO": 108,
+      "MODINFHPNPJ": 1,
+      "OFMCHDIIJNG": [
+        100110,
+        100120,
+        100130
+      ]
+    },
+    {
+      "GPBKCMBPKDB": 201,
+      "MPHLIEKKFIK": "ElementType_Fire",
+      "KDPJFGHJONJ": "Fire",
+      "CNOOJOJCHGK": "ElementIconTitle_Fire",
+      "NGPAKMOFNMF": "ElementIconText_Fire",
+      "LEEEDDIMDGO": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png",
+      "AOIMLDCPAGB": "ElementIconText_Fire",
+      "CHDGIEEHEFK": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png",
+      "HCJEIAANLMI": 0,
+      "KOEDMNFBAIO": 102,
+      "MODINFHPNPJ": 0,
+      "OFMCHDIIJNG": [
+        100111,
+        100121,
+        100131
+      ]
+    },
+    {
+      "GPBKCMBPKDB": 202,
+      "MPHLIEKKFIK": "ElementType_Ice",
+      "KDPJFGHJONJ": "Ice",
+      "CNOOJOJCHGK": "ElementIconTitle_Ice",
+      "NGPAKMOFNMF": "ElementIconText_Ice",
+      "LEEEDDIMDGO": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconIce.png",
+      "AOIMLDCPAGB": "ElementIconText_Ice",
+      "CHDGIEEHEFK": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconIce.png",
+      "HCJEIAANLMI": 0,
+      "KOEDMNFBAIO": 103,
+      "MODINFHPNPJ": 0,
+      "OFMCHDIIJNG": [
+        100112,
+        100122,
+        100132
+      ]
+    },
+    {
+      "GPBKCMBPKDB": 202,
+      "MPHLIEKKFIK": "ElementType_FireFrost",
+      "KDPJFGHJONJ": "FireFrost",
+      "CNOOJOJCHGK": "ElementIconTitle_FireFrost",
+      "NGPAKMOFNMF": "ElementIconText_FireFrost",
+      "LEEEDDIMDGO": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
+      "AOIMLDCPAGB": "ElementIconText_FireFrost",
+      "CHDGIEEHEFK": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
+      "HCJEIAANLMI": 0,
+      "KOEDMNFBAIO": 104,
+      "MODINFHPNPJ": 1,
+      "OFMCHDIIJNG": [
+        100112,
+        100122,
+        100132
+      ]
+    },
+    {
+      "GPBKCMBPKDB": 203,
+      "MPHLIEKKFIK": "ElementType_Elec",
+      "KDPJFGHJONJ": "Elec",
+      "CNOOJOJCHGK": "ElementIconTitle_Elec",
+      "NGPAKMOFNMF": "ElementIconText_Elec",
+      "LEEEDDIMDGO": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png",
+      "AOIMLDCPAGB": "ElementIconText_Elec",
+      "CHDGIEEHEFK": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png",
+      "HCJEIAANLMI": 0,
+      "KOEDMNFBAIO": 105,
+      "MODINFHPNPJ": 0,
+      "OFMCHDIIJNG": [
+        100113,
+        100123,
+        100133
+      ]
+    },
+    {
+      "GPBKCMBPKDB": 205,
+      "MPHLIEKKFIK": "ElementType_Ether",
+      "KDPJFGHJONJ": "Ether",
+      "CNOOJOJCHGK": "ElementIconTitle_Ether",
+      "NGPAKMOFNMF": "ElementIconText_Ether",
+      "LEEEDDIMDGO": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png",
+      "AOIMLDCPAGB": "ElementIconText_Ether",
+      "CHDGIEEHEFK": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png",
+      "HCJEIAANLMI": 0,
+      "KOEDMNFBAIO": 107,
+      "MODINFHPNPJ": 0,
+      "OFMCHDIIJNG": [
+        100115,
+        100125,
+        100135
+      ]
+    }
+  ]
+}

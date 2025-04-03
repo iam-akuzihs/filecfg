@@ -1,0 +1,63 @@
+{
+  "GHFLHABGNDH": [
+    {
+      "OPFEAMDPIAG": 1,
+      "LHBNLNDAKCN": "Visible",
+      "DJPCGNGJNEI": [
+        "FLAG_VISIBLE",
+        "FLAG_CAN_MOVE"
+      ]
+    },
+    {
+      "OPFEAMDPIAG": 2,
+      "LHBNLNDAKCN": "VisibleAtGridAround",
+      "DJPCGNGJNEI": [
+        "FLAG_VISIBLE_AT_GRID_AROUND"
+      ]
+    },
+    {
+      "OPFEAMDPIAG": 3,
+      "LHBNLNDAKCN": "VisibleByTriggerEvent",
+      "DJPCGNGJNEI": [
+        "FLAG_VISIBLE_BY_TRIGGER_EVENT"
+      ]
+    },
+    {
+      "OPFEAMDPIAG": 4,
+      "LHBNLNDAKCN": "TemporaryVisibleAtAround",
+      "DJPCGNGJNEI": [
+        "FLAG_TEMPORARY_VISIBLE_AT_AROUND"
+      ]
+    },
+    {
+      "OPFEAMDPIAG": 5,
+      "LHBNLNDAKCN": "Blocked",
+      "DJPCGNGJNEI": [
+        "FLAG_VISIBLE"
+      ]
+    },
+    {
+      "OPFEAMDPIAG": 6,
+      "LHBNLNDAKCN": "All",
+      "DJPCGNGJNEI": [
+        "FLAG_VISIBLE",
+        "FLAG_CAN_MOVE"
+      ]
+    },
+    {
+      "OPFEAMDPIAG": 7,
+      "LHBNLNDAKCN": "",
+      "DJPCGNGJNEI": [
+        "FLAG_VISIBLE",
+        "FLAG_CAN_MOVE"
+      ]
+    },
+    {
+      "OPFEAMDPIAG": 8,
+      "LHBNLNDAKCN": "VisibleWhenLightning",
+      "DJPCGNGJNEI": [
+        "FLAG_VISIBLE_WHEN_LIGHTNING"
+      ]
+    }
+  ]
+}
