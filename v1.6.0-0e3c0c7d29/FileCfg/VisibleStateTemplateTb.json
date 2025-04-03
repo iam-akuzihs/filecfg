@@ -1,7 +1,7 @@
 {
-  "GHFLHABGNDH": [
+  "__exp_FileCfg": [
     {
-      "OPFEAMDPIAG": 1,
+      "ID": 1,
       "LHBNLNDAKCN": "Visible",
       "DJPCGNGJNEI": [
         "FLAG_VISIBLE",
@@ -9,35 +9,35 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 2,
+      "ID": 2,
       "LHBNLNDAKCN": "VisibleAtGridAround",
       "DJPCGNGJNEI": [
         "FLAG_VISIBLE_AT_GRID_AROUND"
       ]
     },
     {
-      "OPFEAMDPIAG": 3,
+      "ID": 3,
       "LHBNLNDAKCN": "VisibleByTriggerEvent",
       "DJPCGNGJNEI": [
         "FLAG_VISIBLE_BY_TRIGGER_EVENT"
       ]
     },
     {
-      "OPFEAMDPIAG": 4,
+      "ID": 4,
       "LHBNLNDAKCN": "TemporaryVisibleAtAround",
       "DJPCGNGJNEI": [
         "FLAG_TEMPORARY_VISIBLE_AT_AROUND"
       ]
     },
     {
-      "OPFEAMDPIAG": 5,
+      "ID": 5,
       "LHBNLNDAKCN": "Blocked",
       "DJPCGNGJNEI": [
         "FLAG_VISIBLE"
       ]
     },
     {
-      "OPFEAMDPIAG": 6,
+      "ID": 6,
       "LHBNLNDAKCN": "All",
       "DJPCGNGJNEI": [
         "FLAG_VISIBLE",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 7,
+      "ID": 7,
       "LHBNLNDAKCN": "",
       "DJPCGNGJNEI": [
         "FLAG_VISIBLE",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 8,
+      "ID": 8,
       "LHBNLNDAKCN": "VisibleWhenLightning",
       "DJPCGNGJNEI": [
         "FLAG_VISIBLE_WHEN_LIGHTNING"

@@ -1,22 +1,22 @@
 {
-  "GHFLHABGNDH": [
+  "__exp_FileCfg": [
     {
-      "OPFEAMDPIAG": 1001,
-      "MPHLIEKKFIK": "SkillDamageRate",
+      "ID": 1001,
+      "Name": "SkillDamageRate",
       "JPIBFOHDBMO": 10000,
       "ODAFOLMGIPN": "{0:0.#%}",
       "ONBCDKMPFPK": 3
     },
     {
-      "OPFEAMDPIAG": 1002,
-      "MPHLIEKKFIK": "SkillStunRatio",
+      "ID": 1002,
+      "Name": "SkillStunRatio",
       "JPIBFOHDBMO": 10000,
       "ODAFOLMGIPN": "{0:0.#%}",
       "ONBCDKMPFPK": 3
     },
     {
-      "OPFEAMDPIAG": 1003,
-      "MPHLIEKKFIK": "SkillSpRecovery",
+      "ID": 1003,
+      "Name": "SkillSpRecovery",
       "JPIBFOHDBMO": 10000,
       "ODAFOLMGIPN": "{0:0}",
       "ONBCDKMPFPK": 3

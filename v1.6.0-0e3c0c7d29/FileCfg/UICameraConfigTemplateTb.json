@@ -1,7 +1,7 @@
 {
-  "GHFLHABGNDH": [
+  "__exp_FileCfg": [
     {
-      "OPFEAMDPIAG": 1,
+      "ID": 1,
       "HPHDJNGIGEG": "UIVHSStorePageController",
       "GJNCANEGADM": "WorkShop_CameraPos_VHSStore",
       "ELDJFFENCAO": "WorkShop_CameraPos_VHSStore",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 2,
+      "ID": 2,
       "HPHDJNGIGEG": "UIGroceryPageController",
       "GJNCANEGADM": "Street_CameraPos_Grocery",
       "ELDJFFENCAO": "Street_CameraPos_Grocery",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 3,
+      "ID": 3,
       "HPHDJNGIGEG": "UIRamenStorePageController",
       "GJNCANEGADM": "Street_CameraPos_RamenStore",
       "ELDJFFENCAO": "Street_CameraPos_RamenStore_PC",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 4,
+      "ID": 4,
       "HPHDJNGIGEG": "UICafePageController",
       "GJNCANEGADM": "Street_CameraPos_CafeStore",
       "ELDJFFENCAO": "Street_CameraPos_CafeStore",
@@ -61,7 +61,7 @@
       "INFJHLAFOGB": []
     },
     {
-      "OPFEAMDPIAG": 5,
+      "ID": 5,
       "HPHDJNGIGEG": "UIBangbooModGaragePageController",
       "GJNCANEGADM": "Street_CameraPos_BangbooModGarage",
       "ELDJFFENCAO": "Street_CameraPos_BangbooModGarage",
@@ -74,7 +74,7 @@
       "INFJHLAFOGB": []
     },
     {
-      "OPFEAMDPIAG": 6,
+      "ID": 6,
       "HPHDJNGIGEG": "UITrashbinHermitRecyclePageController",
       "GJNCANEGADM": "Street_CameraPos_Trash01",
       "ELDJFFENCAO": "Street_CameraPos_Trash01_PC",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 7,
+      "ID": 7,
       "HPHDJNGIGEG": "UILandRevive_1",
       "GJNCANEGADM": "Street_CameraPos_Land20001",
       "ELDJFFENCAO": "Street_CameraPos_Land20001_PC",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 8,
+      "ID": 8,
       "HPHDJNGIGEG": "UILandRevive_2",
       "GJNCANEGADM": "ConstructionSite_CameraPos_Land20002",
       "ELDJFFENCAO": "ConstructionSite_CameraPos_Land20002_PC",
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 9,
+      "ID": 9,
       "HPHDJNGIGEG": "UIDailyChallengePageController",
       "GJNCANEGADM": "WorkShop_CameraPos_VHSStore",
       "ELDJFFENCAO": "WorkShop_CameraPos_VHSStore",
@@ -133,7 +133,7 @@
       "INFJHLAFOGB": []
     },
     {
-      "OPFEAMDPIAG": 10,
+      "ID": 10,
       "HPHDJNGIGEG": "UIActivityOperationalPageController",
       "GJNCANEGADM": "Street_CameraPos_HelloBoo",
       "ELDJFFENCAO": "Street_CameraPos_HelloBoo_PC",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 11,
+      "ID": 11,
       "HPHDJNGIGEG": "UINewsStandPageController",
       "GJNCANEGADM": "Street_CameraPos_Woof",
       "ELDJFFENCAO": "Street_CameraPos_Woof",
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 12,
+      "ID": 12,
       "HPHDJNGIGEG": "UITrendyStorePageController",
       "GJNCANEGADM": "Street_CameraPos_TrendyStore",
       "ELDJFFENCAO": "Street_CameraPos_TrendyStore",
@@ -181,7 +181,7 @@
       "INFJHLAFOGB": []
     },
     {
-      "OPFEAMDPIAG": 13,
+      "ID": 13,
       "HPHDJNGIGEG": "UIActivityGoldenWeekPageController",
       "GJNCANEGADM": "Street_CameraPos_KeyBoo",
       "ELDJFFENCAO": "Street_CameraPos_KeyBoo_PC",
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 14,
+      "ID": 14,
       "HPHDJNGIGEG": "UIBillyTrustQuestPageController",
       "GJNCANEGADM": "Street_CameraPos_Trust_Billy",
       "ELDJFFENCAO": "Street_CameraPos_Trust_Billy",
@@ -210,7 +210,7 @@
       "INFJHLAFOGB": []
     },
     {
-      "OPFEAMDPIAG": 15,
+      "ID": 15,
       "HPHDJNGIGEG": "UIAbyssEntrancePageController",
       "GJNCANEGADM": "Zero_PlayerPos_Default",
       "ELDJFFENCAO": "Zero_PlayerPos_Default",
@@ -223,7 +223,7 @@
       "INFJHLAFOGB": []
     },
     {
-      "OPFEAMDPIAG": 16,
+      "ID": 16,
       "HPHDJNGIGEG": "UIGroceryActivityPageController",
       "GJNCANEGADM": "Street_CameraPos_ActivityGrocery",
       "ELDJFFENCAO": "Street_CameraPos_ActivityGrocery_PC",
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 17,
+      "ID": 17,
       "HPHDJNGIGEG": "UIPhotoWallPageController",
       "GJNCANEGADM": "WorkshopUpStairs_CameraPos_PhotoWall",
       "ELDJFFENCAO": "WorkshopUpStairs_CameraPos_PhotoWall_PC",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 18,
+      "ID": 18,
       "HPHDJNGIGEG": "UIQuestionsAnswerPageController",
       "GJNCANEGADM": "FortuneNEPS_CameraPos_ActivityQuestioner",
       "ELDJFFENCAO": "FortuneNEPS_CameraPos_ActivityQuestioner",
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 19,
+      "ID": 19,
       "HPHDJNGIGEG": "UIGroceryQuestActivityPageController",
       "GJNCANEGADM": "Street_CameraPos_ActivityGrocery",
       "ELDJFFENCAO": "Street_CameraPos_ActivityGrocery_PC",
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 20,
+      "ID": 20,
       "HPHDJNGIGEG": "UINewsStandPuzzlePageController",
       "GJNCANEGADM": "Street_CameraPos_Woof",
       "ELDJFFENCAO": "Street_CameraPos_Woof",

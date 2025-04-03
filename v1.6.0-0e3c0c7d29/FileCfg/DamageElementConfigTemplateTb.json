@@ -1,8 +1,8 @@
 {
-  "GHFLHABGNDH": [
+  "__exp_FileCfg": [
     {
       "GPBKCMBPKDB": 0,
-      "MPHLIEKKFIK": "ElementType_None",
+      "Name": "ElementType_None",
       "KDPJFGHJONJ": "None",
       "CNOOJOJCHGK": "",
       "NGPAKMOFNMF": "",
@@ -16,7 +16,7 @@
     },
     {
       "GPBKCMBPKDB": 200,
-      "MPHLIEKKFIK": "ElementType_Physics",
+      "Name": "ElementType_Physics",
       "KDPJFGHJONJ": "Physics",
       "CNOOJOJCHGK": "ElementIconTitle_Physics",
       "NGPAKMOFNMF": "ElementIconText_Physics",
@@ -34,7 +34,7 @@
     },
     {
       "GPBKCMBPKDB": 200,
-      "MPHLIEKKFIK": "ElementType_Physics",
+      "Name": "ElementType_Physics",
       "KDPJFGHJONJ": "Physics",
       "CNOOJOJCHGK": "ElementIconTitle_Physics",
       "NGPAKMOFNMF": "ElementIconText_Physics",
@@ -52,7 +52,7 @@
     },
     {
       "GPBKCMBPKDB": 201,
-      "MPHLIEKKFIK": "ElementType_Fire",
+      "Name": "ElementType_Fire",
       "KDPJFGHJONJ": "Fire",
       "CNOOJOJCHGK": "ElementIconTitle_Fire",
       "NGPAKMOFNMF": "ElementIconText_Fire",
@@ -70,7 +70,7 @@
     },
     {
       "GPBKCMBPKDB": 202,
-      "MPHLIEKKFIK": "ElementType_Ice",
+      "Name": "ElementType_Ice",
       "KDPJFGHJONJ": "Ice",
       "CNOOJOJCHGK": "ElementIconTitle_Ice",
       "NGPAKMOFNMF": "ElementIconText_Ice",
@@ -88,7 +88,7 @@
     },
     {
       "GPBKCMBPKDB": 202,
-      "MPHLIEKKFIK": "ElementType_FireFrost",
+      "Name": "ElementType_FireFrost",
       "KDPJFGHJONJ": "FireFrost",
       "CNOOJOJCHGK": "ElementIconTitle_FireFrost",
       "NGPAKMOFNMF": "ElementIconText_FireFrost",
@@ -106,7 +106,7 @@
     },
     {
       "GPBKCMBPKDB": 203,
-      "MPHLIEKKFIK": "ElementType_Elec",
+      "Name": "ElementType_Elec",
       "KDPJFGHJONJ": "Elec",
       "CNOOJOJCHGK": "ElementIconTitle_Elec",
       "NGPAKMOFNMF": "ElementIconText_Elec",
@@ -124,7 +124,7 @@
     },
     {
       "GPBKCMBPKDB": 205,
-      "MPHLIEKKFIK": "ElementType_Ether",
+      "Name": "ElementType_Ether",
       "KDPJFGHJONJ": "Ether",
       "CNOOJOJCHGK": "ElementIconTitle_Ether",
       "NGPAKMOFNMF": "ElementIconText_Ether",

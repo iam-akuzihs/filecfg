@@ -1,1939 +1,1939 @@
 {
-  "GHFLHABGNDH": [
+  "__exp_FileCfg": [
     {
-      "OPFEAMDPIAG": 500000101,
+      "ID": 500000101,
       "GFOKGFGKAGD": 5000001,
       "HMHIKBELPIA": "IsArea1Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000102,
+      "ID": 500000102,
       "GFOKGFGKAGD": 5000001,
       "HMHIKBELPIA": "IsArea2Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000103,
+      "ID": 500000103,
       "GFOKGFGKAGD": 5000001,
       "HMHIKBELPIA": "IsArea3Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000104,
+      "ID": 500000104,
       "GFOKGFGKAGD": 5000001,
       "HMHIKBELPIA": "IsArea4Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000105,
+      "ID": 500000105,
       "GFOKGFGKAGD": 5000001,
       "HMHIKBELPIA": "IsArea5Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000106,
+      "ID": 500000106,
       "GFOKGFGKAGD": 5000001,
       "HMHIKBELPIA": "IsArea6Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000107,
+      "ID": 500000107,
       "GFOKGFGKAGD": 5000001,
       "HMHIKBELPIA": "SideQuest",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000108,
+      "ID": 500000108,
       "GFOKGFGKAGD": 5000001,
       "HMHIKBELPIA": "SecondSideQuest",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000109,
+      "ID": 500000109,
       "GFOKGFGKAGD": 5000001,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 500000201,
+      "ID": 500000201,
       "GFOKGFGKAGD": 5000002,
       "HMHIKBELPIA": "whichAreaIn",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 500000202,
+      "ID": 500000202,
       "GFOKGFGKAGD": 5000002,
       "HMHIKBELPIA": "IsArea2Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000203,
+      "ID": 500000203,
       "GFOKGFGKAGD": 5000002,
       "HMHIKBELPIA": "IsArea3Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000204,
+      "ID": 500000204,
       "GFOKGFGKAGD": 5000002,
       "HMHIKBELPIA": "IsArea4Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000205,
+      "ID": 500000205,
       "GFOKGFGKAGD": 5000002,
       "HMHIKBELPIA": "IsArea5Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 500000206,
+      "ID": 500000206,
       "GFOKGFGKAGD": 5000002,
       "HMHIKBELPIA": "SecretMission",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 500000207,
+      "ID": 500000207,
       "GFOKGFGKAGD": 5000002,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 500000301,
+      "ID": 500000301,
       "GFOKGFGKAGD": 5000003,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 500000401,
+      "ID": 500000401,
       "GFOKGFGKAGD": 5000004,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501010100,
+      "ID": 501010100,
       "GFOKGFGKAGD": 5010101,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501010101,
+      "ID": 501010101,
       "GFOKGFGKAGD": 5010101,
       "HMHIKBELPIA": "SideQuest",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501010102,
+      "ID": 501010102,
       "GFOKGFGKAGD": 5010101,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501010103,
+      "ID": 501010103,
       "GFOKGFGKAGD": 5010101,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501010104,
+      "ID": 501010104,
       "GFOKGFGKAGD": 5010101,
       "HMHIKBELPIA": "IsSideQuestRestart",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501011101,
+      "ID": 501011101,
       "GFOKGFGKAGD": 5010111,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501011102,
+      "ID": 501011102,
       "GFOKGFGKAGD": 5010111,
       "HMHIKBELPIA": "SideQuest",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501011103,
+      "ID": 501011103,
       "GFOKGFGKAGD": 5010111,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501011104,
+      "ID": 501011104,
       "GFOKGFGKAGD": 5010111,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501011105,
+      "ID": 501011105,
       "GFOKGFGKAGD": 5010111,
       "HMHIKBELPIA": "GroundSideQuest",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501011106,
+      "ID": 501011106,
       "GFOKGFGKAGD": 5010111,
       "HMHIKBELPIA": "IsSideQuestRestart",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501012101,
+      "ID": 501012101,
       "GFOKGFGKAGD": 5010121,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "4"
     },
     {
-      "OPFEAMDPIAG": 501012102,
+      "ID": 501012102,
       "GFOKGFGKAGD": 5010121,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501020200,
+      "ID": 501020200,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsEnterTeachLevel",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020201,
+      "ID": 501020201,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsArea1Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020202,
+      "ID": 501020202,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsArea2Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020203,
+      "ID": 501020203,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsArea3Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020204,
+      "ID": 501020204,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsArea4Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020205,
+      "ID": 501020205,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsArea5Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020206,
+      "ID": 501020206,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsArea6Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020207,
+      "ID": 501020207,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsArea7Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020208,
+      "ID": 501020208,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "SideQuest",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020209,
+      "ID": 501020209,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsArea8Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020210,
+      "ID": 501020210,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "SecondSideQuest",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020211,
+      "ID": 501020211,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "StartSecondPhase",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020212,
+      "ID": 501020212,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501020213,
+      "ID": 501020213,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsSideQuestRestart",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020214,
+      "ID": 501020214,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501020215,
+      "ID": 501020215,
       "GFOKGFGKAGD": 5010201,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501021101,
+      "ID": 501021101,
       "GFOKGFGKAGD": 5010211,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501021102,
+      "ID": 501021102,
       "GFOKGFGKAGD": 5010211,
       "HMHIKBELPIA": "IsSideQuestRestart",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501021103,
+      "ID": 501021103,
       "GFOKGFGKAGD": 5010211,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501021104,
+      "ID": 501021104,
       "GFOKGFGKAGD": 5010211,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501021105,
+      "ID": 501021105,
       "GFOKGFGKAGD": 5010211,
       "HMHIKBELPIA": "BossHealth",
       "JNKOLKFGBCA": "float",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501021106,
+      "ID": 501021106,
       "GFOKGFGKAGD": 5010211,
       "HMHIKBELPIA": "CargoCartStopped",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501021107,
+      "ID": 501021107,
       "GFOKGFGKAGD": 5010211,
       "HMHIKBELPIA": "IsLastAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501021108,
+      "ID": 501021108,
       "GFOKGFGKAGD": 5010211,
       "HMHIKBELPIA": "BossKilled",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501021301,
+      "ID": 501021301,
       "GFOKGFGKAGD": 5010213,
       "HMHIKBELPIA": "whichAreaIn",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501022101,
+      "ID": 501022101,
       "GFOKGFGKAGD": 5010221,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "4"
     },
     {
-      "OPFEAMDPIAG": 501022102,
+      "ID": 501022102,
       "GFOKGFGKAGD": 5010221,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501030101,
+      "ID": 501030101,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501030102,
+      "ID": 501030102,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501030103,
+      "ID": 501030103,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501030104,
+      "ID": 501030104,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "DoorStatus1",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501030105,
+      "ID": 501030105,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "DoorStatus2",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501030106,
+      "ID": 501030106,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "DoorStatus3",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501030107,
+      "ID": 501030107,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "DoorStatus4",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501030108,
+      "ID": 501030108,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "DoorStatus5",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501030109,
+      "ID": 501030109,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "IsSideQuestRestart",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501030110,
+      "ID": 501030110,
       "GFOKGFGKAGD": 5010301,
       "HMHIKBELPIA": "IsTrickFinish",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501031101,
+      "ID": 501031101,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501031102,
+      "ID": 501031102,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501031103,
+      "ID": 501031103,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501031104,
+      "ID": 501031104,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "IsAllyRescued",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501031105,
+      "ID": 501031105,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "IsShortcutOpened",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501031106,
+      "ID": 501031106,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "IsGuardDefeated",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501031107,
+      "ID": 501031107,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "DoorStatus1",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501031108,
+      "ID": 501031108,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "DoorStatus2",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501031109,
+      "ID": 501031109,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "DoorStatus3",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501031110,
+      "ID": 501031110,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "DoorStatus4",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501031111,
+      "ID": 501031111,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "DoorStatus5",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501031112,
+      "ID": 501031112,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "IsAllyImposterCatched",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501031113,
+      "ID": 501031113,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "IsSideQuestRestart",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501031114,
+      "ID": 501031114,
       "GFOKGFGKAGD": 5010311,
       "HMHIKBELPIA": "LifeCoinGet",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501032101,
+      "ID": 501032101,
       "GFOKGFGKAGD": 5010321,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "4"
     },
     {
-      "OPFEAMDPIAG": 501032102,
+      "ID": 501032102,
       "GFOKGFGKAGD": 5010321,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501040101,
+      "ID": 501040101,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501040102,
+      "ID": 501040102,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040103,
+      "ID": 501040103,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501040104,
+      "ID": 501040104,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsSideQuestRestart",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040105,
+      "ID": 501040105,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBlockAOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040106,
+      "ID": 501040106,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBlockB1Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "TRUE"
     },
     {
-      "OPFEAMDPIAG": 501040107,
+      "ID": 501040107,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBlockB2Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "TRUE"
     },
     {
-      "OPFEAMDPIAG": 501040108,
+      "ID": 501040108,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBoxDropped",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040109,
+      "ID": 501040109,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBlockC1Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040110,
+      "ID": 501040110,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBlockC2Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "TRUE"
     },
     {
-      "OPFEAMDPIAG": 501040111,
+      "ID": 501040111,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBlockC3Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040112,
+      "ID": 501040112,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBlockC4Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "TRUE"
     },
     {
-      "OPFEAMDPIAG": 501040113,
+      "ID": 501040113,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBlockC5Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "TRUE"
     },
     {
-      "OPFEAMDPIAG": 501040114,
+      "ID": 501040114,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsBlockC6Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040115,
+      "ID": 501040115,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsControllerC1Broken",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040116,
+      "ID": 501040116,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsGateOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040117,
+      "ID": 501040117,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsSuspiciousNpcDie",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040118,
+      "ID": 501040118,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsElevatorFastMoveOn",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040119,
+      "ID": 501040119,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsControllerAOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040120,
+      "ID": 501040120,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsControllerBOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "TRUE"
     },
     {
-      "OPFEAMDPIAG": 501040121,
+      "ID": 501040121,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsControllerC1Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "TRUE"
     },
     {
-      "OPFEAMDPIAG": 501040122,
+      "ID": 501040122,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsControllerC2Open",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040123,
+      "ID": 501040123,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsFirstTime",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "TRUE"
     },
     {
-      "OPFEAMDPIAG": 501040124,
+      "ID": 501040124,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsGoingUpstairs",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "TRUE"
     },
     {
-      "OPFEAMDPIAG": 501040125,
+      "ID": 501040125,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsReviveCoinGet",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040126,
+      "ID": 501040126,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsConditionAchieve",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040127,
+      "ID": 501040127,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsSuspiciousNpcTalk1Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501040128,
+      "ID": 501040128,
       "GFOKGFGKAGD": 5010401,
       "HMHIKBELPIA": "IsSuspiciousNpcTalk2Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "FALSE"
     },
     {
-      "OPFEAMDPIAG": 501041101,
+      "ID": 501041101,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 501041102,
+      "ID": 501041102,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "IsThunderOpen1",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501041103,
+      "ID": 501041103,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501041104,
+      "ID": 501041104,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 501041105,
+      "ID": 501041105,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "IsSideQuestRestart",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501041106,
+      "ID": 501041106,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "IsReviveCoinGet",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501041107,
+      "ID": 501041107,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "IsConditionAchieve",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501041108,
+      "ID": 501041108,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "IsContronOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501041109,
+      "ID": 501041109,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "IsThunderOpen2",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501041110,
+      "ID": 501041110,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "IsDoorOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501041111,
+      "ID": 501041111,
       "GFOKGFGKAGD": 5010411,
       "HMHIKBELPIA": "IsDoorOpen2",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 501050101,
+      "ID": 501050101,
       "GFOKGFGKAGD": 5010501,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503010101,
+      "ID": 503010101,
       "GFOKGFGKAGD": 5030101,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503011101,
+      "ID": 503011101,
       "GFOKGFGKAGD": 5030111,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503012101,
+      "ID": 503012101,
       "GFOKGFGKAGD": 5030121,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503013101,
+      "ID": 503013101,
       "GFOKGFGKAGD": 5030131,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503020101,
+      "ID": 503020101,
       "GFOKGFGKAGD": 5030201,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503020102,
+      "ID": 503020102,
       "GFOKGFGKAGD": 5030201,
       "HMHIKBELPIA": "IsTresureCarBorn",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 503021101,
+      "ID": 503021101,
       "GFOKGFGKAGD": 5030211,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503030101,
+      "ID": 503030101,
       "GFOKGFGKAGD": 5030301,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503031101,
+      "ID": 503031101,
       "GFOKGFGKAGD": 5030311,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503031103,
+      "ID": 503031103,
       "GFOKGFGKAGD": 5030311,
       "HMHIKBELPIA": "BossRush_LevelCountdown_Timer_Key",
       "JNKOLKFGBCA": "string",
       "CMFIOEKPJDN": "Nineveh_BossRush_LevelCountdown"
     },
     {
-      "OPFEAMDPIAG": 503031104,
+      "ID": 503031104,
       "GFOKGFGKAGD": 5030311,
       "HMHIKBELPIA": "BossRush_BerserkPhase_Current",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503031105,
+      "ID": 503031105,
       "GFOKGFGKAGD": 5030311,
       "HMHIKBELPIA": "BossRush_BerserkPhase_Total",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "4"
     },
     {
-      "OPFEAMDPIAG": 503031106,
+      "ID": 503031106,
       "GFOKGFGKAGD": 5030311,
       "HMHIKBELPIA": "BossRush_SwitchPhaseValue",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503031107,
+      "ID": 503031107,
       "GFOKGFGKAGD": 5030311,
       "HMHIKBELPIA": "BossRush_TargetEntityID",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 503031108,
+      "ID": 503031108,
       "GFOKGFGKAGD": 5030311,
       "HMHIKBELPIA": "BossRush_TotalBossDefeats",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 503031109,
+      "ID": 503031109,
       "GFOKGFGKAGD": 5030311,
       "HMHIKBELPIA": "BossRush_SessionTimeIncrement",
       "JNKOLKFGBCA": "float",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 503031110,
+      "ID": 503031110,
       "GFOKGFGKAGD": 5030311,
       "HMHIKBELPIA": "BossRush_BerserkPhase_DamageTakeRatio",
       "JNKOLKFGBCA": "float",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 503031201,
+      "ID": 503031201,
       "GFOKGFGKAGD": 5030312,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503031202,
+      "ID": 503031202,
       "GFOKGFGKAGD": 5030312,
       "HMHIKBELPIA": "IsGetProp",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 503031301,
+      "ID": 503031301,
       "GFOKGFGKAGD": 5030313,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503031401,
+      "ID": 503031401,
       "GFOKGFGKAGD": 5030314,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503031501,
+      "ID": 503031501,
       "GFOKGFGKAGD": 5030315,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503040101,
+      "ID": 503040101,
       "GFOKGFGKAGD": 5030401,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503041101,
+      "ID": 503041101,
       "GFOKGFGKAGD": 5030411,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503060101,
+      "ID": 503060101,
       "GFOKGFGKAGD": 5030601,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503060201,
+      "ID": 503060201,
       "GFOKGFGKAGD": 5030602,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503060202,
+      "ID": 503060202,
       "GFOKGFGKAGD": 5030602,
       "HMHIKBELPIA": "isTriggerDead",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 503060301,
+      "ID": 503060301,
       "GFOKGFGKAGD": 5030603,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503060302,
+      "ID": 503060302,
       "GFOKGFGKAGD": 5030603,
       "HMHIKBELPIA": "isTriggerDead",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 503060401,
+      "ID": 503060401,
       "GFOKGFGKAGD": 5030604,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503070101,
+      "ID": 503070101,
       "GFOKGFGKAGD": 5030701,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 503070201,
+      "ID": 503070201,
       "GFOKGFGKAGD": 5030702,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010001,
+      "ID": 504010001,
       "GFOKGFGKAGD": 5040100,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010002,
+      "ID": 504010002,
       "GFOKGFGKAGD": 5040100,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010003,
+      "ID": 504010003,
       "GFOKGFGKAGD": 5040100,
       "HMHIKBELPIA": "IsMainQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010004,
+      "ID": 504010004,
       "GFOKGFGKAGD": 5040100,
       "HMHIKBELPIA": "IsNpcChat",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010005,
+      "ID": 504010005,
       "GFOKGFGKAGD": 5040100,
       "HMHIKBELPIA": "IsArea4Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010006,
+      "ID": 504010006,
       "GFOKGFGKAGD": 5040100,
       "HMHIKBELPIA": "IsTipsTrigger1",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010007,
+      "ID": 504010007,
       "GFOKGFGKAGD": 5040100,
       "HMHIKBELPIA": "IsTipsTrigger2",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010008,
+      "ID": 504010008,
       "GFOKGFGKAGD": 5040100,
       "HMHIKBELPIA": "IsPortalOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010009,
+      "ID": 504010009,
       "GFOKGFGKAGD": 5040100,
       "HMHIKBELPIA": "MainStory_Metro_1_Phase_1_End",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010101,
+      "ID": 504010101,
       "GFOKGFGKAGD": 5040101,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010102,
+      "ID": 504010102,
       "GFOKGFGKAGD": 5040101,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010103,
+      "ID": 504010103,
       "GFOKGFGKAGD": 5040101,
       "HMHIKBELPIA": "IsMainQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010104,
+      "ID": 504010104,
       "GFOKGFGKAGD": 5040101,
       "HMHIKBELPIA": "IsNpcChat",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010105,
+      "ID": 504010105,
       "GFOKGFGKAGD": 5040101,
       "HMHIKBELPIA": "IsArea4Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010106,
+      "ID": 504010106,
       "GFOKGFGKAGD": 5040101,
       "HMHIKBELPIA": "IsTipsTrigger1",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010107,
+      "ID": 504010107,
       "GFOKGFGKAGD": 5040101,
       "HMHIKBELPIA": "IsTipsTrigger2",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010108,
+      "ID": 504010108,
       "GFOKGFGKAGD": 5040101,
       "HMHIKBELPIA": "IsPortalOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010109,
+      "ID": 504010109,
       "GFOKGFGKAGD": 5040101,
       "HMHIKBELPIA": "MainStory_Metro_1_Phase_1_End",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010201,
+      "ID": 504010201,
       "GFOKGFGKAGD": 5040102,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010202,
+      "ID": 504010202,
       "GFOKGFGKAGD": 5040102,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010203,
+      "ID": 504010203,
       "GFOKGFGKAGD": 5040102,
       "HMHIKBELPIA": "IsMainQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010204,
+      "ID": 504010204,
       "GFOKGFGKAGD": 5040102,
       "HMHIKBELPIA": "IsNpcChat",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010205,
+      "ID": 504010205,
       "GFOKGFGKAGD": 5040102,
       "HMHIKBELPIA": "IsArea4Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010206,
+      "ID": 504010206,
       "GFOKGFGKAGD": 5040102,
       "HMHIKBELPIA": "IsTipsTrigger1",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010207,
+      "ID": 504010207,
       "GFOKGFGKAGD": 5040102,
       "HMHIKBELPIA": "IsTipsTrigger2",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010208,
+      "ID": 504010208,
       "GFOKGFGKAGD": 5040102,
       "HMHIKBELPIA": "IsPortalOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010209,
+      "ID": 504010209,
       "GFOKGFGKAGD": 5040102,
       "HMHIKBELPIA": "MainStory_Metro_1_Phase_1_End",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010301,
+      "ID": 504010301,
       "GFOKGFGKAGD": 5040103,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010302,
+      "ID": 504010302,
       "GFOKGFGKAGD": 5040103,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010303,
+      "ID": 504010303,
       "GFOKGFGKAGD": 5040103,
       "HMHIKBELPIA": "IsReviveCoinGet",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010401,
+      "ID": 504010401,
       "GFOKGFGKAGD": 5040104,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010402,
+      "ID": 504010402,
       "GFOKGFGKAGD": 5040104,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010501,
+      "ID": 504010501,
       "GFOKGFGKAGD": 5040105,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010502,
+      "ID": 504010502,
       "GFOKGFGKAGD": 5040105,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010601,
+      "ID": 504010601,
       "GFOKGFGKAGD": 5040106,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010602,
+      "ID": 504010602,
       "GFOKGFGKAGD": 5040106,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010701,
+      "ID": 504010701,
       "GFOKGFGKAGD": 5040107,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010702,
+      "ID": 504010702,
       "GFOKGFGKAGD": 5040107,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010801,
+      "ID": 504010801,
       "GFOKGFGKAGD": 5040108,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010802,
+      "ID": 504010802,
       "GFOKGFGKAGD": 5040108,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010803,
+      "ID": 504010803,
       "GFOKGFGKAGD": 5040108,
       "HMHIKBELPIA": "IsReviveCoinGet",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504010901,
+      "ID": 504010901,
       "GFOKGFGKAGD": 5040109,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504010902,
+      "ID": 504010902,
       "GFOKGFGKAGD": 5040109,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504011001,
+      "ID": 504011001,
       "GFOKGFGKAGD": 5040110,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504011002,
+      "ID": 504011002,
       "GFOKGFGKAGD": 5040110,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504011101,
+      "ID": 504011101,
       "GFOKGFGKAGD": 5040111,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504011102,
+      "ID": 504011102,
       "GFOKGFGKAGD": 5040111,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504020101,
+      "ID": 504020101,
       "GFOKGFGKAGD": 5040201,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504020102,
+      "ID": 504020102,
       "GFOKGFGKAGD": 5040201,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504020201,
+      "ID": 504020201,
       "GFOKGFGKAGD": 5040202,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504020202,
+      "ID": 504020202,
       "GFOKGFGKAGD": 5040202,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504030101,
+      "ID": 504030101,
       "GFOKGFGKAGD": 5040301,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504030102,
+      "ID": 504030102,
       "GFOKGFGKAGD": 5040301,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504030201,
+      "ID": 504030201,
       "GFOKGFGKAGD": 5040302,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504030202,
+      "ID": 504030202,
       "GFOKGFGKAGD": 5040302,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504030301,
+      "ID": 504030301,
       "GFOKGFGKAGD": 5040303,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504030302,
+      "ID": 504030302,
       "GFOKGFGKAGD": 5040303,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504030401,
+      "ID": 504030401,
       "GFOKGFGKAGD": 5040304,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504030402,
+      "ID": 504030402,
       "GFOKGFGKAGD": 5040304,
       "HMHIKBELPIA": "IsAreaFinish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504040101,
+      "ID": 504040101,
       "GFOKGFGKAGD": 5040401,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504040102,
+      "ID": 504040102,
       "GFOKGFGKAGD": 5040401,
       "HMHIKBELPIA": "IsArea3Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504040201,
+      "ID": 504040201,
       "GFOKGFGKAGD": 5040402,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504040401,
+      "ID": 504040401,
       "GFOKGFGKAGD": 5040404,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504040402,
+      "ID": 504040402,
       "GFOKGFGKAGD": 5040404,
       "HMHIKBELPIA": "IsSideQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504040403,
+      "ID": 504040403,
       "GFOKGFGKAGD": 5040404,
       "HMHIKBELPIA": "IsMainQuestFinsih",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504040404,
+      "ID": 504040404,
       "GFOKGFGKAGD": 5040404,
       "HMHIKBELPIA": "IsNpcChat",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504040405,
+      "ID": 504040405,
       "GFOKGFGKAGD": 5040404,
       "HMHIKBELPIA": "IsArea4Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504040406,
+      "ID": 504040406,
       "GFOKGFGKAGD": 5040404,
       "HMHIKBELPIA": "IsTipsTrigger1",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504040407,
+      "ID": 504040407,
       "GFOKGFGKAGD": 5040404,
       "HMHIKBELPIA": "IsTipsTrigger2",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504040408,
+      "ID": 504040408,
       "GFOKGFGKAGD": 5040404,
       "HMHIKBELPIA": "IsPortalOpen",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504040501,
+      "ID": 504040501,
       "GFOKGFGKAGD": 5040405,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504040801,
+      "ID": 504040801,
       "GFOKGFGKAGD": 5040408,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "4"
     },
     {
-      "OPFEAMDPIAG": 504040802,
+      "ID": 504040802,
       "GFOKGFGKAGD": 5040408,
       "HMHIKBELPIA": "IsArea2Finish",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 504050101,
+      "ID": 504050101,
       "GFOKGFGKAGD": 5040501,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504050201,
+      "ID": 504050201,
       "GFOKGFGKAGD": 5040502,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504050301,
+      "ID": 504050301,
       "GFOKGFGKAGD": 5040503,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504050401,
+      "ID": 504050401,
       "GFOKGFGKAGD": 5040504,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504060101,
+      "ID": 504060101,
       "GFOKGFGKAGD": 5040601,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504060201,
+      "ID": 504060201,
       "GFOKGFGKAGD": 5040602,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504060301,
+      "ID": 504060301,
       "GFOKGFGKAGD": 5040603,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 504060401,
+      "ID": 504060401,
       "GFOKGFGKAGD": 5040604,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505010001,
+      "ID": 505010001,
       "GFOKGFGKAGD": 5050100,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505010101,
+      "ID": 505010101,
       "GFOKGFGKAGD": 5050101,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505010102,
+      "ID": 505010102,
       "GFOKGFGKAGD": 5050101,
       "HMHIKBELPIA": "QuestSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505030101,
+      "ID": 505030101,
       "GFOKGFGKAGD": 5050301,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505030102,
+      "ID": 505030102,
       "GFOKGFGKAGD": 5050301,
       "HMHIKBELPIA": "QuestSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505030201,
+      "ID": 505030201,
       "GFOKGFGKAGD": 5050201,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505030202,
+      "ID": 505030202,
       "GFOKGFGKAGD": 5050201,
       "HMHIKBELPIA": "QuestSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505030203,
+      "ID": 505030203,
       "GFOKGFGKAGD": 5050201,
       "HMHIKBELPIA": "BridgeStatus1",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505030204,
+      "ID": 505030204,
       "GFOKGFGKAGD": 5050201,
       "HMHIKBELPIA": "BridgeStatus2",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505030205,
+      "ID": 505030205,
       "GFOKGFGKAGD": 5050201,
       "HMHIKBELPIA": "BridgeStatus3",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505030206,
+      "ID": 505030206,
       "GFOKGFGKAGD": 5050201,
       "HMHIKBELPIA": "LiftStatus1",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505030207,
+      "ID": 505030207,
       "GFOKGFGKAGD": 5050201,
       "HMHIKBELPIA": "LiftStatus2",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505030208,
+      "ID": 505030208,
       "GFOKGFGKAGD": 5050201,
       "HMHIKBELPIA": "ControlStatus1",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505030209,
+      "ID": 505030209,
       "GFOKGFGKAGD": 5050201,
       "HMHIKBELPIA": "MissionStatus1",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505040101,
+      "ID": 505040101,
       "GFOKGFGKAGD": 5050401,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505040201,
+      "ID": 505040201,
       "GFOKGFGKAGD": 5050402,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505040301,
+      "ID": 505040301,
       "GFOKGFGKAGD": 5050403,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505040401,
+      "ID": 505040401,
       "GFOKGFGKAGD": 5050404,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505040402,
+      "ID": 505040402,
       "GFOKGFGKAGD": 5050404,
       "HMHIKBELPIA": "Goods101",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505040403,
+      "ID": 505040403,
       "GFOKGFGKAGD": 5050404,
       "HMHIKBELPIA": "Goods201",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505040404,
+      "ID": 505040404,
       "GFOKGFGKAGD": 5050404,
       "HMHIKBELPIA": "Goods202",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505040405,
+      "ID": 505040405,
       "GFOKGFGKAGD": 5050404,
       "HMHIKBELPIA": "Goods203",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505040501,
+      "ID": 505040501,
       "GFOKGFGKAGD": 5050405,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505040601,
+      "ID": 505040601,
       "GFOKGFGKAGD": 5050406,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505040701,
+      "ID": 505040701,
       "GFOKGFGKAGD": 5050407,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505040801,
+      "ID": 505040801,
       "GFOKGFGKAGD": 5050408,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505040901,
+      "ID": 505040901,
       "GFOKGFGKAGD": 5050409,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505041001,
+      "ID": 505041001,
       "GFOKGFGKAGD": 5050410,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505041101,
+      "ID": 505041101,
       "GFOKGFGKAGD": 5050411,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505041401,
+      "ID": 505041401,
       "GFOKGFGKAGD": 5050414,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505041501,
+      "ID": 505041501,
       "GFOKGFGKAGD": 5050415,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505041601,
+      "ID": 505041601,
       "GFOKGFGKAGD": 5050416,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505050101,
+      "ID": 505050101,
       "GFOKGFGKAGD": 5050501,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505050102,
+      "ID": 505050102,
       "GFOKGFGKAGD": 5050501,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505051101,
+      "ID": 505051101,
       "GFOKGFGKAGD": 5050511,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505051102,
+      "ID": 505051102,
       "GFOKGFGKAGD": 5050511,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "0"
     },
     {
-      "OPFEAMDPIAG": 505052101,
+      "ID": 505052101,
       "GFOKGFGKAGD": 5050521,
       "HMHIKBELPIA": "AreaSelect",
       "JNKOLKFGBCA": "int",
       "CMFIOEKPJDN": "1"
     },
     {
-      "OPFEAMDPIAG": 505052102,
+      "ID": 505052102,
       "GFOKGFGKAGD": 5050521,
       "HMHIKBELPIA": "isTreasureA1Get",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 505052103,
+      "ID": 505052103,
       "GFOKGFGKAGD": 5050521,
       "HMHIKBELPIA": "isTreasureA2Get",
       "JNKOLKFGBCA": "bool",
       "CMFIOEKPJDN": "false"
     },
     {
-      "OPFEAMDPIAG": 505052104,
+      "ID": 505052104,
       "GFOKGFGKAGD": 5050521,
       "HMHIKBELPIA": "RevivedTime",
       "JNKOLKFGBCA": "int",

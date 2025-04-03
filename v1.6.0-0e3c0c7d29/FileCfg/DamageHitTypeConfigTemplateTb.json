@@ -1,8 +1,8 @@
 {
-  "GHFLHABGNDH": [
+  "__exp_FileCfg": [
     {
       "DJNGNDKCKHD": 0,
-      "MPHLIEKKFIK": "HitType_None",
+      "Name": "HitType_None",
       "KDPJFGHJONJ": "None",
       "NPBMPPNIOBJ": "",
       "LHJMBAOMLOD": "",
@@ -10,7 +10,7 @@
     },
     {
       "DJNGNDKCKHD": 101,
-      "MPHLIEKKFIK": "HitType_Cut",
+      "Name": "HitType_Cut",
       "KDPJFGHJONJ": "Cut",
       "NPBMPPNIOBJ": "HitTypeIconTitle_Cut",
       "LHJMBAOMLOD": "HitTypeIconText_Cut",
@@ -18,7 +18,7 @@
     },
     {
       "DJNGNDKCKHD": 102,
-      "MPHLIEKKFIK": "HitType_Punch",
+      "Name": "HitType_Punch",
       "KDPJFGHJONJ": "Punch",
       "NPBMPPNIOBJ": "HitTypeIconTitle_Punch",
       "LHJMBAOMLOD": "HitTypeIconText_Punch",
@@ -26,7 +26,7 @@
     },
     {
       "DJNGNDKCKHD": 103,
-      "MPHLIEKKFIK": "HitType_Pierce",
+      "Name": "HitType_Pierce",
       "KDPJFGHJONJ": "Pierce",
       "NPBMPPNIOBJ": "HitTypeIconTitle_Pierce",
       "LHJMBAOMLOD": "HitTypeIconText_Pierce",

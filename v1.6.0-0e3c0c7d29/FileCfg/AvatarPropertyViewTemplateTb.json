@@ -1,103 +1,103 @@
 {
-  "GHFLHABGNDH": [
+  "__exp_FileCfg": [
     {
-      "OPFEAMDPIAG": 1,
+      "ID": 1,
       "LILFMONGPOC": "HpMax",
       "AAGGHOMMOFN": 0,
       "NMPEGOELEGC": 0,
       "OMDDFPEIAPE": 1,
       "LLIIJIKNHBJ": "propertyID(111)",
-      "HHALEGBBNFO": 111,
+      "__exp_PropertyID": 111,
       "CMPKJBKMNEL": 1
     },
     {
-      "OPFEAMDPIAG": 2,
+      "ID": 2,
       "LILFMONGPOC": "Atk",
       "AAGGHOMMOFN": 0,
       "NMPEGOELEGC": 0,
       "OMDDFPEIAPE": -1,
       "LLIIJIKNHBJ": "propertyID(121)",
-      "HHALEGBBNFO": 121,
+      "__exp_PropertyID": 121,
       "CMPKJBKMNEL": 2
     },
     {
-      "OPFEAMDPIAG": 3,
+      "ID": 3,
       "LILFMONGPOC": "Def",
       "AAGGHOMMOFN": 0,
       "NMPEGOELEGC": 0,
       "OMDDFPEIAPE": -1,
       "LLIIJIKNHBJ": "propertyID(131)",
-      "HHALEGBBNFO": 131,
+      "__exp_PropertyID": 131,
       "CMPKJBKMNEL": 3
     },
     {
-      "OPFEAMDPIAG": 4,
+      "ID": 4,
       "LILFMONGPOC": "BreakStun",
       "AAGGHOMMOFN": 0,
       "NMPEGOELEGC": 0,
       "OMDDFPEIAPE": -1,
       "LLIIJIKNHBJ": "propertyID(122)",
-      "HHALEGBBNFO": 122,
+      "__exp_PropertyID": 122,
       "CMPKJBKMNEL": 4
     },
     {
-      "OPFEAMDPIAG": 5,
+      "ID": 5,
       "LILFMONGPOC": "Crit",
       "AAGGHOMMOFN": 1,
       "NMPEGOELEGC": 1,
       "OMDDFPEIAPE": -1,
       "LLIIJIKNHBJ": "propertyID(201)*100",
-      "HHALEGBBNFO": 201,
+      "__exp_PropertyID": 201,
       "CMPKJBKMNEL": 5
     },
     {
-      "OPFEAMDPIAG": 6,
+      "ID": 6,
       "LILFMONGPOC": "CritDmg",
       "AAGGHOMMOFN": 1,
       "NMPEGOELEGC": 1,
       "OMDDFPEIAPE": -1,
       "LLIIJIKNHBJ": "propertyID(211)*100",
-      "HHALEGBBNFO": 211,
+      "__exp_PropertyID": 211,
       "CMPKJBKMNEL": 6
     },
     {
-      "OPFEAMDPIAG": 7,
+      "ID": 7,
       "LILFMONGPOC": "ElementAbnormalPower",
       "AAGGHOMMOFN": 0,
       "NMPEGOELEGC": 0,
       "OMDDFPEIAPE": -1,
       "LLIIJIKNHBJ": "propertyID(314)",
-      "HHALEGBBNFO": 314,
+      "__exp_PropertyID": 314,
       "CMPKJBKMNEL": 7
     },
     {
-      "OPFEAMDPIAG": 8,
+      "ID": 8,
       "LILFMONGPOC": "ElementMystery",
       "AAGGHOMMOFN": 0,
       "NMPEGOELEGC": 0,
       "OMDDFPEIAPE": -1,
       "LLIIJIKNHBJ": "propertyID(312)",
-      "HHALEGBBNFO": 312,
+      "__exp_PropertyID": 312,
       "CMPKJBKMNEL": 8
     },
     {
-      "OPFEAMDPIAG": 9,
+      "ID": 9,
       "LILFMONGPOC": "PenRatio",
       "AAGGHOMMOFN": 1,
       "NMPEGOELEGC": 1,
       "OMDDFPEIAPE": -1,
       "LLIIJIKNHBJ": "propertyID(231)*100",
-      "HHALEGBBNFO": 231,
+      "__exp_PropertyID": 231,
       "CMPKJBKMNEL": 9
     },
     {
-      "OPFEAMDPIAG": 11,
+      "ID": 11,
       "LILFMONGPOC": "SpRecover",
       "AAGGHOMMOFN": 2,
       "NMPEGOELEGC": 0,
       "OMDDFPEIAPE": -1,
       "LLIIJIKNHBJ": "propertyID(305)",
-      "HHALEGBBNFO": 305,
+      "__exp_PropertyID": 305,
       "CMPKJBKMNEL": 11
     }
   ]

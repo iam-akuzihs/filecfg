@@ -1,7 +1,7 @@
 {
-  "GHFLHABGNDH": [
+  "__exp_FileCfg": [
     {
-      "OPFEAMDPIAG": 1001,
+      "ID": 1001,
       "OHIKLBIBPKO": 1,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "MainCityStreet_Street",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 2001,
+      "ID": 2001,
       "OHIKLBIBPKO": 2,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Workshop_1F",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 2002,
+      "ID": 2002,
       "OHIKLBIBPKO": 2,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Workshop_Stairs",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 2003,
+      "ID": 2003,
       "OHIKLBIBPKO": 2,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Workshop_2F",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 3001,
+      "ID": 3001,
       "OHIKLBIBPKO": 3,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "MainCityStreet_Garage",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 4001,
+      "ID": 4001,
       "OHIKLBIBPKO": 4,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "ConstructionSite_1F",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 4002,
+      "ID": 4002,
       "OHIKLBIBPKO": 4,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "ConstructionSite_2F",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 4003,
+      "ID": 4003,
       "OHIKLBIBPKO": 4,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "ConstructionSite_Elevator1",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 4004,
+      "ID": 4004,
       "OHIKLBIBPKO": 4,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "ConstructionSite_Elevator2",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 4005,
+      "ID": 4005,
       "OHIKLBIBPKO": 4,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "ConstructionSite_Elevator3",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 4006,
+      "ID": 4006,
       "OHIKLBIBPKO": 4,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "ConstructionSite_Elevator4",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 5001,
+      "ID": 5001,
       "OHIKLBIBPKO": 5,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "SkyScraper_1F",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 5002,
+      "ID": 5002,
       "OHIKLBIBPKO": 5,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "SkyScraper_B1",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 5003,
+      "ID": 5003,
       "OHIKLBIBPKO": 5,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "SkyScraper_Stairs1",
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 5004,
+      "ID": 5004,
       "OHIKLBIBPKO": 5,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "SkyScraper_Stairs2",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 101001,
+      "ID": 101001,
       "OHIKLBIBPKO": 101,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "FortuneSquare_Maincity",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 101002,
+      "ID": 101002,
       "OHIKLBIBPKO": 101,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "Traffic_Green",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 101003,
+      "ID": 101003,
       "OHIKLBIBPKO": 101,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "Traffic_Red",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 101004,
+      "ID": 101004,
       "OHIKLBIBPKO": 101,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "Traffic_Red2",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 101005,
+      "ID": 101005,
       "OHIKLBIBPKO": 101,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "Traffic_Light01",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 101006,
+      "ID": 101006,
       "OHIKLBIBPKO": 101,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "Traffic_Light02",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 101007,
+      "ID": 101007,
       "OHIKLBIBPKO": 101,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "Traffic_Light03",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 101008,
+      "ID": 101008,
       "OHIKLBIBPKO": 101,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "Traffic_Light04",
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 101009,
+      "ID": 101009,
       "OHIKLBIBPKO": 101,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "Traffic_PlayerHoldon",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 102001,
+      "ID": 102001,
       "OHIKLBIBPKO": 102,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "MainCity_FortuneNEPS",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 103001,
+      "ID": 103001,
       "OHIKLBIBPKO": 103,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "MainCity_FortuneHIA",
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 104001,
+      "ID": 104001,
       "OHIKLBIBPKO": 104,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_OuterRing_1F",
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 104002,
+      "ID": 104002,
       "OHIKLBIBPKO": 104,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_OuterRing_2F",
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 104003,
+      "ID": 104003,
       "OHIKLBIBPKO": 104,
       "LAPDFLAIEFA": false,
       "PKDHPMHIFBI": "Maincity_OuterRing_Elevator",
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 105001,
+      "ID": 105001,
       "OHIKLBIBPKO": 105,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Hand",
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 106001,
+      "ID": 106001,
       "OHIKLBIBPKO": 106,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Port",
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 106002,
+      "ID": 106002,
       "OHIKLBIBPKO": 106,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Port_Island",
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 106003,
+      "ID": 106003,
       "OHIKLBIBPKO": 106,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Port_Lighthouse_2F",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 106004,
+      "ID": 106004,
       "OHIKLBIBPKO": 106,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Port_Lighthouse_3F",
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 107001,
+      "ID": 107001,
       "OHIKLBIBPKO": 107,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_ReverbArena",
@@ -351,7 +351,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 108001,
+      "ID": 108001,
       "OHIKLBIBPKO": 108,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Concert01",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 108002,
+      "ID": 108002,
       "OHIKLBIBPKO": 108,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Concert02",
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 151001,
+      "ID": 151001,
       "OHIKLBIBPKO": 151,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Zero",
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 152001,
+      "ID": 152001,
       "OHIKLBIBPKO": 152,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Stage_SkyScraper_JaneOVA",
@@ -391,7 +391,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 153001,
+      "ID": 153001,
       "OHIKLBIBPKO": 153,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Subway_Street",
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 154001,
+      "ID": 154001,
       "OHIKLBIBPKO": 154,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_Subway",
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 155001,
+      "ID": 155001,
       "OHIKLBIBPKO": 155,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Maincity_HandOffice",
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 156001,
+      "ID": 156001,
       "OHIKLBIBPKO": 156,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Stage_VR_YanagiOVA_03",
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 157001,
+      "ID": 157001,
       "OHIKLBIBPKO": 157,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Stage_VR_YanagiOVA_04",
@@ -441,7 +441,7 @@
       ]
     },
     {
-      "OPFEAMDPIAG": 158001,
+      "ID": 158001,
       "OHIKLBIBPKO": 158,
       "LAPDFLAIEFA": true,
       "PKDHPMHIFBI": "Stage_2FMall",

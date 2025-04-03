@@ -1,34 +1,34 @@
 {
-  "GHFLHABGNDH": [
+  "__exp_FileCfg": [
     {
       "GFCLKDAOMBM": 50001,
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070001,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -37,30 +37,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 47,
-      "NKAPDFEBBKJ": 38,
+      "HP": 188,
+      "Attack": 47,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -69,30 +69,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 233,
-      "NKAPDFEBBKJ": 75,
+      "HP": 376,
+      "Attack": 233,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070002,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -101,30 +101,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 699,
-      "NKAPDFEBBKJ": 113,
+      "HP": 564,
+      "Attack": 699,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -133,30 +133,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1864,
-      "NKAPDFEBBKJ": 151,
+      "HP": 752,
+      "Attack": 1864,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070003,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -165,20 +165,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4661,
-      "NKAPDFEBBKJ": 188,
+      "HP": 940,
+      "Attack": 4661,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -188,30 +188,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070004,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -220,30 +220,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 47,
-      "NKAPDFEBBKJ": 38,
+      "HP": 188,
+      "Attack": 47,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -252,30 +252,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 233,
-      "NKAPDFEBBKJ": 75,
+      "HP": 376,
+      "Attack": 233,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070005,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -284,30 +284,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 699,
-      "NKAPDFEBBKJ": 113,
+      "HP": 564,
+      "Attack": 699,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -316,30 +316,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1864,
-      "NKAPDFEBBKJ": 151,
+      "HP": 752,
+      "Attack": 1864,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070006,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -348,20 +348,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4661,
-      "NKAPDFEBBKJ": 188,
+      "HP": 940,
+      "Attack": 4661,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -371,30 +371,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070007,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -403,30 +403,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 47,
-      "NKAPDFEBBKJ": 41,
+      "HP": 188,
+      "Attack": 47,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -435,30 +435,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 233,
-      "NKAPDFEBBKJ": 81,
+      "HP": 376,
+      "Attack": 233,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070008,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -467,30 +467,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 699,
-      "NKAPDFEBBKJ": 122,
+      "HP": 564,
+      "Attack": 699,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -499,30 +499,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1864,
-      "NKAPDFEBBKJ": 163,
+      "HP": 752,
+      "Attack": 1864,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070009,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -531,20 +531,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4661,
-      "NKAPDFEBBKJ": 203,
+      "HP": 940,
+      "Attack": 4661,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -554,21 +554,21 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070010,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -577,21 +577,21 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 228,
-      "PAPCKEHJENB": 46,
-      "NKAPDFEBBKJ": 35,
+      "HP": 228,
+      "Attack": 46,
+      "Defence": 35,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -600,21 +600,21 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 455,
-      "PAPCKEHJENB": 228,
-      "NKAPDFEBBKJ": 69,
+      "HP": 455,
+      "Attack": 228,
+      "Defence": 69,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070011,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -623,21 +623,21 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 683,
-      "PAPCKEHJENB": 685,
-      "NKAPDFEBBKJ": 104,
+      "HP": 683,
+      "Attack": 685,
+      "Defence": 104,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -646,21 +646,21 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 910,
-      "PAPCKEHJENB": 1827,
-      "NKAPDFEBBKJ": 139,
+      "HP": 910,
+      "Attack": 1827,
+      "Defence": 139,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070012,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -669,9 +669,9 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1138,
-      "PAPCKEHJENB": 4568,
-      "NKAPDFEBBKJ": 173,
+      "HP": 1138,
+      "Attack": 4568,
+      "Defence": 173,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
@@ -683,30 +683,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070013,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -715,30 +715,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 44,
-      "NKAPDFEBBKJ": 41,
+      "HP": 188,
+      "Attack": 44,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -747,30 +747,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 219,
-      "NKAPDFEBBKJ": 81,
+      "HP": 376,
+      "Attack": 219,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070014,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -779,30 +779,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 657,
-      "NKAPDFEBBKJ": 122,
+      "HP": 564,
+      "Attack": 657,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -811,30 +811,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1753,
-      "NKAPDFEBBKJ": 163,
+      "HP": 752,
+      "Attack": 1753,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070015,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -843,20 +843,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4381,
-      "NKAPDFEBBKJ": 203,
+      "HP": 940,
+      "Attack": 4381,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -866,30 +866,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070016,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -898,30 +898,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 228,
-      "PAPCKEHJENB": 44,
-      "NKAPDFEBBKJ": 41,
+      "HP": 228,
+      "Attack": 44,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -930,30 +930,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 455,
-      "PAPCKEHJENB": 219,
-      "NKAPDFEBBKJ": 81,
+      "HP": 455,
+      "Attack": 219,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070017,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -962,30 +962,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 683,
-      "PAPCKEHJENB": 657,
-      "NKAPDFEBBKJ": 122,
+      "HP": 683,
+      "Attack": 657,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -994,30 +994,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 910,
-      "PAPCKEHJENB": 1753,
-      "NKAPDFEBBKJ": 163,
+      "HP": 910,
+      "Attack": 1753,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070018,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -1026,20 +1026,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1138,
-      "PAPCKEHJENB": 4381,
-      "NKAPDFEBBKJ": 203,
+      "HP": 1138,
+      "Attack": 4381,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -1049,30 +1049,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070019,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -1081,30 +1081,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 49,
-      "NKAPDFEBBKJ": 41,
+      "HP": 188,
+      "Attack": 49,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -1113,30 +1113,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 247,
-      "NKAPDFEBBKJ": 81,
+      "HP": 376,
+      "Attack": 247,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070020,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -1145,30 +1145,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 741,
-      "NKAPDFEBBKJ": 122,
+      "HP": 564,
+      "Attack": 741,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -1177,30 +1177,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1976,
-      "NKAPDFEBBKJ": 163,
+      "HP": 752,
+      "Attack": 1976,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070021,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -1209,20 +1209,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4941,
-      "NKAPDFEBBKJ": 203,
+      "HP": 940,
+      "Attack": 4941,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -1232,30 +1232,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070022,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -1264,30 +1264,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 47,
-      "NKAPDFEBBKJ": 38,
+      "HP": 188,
+      "Attack": 47,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -1296,30 +1296,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 233,
-      "NKAPDFEBBKJ": 75,
+      "HP": 376,
+      "Attack": 233,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070023,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -1328,30 +1328,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 699,
-      "NKAPDFEBBKJ": 113,
+      "HP": 564,
+      "Attack": 699,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -1360,30 +1360,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1864,
-      "NKAPDFEBBKJ": 151,
+      "HP": 752,
+      "Attack": 1864,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070024,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -1392,20 +1392,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4661,
-      "NKAPDFEBBKJ": 188,
+      "HP": 940,
+      "Attack": 4661,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -1415,21 +1415,21 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070025,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -1438,21 +1438,21 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 228,
-      "PAPCKEHJENB": 44,
-      "NKAPDFEBBKJ": 41,
+      "HP": 228,
+      "Attack": 44,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -1461,21 +1461,21 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 455,
-      "PAPCKEHJENB": 219,
-      "NKAPDFEBBKJ": 81,
+      "HP": 455,
+      "Attack": 219,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070026,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -1484,21 +1484,21 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 683,
-      "PAPCKEHJENB": 657,
-      "NKAPDFEBBKJ": 122,
+      "HP": 683,
+      "Attack": 657,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -1507,21 +1507,21 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 910,
-      "PAPCKEHJENB": 1753,
-      "NKAPDFEBBKJ": 163,
+      "HP": 910,
+      "Attack": 1753,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070027,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -1530,9 +1530,9 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1138,
-      "PAPCKEHJENB": 4381,
-      "NKAPDFEBBKJ": 203,
+      "HP": 1138,
+      "Attack": 4381,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
@@ -1544,30 +1544,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070028,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -1576,30 +1576,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 49,
-      "NKAPDFEBBKJ": 41,
+      "HP": 188,
+      "Attack": 49,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -1608,30 +1608,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 247,
-      "NKAPDFEBBKJ": 81,
+      "HP": 376,
+      "Attack": 247,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070029,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -1640,30 +1640,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 741,
-      "NKAPDFEBBKJ": 122,
+      "HP": 564,
+      "Attack": 741,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -1672,30 +1672,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1976,
-      "NKAPDFEBBKJ": 163,
+      "HP": 752,
+      "Attack": 1976,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070030,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -1704,20 +1704,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4941,
-      "NKAPDFEBBKJ": 203,
+      "HP": 940,
+      "Attack": 4941,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -1727,30 +1727,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070031,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -1759,30 +1759,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 47,
-      "NKAPDFEBBKJ": 38,
+      "HP": 188,
+      "Attack": 47,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -1791,30 +1791,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 233,
-      "NKAPDFEBBKJ": 75,
+      "HP": 376,
+      "Attack": 233,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070032,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -1823,30 +1823,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 699,
-      "NKAPDFEBBKJ": 113,
+      "HP": 564,
+      "Attack": 699,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -1855,30 +1855,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1864,
-      "NKAPDFEBBKJ": 151,
+      "HP": 752,
+      "Attack": 1864,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070033,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -1887,20 +1887,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4661,
-      "NKAPDFEBBKJ": 188,
+      "HP": 940,
+      "Attack": 4661,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -1910,30 +1910,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070034,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -1942,30 +1942,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 49,
-      "NKAPDFEBBKJ": 41,
+      "HP": 188,
+      "Attack": 49,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -1974,30 +1974,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 247,
-      "NKAPDFEBBKJ": 81,
+      "HP": 376,
+      "Attack": 247,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070035,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -2006,30 +2006,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 741,
-      "NKAPDFEBBKJ": 122,
+      "HP": 564,
+      "Attack": 741,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -2038,30 +2038,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1976,
-      "NKAPDFEBBKJ": 163,
+      "HP": 752,
+      "Attack": 1976,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070036,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -2070,20 +2070,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4941,
-      "NKAPDFEBBKJ": 203,
+      "HP": 940,
+      "Attack": 4941,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -2093,21 +2093,21 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070037,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -2116,21 +2116,21 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 228,
-      "PAPCKEHJENB": 44,
-      "NKAPDFEBBKJ": 41,
+      "HP": 228,
+      "Attack": 44,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -2139,21 +2139,21 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 455,
-      "PAPCKEHJENB": 219,
-      "NKAPDFEBBKJ": 81,
+      "HP": 455,
+      "Attack": 219,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070038,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -2162,21 +2162,21 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 683,
-      "PAPCKEHJENB": 657,
-      "NKAPDFEBBKJ": 122,
+      "HP": 683,
+      "Attack": 657,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -2185,21 +2185,21 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 910,
-      "PAPCKEHJENB": 1753,
-      "NKAPDFEBBKJ": 163,
+      "HP": 910,
+      "Attack": 1753,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070039,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -2208,9 +2208,9 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1138,
-      "PAPCKEHJENB": 4381,
-      "NKAPDFEBBKJ": 203,
+      "HP": 1138,
+      "Attack": 4381,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
@@ -2222,30 +2222,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070040,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -2254,30 +2254,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 49,
-      "NKAPDFEBBKJ": 41,
+      "HP": 188,
+      "Attack": 49,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -2286,30 +2286,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 247,
-      "NKAPDFEBBKJ": 81,
+      "HP": 376,
+      "Attack": 247,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070041,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -2318,30 +2318,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 741,
-      "NKAPDFEBBKJ": 122,
+      "HP": 564,
+      "Attack": 741,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -2350,30 +2350,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1976,
-      "NKAPDFEBBKJ": 163,
+      "HP": 752,
+      "Attack": 1976,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070042,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -2382,20 +2382,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4941,
-      "NKAPDFEBBKJ": 203,
+      "HP": 940,
+      "Attack": 4941,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -2405,30 +2405,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070088,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -2437,30 +2437,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 49,
-      "NKAPDFEBBKJ": 41,
+      "HP": 188,
+      "Attack": 49,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -2469,30 +2469,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 247,
-      "NKAPDFEBBKJ": 81,
+      "HP": 376,
+      "Attack": 247,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070089,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -2501,30 +2501,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 741,
-      "NKAPDFEBBKJ": 122,
+      "HP": 564,
+      "Attack": 741,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -2533,30 +2533,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1976,
-      "NKAPDFEBBKJ": 163,
+      "HP": 752,
+      "Attack": 1976,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070090,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -2565,20 +2565,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4941,
-      "NKAPDFEBBKJ": 203,
+      "HP": 940,
+      "Attack": 4941,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -2588,30 +2588,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070091,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -2620,30 +2620,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 228,
-      "PAPCKEHJENB": 44,
-      "NKAPDFEBBKJ": 41,
+      "HP": 228,
+      "Attack": 44,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -2652,30 +2652,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 455,
-      "PAPCKEHJENB": 219,
-      "NKAPDFEBBKJ": 81,
+      "HP": 455,
+      "Attack": 219,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070092,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -2684,30 +2684,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 683,
-      "PAPCKEHJENB": 657,
-      "NKAPDFEBBKJ": 122,
+      "HP": 683,
+      "Attack": 657,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -2716,30 +2716,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 910,
-      "PAPCKEHJENB": 1753,
-      "NKAPDFEBBKJ": 163,
+      "HP": 910,
+      "Attack": 1753,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070093,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -2748,20 +2748,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1138,
-      "PAPCKEHJENB": 4381,
-      "NKAPDFEBBKJ": 203,
+      "HP": 1138,
+      "Attack": 4381,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -2771,30 +2771,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070046,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -2803,30 +2803,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 61,
-      "NKAPDFEBBKJ": 38,
+      "HP": 207,
+      "Attack": 61,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -2835,30 +2835,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 303,
-      "NKAPDFEBBKJ": 75,
+      "HP": 414,
+      "Attack": 303,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070047,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -2867,30 +2867,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 909,
-      "NKAPDFEBBKJ": 113,
+      "HP": 621,
+      "Attack": 909,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -2899,30 +2899,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2424,
-      "NKAPDFEBBKJ": 151,
+      "HP": 828,
+      "Attack": 2424,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070048,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -2931,20 +2931,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6059,
-      "NKAPDFEBBKJ": 188,
+      "HP": 1034,
+      "Attack": 6059,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -2954,30 +2954,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070049,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -2986,30 +2986,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 67,
-      "NKAPDFEBBKJ": 35,
+      "HP": 207,
+      "Attack": 67,
+      "Defence": 35,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -3018,30 +3018,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 333,
-      "NKAPDFEBBKJ": 69,
+      "HP": 414,
+      "Attack": 333,
+      "Defence": 69,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070050,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -3050,30 +3050,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 1000,
-      "NKAPDFEBBKJ": 104,
+      "HP": 621,
+      "Attack": 1000,
+      "Defence": 104,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -3082,30 +3082,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2666,
-      "NKAPDFEBBKJ": 139,
+      "HP": 828,
+      "Attack": 2666,
+      "Defence": 139,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070051,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -3114,20 +3114,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6665,
-      "NKAPDFEBBKJ": 173,
+      "HP": 1034,
+      "Attack": 6665,
+      "Defence": 173,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -3137,30 +3137,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070052,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -3169,30 +3169,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 49,
-      "NKAPDFEBBKJ": 38,
+      "HP": 188,
+      "Attack": 49,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -3201,30 +3201,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 247,
-      "NKAPDFEBBKJ": 75,
+      "HP": 376,
+      "Attack": 247,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070053,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -3233,30 +3233,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 741,
-      "NKAPDFEBBKJ": 113,
+      "HP": 564,
+      "Attack": 741,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -3265,30 +3265,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1976,
-      "NKAPDFEBBKJ": 151,
+      "HP": 752,
+      "Attack": 1976,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070054,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -3297,20 +3297,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4941,
-      "NKAPDFEBBKJ": 188,
+      "HP": 940,
+      "Attack": 4941,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -3320,30 +3320,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070055,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -3352,30 +3352,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 250,
-      "PAPCKEHJENB": 59,
-      "NKAPDFEBBKJ": 35,
+      "HP": 250,
+      "Attack": 59,
+      "Defence": 35,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -3384,30 +3384,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 501,
-      "PAPCKEHJENB": 297,
-      "NKAPDFEBBKJ": 69,
+      "HP": 501,
+      "Attack": 297,
+      "Defence": 69,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070056,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -3416,30 +3416,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 751,
-      "PAPCKEHJENB": 891,
-      "NKAPDFEBBKJ": 104,
+      "HP": 751,
+      "Attack": 891,
+      "Defence": 104,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -3448,30 +3448,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 1001,
-      "PAPCKEHJENB": 2375,
-      "NKAPDFEBBKJ": 139,
+      "HP": 1001,
+      "Attack": 2375,
+      "Defence": 139,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070057,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -3480,20 +3480,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1252,
-      "PAPCKEHJENB": 5938,
-      "NKAPDFEBBKJ": 173,
+      "HP": 1252,
+      "Attack": 5938,
+      "Defence": 173,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -3503,30 +3503,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070058,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -3535,30 +3535,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 67,
-      "NKAPDFEBBKJ": 35,
+      "HP": 207,
+      "Attack": 67,
+      "Defence": 35,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -3567,30 +3567,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 333,
-      "NKAPDFEBBKJ": 69,
+      "HP": 414,
+      "Attack": 333,
+      "Defence": 69,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070059,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -3599,30 +3599,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 1000,
-      "NKAPDFEBBKJ": 104,
+      "HP": 621,
+      "Attack": 1000,
+      "Defence": 104,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -3631,30 +3631,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2666,
-      "NKAPDFEBBKJ": 139,
+      "HP": 828,
+      "Attack": 2666,
+      "Defence": 139,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070060,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -3663,20 +3663,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6665,
-      "NKAPDFEBBKJ": 173,
+      "HP": 1034,
+      "Attack": 6665,
+      "Defence": 173,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -3686,30 +3686,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070061,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -3718,30 +3718,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 64,
-      "NKAPDFEBBKJ": 38,
+      "HP": 207,
+      "Attack": 64,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -3750,30 +3750,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 321,
-      "NKAPDFEBBKJ": 75,
+      "HP": 414,
+      "Attack": 321,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070062,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -3782,30 +3782,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 963,
-      "NKAPDFEBBKJ": 113,
+      "HP": 621,
+      "Attack": 963,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -3814,30 +3814,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2569,
-      "NKAPDFEBBKJ": 151,
+      "HP": 828,
+      "Attack": 2569,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070063,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -3846,20 +3846,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6423,
-      "NKAPDFEBBKJ": 188,
+      "HP": 1034,
+      "Attack": 6423,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -3869,30 +3869,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070067,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -3901,30 +3901,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 61,
-      "NKAPDFEBBKJ": 38,
+      "HP": 207,
+      "Attack": 61,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -3933,30 +3933,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 303,
-      "NKAPDFEBBKJ": 75,
+      "HP": 414,
+      "Attack": 303,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070068,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -3965,30 +3965,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 909,
-      "NKAPDFEBBKJ": 113,
+      "HP": 621,
+      "Attack": 909,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -3997,30 +3997,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2424,
-      "NKAPDFEBBKJ": 151,
+      "HP": 828,
+      "Attack": 2424,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070069,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -4029,20 +4029,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6059,
-      "NKAPDFEBBKJ": 188,
+      "HP": 1034,
+      "Attack": 6059,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -4052,30 +4052,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070070,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -4084,30 +4084,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 61,
-      "NKAPDFEBBKJ": 38,
+      "HP": 207,
+      "Attack": 61,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -4116,30 +4116,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 303,
-      "NKAPDFEBBKJ": 75,
+      "HP": 414,
+      "Attack": 303,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070071,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -4148,30 +4148,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 909,
-      "NKAPDFEBBKJ": 113,
+      "HP": 621,
+      "Attack": 909,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -4180,30 +4180,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2424,
-      "NKAPDFEBBKJ": 151,
+      "HP": 828,
+      "Attack": 2424,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070072,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -4212,20 +4212,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6059,
-      "NKAPDFEBBKJ": 188,
+      "HP": 1034,
+      "Attack": 6059,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -4235,30 +4235,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070076,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -4267,30 +4267,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 67,
-      "NKAPDFEBBKJ": 35,
+      "HP": 207,
+      "Attack": 67,
+      "Defence": 35,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -4299,30 +4299,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 333,
-      "NKAPDFEBBKJ": 69,
+      "HP": 414,
+      "Attack": 333,
+      "Defence": 69,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070077,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -4331,30 +4331,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 1000,
-      "NKAPDFEBBKJ": 104,
+      "HP": 621,
+      "Attack": 1000,
+      "Defence": 104,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -4363,30 +4363,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2666,
-      "NKAPDFEBBKJ": 139,
+      "HP": 828,
+      "Attack": 2666,
+      "Defence": 139,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070078,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -4395,20 +4395,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6665,
-      "NKAPDFEBBKJ": 173,
+      "HP": 1034,
+      "Attack": 6665,
+      "Defence": 173,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -4418,30 +4418,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070079,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -4450,30 +4450,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 67,
-      "NKAPDFEBBKJ": 35,
+      "HP": 207,
+      "Attack": 67,
+      "Defence": 35,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -4482,30 +4482,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 333,
-      "NKAPDFEBBKJ": 69,
+      "HP": 414,
+      "Attack": 333,
+      "Defence": 69,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070080,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -4514,30 +4514,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 1000,
-      "NKAPDFEBBKJ": 104,
+      "HP": 621,
+      "Attack": 1000,
+      "Defence": 104,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -4546,30 +4546,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2666,
-      "NKAPDFEBBKJ": 139,
+      "HP": 828,
+      "Attack": 2666,
+      "Defence": 139,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070081,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -4578,20 +4578,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6665,
-      "NKAPDFEBBKJ": 173,
+      "HP": 1034,
+      "Attack": 6665,
+      "Defence": 173,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -4601,30 +4601,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070082,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -4633,30 +4633,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 61,
-      "NKAPDFEBBKJ": 41,
+      "HP": 207,
+      "Attack": 61,
+      "Defence": 41,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -4665,30 +4665,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 303,
-      "NKAPDFEBBKJ": 81,
+      "HP": 414,
+      "Attack": 303,
+      "Defence": 81,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070083,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -4697,30 +4697,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 909,
-      "NKAPDFEBBKJ": 122,
+      "HP": 621,
+      "Attack": 909,
+      "Defence": 122,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -4729,30 +4729,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2424,
-      "NKAPDFEBBKJ": 163,
+      "HP": 828,
+      "Attack": 2424,
+      "Defence": 163,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070084,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -4761,20 +4761,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6059,
-      "NKAPDFEBBKJ": 203,
+      "HP": 1034,
+      "Attack": 6059,
+      "Defence": 203,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -4784,30 +4784,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070085,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -4816,30 +4816,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 207,
-      "PAPCKEHJENB": 63,
-      "NKAPDFEBBKJ": 35,
+      "HP": 207,
+      "Attack": 63,
+      "Defence": 35,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -4848,30 +4848,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 414,
-      "PAPCKEHJENB": 315,
-      "NKAPDFEBBKJ": 69,
+      "HP": 414,
+      "Attack": 315,
+      "Defence": 69,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070086,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -4880,30 +4880,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 621,
-      "PAPCKEHJENB": 945,
-      "NKAPDFEBBKJ": 104,
+      "HP": 621,
+      "Attack": 945,
+      "Defence": 104,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -4912,30 +4912,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 828,
-      "PAPCKEHJENB": 2521,
-      "NKAPDFEBBKJ": 139,
+      "HP": 828,
+      "Attack": 2521,
+      "Defence": 139,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070087,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -4944,20 +4944,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1034,
-      "PAPCKEHJENB": 6302,
-      "NKAPDFEBBKJ": 173,
+      "HP": 1034,
+      "Attack": 6302,
+      "Defence": 173,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -4967,30 +4967,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 101070094,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -4999,30 +4999,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 250,
-      "PAPCKEHJENB": 59,
-      "NKAPDFEBBKJ": 35,
+      "HP": 250,
+      "Attack": 59,
+      "Defence": 35,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -5031,30 +5031,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 501,
-      "PAPCKEHJENB": 297,
-      "NKAPDFEBBKJ": 69,
+      "HP": 501,
+      "Attack": 297,
+      "Defence": 69,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 101070095,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -5063,30 +5063,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 751,
-      "PAPCKEHJENB": 891,
-      "NKAPDFEBBKJ": 104,
+      "HP": 751,
+      "Attack": 891,
+      "Defence": 104,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -5095,30 +5095,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 1001,
-      "PAPCKEHJENB": 2375,
-      "NKAPDFEBBKJ": 139,
+      "HP": 1001,
+      "Attack": 2375,
+      "Defence": 139,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 101070096,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -5127,20 +5127,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 1252,
-      "PAPCKEHJENB": 5938,
-      "NKAPDFEBBKJ": 173,
+      "HP": 1252,
+      "Attack": 5938,
+      "Defence": 173,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -5150,30 +5150,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -5182,30 +5182,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 47,
-      "NKAPDFEBBKJ": 38,
+      "HP": 188,
+      "Attack": 47,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -5214,30 +5214,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 233,
-      "NKAPDFEBBKJ": 75,
+      "HP": 376,
+      "Attack": 233,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -5246,30 +5246,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 699,
-      "NKAPDFEBBKJ": 113,
+      "HP": 564,
+      "Attack": 699,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -5278,30 +5278,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1864,
-      "NKAPDFEBBKJ": 151,
+      "HP": 752,
+      "Attack": 1864,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -5310,20 +5310,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4661,
-      "NKAPDFEBBKJ": 188,
+      "HP": 940,
+      "Attack": 4661,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -5333,30 +5333,30 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 0,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 20101,
+          "Number": 0
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 15000
+          "ItemID": 10,
+          "Number": 15000
         },
         {
-          "NMHNBHDEKBP": 102010,
-          "DACOIHOFHDN": 4
+          "ItemID": 102010,
+          "Number": 4
         }
       ]
     },
@@ -5365,30 +5365,30 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 188,
-      "PAPCKEHJENB": 47,
-      "NKAPDFEBBKJ": 38,
+      "HP": 188,
+      "Attack": 47,
+      "Defence": 38,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 450
+          "__exp_PropertyID": 20101,
+          "Number": 450
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 35000
+          "ItemID": 10,
+          "Number": 35000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 12
+          "ItemID": 102020,
+          "Number": 12
         }
       ]
     },
@@ -5397,30 +5397,30 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 376,
-      "PAPCKEHJENB": 233,
-      "NKAPDFEBBKJ": 75,
+      "HP": 376,
+      "Attack": 233,
+      "Defence": 75,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 0
+          "__exp_PropertyID": 21101,
+          "Number": 0
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 75000
+          "ItemID": 10,
+          "Number": 75000
         },
         {
-          "NMHNBHDEKBP": 102020,
-          "DACOIHOFHDN": 20
+          "ItemID": 102020,
+          "Number": 20
         }
       ]
     },
@@ -5429,30 +5429,30 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 564,
-      "PAPCKEHJENB": 699,
-      "NKAPDFEBBKJ": 113,
+      "HP": 564,
+      "Attack": 699,
+      "Defence": 113,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 2250
+          "__exp_PropertyID": 20101,
+          "Number": 2250
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 125000
+          "ItemID": 10,
+          "Number": 125000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 10
+          "ItemID": 102030,
+          "Number": 10
         }
       ]
     },
@@ -5461,30 +5461,30 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 752,
-      "PAPCKEHJENB": 1864,
-      "NKAPDFEBBKJ": 151,
+      "HP": 752,
+      "Attack": 1864,
+      "Defence": 151,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 2500
+          "__exp_PropertyID": 21101,
+          "Number": 2500
         }
       ],
       "BNHLCNCFJNH": [
         {
-          "NMHNBHDEKBP": 10,
-          "DACOIHOFHDN": 250000
+          "ItemID": 10,
+          "Number": 250000
         },
         {
-          "NMHNBHDEKBP": 102030,
-          "DACOIHOFHDN": 20
+          "ItemID": 102030,
+          "Number": 20
         }
       ]
     },
@@ -5493,20 +5493,20 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 940,
-      "PAPCKEHJENB": 4661,
-      "NKAPDFEBBKJ": 188,
+      "HP": 940,
+      "Attack": 4661,
+      "Defence": 188,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
       "KHJICBIHJKE": [
         {
-          "HHALEGBBNFO": 20101,
-          "DACOIHOFHDN": 4500
+          "__exp_PropertyID": 20101,
+          "Number": 4500
         },
         {
-          "HHALEGBBNFO": 21101,
-          "DACOIHOFHDN": 5000
+          "__exp_PropertyID": 21101,
+          "Number": 5000
         }
       ],
       "BNHLCNCFJNH": []
@@ -5516,9 +5516,9 @@
       "IHIEIMELEEH": 1,
       "LFJHEOGIAEH": 0,
       "PHEKIFGIPAG": 10,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 0,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 0,
@@ -5530,9 +5530,9 @@
       "IHIEIMELEEH": 2,
       "LFJHEOGIAEH": 10,
       "PHEKIFGIPAG": 20,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 1,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
@@ -5544,9 +5544,9 @@
       "IHIEIMELEEH": 3,
       "LFJHEOGIAEH": 20,
       "PHEKIFGIPAG": 30,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 2,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
@@ -5558,9 +5558,9 @@
       "IHIEIMELEEH": 4,
       "LFJHEOGIAEH": 30,
       "PHEKIFGIPAG": 40,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 3,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
@@ -5572,9 +5572,9 @@
       "IHIEIMELEEH": 5,
       "LFJHEOGIAEH": 40,
       "PHEKIFGIPAG": 50,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 4,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
@@ -5586,9 +5586,9 @@
       "IHIEIMELEEH": 6,
       "LFJHEOGIAEH": 50,
       "PHEKIFGIPAG": 60,
-      "EFCFBIFDBJF": 0,
-      "PAPCKEHJENB": 0,
-      "NKAPDFEBBKJ": 0,
+      "HP": 0,
+      "Attack": 0,
+      "Defence": 0,
       "JCBBNAMGFNC": 5,
       "FAAKMFLPLME": 0,
       "BGIIFCJGEPH": 1,
